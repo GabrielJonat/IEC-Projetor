@@ -29,7 +29,7 @@
             margin: 10px 0 5px;
             font-weight: bold;
         }
-        input[type="text"] {
+        select, input[type="text"] {
             width: calc(100% - 22px);
             padding: 10px;
             border: 1px solid #ddd;
@@ -45,7 +45,6 @@
             font-size: 16px;
             cursor: pointer;
             transition: background-color 0.3s ease;
-            margin-top: 1em;
         }
         button:hover {
             background-color: #2980b9;
@@ -59,29 +58,74 @@
             font-size: 18px;
             text-align: left;
         }
+        /* Modal Styles */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+            padding-top: 60px;
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%; /* Could be more or less, depending on screen size */
+            max-height: 80vh; /* Limit height */
+            overflow-y: auto; /* Add scroll if content exceeds max-height */
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
-    <h1>Biblia</h1>
+    <h1>Bible Verse Loader</h1>
     <form id="verseForm">
-        <label for="book">Livro:</label>
+        <label for="book">Book:</label>
         <select id="book" name="book" required>
             <!-- Options will be populated by JavaScript -->
         </select>
         <br>
-        <label for="chapter">Capítulo:</label>
-        <input type="text" id="chapter" name="chapter" required>
+        <label for="chapter">Chapter:</label>
+        <input type="text" id="chapter" name="chapter" placeholder="Enter chapter number" required>
         <br>
-        <label for="verse">Verso:</label>
-        <input type="text" id="verse" name="verse" required>
+        <label for="startVerse">Start Verse:</label>
+        <input type="text" id="startVerse" name="startVerse" placeholder="Enter start verse number" required>
         <br>
-        <button type="submit">Pesquisar</button>
+        <label for="endVerse">End Verse:</label>
+        <input type="text" id="endVerse" name="endVerse" placeholder="Enter end verse number" required>
+        <br>
+        <button type="submit">Load Verses</button>
     </form>
-    <div id="container"></div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="container"></div>
+        </div>
+    </div>
 
     <script>
-       // Array with all 66 books of the Bible
-       const books = [
+        // Array with all 66 books of the Bible
+        const books = [
             'Gênesis', 'Êxodo', 'Levítico', 'Números', 'Deuteronômio',
             'Josué', 'Juízes', 'Rute', '1 Samuel', '2 Samuel',
             '1 Reis', '2 Reis', '1 Crônicas', '2 Crônicas', 'Esdras',
@@ -107,13 +151,20 @@
             bookSelect.appendChild(option);
         });
 
+        // Get the modal
+        const modal = document.getElementById("myModal");
+
+        // Get the <span> element that closes the modal
+        const span = document.getElementsByClassName("close")[0];
+
         document.getElementById('verseForm').addEventListener('submit', async function(event) {
             event.preventDefault(); // Prevent form from submitting the traditional way
 
-            // Get the values from the form inputs
-            const book = document.getElementById('book').value.trim();
+             // Get the values from the form inputs
+             const book = document.getElementById('book').value.trim();
             const chapter = document.getElementById('chapter').value.trim();
-            const verse = document.getElementById('verse').value.trim();
+            const startVerse = parseInt(document.getElementById('startVerse').value.trim(), 10);
+            const endVerse = parseInt(document.getElementById('endVerse').value.trim(), 10);
 
             // Fetch the JSON data
             try {
@@ -126,16 +177,28 @@
                 // Normalize book name (e.g., "Genesis" to "Gênesis")
                 const normalizedBook = normalizeBookName(book);
 
-                // Access and display the specific verse
+                // Access and display the range of verses
                 const verseField = document.getElementById('container');
-                if (bibleData.books[normalizedBook] && bibleData.books[normalizedBook][chapter] && bibleData.books[normalizedBook][chapter][verse]) {
-                    verseField.innerHTML = `<strong>${normalizedBook} ${chapter}:${verse}</strong><br>${bibleData.books[normalizedBook][chapter][verse]}`;
+                let versesHtml = `<h2>${normalizedBook} ${chapter}</h2>`;
+                if (bibleData.books[normalizedBook] && bibleData.books[normalizedBook][chapter]) {
+                    for (let i = startVerse; i <= endVerse; i++) {
+                        const verseText = bibleData.books[normalizedBook][chapter][i];
+                        if (verseText) {
+                            versesHtml += `<p><strong>${chapter}:${i}</strong><br>${verseText}</p>`;
+                        } else {
+                            versesHtml += `<p><strong>${chapter}:${i}</strong><br>Verse not found.</p>`;
+                        }
+                    }
                 } else {
-                    verseField.innerHTML = 'Verse not found.';
+                    versesHtml = 'Chapter not found.';
                 }
+                verseField.innerHTML = versesHtml;
+
+                // Show the modal
+                modal.style.display = "block";
             } catch (error) {
-                console.error('Error loading the verse:', error);
-                document.getElementById('container').innerHTML = 'Error loading verse.';
+                console.error('Error loading the verses:', error);
+                document.getElementById('container').innerHTML = 'Error loading verses.';
             }
         });
 
@@ -148,6 +211,18 @@
                 // Add more book names as needed
             };
             return bookNames[book] || book; // Return the normalized name or the original name
+        }
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
         }
     </script>
 </body>
