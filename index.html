@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bible Verse Loader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        form {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-top: 1em;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        #container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-top: 20px;
+            font-size: 18px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Biblia</h1>
+    <form id="verseForm">
+        <label for="book">Livro:</label>
+        <select id="book" name="book" required>
+            <!-- Options will be populated by JavaScript -->
+        </select>
+        <br>
+        <label for="chapter">Capítulo:</label>
+        <input type="text" id="chapter" name="chapter" required>
+        <br>
+        <label for="verse">Verso:</label>
+        <input type="text" id="verse" name="verse" required>
+        <br>
+        <button type="submit">Pesquisar</button>
+    </form>
+    <div id="container"></div>
+
+    <script>
+       // Array with all 66 books of the Bible
+       const books = [
+            'Gênesis', 'Êxodo', 'Levítico', 'Números', 'Deuteronômio',
+            'Josué', 'Juízes', 'Rute', '1 Samuel', '2 Samuel',
+            '1 Reis', '2 Reis', '1 Crônicas', '2 Crônicas', 'Esdras',
+            'Neemias', 'Ester', 'Jó', 'Salmos', 'Provérbios',
+            'Eclesiastes', 'Cântico', 'Isaías', 'Jeremias', 'Lamentações',
+            'Ezequiel', 'Daniel', 'Oseias', 'Joel', 'Amós',
+            'Obadias', 'Jonas', 'Miqueias', 'Naum', 'Habacuque',
+            'Sofonias', 'Ageu', 'Zacarias', 'Malaquias',
+            'Matheus', 'Marcos', 'Lucas', 'João', 'Atos',
+            'Romanos', '1 Coríntios', '2 Coríntios', 'Gálatas', 'Efésios',
+            'Filipenses', 'Colossenses', '1 Tessalonicenses', '2 Tessalonicenses', '1 Timóteo',
+            '2 Timóteo', 'Tito', 'Filemom', 'Hebreus', 'Tiago',
+            '1 Pedro', '2 Pedro', '1 Joãon', '2 João', '3 João',
+            'Judas', 'Apocalipse'
+        ];
+
+        // Populate the book dropdown
+        const bookSelect = document.getElementById('book');
+        books.forEach(book => {
+            const option = document.createElement('option');
+            option.value = book;
+            option.textContent = book;
+            bookSelect.appendChild(option);
+        });
+
+        document.getElementById('verseForm').addEventListener('submit', async function(event) {
+            event.preventDefault(); // Prevent form from submitting the traditional way
+
+            // Get the values from the form inputs
+            const book = document.getElementById('book').value.trim();
+            const chapter = document.getElementById('chapter').value.trim();
+            const verse = document.getElementById('verse').value.trim();
+
+            // Fetch the JSON data
+            try {
+                const response = await fetch('./bible_ara.json');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const bibleData = await response.json();
+
+                // Normalize book name (e.g., "Genesis" to "Gênesis")
+                const normalizedBook = normalizeBookName(book);
+
+                // Access and display the specific verse
+                const verseField = document.getElementById('container');
+                if (bibleData.books[normalizedBook] && bibleData.books[normalizedBook][chapter] && bibleData.books[normalizedBook][chapter][verse]) {
+                    verseField.innerHTML = `<strong>${normalizedBook} ${chapter}:${verse}</strong><br>${bibleData.books[normalizedBook][chapter][verse]}`;
+                } else {
+                    verseField.innerHTML = 'Verse not found.';
+                }
+            } catch (error) {
+                console.error('Error loading the verse:', error);
+                document.getElementById('container').innerHTML = 'Error loading verse.';
+            }
+        });
+
+        // Function to normalize book names (can be expanded as needed)
+        function normalizeBookName(book) {
+            const bookNames = {
+                'Genesis': 'Gênesis',
+                'Exodus': 'Êxodo',
+                'Leviticus': 'Levítico',
+                // Add more book names as needed
+            };
+            return bookNames[book] || book; // Return the normalized name or the original name
+        }
+    </script>
+</body>
+</html>
