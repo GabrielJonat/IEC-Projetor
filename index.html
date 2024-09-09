@@ -10,7 +10,6 @@
             background-color: #f4f4f4;
             color: #333;
             margin: 0;
-            padding: 20px;
             text-align: center;
             background-image: url('./img/bg.jpg');
         }
@@ -105,6 +104,17 @@
             background: linear-gradient(180deg, #171a4a, #2f2c79, #675cb0, #9f90ea);
            
         }
+        footer {
+    position: relative;
+    bottom: 0;
+    font-size: large;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    background-color: gray;
+    margin-top: 2em;
+}
     </style>
 </head>
 <body>
@@ -116,17 +126,16 @@
         </select>
         <br>
         <label for="chapter">Capítulo:</label>
-        <input type="text" id="chapter" name="chapter" placeholder="Enter chapter number" required>
+        <input type="text" id="chapter" name="chapter" placeholder="Digíte o número do capítulo" required>
         <br>
         <label for="startVerse">Verso Inicial:</label>
-        <input type="text" id="startVerse" name="startVerse" placeholder="Enter start verse number" required>
+        <input type="text" id="startVerse" name="startVerse" placeholder="Verso Inicial" required>
         <br>
         <label for="endVerse">Verso Final:</label>
-        <input type="text" id="endVerse" name="endVerse" placeholder="Enter end verse number" required>
+        <input type="text" id="endVerse" name="endVerse" placeholder="Verso Final" required>
         <br>
         <button type="submit">Pesquisar</button>
     </form>
-
     <!-- The Modal -->
     <div id="myModal" class="modal">
         <div class="modal-content">
@@ -134,7 +143,11 @@
             <div id="container"></div>
         </div>
     </div>
+    <footer>   
+        <p>&copy; 2023 Igreja do Evangelho da Cruz. Todos os direitos reservados</p>
+    </footer>
 
+</body>
     <script>
         // Array with all 66 books of the Bible
         const books = [
