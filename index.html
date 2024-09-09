@@ -12,42 +12,44 @@
             margin: 0;
             padding: 20px;
             text-align: center;
-        }
-        h1 {
-            color: #2c3e50;
+            background-image: url('./img/bg.jpg');
         }
         form {
-            background-color: #ffffff;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 2.3px #fff;
             display: inline-block;
             padding: 20px;
             margin-bottom: 20px;
+            width: 300px;
         }
         label {
             display: block;
             margin: 10px 0 5px;
             font-weight: bold;
+            color: #e8e8f0;
+            margin-bottom: 0.5em;
         }
         select, input[type="text"] {
             width: calc(100% - 22px);
             padding: 10px;
-            border: 1px solid #ddd;
+            border: 1px solid #2f2c79;
             border-radius: 4px;
             font-size: 16px;
         }
         button {
-            background-color: #3498db;
-            color: #fff;
-            border: none;
+            background-color: #2980b9;
+            color: rgba(238, 255, 0, 0.911);
+            border: #675cb0 0.1em solid;
             padding: 10px 20px;
             border-radius: 4px;
             font-size: 16px;
+            font-weight: bold;
             cursor: pointer;
             transition: background-color 0.3s ease;
+            margin-top: 3em;
         }
         button:hover {
-            background-color: #2980b9;
+            background-color: darkblue;
         }
         #container {
             background-color: #ffffff;
@@ -93,26 +95,36 @@
             text-decoration: none;
             cursor: pointer;
         }
+        .gradient-text {
+            font-weight: bold;
+            background: linear-gradient(180deg, #ffff00, yellow,  rgba(238, 255, 0, 0.911));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .gradient-bg {
+            background: linear-gradient(180deg, #171a4a, #2f2c79, #675cb0, #9f90ea);
+           
+        }
     </style>
 </head>
 <body>
-    <h1>Bible Verse Loader</h1>
-    <form id="verseForm">
-        <label for="book">Book:</label>
+    <h1 class="gradient-text">Bíblia ARA</h1>
+    <form id="verseForm" class="gradient-bg">
+        <label for="book">Livro:</label>
         <select id="book" name="book" required>
             <!-- Options will be populated by JavaScript -->
         </select>
         <br>
-        <label for="chapter">Chapter:</label>
+        <label for="chapter">Capítulo:</label>
         <input type="text" id="chapter" name="chapter" placeholder="Enter chapter number" required>
         <br>
-        <label for="startVerse">Start Verse:</label>
+        <label for="startVerse">Verso Inicial:</label>
         <input type="text" id="startVerse" name="startVerse" placeholder="Enter start verse number" required>
         <br>
-        <label for="endVerse">End Verse:</label>
+        <label for="endVerse">Verso Final:</label>
         <input type="text" id="endVerse" name="endVerse" placeholder="Enter end verse number" required>
         <br>
-        <button type="submit">Load Verses</button>
+        <button type="submit">Pesquisar</button>
     </form>
 
     <!-- The Modal -->
