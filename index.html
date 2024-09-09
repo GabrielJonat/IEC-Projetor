@@ -14,13 +14,13 @@
             background-image: url('./img/bg.jpg');
             background-size: cover;
             background-position: center;
-            overflow: hidden; /* Initially hide scrollbars */
         }
         .container {
             display: flex;
             justify-content: center;
             align-items: flex-start;
             padding: 20px;
+            
         }
         #modalContainer {
             background-color: #ffffff;
@@ -30,6 +30,7 @@
             margin-top: 20px;
             font-size: 18px;
             text-align: left;
+            
         }
         form {
             border-radius: 8px;
@@ -79,6 +80,9 @@
             width: 300px;
             max-height: 600px;
             overflow-y: auto;
+            position: relative;
+            max-height: 300px;
+            overflow-y: auto;
         }
         .history-card h2 {
             margin-top: 0;
@@ -105,19 +109,20 @@
             top: 0;
             width: 100%; /* Full width */
             height: 100%; /* Full height */
-            background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
             overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
             padding-bottom: 100px;
+            overflow: hidden;
         }
         .modal-content {
             background: linear-gradient(180deg, #171a4a, #2f2c79, #675cb0, #9f90ea);
-            margin: 5% auto; /* Centered horizontally */
+            margin: 5% auto; /* 15% from the top and centered */
             padding: 20px;
             border: 1px solid #888;
             width: 80%; /* Could be more or less, depending on screen size */
             max-height: 80vh; /* Limit height */
             overflow-y: auto; /* Add scroll if content exceeds max-height */
-            box-sizing: border-box;
         }
         .close {
             color: #aaa;
@@ -151,10 +156,6 @@
             background-color: gray;
             margin-top: 2em;
             height: 300px;
-        }
-        /* Body overflow hidden when modal is open */
-        body.modal-open {
-            overflow: hidden;
         }
     </style>
 </head>
@@ -223,40 +224,140 @@
             bookSelect.appendChild(option);
         });
 
-        // Modal control
-        const modal = document.getElementById('myModal');
-        const span = document.getElementsByClassName('close')[0];
-        const body = document.body;
+        // Obter o modal
+        const modal = document.getElementById("myModal");
+        const span = document.getElementsByClassName("close")[0];
 
-        function openModal() {
-            modal.style.display = 'block';
-            body.classList.add('modal-open');
+        document.getElementById('verseForm').addEventListener('submit', async function(event) {
+            event.preventDefault(); // Impede o envio do formulário da maneira tradicional
+
+            // Obter os valores dos campos do formulário
+            const book = document.getElementById('book').value.trim();
+            const chapter = document.getElementById('chapter').value.trim();
+            const startVerse = parseInt(document.getElementById('startVerse').value.trim(), 10);
+            const endVerse = parseInt(document.getElementById('endVerse').value.trim(), 10);
+
+            // Buscar os dados em JSON
+            try {
+                const response = await fetch('./bible_ara.json');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const bibleData = await response.json();
+
+                // Normalizar o nome do livro
+                const normalizedBook = normalizeBookName(book);
+
+                // Acessar e exibir o intervalo de versos
+                const verseField = document.getElementById('modalContainer');
+                let versesHtml = `<h2>${normalizedBook} ${chapter}</h2>`;
+                if (bibleData.books[normalizedBook] && bibleData.books[normalizedBook][chapter]) {
+                    for (let i = startVerse; i <= endVerse; i++) {
+                        const verseText = bibleData.books[normalizedBook][chapter][i];
+                        if (verseText) {
+                            versesHtml += `<p><strong>${chapter}:${i}</strong><br>${verseText}</p>`;
+                        } else {
+                            versesHtml += `<p><strong>${chapter}:${i}</strong><br>Verso não encontrado.</p>`;
+                        }
+                    }
+                } else {
+                    versesHtml = 'Capítulo não encontrado.';
+                }
+                verseField.innerHTML = versesHtml;
+
+                // Mostrar o modal
+                modal.style.display = "block";
+            } catch (error) {
+                console.error('Erro ao carregar os versos:', error);
+                document.getElementById('modalContainer').innerHTML = 'Erro ao carregar os versos.';
+            }
+        });
+
+        // Função para normalizar os nomes dos livros
+        function normalizeBookName(book) {
+            const bookNames = {
+                'Genesis': 'Gênesis',
+                'Exodus': 'Êxodo',
+                'Leviticus': 'Levítico',
+                // Adicione mais nomes de livros conforme necessário
+            };
+            return bookNames[book] || book;
         }
 
-        function closeModal() {
-            modal.style.display = 'none';
-            body.classList.remove('modal-open');
+        // Quando o usuário clica em <span> (x), fecha o modal
+        span.onclick = function() {
+            modal.style.display = "none";
         }
 
-        span.onclick = closeModal;
+        // Quando o usuário clica fora do modal, fecha-o
         window.onclick = function(event) {
-            if (event.target === modal) {
-                closeModal();
+            if (event.target == modal) {
+                modal.style.display = "none";
             }
         }
 
-        // Form submission
-        document.getElementById('verseForm').addEventListener('submit', function(event) {
-            event.preventDefault();
-            openModal();
-            // Simulação de carregamento de versos
-            document.getElementById('modalContainer').innerHTML = `
-                <h2>Versículos de ${document.getElementById('book').value}</h2>
-                <p>Capítulo: ${document.getElementById('chapter').value}</p>
-                <p>Verso Inicial: ${document.getElementById('startVerse').value}</p>
-                <p>Verso Final: ${document.getElementById('endVerse').value}</p>
-            `;
+        // Adicionar a funcionalidade de salvar a consulta
+        document.getElementById('saveQuery').addEventListener('click', function() {
+            const book = document.getElementById('book').value.trim();
+            const chapter = document.getElementById('chapter').value.trim();
+            const startVerse = document.getElementById('startVerse').value.trim();
+            const endVerse = document.getElementById('endVerse').value.trim();
+
+            if (!book || !chapter || !startVerse || !endVerse) {
+                alert('Todos os campos devem ser preenchidos antes de salvar a consulta.');
+                return;
+            }
+
+            // Cria um objeto para armazenar a consulta
+            const query = { book, chapter, startVerse, endVerse };
+
+            // Obtém o histórico atual do localStorage
+            let history = JSON.parse(localStorage.getItem('searchHistory')) || [];
+
+            // Adiciona a nova consulta ao histórico
+            history.push(query);
+
+            // Salva o histórico atualizado no localStorage
+            localStorage.setItem('searchHistory', JSON.stringify(history));
+
+            // Atualiza a lista de histórico
+            loadHistory();
         });
+
+        // Função para carregar o histórico de consultas
+        function loadHistory() {
+            const historyList = document.getElementById('historyList');
+            historyList.innerHTML = '';
+
+            let history = JSON.parse(localStorage.getItem('searchHistory')) || [];
+
+            history.forEach((query, index) => {
+                const li = document.createElement('li');
+                li.innerHTML = `<span style="color: greenyellow">${query.book} ${query.chapter}:${query.startVerse}-${query.endVerse}</span>
+                    <button class="delete-btn" onclick="deleteQuery(${index})"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
+  <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5M8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5m3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0"/>
+</svg></button>`;
+                historyList.appendChild(li);
+                li.addEventListener('click', () => {
+                    document.getElementById('book').value = query.book;
+                    document.getElementById('chapter').value = query.chapter;
+                    document.getElementById('startVerse').value = query.startVerse;
+                    document.getElementById('endVerse').value = query.endVerse;
+                });
+            });
+        }
+
+        // Função para excluir uma consulta do histórico
+        function deleteQuery(index) {
+            let history = JSON.parse(localStorage.getItem('searchHistory')) || [];
+            history.splice(index, 1); // Remove a consulta do histórico
+            localStorage.setItem('searchHistory', JSON.stringify(history)); // Atualiza o localStorage
+            loadHistory(); // Atualiza a lista de histórico
+        }
+
+        // Carregar o histórico quando a página é carregada
+        loadHistory();
     </script>
 </body>
 </html>
+
