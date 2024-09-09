@@ -245,7 +245,7 @@
                 const normalizedBook = normalizeBookName(book);
 
                 // Acessar e exibir o intervalo de versos
-                const verseField = document.getElementById('container');
+                const verseField = document.getElementById('modalContainer');
                 let versesHtml = `<h2>${normalizedBook} ${chapter}</h2>`;
                 if (bibleData.books[normalizedBook] && bibleData.books[normalizedBook][chapter]) {
                     for (let i = startVerse; i <= endVerse; i++) {
@@ -265,7 +265,7 @@
                 modal.style.display = "block";
             } catch (error) {
                 console.error('Erro ao carregar os versos:', error);
-                document.getElementById('container').innerHTML = 'Erro ao carregar os versos.';
+                document.getElementById('modalContainer').innerHTML = 'Erro ao carregar os versos.';
             }
         });
 
