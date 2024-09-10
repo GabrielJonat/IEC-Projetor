@@ -26,670 +26,629 @@ def parse_verses(text,book,chapter):
 
 
 text = """
-1 Sucedeu, depois da morte de Moisés, servo do Senhor, que este falou a Josué, filho de Num, servidor de Moisés, dizendo:
-2 Moisés, meu servo, é morto; dispõe-te, agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel.
-3 Todo lugar que pisar a planta do vosso pé, vo-lo tenho dado, como eu prometi a Moisés.
-4 Desde o deserto e o Líbano até ao grande rio, o rio Eufrates, toda a terra dos heteus e até ao mar Grande para o poente do sol será o vosso limite.
-5 Ninguém te poderá resistir todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei, nem te desampararei.
-6 Sê forte e corajoso, porque tu farás este povo herdar a terra que, sob juramento, prometi dar a seus pais.
-7 Tão somente sê forte e mui corajoso para teres o cuidado de fazer segundo toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que sejas bem-sucedido por onde quer que andares.
-8 Não cesses de falar deste Livro da Lei; antes, medita nele dia e noite, para que tenhas cuidado de fazer segundo tudo quanto nele está escrito; então, farás prosperar o teu caminho e serás bem-sucedido.
-9 Não to mandei eu? Sê forte e corajoso; não temas, nem te espantes, porque o Senhor, teu Deus, é contigo por onde quer que andares.
-10 Então, deu ordem Josué aos príncipes do povo, dizendo:
-11 Passai pelo meio do arraial e ordenai ao povo, dizendo: Provede-vos de comida, porque, dentro de três dias, passareis este Jordão, para que entreis na terra que vos dá o Senhor, vosso Deus, para a possuirdes.
-12 Falou Josué aos rubenitas, e aos gaditas, e à meia tribo de Manassés, dizendo:
-13 Lembrai-vos do que vos ordenou Moisés, servo do Senhor, dizendo: O Senhor, vosso Deus, vos concede descanso e vos dá esta terra.
-14 Vossas mulheres, vossos meninos e vosso gado fiquem na terra que Moisés vos deu deste lado do Jordão; porém vós, todos os valentes, passareis armados na frente de vossos irmãos e os ajudareis,
-15 até que o Senhor conceda descanso a vossos irmãos, como a vós outros, e eles também tomem posse da terra que o Senhor, vosso Deus, lhes dá; então, tornareis à terra da vossa herança e possuireis a que vos deu Moisés, servo do Senhor, deste lado do Jordão, para o nascente do sol.
-16 Então, responderam a Josué, dizendo: Tudo quanto nos ordenaste faremos e aonde quer que nos enviares iremos.
-17 Como em tudo obedecemos a Moisés, assim obedeceremos a ti; tão somente seja o Senhor, teu Deus, contigo, como foi com Moisés.
-18 Todo homem que se rebelar contra as tuas ordens e não obedecer às tuas palavras em tudo quanto lhe ordenares será morto; tão somente sê forte e corajoso.*
-1 De Sitim enviou Josué, filho de Num, dois homens, secretamente, como espias, dizendo: Andai e observai a terra e Jericó. Foram, pois, e entraram na casa de uma mulher prostituta, cujo nome era Raabe, e pousaram ali.
-2 Então, se deu notícia ao rei de Jericó, dizendo: Eis que, esta noite, vieram aqui uns homens dos filhos de Israel para espiar a terra.
-3 Mandou, pois, o rei de Jericó dizer a Raabe: Faze sair os homens que vieram a ti e entraram na tua casa, porque vieram espiar toda a terra.
-4 A mulher, porém, havia tomado e escondido os dois homens; e disse: É verdade que os dois homens vieram a mim, porém eu não sabia donde eram.
-5 Havendo-se de fechar a porta, sendo já escuro, eles saíram; não sei para onde foram; ide após eles depressa, porque os alcançareis.
-6 Ela, porém, os fizera subir ao eirado e os escondera entre as canas do linho que havia disposto em ordem no eirado.
-7 Foram-se aqueles homens após os espias pelo caminho que dá aos vaus do Jordão; e, havendo saído os que iam após eles, fechou-se a porta.
-8 Antes que os espias se deitassem, foi ela ter com eles ao eirado
-9 e lhes disse: Bem sei que o Senhor vos deu esta terra, e que o pavor que infundis caiu sobre nós, e que todos os moradores da terra estão desmaiados.
-10 Porque temos ouvido que o Senhor secou as águas do mar Vermelho diante de vós, quando saíeis do Egito; e também o que fizestes aos dois reis dos amorreus, Seom e Ogue, que estavam além do Jordão, os quais destruístes.
-11 Ouvindo isto, desmaiou-nos o coração, e em ninguém mais há ânimo algum, por causa da vossa presença; porque o Senhor, vosso Deus, é Deus em cima nos céus e embaixo na terra.
-12 Agora, pois, jurai-me, vos peço, pelo Senhor que, assim como usei de misericórdia para convosco, também dela usareis para com a casa de meu pai; e que me dareis um sinal certo
-13 de que conservareis a vida a meu pai e a minha mãe, como também a meus irmãos e a minhas irmãs, com tudo o que têm, e de que livrareis a nossa vida da morte.
-14 Então, lhe disseram os homens: A nossa vida responderá pela vossa se não denunciardes esta nossa missão; e será, pois, que, dando-nos o Senhor esta terra, usaremos contigo de misericórdia e de fidelidade.
-15 Ela, então, os fez descer por uma corda pela janela, porque a casa em que residia estava sobre o muro da cidade.
-16 E disse-lhes: Ide-vos ao monte, para que, porventura, vos não encontrem os perseguidores; escondei-vos lá três dias, até que eles voltem; e, depois, tomareis o vosso caminho.
-17 Disseram-lhe os homens: Desobrigados seremos deste teu juramento que nos fizeste jurar,
-18 se, vindo nós à terra, não atares este cordão de fio de escarlata à janela por onde nos fizeste descer; e se não recolheres em casa contigo teu pai, e tua mãe, e teus irmãos, e a toda a família de teu pai.
-19 Qualquer que sair para fora da porta da tua casa, o seu sangue lhe cairá sobre a cabeça, e nós seremos inocentes; mas o sangue de qualquer que estiver contigo em casa caia sobre a nossa cabeça, se alguém nele puser mão.
-20 Também, se tu denunciares esta nossa missão, seremos desobrigados do juramento que nos fizeste jurar.
-21 E ela disse: Segundo as vossas palavras, assim seja. Então, os despediu; e eles se foram; e ela atou o cordão de escarlata à janela.
-22 Foram-se, pois, e chegaram ao monte, e ali ficaram três dias, até que voltaram os perseguidores; porque os perseguidores os procuraram por todo o caminho, porém não os acharam.
-23 Assim, os dois homens voltaram, e desceram do monte, e passaram, e vieram a Josué, filho de Num, e lhe contaram tudo quanto lhes acontecera;
-24 e disseram a Josué: Certamente, o Senhor nos deu toda esta terra nas nossas mãos, e todos os seus moradores estão desmaiados diante de nós.*
-1 Levantou-se, pois, Josué de madrugada, e, tendo ele e todos os filhos de Israel partido de Sitim, vieram até ao Jordão e pousaram ali antes que passassem.
-2 Sucedeu, ao fim de três dias, que os oficiais passaram pelo meio do arraial
-3 e ordenaram ao povo, dizendo: Quando virdes a arca da Aliança do Senhor, vosso Deus, e que os levitas sacerdotes a levam, partireis vós também do vosso lugar e a seguireis.
-4 Contudo, haja a distância de cerca de dois mil côvados entre vós e ela. Não vos chegueis a ela, para que conheçais o caminho pelo qual haveis de ir, visto que, por tal caminho, nunca passastes antes.
-5 Disse Josué ao povo: Santificai-vos, porque amanhã o Senhor fará maravilhas no meio de vós.
-6 E também falou aos sacerdotes, dizendo: Levantai a arca da Aliança e passai adiante do povo. Levantaram, pois, a arca da Aliança e foram andando adiante do povo.
-7 Então, disse o Senhor a Josué: Hoje, começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam que, como fui com Moisés, assim serei contigo.
-8 Tu, pois, ordenarás aos sacerdotes que levam a arca da Aliança, dizendo: Ao chegardes à borda das águas do Jordão, parareis aí.
-9 Então, disse Josué aos filhos de Israel: Chegai-vos para cá e ouvi as palavras do Senhor, vosso Deus.
-10 Disse mais Josué: Nisto conhecereis que o Deus vivo está no meio de vós e que de todo lançará de diante de vós os cananeus, os heteus, os heveus, os ferezeus, os girgaseus, os amorreus e os jebuseus.
-11 Eis que a arca da Aliança do Senhor de toda a terra passa o Jordão diante de vós.
-12 Tomai, pois, agora, doze homens das tribos de Israel, um de cada tribo;
-13 porque há de acontecer que, assim que as plantas dos pés dos sacerdotes que levam a arca do Senhor, o Senhor de toda a terra, pousem nas águas do Jordão, serão elas cortadas, a saber, as que vêm de cima, e se amontoarão.
-14 Tendo partido o povo das suas tendas, para passar o Jordão, levando os sacerdotes a arca da Aliança diante do povo;
-15 e, quando os que levavam a arca chegaram até ao Jordão, e os seus pés se molharam na borda das águas (porque o Jordão transbordava sobre todas as suas ribanceiras, todos os dias da sega),
-16 pararam-se as águas que vinham de cima; levantaram-se num montão, mui longe da cidade de Adã, que fica ao lado de Sartã; e as que desciam ao mar da Arabá, que é o mar Salgado, foram de todo cortadas; então, passou o povo defronte de Jericó.
-17 Porém os sacerdotes que levavam a arca da Aliança do Senhor pararam firmes no meio do Jordão, e todo o Israel passou a pé enxuto, atravessando o Jordão.*
-1 Tendo, pois, todo o povo passado o Jordão, falou o Senhor a Josué, dizendo:
-2 Tomai do povo doze homens, um de cada tribo,
-3 e ordenai-lhes, dizendo: Daqui do meio do Jordão, do lugar onde, parados, pousaram os sacerdotes os pés, tomai doze pedras; e levai-as convosco e depositai-as no alojamento em que haveis de passar esta noite.
-4 Chamou, pois, Josué os doze homens que escolhera dos filhos de Israel,
-5 um de cada tribo, e disse-lhes: Passai adiante da arca do Senhor, vosso Deus, ao meio do Jordão; e cada um levante sobre o ombro uma pedra, segundo o número das tribos dos filhos de Israel,
-6 para que isto seja por sinal entre vós; e, quando vossos filhos, no futuro, perguntarem, dizendo: Que vos significam estas pedras?,
-7 então, lhes direis que as águas do Jordão foram cortadas diante da arca da Aliança do Senhor; em passando ela, foram as águas do Jordão cortadas. Estas pedras serão, para sempre, por memorial aos filhos de Israel.
-8 Fizeram, pois, os filhos de Israel como Josué ordenara, e levantaram doze pedras do meio do Jordão, como o Senhor tinha dito a Josué, segundo o número das tribos dos filhos de Israel, e levaram-nas consigo ao alojamento, e as depositaram ali.
-9 Levantou Josué também doze pedras no meio do Jordão, no lugar em que, parados, pousaram os pés os sacerdotes que levavam a arca da Aliança; e ali estão até ao dia de hoje.
-10 Porque os sacerdotes que levavam a arca haviam parado no meio do Jordão, em pé, até que se cumpriu tudo quanto o Senhor, por intermédio de Moisés, ordenara a Josué falasse ao povo; e o povo se apressou e passou.
-11 Tendo passado todo o povo, então, passou a arca do Senhor, e os sacerdotes, à vista de todo o povo.
-12 Passaram os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, armados, na frente dos filhos de Israel, como Moisés lhes tinha dito;
-13 uns quarenta mil homens de guerra armados passaram diante do Senhor para a batalha, às campinas de Jericó.
-14 Naquele dia, o Senhor engrandeceu a Josué na presença de todo o Israel; e respeitaram-no todos os dias da sua vida, como haviam respeitado a Moisés.
-15 Disse, pois, o Senhor a Josué:
-16 Dá ordem aos sacerdotes que levam a arca do Testemunho que subam do Jordão.
-17 Então, ordenou Josué aos sacerdotes, dizendo: Subi do Jordão.
-18 Ao subirem do meio do Jordão os sacerdotes que levavam a arca da Aliança do Senhor, e assim que as plantas dos seus pés se puseram na terra seca, as águas do Jordão se tornaram ao seu lugar e corriam, como dantes, sobre todas as suas ribanceiras.
-19 Subiu, pois, do Jordão o povo no dia dez do primeiro mês; e acamparam-se em Gilgal, do lado oriental de Jericó.
-20 As doze pedras que tiraram do Jordão, levantou-as Josué em coluna em Gilgal.
-21 E disse aos filhos de Israel: Quando, no futuro, vossos filhos perguntarem a seus pais, dizendo: Que significam estas pedras?,
-22 fareis saber a vossos filhos, dizendo: Israel passou em seco este Jordão.
-23 Porque o Senhor, vosso Deus, fez secar as águas do Jordão diante de vós, até que passásseis, como o Senhor, vosso Deus, fez ao mar Vermelho, ao qual secou perante nós, até que passamos.
-24 Para que todos os povos da terra conheçam que a mão do Senhor é forte, a fim de que temais ao Senhor, vosso Deus, todos os dias.*
-1 Sucedeu que, ouvindo todos os reis dos amorreus que habitavam deste lado do Jordão, ao ocidente, e todos os reis dos cananeus que estavam ao pé do mar que o Senhor tinha secado as águas do Jordão, de diante dos filhos de Israel, até que passamos, desmaiou-se-lhes o coração, e não houve mais alento neles, por causa dos filhos de Israel.
-2 Naquele tempo, disse o Senhor a Josué: Faze facas de pederneira e passa, de novo, a circuncidar os filhos de Israel.
-3 Então, Josué fez para si facas de pederneira e circuncidou os filhos de Israel em Gibeate-Haralote.
-4 Foi esta a razão por que Josué os circuncidou: todo o povo que tinha saído do Egito, os homens, todos os homens de guerra, eram já mortos no deserto, pelo caminho.
-5 Porque todo o povo que saíra estava circuncidado, mas a nem um deles que nascera no deserto, pelo caminho, depois de terem saído do Egito, haviam circuncidado.
-6 Porque quarenta anos andaram os filhos de Israel pelo deserto, até se acabar toda a gente dos homens de guerra que saíram do Egito, que não obedeceram à voz do Senhor, aos quais o Senhor tinha jurado que lhes não havia de deixar ver a terra que o Senhor, sob juramento, prometeu dar a seus pais, terra que mana leite e mel.
-7 Porém em seu lugar pôs a seus filhos; a estes Josué circuncidou, porquanto estavam incircuncisos, porque os não circuncidaram no caminho.
-8 Tendo sido circuncidada toda a nação, ficaram no seu lugar no arraial, até que sararam.
-9 Disse mais o Senhor a Josué: Hoje, removi de vós o opróbrio do Egito; pelo que o nome daquele lugar se chamou Gilgal até o dia de hoje.
-10 Estando, pois, os filhos de Israel acampados em Gilgal, celebraram a Páscoa no dia catorze do mês, à tarde, nas campinas de Jericó.
-11 Comeram do fruto da terra, no dia seguinte à Páscoa; pães asmos e cereais tostados comeram nesse mesmo dia.
-12 No dia imediato, depois que comeram do produto da terra, cessou o maná, e não o tiveram mais os filhos de Israel; mas, naquele ano, comeram das novidades da terra de Canaã.
-13 Estando Josué ao pé de Jericó, levantou os olhos e olhou; eis que se achava em pé diante dele um homem que trazia na mão uma espada nua; chegou-se Josué a ele e disse-lhe: És tu dos nossos ou dos nossos adversários?
-14 Respondeu ele: Não; sou príncipe do exército do Senhor e acabo de chegar. Então, Josué se prostrou com o rosto em terra, e o adorou, e disse-lhe: Que diz meu senhor ao seu servo?
-15 Respondeu o príncipe do exército do Senhor a Josué: Descalça as sandálias dos pés, porque o lugar em que estás é santo. E fez Josué assim.*
-1 Ora, Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía, nem entrava.
-2 Então, disse o Senhor a Josué: Olha, entreguei na tua mão Jericó, o seu rei e os seus valentes.
-3 Vós, pois, todos os homens de guerra, rodeareis a cidade, cercando-a uma vez; assim fareis por seis dias.
-4 Sete sacerdotes levarão sete trombetas de chifre de carneiro adiante da arca; no sétimo dia, rodeareis a cidade sete vezes, e os sacerdotes tocarão as trombetas.
-5 E será que, tocando-se longamente a trombeta de chifre de carneiro, ouvindo vós o sonido dela, todo o povo gritará com grande grita; o muro da cidade cairá abaixo, e o povo subirá nele, cada qual em frente de si.
-6 Então, Josué, filho de Num, chamou os sacerdotes e disse-lhes: Levai a arca da Aliança; e sete sacerdotes levem sete trombetas de chifre de carneiro adiante da arca do Senhor.
-7 E disse ao povo: Passai e rodeai a cidade; e quem estiver armado passe adiante da arca do Senhor.
-8 Assim foi que, como Josué dissera ao povo, os sete sacerdotes, com as sete trombetas de chifre de carneiro diante do Senhor, passaram e tocaram as trombetas; e a arca da Aliança do Senhor os seguia.
-9 Os homens armados iam adiante dos sacerdotes que tocavam as trombetas; a retaguarda seguia após a arca, e as trombetas soavam continuamente.
-10 Porém ao povo ordenara Josué, dizendo: Não gritareis, nem fareis ouvir a vossa voz, nem sairá palavra alguma da vossa boca, até ao dia em que eu vos diga: gritai! Então, gritareis.
-11 Assim, a arca do Senhor rodeou a cidade, contornando-a uma vez. Entraram no arraial e ali pernoitaram.
-12 Levantando-se Josué de madrugada, os sacerdotes levaram, de novo, a arca do Senhor.
-13 Os sete sacerdotes que levavam as sete trombetas de chifre de carneiro diante da arca do Senhor iam tocando continuamente; os homens armados iam adiante deles, e a retaguarda seguia após a arca do Senhor, enquanto as trombetas soavam continuamente.
-14 No segundo dia, rodearam, outra vez, a cidade e tornaram para o arraial; e assim fizeram por seis dias.
-15 No sétimo dia, madrugaram ao subir da alva e, da mesma sorte, rodearam a cidade sete vezes; somente naquele dia rodearam a cidade sete vezes.
-16 E sucedeu que, na sétima vez, quando os sacerdotes tocavam as trombetas, disse Josué ao povo: Gritai, porque o Senhor vos entregou a cidade!
-17 Porém a cidade será condenada, ela e tudo quanto nela houver; somente viverá Raabe, a prostituta, e todos os que estiverem com ela em casa, porquanto escondeu os mensageiros que enviamos.
-18 Tão somente guardai-vos das coisas condenadas, para que, tendo-as vós condenado, não as tomeis; e assim torneis maldito o arraial de Israel e o confundais.
-19 Porém toda prata, e ouro, e utensílios de bronze e de ferro são consagrados ao Senhor; irão para o seu tesouro.
-20 Gritou, pois, o povo, e os sacerdotes tocaram as trombetas. Tendo ouvido o povo o sonido da trombeta e levantado grande grito, ruíram as muralhas, e o povo subiu à cidade, cada qual em frente de si, e a tomaram.
-21 Tudo quanto na cidade havia destruíram totalmente a fio de espada, tanto homens como mulheres, tanto meninos como velhos, também bois, ovelhas e jumentos.
-22 Então, disse Josué aos dois homens que espiaram a terra: Entrai na casa da mulher prostituta e tirai-a de lá com tudo quanto tiver, como lhe jurastes.
-23 Então, entraram os jovens, os espias, e tiraram Raabe, e seu pai, e sua mãe, e seus irmãos, e tudo quanto tinha; tiraram também toda a sua parentela e os acamparam fora do arraial de Israel.
-24 Porém a cidade e tudo quanto havia nela, queimaram-no; tão somente a prata, o ouro e os utensílios de bronze e de ferro deram para o tesouro da Casa do Senhor.
-25 Mas Josué conservou com vida a prostituta Raabe, e a casa de seu pai, e tudo quanto tinha; e habitou no meio de Israel até ao dia de hoje, porquanto escondera os mensageiros que Josué enviara a espiar Jericó.
-26 Naquele tempo, Josué fez o povo jurar e dizer: Maldito diante do Senhor seja o homem que se levantar e reedificar esta cidade de Jericó; com a perda do seu primogênito lhe porá os fundamentos e, à custa do mais novo, as portas.
-27 Assim, era o Senhor com Josué; e corria a sua fama por toda a terra.*
-1 Prevaricaram os filhos de Israel nas coisas condenadas; porque Acã, filho de Carmi, filho de Zabdi, filho de Zera, da tribo de Judá, tomou das coisas condenadas. A ira do Senhor se acendeu contra os filhos de Israel.
-2 Enviando, pois, Josué, de Jericó, alguns homens a Ai, que está junto a Bete-Áven, ao oriente de Betel, falou-lhes, dizendo: Subi e espiai a terra. Subiram, pois, aqueles homens e espiaram Ai.
-3 E voltaram a Josué e lhe disseram: Não suba todo o povo; subam uns dois ou três mil homens, a ferir Ai; não fatigueis ali todo o povo, porque são poucos os inimigos.
-4 Assim, subiram lá do povo uns três mil homens, os quais fugiram diante dos homens de Ai.
-5 Os homens de Ai feriram deles uns trinta e seis, e aos outros perseguiram desde a porta até às pedreiras, e os derrotaram na descida; e o coração do povo se derreteu e se tornou como água.
-6 Então, Josué rasgou as suas vestes e se prostrou em terra sobre o rosto perante a arca do Senhor até à tarde, ele e os anciãos de Israel; e deitaram pó sobre a cabeça.
-7 Disse Josué: Ah! Senhor Deus, por que fizeste este povo passar o Jordão, para nos entregares nas mãos dos amorreus, para nos fazerem perecer? Tomara nos contentáramos com ficarmos dalém do Jordão.
-8 Ah! Senhor, que direi? Pois Israel virou as costas diante dos seus inimigos!
-9 Ouvindo isto os cananeus e todos os moradores da terra, nos cercarão e desarraigarão o nosso nome da terra; e, então, que farás ao teu grande nome?
-10 Então, disse o Senhor a Josué: Levanta-te! Por que estás prostrado assim sobre o rosto?
-11 Israel pecou, e violaram a minha aliança, aquilo que eu lhes ordenara, pois tomaram das coisas condenadas, e furtaram, e dissimularam, e até debaixo da sua bagagem o puseram.
-12 Pelo que os filhos de Israel não puderam resistir aos seus inimigos; viraram as costas diante deles, porquanto Israel se fizera condenado; já não serei convosco, se não eliminardes do vosso meio a coisa roubada.
-13 Dispõe-te, santifica o povo e dize: Santificai-vos para amanhã, porque assim diz o Senhor, Deus de Israel: Há coisas condenadas no vosso meio, ó Israel; aos vossos inimigos não podereis resistir, enquanto não eliminardes do vosso meio as coisas condenadas.
-14 Pela manhã, pois, vos chegareis, segundo as vossas tribos; e será que a tribo que o Senhor designar por sorte se chegará, segundo as famílias; e a família que o Senhor designar se chegará por casas; e a casa que o Senhor designar se chegará homem por homem.
-15 Aquele que for achado com a coisa condenada será queimado, ele e tudo quanto tiver, porquanto violou a aliança do Senhor e fez loucura em Israel.
-16 Então, Josué se levantou de madrugada e fez chegar a Israel, segundo as suas tribos; e caiu a sorte sobre a tribo de Judá.
-17 Fazendo chegar a tribo de Judá, caiu sobre a família dos zeraítas; fazendo chegar a família dos zeraítas, homem por homem, caiu sobre Zabdi;
-18 e, fazendo chegar a sua casa, homem por homem, caiu sobre Acã, filho de Carmi, filho de Zabdi, filho de Zera, da tribo de Judá.
-19 Então, disse Josué a Acã: Filho meu, dá glória ao Senhor, Deus de Israel, e a ele rende louvores; e declara-me, agora, o que fizeste; não mo ocultes.
-20 Respondeu Acã a Josué e disse: Verdadeiramente, pequei contra o Senhor, Deus de Israel, e fiz assim e assim.
-21 Quando vi entre os despojos uma boa capa babilônica, e duzentos siclos de prata, e uma barra de ouro do peso de cinquenta siclos, cobicei-os e tomei-os; e eis que estão escondidos na terra, no meio da minha tenda, e a prata, por baixo.
-22 Então, Josué enviou mensageiros que foram correndo à tenda; e eis que tudo estava escondido nela, e a prata, por baixo.
-23 Tomaram, pois, aquelas coisas do meio da tenda, e as trouxeram a Josué e a todos os filhos de Israel, e as colocaram perante o Senhor.
-24 Então, Josué e todo o Israel com ele tomaram Acã, filho de Zera, e a prata, e a capa, e a barra de ouro, e seus filhos, e suas filhas, e seus bois, e seus jumentos, e suas ovelhas, e sua tenda, e tudo quanto tinha e levaram-nos ao vale de Acor.
-25 Disse Josué: Por que nos conturbaste? O Senhor, hoje, te conturbará. E todo o Israel o apedrejou; e, depois de apedrejá-los, queimou-os.
-26 E levantaram sobre ele um montão de pedras, que permanece até ao dia de hoje; assim, o Senhor apagou o furor da sua ira; pelo que aquele lugar se chama o vale de Acor até ao dia de hoje.*
-1 Disse o Senhor a Josué: Não temas, não te atemorizes; toma contigo toda a gente de guerra, e dispõe-te, e sobe a Ai; olha que entreguei nas tuas mãos o rei de Ai, e o seu povo, e a sua cidade, e a sua terra.
-2 Farás a Ai e a seu rei como fizeste a Jericó e a seu rei; somente que para vós outros saqueareis os seus despojos e o seu gado; põe emboscadas à cidade, por detrás dela.
-3 Então, Josué se levantou, e toda a gente de guerra, para subir contra Ai; escolheu Josué trinta mil homens valentes e os enviou de noite.
-4 Deu-lhes ordem, dizendo: Eis que vos poreis de emboscada contra a cidade, por detrás dela; não vos distancieis muito da cidade; e todos estareis alertas.
-5 Porém eu e todo o povo que está comigo nos aproximaremos da cidade; e será que, quando saírem, como dantes, contra nós, fugiremos diante deles.
-6 Deixemo-los, pois, sair atrás de nós, até que os tiremos da cidade; porque dirão: Fogem diante de nós como dantes. Assim, fugiremos diante deles.
-7 Então, saireis vós da emboscada e tomareis a cidade; porque o Senhor, vosso Deus, vo-la entregará nas vossas mãos.
-8 Havendo vós tomado a cidade, pôr-lhe-eis fogo; segundo a palavra do Senhor, fareis; eis que vo-lo ordenei.
-9 Assim, Josué os enviou, e eles se foram à emboscada; e ficaram entre Betel e Ai, ao ocidente de Ai; porém Josué passou aquela noite no meio do povo.
-10 Levantou-se Josué de madrugada, passou revista ao povo, e subiram ele e os anciãos de Israel, diante do povo, contra Ai.
-11 Subiram também todos os homens de guerra que estavam com ele, e chegaram-se, e vieram defronte da cidade; e alojaram-se do lado norte de Ai. Havia um vale entre eles e Ai.
-12 Tomou também uns cinco mil homens e os pôs entre Betel e Ai, em emboscada, ao ocidente da cidade.
-13 Assim foi posto o povo: todo o acampamento ao norte da cidade e a emboscada ao ocidente dela; e foi Josué aquela noite até ao meio do vale.
-14 E sucedeu que, vendo-o o rei de Ai, ele e os homens da cidade apressaram-se e, levantando-se de madrugada, saíram de encontro a Israel, à batalha, defronte das campinas, porque ele não sabia achar-se contra ele uma emboscada atrás da cidade.
-15 Josué, pois, e todo o Israel se houveram como feridos diante deles e fugiram pelo caminho do deserto.
-16 Pelo que todo o povo que estava na cidade foi convocado para os perseguir; e perseguiram Josué e foram afastados da cidade.
-17 Nem um só homem ficou em Ai, nem em Betel que não saísse após os israelitas; e deixaram a cidade aberta e perseguiram Israel.
-18 Então, disse o Senhor a Josué: Estende para Ai a lança que tens na mão; porque a esta darei na tua mão; e Josué estendeu para a cidade a lança que tinha na mão.
-19 Então, a emboscada se levantou apressadamente do seu lugar, e, ao estender ele a mão, vieram à cidade e a tomaram; e apressaram-se e nela puseram fogo.
-20 Virando-se os homens de Ai para trás, olharam, e eis que a fumaça da cidade subia ao céu, e não puderam fugir nem para um lado nem para outro; porque o povo que fugia para o deserto se tornou contra os que os perseguiam.
-21 Vendo Josué e todo o Israel que a emboscada tomara a cidade e que a fumaça da cidade subia, voltaram e feriram os homens de Ai.
-22 Da cidade saíram os outros ao encontro do inimigo, que, assim, ficou no meio de Israel, uns de uma parte, outros de outra; e feriram-nos de tal sorte, que nenhum deles sobreviveu, nem escapou.
-23 Porém ao rei de Ai tomaram vivo e o trouxeram a Josué.
-24 Tendo os israelitas acabado de matar todos os moradores de Ai no campo e no deserto onde os tinham perseguido, e havendo todos caído a fio de espada, e sendo já todos consumidos, todo o Israel voltou a Ai, e a passaram a fio de espada.
-25 Os que caíram aquele dia, tanto homens como mulheres, foram doze mil, todos os moradores de Ai.
-26 Porque Josué não retirou a mão que estendera com a lança até haver destruído totalmente os moradores de Ai.
-27 Os israelitas saquearam, entretanto, para si o gado e os despojos daquela cidade, segundo a palavra do Senhor, que ordenara a Josué.
-28 Então, Josué pôs fogo a Ai e a reduziu, para sempre, a um montão, a ruínas até ao dia de hoje.
-29 Ao rei de Ai, enforcou-o e o deixou no madeiro até à tarde; ao pôr do sol, por ordem de Josué, tiraram do madeiro o cadáver, e o lançaram à porta da cidade, e sobre ele levantaram um montão de pedras, que até hoje permanece.
-30 Então, Josué edificou um altar ao Senhor, Deus de Israel, no monte Ebal,
-31 como Moisés, servo do Senhor, ordenara aos filhos de Israel, segundo o que está escrito no Livro da Lei de Moisés, a saber, um altar de pedras toscas, sobre o qual se não manejara instrumento de ferro; sobre ele ofereceram holocaustos ao Senhor e apresentaram ofertas pacíficas.
-32 Escreveu, ali, em pedras, uma cópia da lei de Moisés, que já este havia escrito diante dos filhos de Israel.
-33 Todo o Israel, com os seus anciãos, e os seus príncipes, e os seus juízes estavam de um e de outro lado da arca, perante os levitas sacerdotes que levavam a arca da Aliança do Senhor, tanto estrangeiros como naturais; metade deles, em frente do monte Gerizim, e a outra metade, em frente do monte Ebal; como Moisés, servo do Senhor, outrora, ordenara que fosse abençoado o povo de Israel.
-34 Depois, leu todas as palavras da lei, a bênção e a maldição, segundo tudo o que está escrito no Livro da Lei.
-35 Palavra nenhuma houve, de tudo o que Moisés ordenara, que Josué não lesse para toda a congregação de Israel, e para as mulheres, e os meninos, e os estrangeiros que andavam no meio deles.*
-1 Sucedeu que, ouvindo isto todos os reis que estavam daquém do Jordão, nas montanhas, e nas campinas, em toda a costa do mar Grande, defronte do Líbano, os heteus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus,
-2 se ajuntaram eles de comum acordo, para pelejar contra Josué e contra Israel.
-3 Os moradores de Gibeão, porém, ouvindo o que Josué fizera com Jericó e com Ai,
-4 usaram de estratagema, e foram, e se fingiram embaixadores, e levaram sacos velhos sobre os seus jumentos e odres de vinho, velhos, rotos e consertados;
-5 e, nos pés, sandálias velhas e remendadas e roupas velhas sobre si; e todo o pão que traziam para o caminho era seco e bolorento.
-6 Foram ter com Josué, ao arraial, a Gilgal, e lhe disseram, a ele e aos homens de Israel: Chegamos de uma terra distante; fazei, pois, agora, aliança conosco.
-7 E os homens de Israel responderam aos heveus: Porventura, habitais no meio de nós; como, pois, faremos aliança convosco?
-8 Então, disseram a Josué: Somos teus servos. Então, lhes perguntou Josué: Quem sois vós? Donde vindes?
-9 Responderam-lhe: Teus servos vieram de uma terra mui distante, por causa do nome do Senhor, teu Deus; porquanto ouvimos a sua fama e tudo quanto fez no Egito;
-10 e tudo quanto fez aos dois reis dos amorreus que estavam dalém do Jordão, Seom, rei de Hesbom, e Ogue, rei de Basã, que estava em Astarote.
-11 Pelo que nossos anciãos e todos os moradores da nossa terra nos disseram: Tomai convosco provisão alimentar para o caminho, e ide ao encontro deles, e dizei-lhes: Somos vossos servos; fazei, pois, agora, aliança conosco.
-12 Este nosso pão tomamos quente das nossas casas, no dia em que saímos para vir ter convosco; e ei-lo aqui, agora, já seco e bolorento;
-13 e estes odres eram novos quando os enchemos de vinho; e ei-los aqui já rotos; e estas nossas vestes e estas nossas sandálias já envelheceram, por causa do mui longo caminho.
-14 Então, os israelitas tomaram da provisão e não pediram conselho ao Senhor.
-15 Josué concedeu-lhes paz e fez com eles a aliança de lhes conservar a vida; e os príncipes da congregação lhes prestaram juramento.
-16 Ao cabo de três dias, depois de terem feito a aliança com eles, ouviram que eram seus vizinhos e que moravam no meio deles.
-17 Pois, partindo os filhos de Israel, chegaram às cidades deles ao terceiro dia; suas cidades eram Gibeão, Cefira, Beerote e Quiriate-Jearim.
-18 Os filhos de Israel não os feriram, porquanto os príncipes da congregação lhes juraram pelo Senhor, Deus de Israel; pelo que toda a congregação murmurou contra os príncipes.
-19 Então, todos os príncipes disseram a toda a congregação: Nós lhes juramos pelo Senhor, Deus de Israel; por isso, não podemos tocar-lhes.
-20 Isto, porém, lhes faremos: Conservar-lhes-emos a vida, para que não haja grande ira sobre nós, por causa do juramento que já lhes fizemos.
-21 Disseram-lhes, pois, os príncipes: Vivam. E se tornaram rachadores de lenha e tiradores de água para toda a congregação, como os príncipes lhes haviam dito.
-22 Chamou-os Josué e disse-lhes: Por que nos enganastes, dizendo: Habitamos mui longe de vós, sendo que viveis em nosso meio?
-23 Agora, pois, sois malditos; e dentre vós nunca deixará de haver escravos, rachadores de lenha e tiradores de água para a casa do meu Deus.
-24 Então, responderam a Josué: É que se anunciou aos teus servos, como certo, que o Senhor, teu Deus, ordenara a seu servo Moisés que vos desse toda esta terra e destruísse todos os moradores dela diante de vós. Por isso, tememos muito por nossa vida por causa de vós e fizemos assim.
-25 Eis que estamos na tua mão; trata-nos segundo te parecer bom e reto.
-26 Assim lhes fez e livrou-os das mãos dos filhos de Israel; e não os mataram.
-27 Naquele dia, Josué os fez rachadores de lenha e tiradores de água para a congregação e para o altar do Senhor, até ao dia de hoje, no lugar que Deus escolhesse.*
-1 Tendo Adoni-Zedeque, rei de Jerusalém, ouvido que Josué tomara a Ai e a havia destruído totalmente e feito a Ai e ao seu rei como fizera a Jericó e ao seu rei e que os moradores de Gibeão fizeram paz com os israelitas e estavam no meio deles,
-2 temeu muito; porque Gibeão era cidade grande como uma das cidades reais e ainda maior do que Ai, e todos os seus homens eram valentes.
-3 Pelo que Adoni-Zedeque, rei de Jerusalém, enviou mensageiros a Hoão, rei de Hebrom, e a Pirã, rei de Jarmute, e a Jafia, rei de Laquis, e a Debir, rei de Eglom, dizendo:
-4 Subi a mim e ajudai-me; firamos Gibeão, porquanto fez paz com Josué e com os filhos de Israel.
-5 Então, se ajuntaram e subiram cinco reis dos amorreus, o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis e o rei de Eglom, eles e todas as suas tropas; e se acamparam junto a Gibeão e pelejaram contra ela.
-6 Os homens de Gibeão mandaram dizer a Josué, no arraial de Gilgal: Não retires as tuas mãos de teus servos; sobe apressadamente a nós, e livra-nos, e ajuda-nos, pois todos os reis dos amorreus que habitam nas montanhas se ajuntaram contra nós.
-7 Então, subiu Josué de Gilgal, ele e toda a gente de guerra com ele e todos os valentes.
-8 Disse o Senhor a Josué: Não os temas, porque nas tuas mãos os entreguei; nenhum deles te poderá resistir.
-9 Josué lhes sobreveio de repente, porque toda a noite veio subindo desde Gilgal.
-10 O Senhor os conturbou diante de Israel, e os feriu com grande matança em Gibeão, e os foi perseguindo pelo caminho que sobe a Bete-Horom, e os derrotou até Azeca e Maquedá.
-11 Sucedeu que, fugindo eles de diante de Israel, à descida de Bete-Horom, fez o Senhor cair do céu sobre eles grandes pedras, até Azeca, e morreram. Mais foram os que morreram pela chuva de pedra do que os mortos à espada pelos filhos de Israel.
-12 Então, Josué falou ao Senhor, no dia em que o Senhor entregou os amorreus nas mãos dos filhos de Israel; e disse na presença dos israelitas: Sol, detém-te em Gibeão, e tu, lua, no vale de Aijalom.
-13 E o sol se deteve, e a lua parou até que o povo se vingou de seus inimigos. Não está isto escrito no Livro dos Justos? O sol, pois, se deteve no meio do céu e não se apressou a pôr-se, quase um dia inteiro.
-14 Não houve dia semelhante a este, nem antes nem depois dele, tendo o Senhor, assim, atendido à voz de um homem; porque o Senhor pelejava por Israel.
-15 Voltou Josué, e todo o Israel com ele, ao arraial, a Gilgal.
-16 Aqueles cinco reis, porém, fugiram e se esconderam numa cova em Maquedá.
-17 E anunciaram a Josué: Foram achados os cinco reis escondidos numa cova em Maquedá.
-18 Disse, pois, Josué: Rolai grandes pedras à boca da cova e ponde junto a ela homens que os guardem; porém vós não vos detenhais;
-19 persegui os vossos inimigos e matai os que vão ficando atrás; não os deixeis entrar nas suas cidades, porque o Senhor, vosso Deus, já vo-los entregou nas vossas mãos.
-20 Tendo Josué e os filhos de Israel acabado de os ferir com mui grande matança, até consumi-los, e tendo os restantes que deles ficaram entrado nas cidades fortificadas,
-21 voltou todo o povo em paz ao acampamento a Josué, em Maquedá; não havendo ninguém que movesse a língua contra os filhos de Israel.
-22 Depois, disse Josué: Abri a boca da cova e dali trazei-me aqueles cinco reis.
-23 Fizeram, pois, assim e da cova lhe trouxeram os cinco reis: o rei de Jerusalém, o de Hebrom, o de Jarmute, o de Laquis e o de Eglom.
-24 Trazidos os reis a Josué, chamou este todos os homens de Israel e disse aos capitães do exército que tinham ido com ele: Chegai, ponde o pé sobre o pescoço destes reis. E chegaram e puseram os pés sobre os pescoços deles.
-25 Então, Josué lhes disse: Não temais, nem vos atemorizeis; sede fortes e corajosos, porque assim fará o Senhor a todos os vossos inimigos, contra os quais pelejardes.
-26 Depois disto, Josué, ferindo-os, os matou e os pendurou em cinco madeiros; e ficaram eles pendentes dos madeiros até à tarde.
-27 Ao pôr do sol, deu Josué ordem que os tirassem dos madeiros; e lançaram-nos na cova onde se tinham escondido e, na boca da cova, puseram grandes pedras que ainda lá se encontram até ao dia de hoje.
-28 No mesmo dia, tomou Josué a Maquedá e a feriu à espada, bem como ao seu rei; destruiu-os totalmente e a todos os que nela estavam, sem deixar nem sequer um. Fez ao rei de Maquedá como fizera ao rei de Jericó.
-29 Então, Josué, e todo o Israel com ele, passou de Maquedá a Libna e pelejou contra ela.
-30 E o Senhor a deu nas mãos de Israel, a ela e ao seu rei, e a feriu à espada, a ela e todos os que nela estavam, sem deixar nem sequer um. Fez ao seu rei como fizera ao rei de Jericó.
-31 Então, Josué, e todo o Israel com ele, passou de Libna a Laquis, sitiou-a e pelejou contra ela;
-32 e o Senhor deu Laquis nas mãos de Israel, que, no dia seguinte, a tomou e a feriu à espada, a ela e todos os que nela estavam, conforme tudo o que fizera a Libna.
-33 Então, Hoão, rei de Gezer, subiu para ajudar Laquis; porém Josué o feriu, a ele e o seu povo, sem deixar nem sequer um.
-34 E Josué, e todo o Israel com ele, passou de Laquis a Eglom, e a sitiaram e pelejaram contra ela;
-35 e, no mesmo dia, a tomaram e a feriram à espada; e totalmente destruíram os que nela estavam, conforme tudo o que fizeram a Laquis.
-36 Depois, Josué, e todo o Israel com ele, subiu de Eglom a Hebrom, e pelejaram contra ela;
-37 e a tomaram e a feriram à espada, tanto o seu rei como todas as suas cidades e todos os que nelas estavam, sem deixar nem sequer um, conforme tudo o que fizeram a Eglom; e Josué executou a condenação contra ela e contra todos os que nela estavam.
-38 Então, Josué, e todo o Israel com ele, voltou a Debir e pelejou contra ela;
-39 e tomou-a com o seu rei e todas as suas cidades e as feriu à espada; todos os que nelas estavam, destruiu-os totalmente sem deixar nem sequer um; como fizera a Hebrom, a Libna e a seu rei, também fez a Debir e a seu rei.
-40 Assim, feriu Josué toda aquela terra, a região montanhosa, o Neguebe, as campinas, as descidas das águas e todos os seus reis; destruiu tudo o que tinha fôlego, sem deixar nem sequer um, como ordenara o Senhor, Deus de Israel.
-41 Feriu-os Josué desde Cades-Barneia até Gaza, como também toda a terra de Gósen até Gibeão.
-42 E, de uma vez, tomou Josué todos estes reis e as suas terras, porquanto o Senhor, Deus de Israel, pelejava por Israel.
-43 Então, Josué, e todo o Israel com ele, voltou ao arraial em Gilgal.*
-1 Tendo Jabim, rei de Hazor, ouvido isto, enviou mensageiros a Jobabe, rei de Madom, e ao rei Sinrom, e ao rei Acsafe,
-2 e aos reis que estavam ao norte, na região montanhosa, na Arabá, ao sul de Quinerete, nas planícies e nos planaltos de Dor, do lado do mar,
-3 aos cananeus do oriente e do ocidente: aos amorreus, aos heteus, aos ferezeus, aos jebuseus nas montanhas e aos heveus ao pé do Hermom, na terra de Mispa.
-4 Saíram, pois, estes e todas as suas tropas com eles, muito povo, em multidão como a areia que está na praia do mar, e muitíssimos cavalos e carros.
-5 Todos estes reis se ajuntaram, e vieram, e se acamparam junto às águas de Merom, para pelejarem contra Israel.
-6 Disse o Senhor a Josué: Não temas diante deles, porque amanhã, a esta mesma hora, já os terás traspassado diante dos filhos de Israel; os seus cavalos jarretarás e queimarás os seus carros.
-7 Josué, e todos os homens de guerra com ele, veio apressadamente contra eles às águas de Merom, e os atacaram.
-8 O Senhor os entregou nas mãos de Israel; e os feriram e os perseguiram até à grande Sidom, e até Misrefote-Maim, e até ao vale de Mispa, ao oriente; feriram-nos sem deixar nem sequer um.
-9 Fez-lhes Josué como o Senhor lhe dissera; os seus cavalos jarretou e os seus carros queimou.
-10 Nesse mesmo tempo, voltou Josué, tomou a Hazor e feriu à espada o seu rei, porquanto Hazor, dantes, era a capital de todos estes reinos.
-11 A todos os que nela estavam feriram à espada e totalmente os destruíram, e ninguém sobreviveu; e a Hazor queimou.
-12 Josué tomou todas as cidades desses reis e também a eles e os feriu à espada, destruindo-os totalmente, como ordenara Moisés, servo do Senhor.
-13 Tão somente não queimaram os israelitas as cidades que estavam sobre os outeiros, exceto Hazor, a qual Josué queimou.
-14 E a todos os despojos destas cidades e ao gado os filhos de Israel saquearam para si; porém a todos os homens feriram à espada, até que os destruíram; e ninguém sobreviveu.
-15 Como ordenara o Senhor a Moisés, seu servo, assim Moisés ordenou a Josué; e assim Josué o fez; nem uma só palavra deixou de cumprir de tudo o que o Senhor ordenara a Moisés.
-16 Tomou, pois, Josué toda aquela terra, a saber, a região montanhosa, todo o Neguebe, toda a terra de Gósen, as planícies, a Arabá e a região montanhosa de Israel com suas planícies;
-17 desde o monte Halaque, que sobe a Seir, até Baal-Gade, no vale do Líbano, ao pé do monte Hermom; também tomou todos os seus reis, e os feriu, e os matou.
-18 Por muito tempo, Josué fez guerra contra todos estes reis.
-19 Não houve cidade que fizesse paz com os filhos de Israel, senão os heveus, moradores de Gibeão; por meio de guerra, as tomaram todas.
-20 Porquanto do Senhor vinha o endurecimento do seu coração para saírem à guerra contra Israel, a fim de que fossem totalmente destruídos e não lograssem piedade alguma; antes, fossem de todo destruídos, como o Senhor tinha ordenado a Moisés.
-21 Naquele tempo, veio Josué e eliminou os anaquins da região montanhosa, de Hebrom, de Debir, de Anabe, e de todas as montanhas de Judá, e de todas as montanhas de Israel; Josué os destruiu totalmente com as suas cidades.
-22 Nem um dos anaquins sobreviveu na terra dos filhos de Israel; somente em Gaza, em Gate e em Asdode alguns subsistiram.
-23 Assim, tomou Josué toda esta terra, segundo tudo o que o Senhor tinha dito a Moisés; e Josué a deu em herança aos filhos de Israel, conforme as suas divisões e tribos; e a terra repousou da guerra.*
-1 São estes os reis da terra, aos quais os filhos de Israel feriram, de cujas terras se apossaram dalém do Jordão para o nascente, desde o ribeiro de Arnom até ao monte Hermom e toda a planície do oriente:
-2 Seom, rei dos amorreus, que habitava em Hesbom e dominava desde Aroer, que está à beira do vale de Arnom, e desde o meio do vale e a metade de Gileade até ao ribeiro de Jaboque, limite dos filhos de Amom;
-3 desde a campina até ao mar de Quinerete, para o oriente, e até ao mar da Campina, o mar Salgado, para o oriente, pelo caminho de Bete-Jesimote; e desde o sul abaixo de Asdote-Pisga.
-4 Como também o limite de Ogue, rei de Basã, que havia ficado dos refains e que habitava em Astarote e em Edrei;
-5 e dominava no monte Hermom, e em Salca, e em toda a Basã, até ao limite dos gesuritas e dos maacatitas, e metade de Gileade, limite de Seom, rei de Hesbom.
-6 Moisés, servo do Senhor, e os filhos de Israel feriram a estes; e Moisés, servo do Senhor, deu esta terra em possessão aos rubenitas, aos gaditas e à meia tribo de Manassés.
-7 São estes os reis da terra aos quais Josué e os filhos de Israel feriram daquém do Jordão, para o ocidente, desde Baal-Gade, no vale do Líbano, até ao monte Halaque, que sobe a Seir, e cuja terra Josué deu em possessão às tribos de Israel, segundo as suas divisões,
-8 a saber, o que havia na região montanhosa, nas planícies, na Arabá, nas descidas das águas, no deserto e no Neguebe, onde estava o heteu, o amorreu, o cananeu, o ferezeu, o heveu e o jebuseu:
-9 o rei de Jericó, um; o de Ai, que está ao lado de Betel, outro;
-10 o rei de Jerusalém, outro; o rei de Hebrom, outro;
-11 o rei de Jarmute, outro; o de Laquis, outro;
-12 o rei de Eglom, outro; o de Gezer, outro;
-13 o rei de Debir, outro; o de Geder, outro;
-14 o rei de Horma, outro; o de Arade, outro;
-15 o rei de Libna, outro; o de Adulão, outro;
-16 o rei de Maquedá, outro; o de Betel, outro;
-17 o rei de Tapua, outro; o de Héfer, outro;
-18 o rei de Afeca, outro; o de Lasarom, outro;
-19 o rei de Madom, outro; o de Hazor, outro;
-20 o rei de Sinrom-Merom, outro; o de Acsafe, outro;
-21 o rei de Taanaque, outro; o de Megido, outro;
-22 o rei de Quedes, outro; o de Jocneão do Carmelo, outro;
-23 o rei de Dor, em Nafate-Dor, outro; o de Goim, em Gilgal, outro;
-24 o rei de Tirza, outro; ao todo, trinta e um reis.*
-1 Era Josué, porém, já idoso, entrado em dias; e disse-lhe o Senhor: Já estás velho, entrado em dias, e ainda muitíssima terra ficou para se possuir.
-2 Esta é a terra ainda não conquistada: todas as regiões dos filisteus e toda a Gesur;
-3 desde Sior, que está defronte do Egito, até ao limite de Ecrom, para o norte, que se considera como dos cananeus; cinco príncipes dos filisteus: o de Gaza, o de Asdode, o de Asquelom, o de Gate e o de Ecrom;
-4 ao sul, os aveus, também toda a terra dos cananeus e Meara, que é dos sidônios, até Afeca, ao limite dos amorreus;
-5 e ainda a terra dos gibleus e todo o Líbano, para o nascente do sol, desde Baal-Gade, ao pé do monte Hermom, até à entrada de Hamate;
-6 todos os que habitam nas montanhas desde o Líbano até Misrefote-Maim, todos os sidônios; eu os lançarei de diante dos filhos de Israel; reparte, pois, a terra por herança a Israel, como te ordenei.
-7 Distribui, pois, agora, a terra por herança às nove tribos e à meia tribo de Manassés.
-8 Com a outra meia tribo, os rubenitas e os gaditas já receberam a sua herança dalém do Jordão, para o oriente, como já lhes tinha dado Moisés, servo do Senhor.
-9 Começando com Aroer, que está à borda do vale de Arnom, mais a cidade que está no meio do vale, todo o planalto de Medeba até Dibom;
-10 e todas as cidades de Seom, rei dos amorreus, que reinou em Hesbom, até ao limite dos filhos de Amom.
-11 E Gileade, e o limite dos gesuritas, e o dos maacatitas, e todo o monte Hermom, e toda a Basã até Salca;
-12 todo o reino de Ogue, em Basã, que reinou em Astarote e em Edrei, que ficou do resto dos gigantes, o qual Moisés feriu e expulsou.
-13 Porém os filhos de Israel não desapossaram os gesuritas, nem os maacatitas; antes, Gesur e Maacate permaneceram no meio de Israel até ao dia de hoje.
-14 Tão somente à tribo de Levi não deu herança; as ofertas queimadas do Senhor, Deus de Israel, são a sua herança, como já lhe tinha dito.
-15 Deu, pois, Moisés à tribo dos filhos de Rúben, segundo as suas famílias,
-16 começando o seu território com Aroer, que está à borda do vale de Arnom, mais a cidade que está no meio do vale e todo o planalto até Medeba;
-17 Hesbom e todas as suas cidades, que estão no planalto: Dibom, Bamote-Baal e Bete-Baal-Meom,
-18 Jaza, Quedemote, Mefaate;
-19 Quiriataim, Sibma, Zerete-Saar, no monte do vale;
-20 Bete-Peor, as faldas de Pisga e Bete-Jesimote;
-21 e todas as cidades do planalto e todo o reino de Seom, rei dos amorreus, que reinou em Hesbom, a quem Moisés feriu, como também os príncipes de Midiã, Evi, Requém, Zur, Hur e Reba, príncipes de Seom, moradores da terra.
-22 Também os filhos de Israel mataram à espada Balaão, filho de Beor, o adivinho, com outros mais que mataram.
-23 A fronteira dos filhos de Rúben é o Jordão e suas imediações; esta é a herança dos filhos de Rúben, segundo as suas famílias: as cidades com suas aldeias.
-24 Deu Moisés a herança à tribo de Gade, a saber, a seus filhos, segundo as suas famílias.
-25 Foi o seu território: Jazer, todas as cidades de Gileade e metade da terra dos filhos de Amom, até Aroer, que está defronte de Rabá;
-26 desde Hesbom até Ramate-Mispa e Betonim; e desde Maanaim até ao limite de Debir;
-27 e, no vale: Bete-Arã, Bete-Ninra, Sucote e Zafom, o resto do reino de Seom, rei de Hesbom, mais o Jordão e suas imediações, até à extremidade do mar de Quinerete, dalém do Jordão, para o oriente.
-28 Esta é a herança dos filhos de Gade, segundo as suas famílias: as cidades com suas aldeias.
-29 Deu também Moisés herança à meia tribo de Manassés, segundo as suas famílias.
-30 Foi o seu território: começando com Maanaim, mais todo o Basã, todo o reino de Ogue, rei de Basã, e todas as aldeias de Jair, que estão em Basã, sessenta cidades;
-31 e metade de Gileade, Astarote e Edrei, cidades do reino de Ogue, em Basã; estas foram dadas aos filhos de Maquir, filho de Manassés, a saber, à metade dos filhos de Maquir, segundo as suas famílias.
-32 São estas as heranças que Moisés repartiu nas campinas de Moabe, dalém do Jordão, na altura de Jericó, para o oriente.
-33 Porém à tribo de Levi Moisés não deu herança; o Senhor, Deus de Israel, é a sua herança, como já lhes tinha dito.*
-1 São estas as heranças que os filhos de Israel tiveram na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel lhes fizeram repartir
-2 por sorte da sua herança, como o Senhor ordenara por intermédio de Moisés, acerca das nove tribos e meia.
-3 Porquanto às duas tribos e meia já dera Moisés herança além do Jordão; mas aos levitas não tinha dado herança entre seus irmãos.
-4 Os filhos de José foram duas tribos, Manassés e Efraim; aos levitas não deram herança na terra, senão cidades em que habitassem e os seus arredores para seu gado e para sua possessão.
-5 Como o Senhor ordenara a Moisés, assim fizeram os filhos de Israel e repartiram a terra.
-6 Chegaram os filhos de Judá a Josué em Gilgal; e Calebe, filho de Jefoné, o quenezeu, lhe disse: Tu sabes o que o Senhor falou a Moisés, homem de Deus, em Cades-Barneia, a respeito de mim e de ti.
-7 Tinha eu quarenta anos quando Moisés, servo do Senhor, me enviou de Cades-Barneia para espiar a terra; e eu lhe relatei como sentia no coração.
-8 Mas meus irmãos que subiram comigo desesperaram o povo; eu, porém, perseverei em seguir o Senhor, meu Deus.
-9 Então, Moisés, naquele dia, jurou, dizendo: Certamente, a terra em que puseste o pé será tua e de teus filhos, em herança perpetuamente, pois perseveraste em seguir o Senhor, meu Deus.
-10 Eis, agora, o Senhor me conservou em vida, como prometeu; quarenta e cinco anos há desde que o Senhor falou esta palavra a Moisés, andando Israel ainda no deserto; e, já agora, sou de oitenta e cinco anos.
-11 Estou forte ainda hoje como no dia em que Moisés me enviou; qual era a minha força naquele dia, tal ainda agora para o combate, tanto para sair a ele como para voltar.
-12 Agora, pois, dá-me este monte de que o Senhor falou naquele dia, pois, naquele dia, ouviste que lá estavam os anaquins e grandes e fortes cidades; o Senhor, porventura, será comigo, para os desapossar, como prometeu.
-13 Josué o abençoou e deu a Calebe, filho de Jefoné, Hebrom em herança.
-14 Portanto, Hebrom passou a ser de Calebe, filho de Jefoné, o quenezeu, em herança até ao dia de hoje, visto que perseverara em seguir o Senhor, Deus de Israel.
-15 Dantes o nome de Hebrom era Quiriate-Arba; este Arba foi o maior homem entre os anaquins. E a terra repousou da guerra.*
-1 A sorte da tribo dos filhos de Judá, segundo as suas famílias, caiu para o sul, até ao limite de Edom, até ao deserto de Zim, até à extremidade do lado sul.
-2 Foi o seu limite ao sul, desde a extremidade do mar Salgado, desde a baía que olha para o sul;
-3 e sai para o sul, até à subida de Acrabim, passa a Zim, sobe do sul a Cades-Barneia,
-4 passa por Hezrom, sobe a Adar e rodeia Carca; passa por Azmom e sai ao ribeiro do Egito; as saídas deste limite vão até ao mar; este será o vosso limite do lado sul.
-5 O limite, porém, para o oriente será o mar Salgado, até à foz do Jordão; e o limite para o norte será da baía do mar, começando com a embocadura do Jordão,
-6 limite que sobe até Bete-Hogla e passa do norte a Bete-Arabá, subindo até à pedra de Boã, filho de Rúben,
-7 subindo ainda este limite a Debir desde o vale de Acor, olhando para o norte, rumo a Gilgal, a qual está à subida de Adumim, que está para o sul do ribeiro; daí, o limite passa até às águas de En-Semes; e as suas saídas estarão do lado de En-Rogel.
-8 Deste ponto sobe pelo vale do Filho de Hinom, do lado dos jebuseus do Sul, isto é, Jerusalém; e sobe este limite até ao cimo do monte que está diante do vale de Hinom, para o ocidente, que está no fim do vale dos Refains, do lado norte.
-9 Então, vai o limite desde o cimo do monte até à fonte das águas de Neftoa; e sai até às cidades do monte Efrom; vai mais este limite até Baalá, isto é, Quiriate-Jearim.
-10 Então, dá volta o limite desde Baalá, para o ocidente, até ao monte Seir, passa ao lado do monte de Jearim do lado norte, isto é, Quesalom, e, descendo a Bete-Semes, passa por Timna.
-11 Segue mais ainda o limite ao lado de Ecrom, para o norte, e, indo a Siquerom, passa o monte de Baalá, saindo em Jabneel, para terminar no mar.
-12 O limite, porém, do lado ocidental é o mar Grande e as suas imediações. São estes os limites dos filhos de Judá ao redor, segundo as suas famílias.
-13 A Calebe, filho de Jefoné, porém, deu Josué uma parte no meio dos filhos de Judá, segundo lhe ordenara o Senhor, a saber, Quiriate-Arba, isto é, Hebrom; este Arba era o pai de Anaque.
-14 Dali expulsou Calebe os três filhos de Anaque: Sesai, Aimã e Talmai, gerados de Anaque.
-15 Subiu aos habitantes de Debir, cujo nome, dantes, era Quiriate-Sefer.
-16 Disse Calebe: A quem derrotar Quiriate-Sefer e a tomar, darei minha filha Acsa por mulher.
-17 Tomou-a, pois, Otniel, filho de Quenaz, irmão de Calebe; este lhe deu a filha Acsa por mulher.
-18 Esta, quando se foi a Otniel, insistiu com ele para que pedisse um campo ao pai dela; e ela apeou do jumento; então, Calebe lhe perguntou: Que desejas?
-19 Respondeu ela: Dá-me um presente; deste-me terra seca, dá-me também fontes de água. Então, lhe deu as fontes superiores e as fontes inferiores.
-20 Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias.
-21 São, pois, as cidades no extremo sul da tribo dos filhos de Judá, rumo do território de Edom: Cabzeel, Éder, Jagur,
-22 Quiná, Dimona, Adada,
-23 Quedes, Hazor, Itnã,
-24 Zife, Telém, Bealote,
-25 Hazor-Hadata, Queriote-Hezrom (que é Hazor),
-26 Amã, Sema, Molada,
-27 Hazar-Gada, Hesmom, Bete-Palete,
-28 Hazar-Sual, Berseba, Biziotiá,
-29 Baalá, Iim, Ezém,
-30 Eltolade, Quesil, Horma,
-31 Ziclague, Madmana, Sansana,
-32 Lebaote, Silim, Aim e Rimom; ao todo, vinte e nove cidades com suas aldeias.
-33 Nas planícies: Estaol, Zorá, Asná,
-34 Zanoa, En-Ganim, Tapua, Enã,
-35 Jarmute, Adulão, Socó, Azeca,
-36 Saaraim, Aditaim, Gedera e Gederotaim; ao todo, catorze cidades com suas aldeias.
-37 Zenã, Hadasa, Migdal-Gade,
-38 Dileã, Mispa, Jocteel,
-39 Laquis, Boscate, Eglom,
-40 Cabom, Laamás, Quitlis,
-41 Gederote, Bete-Dagom, Naamá e Maquedá; ao todo, dezesseis cidades com suas aldeias.
-42 Libna, Eter, Asã,
-43 Ifta, Asná, Nezibe,
-44 Queila, Aczibe e Maressa; ao todo, nove cidades com suas aldeias.
-45 Ecrom com suas vilas e aldeias;
-46 desde Ecrom até ao mar, todas as que estão do lado de Asdode, com suas aldeias.
-47 Asdode, suas vilas e aldeias; Gaza, suas vilas e aldeias, até ao rio do Egito e o mar Grande com as suas imediações.
-48 Na região montanhosa: Samir, Jatir, Socó,
-49 Daná, Quiriate-Sana, que é Debir,
-50 Anabe, Estemoa, Anim,
-51 Gósen, Holom e Gilo; ao todo, onze cidades com suas aldeias.
-52 Arabe, Dumá, Esã,
-53 Janim, Bete-Tapua, Afeca,
-54 Hunta, Quiriate-Arba (que é Hebrom) e Zior; ao todo, nove cidades com suas aldeias.
-55 Maom, Carmelo, Zife, Jutá,
-56 Jezreel, Jocdeão, Zanoa,
-57 Caim, Gibeá e Timna; ao todo, dez cidades com suas aldeias.
-58 Halul, Bete-Zur, Gedor,
-59 Maarate, Bete-Anote e Eltecom; ao todo, seis cidades com suas aldeias.
-60 Quiriate-Baal (que é Quiriate-Jearim) e Rabá; ao todo, duas cidades com suas aldeias.
-61 No deserto: Bete-Arabá, Midim, Secaca,
-62 Nibsã, Cidade do Sal e En-Gedi; ao todo, seis cidades com suas aldeias.
-63 Não puderam, porém, os filhos de Judá expulsar os jebuseus que habitavam em Jerusalém; assim, habitam os jebuseus com os filhos de Judá em Jerusalém até ao dia de hoje.*
-1 O território que, em sorte, caiu aos filhos de José, começando no Jordão, na altura de Jericó e no lado oriental das águas de Jericó, vai ao deserto que sobe de Jericó pela região montanhosa até Betel.
-2 De Betel sai para Luz, passa ao limite dos arquitas até Atarote
-3 e desce, rumo ao ocidente, ao limite de Jaflete, até ao limite de Bete-Horom de baixo e até Gezer, terminando no mar.
-4 Assim, alcançaram a sua herança os filhos de José, Manassés e Efraim.
-5 Foi o limite da herança dos filhos de Efraim, segundo as suas famílias, no oriente, Atarote-Adar até Bete-Horom de cima;
-6 e vai o limite para o mar com Micmetate, ao norte, de onde torna para o oriente até Taanate-Siló, e passa por ela ao oriente de Janoa;
-7 desce desde Janoa a Atarote e a Naarate, toca em Jericó, terminando no Jordão.
-8 De Tapua vai o limite, para o ocidente, ao ribeiro de Caná, terminando no mar; esta é a herança da tribo dos filhos de Efraim, segundo as suas famílias,
-9 mais as cidades que se separaram para os filhos de Efraim, que estavam no meio da herança dos filhos de Manassés; todas aquelas cidades com suas aldeias.
-10 Não expulsaram aos cananeus que habitavam em Gezer; assim, habitam eles no meio dos efraimitas até ao dia de hoje; porém sujeitos a trabalhos forçados.*
-1 Também caiu a sorte à tribo de Manassés, o qual era o primogênito de José. Maquir, o primogênito de Manassés, pai de Gileade, porquanto era homem de guerra, teve Gileade e Basã.
-2 Os mais filhos de Manassés também tiveram a sua parte, segundo as suas famílias, a saber, os filhos de Abiezer, e os filhos de Heleque, e os filhos de Asriel, e os filhos de Siquém, e os filhos de Héfer, e os filhos de Semida; são estes os filhos de Manassés, filho de José, segundo as suas famílias.
-3 Zelofeade, porém, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, não teve filhos, mas só filhas, cujos nomes são estes: Macla, Noa, Hogla, Milca e Tirza.
-4 Estas chegaram diante de Eleazar, o sacerdote, e diante de Josué, filho de Num, e diante dos príncipes, dizendo: O Senhor ordenou a Moisés que se nos desse herança no meio de nossos irmãos. Pelo que, segundo o dito do Senhor, Josué lhes deu herança no meio dos irmãos de seu pai.
-5 Couberam a Manassés dez quinhões, afora a terra de Gileade e Basã, que está dalém do Jordão;
-6 porque as filhas de Manassés, no meio de seus filhos, possuíram herança; os outros filhos de Manassés tiveram a terra de Gileade.
-7 O limite de Manassés foi desde Aser até Micmetate, que está a leste de Siquém; e vai este limite, rumo sul, até aos moradores de En-Tapua.
-8 Tinha Manassés a terra de Tapua; porém Tapua, ainda que situada no limite de Manassés, era dos filhos de Efraim.
-9 Então, desce o limite ao ribeiro de Caná. As cidades, entre as de Manassés, ao sul do ribeiro, pertenciam a Efraim; então, o limite de Manassés vai ao norte do ribeiro, terminando no mar.
-10 Efraim, ao sul, Manassés, ao norte, e o mar é seu limite; pelo norte, tocam em Aser e, pelo oriente, em Issacar.
-11 Porque, em Issacar e em Aser, tinha Manassés a Bete-Seã e suas vilas, Ibleão e suas vilas, os habitantes de Dor e suas vilas, os habitantes de En-Dor e suas vilas, os habitantes de Taanaque e suas vilas e os habitantes de Megido e suas vilas, a região dos três outeiros.
-12 E os filhos de Manassés não puderam expulsar os habitantes daquelas cidades, porquanto os cananeus persistiam em habitar nessa terra.
-13 Sucedeu que, tornando-se fortes os filhos de Israel, sujeitaram aos cananeus a trabalhos forçados, porém não os expulsaram de todo.
-14 Então, o povo dos filhos de José disse a Josué: Por que me deste por herança uma sorte apenas e um quinhão, sendo eu tão grande povo, visto que o Senhor até aqui me tem abençoado?
-15 Disse-lhe Josué: Se és grande povo, sobe ao bosque e abre ali clareira na terra dos ferezeus e dos refains, visto que a região montanhosa de Efraim te é estreita demais.
-16 Então, disseram os filhos de José: A região montanhosa não nos basta; e todos os cananeus que habitam na terra do vale têm carros de ferro, tanto os que estão em Bete-Seã e suas vilas como os que estão no vale de Jezreel.
-17 Falou Josué à casa de José, a Efraim e a Manassés, dizendo: Tu és povo numeroso e forte; não terás uma sorte apenas;
-18 porém a região montanhosa será tua. Ainda que é bosque, cortá-lo-ás, e até às suas extremidades será todo teu; porque expulsarás os cananeus, ainda que possuem carros de ferro e são fortes.*
-1 Reuniu-se toda a congregação dos filhos de Israel em Siló, e ali armaram a tenda da congregação; e a terra estava sujeita diante deles.
-2 Dentre os filhos de Israel ficaram sete tribos que ainda não tinham repartido a sua herança.
-3 Disse Josué aos filhos de Israel: Até quando sereis remissos em passardes para possuir a terra que o Senhor, Deus de vossos pais, vos deu?
-4 De cada tribo escolhei três homens, para que eu os envie, eles se disponham, e corram a terra, e façam dela um gráfico relativamente à herança das tribos, e se tornem a mim.
-5 Dividirão a terra em sete partes: Judá ficará no seu território, ao sul, e a casa de José, no seu, ao norte.
-6 Em sete partes fareis o gráfico da terra e mo trareis a mim, para que eu aqui vos lance as sortes perante o Senhor, nosso Deus.
-7 Porquanto os levitas não têm parte entre vós, pois o sacerdócio do Senhor é a sua parte. Gade, e Rúben, e a meia tribo de Manassés já haviam recebido a sua herança dalém do Jordão, para o oriente, a qual lhes deu Moisés, servo do Senhor.
-8 Dispuseram-se, pois, aqueles homens e se foram, e Josué deu ordem aos que iam levantar o gráfico da terra, dizendo: Ide, correi a terra, levantai-lhe o gráfico e tornai a mim; aqui vos lançarei as sortes perante o Senhor, em Siló.
-9 Foram, pois, os homens, passaram pela terra, levantaram dela o gráfico, cidade por cidade, em sete partes, num livro, e voltaram a Josué, ao arraial em Siló.
-10 Então, Josué lhes lançou as sortes em Siló, perante o Senhor; e ali repartiu Josué a terra, segundo as suas divisões, aos filhos de Israel.
-11 Saiu a sorte da tribo dos filhos de Benjamim, segundo as suas famílias; e o território da sua sorte caiu entre os filhos de Judá e os filhos de José.
-12 O seu limite foi para o lado norte desde o Jordão; subia ao lado de Jericó, para o norte, e subia pela montanha, para o ocidente, para terminar no deserto de Bete-Áven.
-13 E dali passava o limite a Luz, ao lado de Luz (que é Betel), para o sul; descia a Atarote-Adar, ao pé do monte que está do lado sul de Bete-Horom de baixo.
-14 Seguia o limite, e tornava ao lado ocidental, para o sul do monte que está defronte de Bete-Horom, para o sul, e terminava em Quiriate-Baal (que é Quiriate-Jearim), cidade dos filhos de Judá; este era o lado ocidental.
-15 O lado do sul começava na extremidade oriental de Quiriate-Jearim e seguia até à fonte das águas de Neftoa;
-16 descia o limite até à extremidade do monte que está defronte do vale do Filho de Hinom, ao norte do vale dos Refains, e descia pelo vale de Hinom do lado dos jebuseus, para o sul; e baixava a En-Rogel;
-17 volvia-se para o norte, chegava a En-Semes, de onde passava para Gelilote, que está defronte da subida de Adumim, e descia à pedra de Boã, filho de Rúben;
-18 passava pela vertente norte, defronte da planície, e descia à planície.
-19 Depois, passava o limite até ao lado de Bete-Hogla, para o norte, para terminar na baía do mar Salgado, na desembocadura do Jordão, ao sul; este era o limite do sul.
-20 Do lado oriental, o Jordão era o seu limite; esta era a herança dos filhos de Benjamim nos seus limites em redor, segundo as suas famílias.
-21 As cidades da tribo dos filhos de Benjamim, segundo as suas famílias, eram: Jericó, Bete-Hogla, Emeque-Quesis,
-22 Bete-Arabá, Zemaraim, Betel,
-23 Avim, Pará, Ofra,
-24 Quefar-Amonai, Ofni e Gaba; ao todo, doze cidades com suas aldeias.
-25 Gibeão, Ramá, Beerote,
-26 Mispa, Cefira, Mosa,
-27 Requém, Irpeel, Tarala,
-28 Zela, Elefe, Jebus (esta é Jerusalém), Gibeá e Quiriate; ao todo, catorze cidades com suas aldeias; esta era a herança dos filhos de Benjamim, segundo as suas famílias.*
-1 Saiu a segunda sorte a Simeão, à tribo dos filhos de Simeão, segundo as suas famílias, e foi a sua herança no meio da dos filhos de Judá.
-2 Na herança, tiveram: Berseba, Seba, Molada,
-3 Hazar-Sual, Balá, Ezém,
-4 Eltolade, Betul, Horma,
-5 Ziclague, Bete-Marcabote, Hazar-Susa,
-6 Bete-Lebaote e Saruém; ao todo, treze cidades com suas aldeias.
-7 Aim, Rimom, Eter e Asã; ao todo, quatro cidades com suas aldeias.
-8 E todas as aldeias que havia em redor destas cidades, até Baalate-Ber, que é Ramá do Neguebe; esta era a herança da tribo dos filhos de Simeão, segundo as suas famílias.
-9 A herança dos filhos de Simeão se tirou de entre a porção dos filhos de Judá, pois a herança destes era demasiadamente grande para eles, pelo que os filhos de Simeão tiveram a sua herança no meio deles.
-10 Saiu a terceira sorte aos filhos de Zebulom, segundo as suas famílias. O limite da sua herança ia até Saride.
-11 Subia o seu limite, pelo ocidente, a Marala, tocava em Dabesete e chegava até ao ribeiro que está defronte de Jocneão.
-12 De Saride, dava volta para o oriente, para o nascente do sol, até ao limite de Quislote-Tabor, saía a Daberate, e ia subindo a Jafia;
-13 dali, passava, para o nascente, a Gate-Hefer, a Ete-Cazim, ia a Rimom, que se estendia até Neá,
-14 e, rodeando-a, o limite passava, para o norte, a Hanatom e terminava no vale de Ifta-El.
-15 Ainda Catate, Naalal, Sinrom, Idala e Belém, completando doze cidades com suas aldeias.
-16 Esta era a herança dos filhos de Zebulom, segundo as suas famílias; estas cidades com suas aldeias.
-A herança de Issacar
-17 A quarta sorte saiu a Issacar, aos filhos de Issacar, segundo as suas famílias.
-18 O seu território incluía Jezreel, Quesulote, Suném,
-19 Hafaraim, Siom, Anacarate,
-20 Rabite, Quisião, Ebes,
-21 Remete, En-Ganim, En-Hada e Bete-Pasês.
-22 O limite tocava o Tabor, Saazima e Bete-Semes e terminava no Jordão; ao todo, dezesseis cidades com suas aldeias.
-23 Esta era a herança da tribo dos filhos de Issacar, segundo as suas famílias; estas cidades com suas aldeias.
-24 Saiu a quinta sorte à tribo dos filhos de Aser, segundo as suas famílias.
-25 O seu território incluía Helcate, Hali, Béten, Acsafe,
-26 Alameleque, Amade e Misal; e tocava o Carmelo, para o ocidente, e Sior-Libnate;
-27 volvendo-se para o nascente do sol, Bete-Dagom, tocava Zebulom e o vale de Ifta-El, ao norte de Bete-Emeque e de Neiel, e vinha sair a Cabul, pela esquerda,
-28 Ebrom, Reobe, Hamom e Caná, até à grande Sidom.
-29 Voltava o limite a Ramá e até à forte cidade de Tiro; então, tornava a Hosa, para terminar no mar, na região de Aczibe;
-30 também Umá, Afeca e Reobe, completando vinte e duas cidades com suas aldeias.
-31 Esta era a herança da tribo dos filhos de Aser, segundo as suas famílias; estas cidades com suas aldeias.
-32 Saiu a sexta sorte aos filhos de Naftali, segundo as suas famílias.
-33 Era o seu limite desde Helefe, do carvalho em Zaananim, Adami-Nequebe, Jabneel, até Lacum e terminava no Jordão.
-34 Voltava o limite, pelo ocidente, a Aznote-Tabor, de onde passava a Hucoque; tocava Zebulom, ao sul, e Aser, ao ocidente, e Judá, pelo Jordão, ao nascente do sol.
-35 As cidades fortificadas eram: Zidim, Zer, Hamate, Racate, Quinerete,
-36 Adamá, Ramá, Hazor,
-37 Quedes, Edrei, En-Hazor,
-38 Irom, Migdal-El, Horém, Bete-Anate e Bete-Semes; ao todo, dezenove cidades com suas aldeias.
-39 Esta era a herança da tribo dos filhos de Naftali, segundo as suas famílias; estas cidades com suas aldeias.
-40 A sétima sorte saiu à tribo dos filhos de Dã, segundo as suas famílias.
-41 O território da sua herança incluía Zorá, Estaol, Ir-Semes,
-42 Saalabim, Aijalom, Itla,
-43 Elom, Timna, Ecrom,
-44 Elteque, Gibetom, Baalate,
-45 Jeúde, Benê-Beraque, Gate-Rimom,
-46 Me-Jarcom e Racom, com o território defronte de Jope.
-47 Saiu, porém, pequeno o limite aos filhos de Dã, pelo que subiram os filhos de Dã, e pelejaram contra Lesém, e a tomaram, e a feriram a fio de espada; e, tendo-a possuído, habitaram nela e lhe chamaram Dã, segundo o nome de Dã, seu pai.
-48 Esta era a herança da tribo dos filhos de Dã, segundo as suas famílias; estas cidades com suas aldeias.
-49 Acabando, pois, de repartir a terra em herança, segundo os seus territórios, deram os filhos de Israel a Josué, filho de Num, herança no meio deles.
-50 Deram-lhe, segundo o mandado do Senhor, a cidade que pediu, Timnate-Sera, na região montanhosa de Efraim; reedificou ele a cidade e habitou nela.
-51 Eram estas as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das famílias repartiram por sorte, em herança, pelas tribos dos filhos de Israel, em Siló, perante o Senhor, à porta da tenda da congregação. E assim acabaram de repartir a terra.*
-1 Disse mais o Senhor a Josué:
-2 Fala aos filhos de Israel: Apartai para vós outros as cidades de refúgio de que vos falei por intermédio de Moisés;
-3 para que fuja para ali o homicida que, por engano, matar alguma pessoa sem o querer; para que vos sirvam de refúgio contra o vingador do sangue.
-4 E, fugindo para alguma dessas cidades, pôr-se-á à porta dela e exporá o seu caso perante os ouvidos dos anciãos da tal cidade; então, o tomarão consigo na cidade e lhe darão lugar, para que habite com eles.
-5 Se o vingador do sangue o perseguir, não lhe entregarão nas mãos o homicida, porquanto feriu a seu próximo sem querer e não o aborrecia dantes.
-6 Habitará, pois, na mesma cidade até que compareça em juízo perante a congregação, até que morra o sumo sacerdote que for naqueles dias; então, tornará o homicida e voltará à sua cidade e à sua casa, à cidade de onde fugiu.
-7 Designaram, pois, solenemente, Quedes, na Galileia, na região montanhosa de Naftali, e Siquém, na região montanhosa de Efraim, e Quiriate-Arba, ou seja, Hebrom, na região montanhosa de Judá.
-8 Dalém do Jordão, na altura de Jericó, para o oriente, designaram Bezer, no deserto, no planalto da tribo de Rúben; e Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés.
-9 São estas as cidades que foram designadas para todos os filhos de Israel e para o estrangeiro que habitava entre eles; para que se refugiasse nelas todo aquele que, por engano, matasse alguma pessoa, para que não morresse às mãos do vingador do sangue, até comparecer perante a congregação.*
-1 Então, se chegaram os cabeças dos pais dos levitas a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;
-2 e falaram-lhes em Siló, na terra de Canaã, dizendo: O Senhor ordenou, por intermédio de Moisés, que se nos dessem cidades para habitar e os seus arredores para os nossos animais.
-3 E os filhos de Israel deram aos levitas, da sua herança, segundo o mandado do Senhor, estas cidades e os seus arredores.
-4 Caiu a sorte pelas famílias dos coatitas. Assim, os filhos de Arão, o sacerdote, que eram dos levitas, tiveram, por sorte, da tribo de Judá, da tribo de Simeão e da tribo de Benjamim treze cidades.
-5 Os outros filhos de Coate tiveram, por sorte, das famílias da tribo de Efraim, da tribo de Dã e da meia tribo de Manassés dez cidades.
-6 Os filhos de Gérson tiveram, por sorte, das famílias da tribo de Issacar, da tribo de Aser, da tribo de Naftali e da meia tribo de Manassés, em Basã, treze cidades.
-7 Os filhos de Merari tiveram, por sorte, segundo as suas famílias, da tribo de Rúben, da tribo de Gade e da tribo de Zebulom doze cidades.
-8 Deram os filhos de Israel aos levitas estas cidades e os seus arredores, por sorte, como o Senhor ordenara por intermédio de Moisés.
-9 Deram mais, da tribo dos filhos de Judá e da tribo dos filhos de Simeão, estas cidades que, nominalmente, foram designadas,
-10 para que fossem dos filhos de Arão, das famílias dos coatitas, dos filhos de Levi, porquanto a primeira sorte foi deles.
-11 Assim, lhes deram Quiriate-Arba (Arba era pai de Anaque), que é Hebrom, na região montanhosa de Judá, e, em torno dela, os seus arredores.
-12 Porém o campo da cidade, com suas aldeias, deram a Calebe, filho de Jefoné, por sua possessão.
-13 Assim, aos filhos de Arão, o sacerdote, deram Hebrom, cidade de refúgio do homicida, com seus arredores, Libna com seus arredores,
-14 Jatir com seus arredores, Estemoa com seus arredores,
-15 Holom com seus arredores, Debir com seus arredores,
-16 Aim com seus arredores, Jutá com seus arredores e Bete-Semes com seus arredores; ao todo, nove cidades dessas duas tribos.
-17 Da tribo de Benjamim, deram Gibeão com seus arredores, Gaba com seus arredores,
-18 Anatote com seus arredores e Almom com seus arredores; ao todo, quatro cidades.
-19 Total das cidades dos sacerdotes, filhos de Arão: treze cidades com seus arredores.
-20 As mais famílias dos levitas de Coate tiveram as cidades da sua sorte da tribo de Efraim.
-21 Deram-lhes Siquém, cidade de refúgio do homicida, com seus arredores, na região montanhosa de Efraim, Gezer com seus arredores,
-22 Quibzaim com seus arredores e Bete-Horom com seus arredores; ao todo, quatro cidades.
-23 Da tribo de Dã, deram Elteque com seus arredores, Gibetom com seus arredores,
-24 Aijalom com seus arredores e Gate-Rimom com seus arredores; ao todo, quatro cidades.
-25 Da meia tribo de Manassés, deram Taanaque com seus arredores e Gate-Rimom com seus arredores; ao todo, duas cidades.
-26 Total: dez cidades com seus arredores, para as famílias dos demais filhos de Coate.
-27 Aos filhos de Gérson, das famílias dos levitas, deram, em Basã, da tribo de Manassés, Golã, a cidade de refúgio para o homicida, com seus arredores, e Beesterá com seus arredores; ao todo, duas cidades.
-28 Da tribo de Issacar, deram Quisião com seus arredores, Daberate com seus arredores,
-29 Jarmute com seus arredores e En-Ganim com seus arredores; ao todo, quatro cidades.
-30 Da tribo de Aser, deram Misal com seus arredores, Abdom com seus arredores,
-31 Helcate com seus arredores e Reobe com seus arredores; ao todo, quatro cidades.
-32 Da tribo de Naftali, deram, na Galileia, Quedes, cidade de refúgio para o homicida, com seus arredores, Hamote-Dor com seus arredores e Cartã com seus arredores; ao todo, três cidades.
-33 Total das cidades dos gersonitas, segundo as suas famílias: treze cidades com seus arredores.
-34 Às famílias dos demais levitas dos filhos de Merari deram, da tribo de Zebulom, Jocneão com seus arredores, Cartá com seus arredores,
-35 Dimna com seus arredores e Naalal com seus arredores; ao todo, quatro cidades.
-36 Da tribo de Rúben, deram Bezer com seus arredores, Jaza com seus arredores,
-37 Quedemote com seus arredores e Mefaate com seus arredores; ao todo, quatro cidades.
-38 Da tribo de Gade, deram, em Gileade, Ramote, cidade de refúgio para o homicida, com seus arredores, Maanaim com seus arredores,
-39 Hesbom com seus arredores e Jazer com seus arredores; ao todo, quatro cidades.
-40 Todas estas cidades tocaram por sorte aos filhos de Merari, segundo as suas famílias, que ainda restavam das famílias dos levitas: doze cidades.
-41 As cidades, pois, dos levitas, no meio da herança dos filhos de Israel, foram, ao todo, quarenta e oito cidades com seus arredores;
-42 cada uma das quais com seus arredores em torno de si; assim foi com todas estas cidades.
-43 Desta maneira, deu o Senhor a Israel toda a terra que jurara dar a seus pais; e a possuíram e habitaram nela.
-44 O Senhor lhes deu repouso em redor, segundo tudo quanto jurara a seus pais; nenhum de todos os seus inimigos resistiu diante deles; a todos eles o Senhor lhes entregou nas mãos.
-45 Nenhuma promessa falhou de todas as boas palavras que o Senhor falara à casa de Israel; tudo se cumpriu.*
-1 Então, Josué chamou os rubenitas, os gaditas e a meia tribo de Manassés
-2 e lhes disse: Tendes guardado tudo quanto vos ordenou Moisés, servo do Senhor, e também a mim me tendes obedecido em tudo quanto vos ordenei.
-3 A vossos irmãos, durante longo tempo, até ao dia de hoje, não desamparastes; antes, tivestes o cuidado de guardar o mandamento do Senhor, vosso Deus.
-4 Tendo o Senhor, vosso Deus, dado repouso a vossos irmãos, como lhes havia prometido, voltai-vos, pois, agora, e ide-vos para as vossas tendas, à terra da vossa possessão, que Moisés, servo do Senhor, vos deu dalém do Jordão.
-5 Tende cuidado, porém, de guardar com diligência o mandamento e a lei que Moisés, servo do Senhor, vos ordenou: que ameis o Senhor, vosso Deus, andeis em todos os seus caminhos, guardeis os seus mandamentos, e vos achegueis a ele, e o sirvais de todo o vosso coração e de toda a vossa alma.
-6 Assim, Josué os abençoou e os despediu; e eles se foram para as suas tendas.
-7 Ora, Moisés dera herança em Basã à meia tribo de Manassés; porém à outra metade deu Josué entre seus irmãos, daquém do Jordão, para o ocidente. E Josué, ao despedi-los para as suas tendas, os abençoou
-8 e lhes disse: Voltais às vossas tendas com grandes riquezas, com muitíssimo gado, prata, ouro, bronze, ferro e muitíssima roupa; reparti com vossos irmãos o despojo dos vossos inimigos.
-9 Assim, os filhos de Rúben, os filhos de Gade e a meia tribo de Manassés voltaram e se retiraram dos filhos de Israel em Siló, que está na terra de Canaã, para se irem à terra de Gileade, à terra da sua possessão, de que foram feitos possuidores, segundo o mandado do Senhor, por intermédio de Moisés.
-10 Vindo eles para os limites pegados ao Jordão, na terra de Canaã, ali os filhos de Rúben, os filhos de Gade e a meia tribo de Manassés edificaram um altar junto ao Jordão, altar grande e vistoso.
-11 Os filhos de Israel ouviram dizer: Eis que os filhos de Rúben, os filhos de Gade e a meia tribo de Manassés edificaram um altar defronte da terra de Canaã, nos limites pegados ao Jordão, do lado dos filhos de Israel.
-12 Ouvindo isto os filhos de Israel, ajuntou-se toda a congregação dos filhos de Israel em Siló, para saírem à peleja contra eles.
-13 E aos filhos de Rúben, aos filhos de Gade e à meia tribo de Manassés enviaram os filhos de Israel, para a terra de Gileade, Fineias, filho de Eleazar, o sacerdote,
-14 e dez príncipes com ele, de cada casa paterna um príncipe de todas as tribos de Israel; e cada um era cabeça da casa de seus pais entre os grupos de milhares de Israel.
-15 Indo eles aos filhos de Rúben, aos filhos de Gade e à meia tribo de Manassés, à terra de Gileade, falaram-lhes, dizendo:
-16 Assim diz toda a congregação do Senhor: Que infidelidade é esta, que cometestes contra o Deus de Israel, deixando, hoje, de seguir o Senhor, edificando-vos um altar, para vos rebelardes contra o Senhor?
-17 Acaso, não nos bastou a iniquidade de Peor, de que até hoje não estamos ainda purificados, posto que houve praga na congregação do Senhor,
-18 para que, hoje, abandoneis o Senhor? Se, hoje, vos rebelais contra o Senhor, amanhã, se irará contra toda a congregação de Israel.
-19 Se a terra da vossa herança é imunda, passai-vos para a terra da possessão do Senhor, onde habita o tabernáculo do Senhor, e tomai possessão entre nós; não vos rebeleis, porém, contra o Senhor, nem vos rebeleis contra nós, edificando-vos altar, afora o altar do Senhor, nosso Deus.
-20 Não cometeu Acã, filho de Zera, infidelidade no tocante às coisas condenadas? E não veio ira sobre toda a congregação de Israel? Pois aquele homem não morreu sozinho na sua iniquidade.
-21 Então, responderam os filhos de Rúben, os filhos de Gade e a meia tribo de Manassés e disseram aos cabeças dos grupos de milhares de Israel:
-22 O Poderoso, o Deus, o Senhor, o Poderoso, o Deus, o Senhor, ele o sabe, e Israel mesmo o saberá. Se foi em rebeldia ou por infidelidade contra o Senhor, hoje, não nos preserveis.
-23 Se edificamos altar para nos apartarmos do Senhor, ou para, sobre ele, oferecermos holocausto e oferta de manjares, ou, sobre ele, fazermos oferta pacífica, o Senhor mesmo de nós o demande.
-24 Pelo contrário, fizemos por causa da seguinte preocupação: amanhã vossos filhos talvez dirão a nossos filhos: Que tendes vós com o Senhor, Deus de Israel?
-25 Pois o Senhor pôs o Jordão por limite entre nós e vós, ó filhos de Rúben e filhos de Gade; não tendes parte no Senhor; e, assim, bem poderiam os vossos filhos apartar os nossos do temor do Senhor.
-26 Pelo que dissemos: preparemo-nos, edifiquemos um altar, não para holocausto, nem para sacrifício,
-27 mas, para que entre nós e vós e entre as nossas gerações depois de nós, nos seja testemunho, e possamos servir ao Senhor diante dele com os nossos holocaustos, e os nossos sacrifícios, e as nossas ofertas pacíficas; e para que vossos filhos não digam amanhã a nossos filhos: Não tendes parte no Senhor.
-28 Pelo que dissemos: quando suceder que, amanhã, assim nos digam a nós e às nossas gerações, então, responderemos: vede o modelo do altar do Senhor que fizeram nossos pais, não para holocausto, nem para sacrifício, mas para testemunho entre nós e vós.
-29 Longe de nós o rebelarmo-nos contra o Senhor e deixarmos, hoje, de seguir o Senhor, edificando altar para holocausto, oferta de manjares ou sacrifício, afora o altar do Senhor, nosso Deus, que está perante o seu tabernáculo.
-30 Ouvindo, pois, Fineias, o sacerdote, e os príncipes da congregação, e os cabeças dos grupos de milhares de Israel que com ele estavam as palavras que disseram os filhos de Rúben, os filhos de Gade e os filhos de Manassés, deram-se por satisfeitos.
-31 E disse Fineias, filho de Eleazar, o sacerdote, aos filhos de Rúben, aos filhos de Gade e aos filhos de Manassés: Hoje, sabemos que o Senhor está no meio de nós, porquanto não cometestes infidelidade contra o Senhor; agora, livrastes os filhos de Israel da mão do Senhor.
-32 Fineias, filho do sacerdote Eleazar, e os príncipes, deixando os filhos de Rúben e os filhos de Gade, voltaram da terra de Gileade para a terra de Canaã, aos filhos de Israel, e deram-lhes conta de tudo.
-33 Com esta resposta deram-se por satisfeitos os filhos de Israel, os quais bendisseram a Deus; e não falaram mais de subir a pelejar contra eles, para destruírem a terra em que habitavam os filhos de Rúben e os filhos de Gade.
-34 Os filhos de Rúben e os filhos de Gade chamaram o altar de Testemunho, porque disseram: É um testemunho entre nós de que o Senhor é Deus.*
-1 Passado muito tempo depois que o Senhor dera repouso a Israel de todos os seus inimigos em redor, e sendo Josué já velho e entrado em dias,
-2 chamou Josué a todo o Israel, os seus anciãos, os seus cabeças, os seus juízes e os seus oficiais e disse-lhes: Já sou velho e entrado em dias,
-3 e vós já tendes visto tudo quanto fez o Senhor, vosso Deus, a todas estas nações por causa de vós, porque o Senhor, vosso Deus, é o que pelejou por vós.
-4 Vede aqui que vos fiz cair em sorte às vossas tribos estas nações que restam, juntamente com todas as nações que tenho eliminado, umas e outras, desde o Jordão até ao mar Grande, para o pôr do sol.
-5 O Senhor, vosso Deus, as afastará de vós e as expulsará de vossa presença; e vós possuireis a sua terra, como o Senhor, vosso Deus, vos prometeu.
-6 Esforçai-vos, pois, muito para guardardes e cumprirdes tudo quanto está escrito no Livro da Lei de Moisés, para que dela não vos aparteis, nem para a direita nem para a esquerda;
-7 para que não vos mistureis com estas nações que restaram entre vós. Não façais menção dos nomes de seus deuses, nem por eles façais jurar, nem os sirvais, nem os adoreis.
-8 Mas ao Senhor, vosso Deus, vos apegareis, como fizestes até ao dia de hoje;
-9 pois o Senhor expulsou de diante de vós grandes e fortes nações; e, quanto a vós outros, ninguém vos resistiu até ao dia de hoje.
-10 Um só homem dentre vós perseguirá mil, pois o Senhor, vosso Deus, é quem peleja por vós, como já vos prometeu.
-11 Portanto, empenhai-vos em guardar a vossa alma, para amardes o Senhor, vosso Deus.
-12 Porque, se dele vos desviardes e vos apegardes ao restante destas nações ainda em vosso meio, e com elas vos aparentardes, e com elas vos misturardes, e elas convosco,
-13 sabei, certamente, que o Senhor, vosso Deus, não expulsará mais estas nações de vossa presença, mas vos serão por laço e rede, e açoite às vossas ilhargas, e espinhos aos vossos olhos, até que pereçais nesta boa terra que vos deu o Senhor, vosso Deus.
-14 Eis que, já hoje, sigo pelo caminho de todos os da terra; e vós bem sabeis de todo o vosso coração e de toda a vossa alma que nem uma só promessa caiu de todas as boas palavras que falou de vós o Senhor, vosso Deus; todas vos sobrevieram, nem uma delas falhou.
-15 E sucederá que, assim como vieram sobre vós todas estas boas coisas que o Senhor, vosso Deus, vos prometeu, assim cumprirá o Senhor contra vós outros todas as ameaças até vos destruir de sobre a boa terra que vos deu o Senhor, vosso Deus.
-16 Quando violardes a aliança que o Senhor, vosso Deus, vos ordenou, e fordes, e servirdes a outros deuses, e os adorardes, então, a ira do Senhor se acenderá sobre vós, e logo perecereis na boa terra que vos deu.*
-1 Depois, reuniu Josué todas as tribos de Israel em Siquém e chamou os anciãos de Israel, os seus cabeças, os seus juízes e os seus oficiais; e eles se apresentaram diante de Deus.
-2 Então, Josué disse a todo o povo: Assim diz o Senhor, Deus de Israel: Antigamente, vossos pais, Tera, pai de Abraão e de Naor, habitaram dalém do Eufrates e serviram a outros deuses.
-3 Eu, porém, tomei Abraão, vosso pai, dalém do rio e o fiz percorrer toda a terra de Canaã; também lhe multipliquei a descendência e lhe dei Isaque.
-4 A Isaque dei Jacó e Esaú e a Esaú dei em possessão as montanhas de Seir; porém Jacó e seus filhos desceram para o Egito.
-5 Então, enviei Moisés e Arão e feri o Egito com o que fiz no meio dele; e, depois, vos tirei de lá.
-6 Tirando eu vossos pais do Egito, viestes ao mar; os egípcios perseguiram vossos pais, com carros e com cavaleiros, até ao mar Vermelho.
-7 E, clamando vossos pais, o Senhor pôs escuridão entre vós e os egípcios, e trouxe o mar sobre estes, e o mar os cobriu; e os vossos olhos viram o que eu fiz no Egito. Então, habitastes no deserto por muito tempo.
-8 Daí eu vos trouxe à terra dos amorreus, que habitavam dalém do Jordão, os quais pelejaram contra vós outros; porém os entreguei nas vossas mãos, e possuístes a sua terra; e os destruí diante de vós.
-9 Levantou-se, também, o rei de Moabe, Balaque, filho de Zipor, e pelejou contra Israel; mandou chamar Balaão, filho de Beor, para que vos amaldiçoasse.
-10 Porém eu não quis ouvir Balaão; e ele teve de vos abençoar; e, assim, vos livrei da sua mão.
-11 Passando vós o Jordão e vindo a Jericó, os habitantes de Jericó pelejaram contra vós outros e também os amorreus, os ferezeus, os cananeus, os heteus, os girgaseus, os heveus e os jebuseus; porém os entreguei nas vossas mãos.
-12 Enviei vespões adiante de vós, que os expulsaram da vossa presença, bem como os dois reis dos amorreus, e isso não com a tua espada, nem com o teu arco.
-13 Dei-vos a terra em que não trabalhastes e cidades que não edificastes, e habitais nelas; comeis das vinhas e dos olivais que não plantastes.
-14 Agora, pois, temei ao Senhor e servi-o com integridade e com fidelidade; deitai fora os deuses aos quais serviram vossos pais dalém do Eufrates e no Egito e servi ao Senhor.
-15 Porém, se vos parece mal servir ao Senhor, escolhei, hoje, a quem sirvais: se aos deuses a quem serviram vossos pais que estavam dalém do Eufrates ou aos deuses dos amorreus em cuja terra habitais. Eu e a minha casa serviremos ao Senhor.
-16 Então, respondeu o povo e disse: Longe de nós o abandonarmos o Senhor para servirmos a outros deuses;
-17 porque o Senhor é o nosso Deus; ele é quem nos fez subir, a nós e a nossos pais, da terra do Egito, da casa da servidão, quem fez estes grandes sinais aos nossos olhos e nos guardou por todo o caminho em que andamos e entre todos os povos pelo meio dos quais passamos.
-18 O Senhor expulsou de diante de nós todas estas gentes, até o amorreu, morador da terra; portanto, nós também serviremos ao Senhor, pois ele é o nosso Deus.
-19 Então, Josué disse ao povo: Não podereis servir ao Senhor, porquanto é Deus santo, Deus zeloso, que não perdoará a vossa transgressão nem os vossos pecados.
-20 Se deixardes o Senhor e servirdes a deuses estranhos, então, se voltará, e vos fará mal, e vos consumirá, depois de vos ter feito bem.
-21 Então, disse o povo a Josué: Não; antes, serviremos ao Senhor.
-22 Josué disse ao povo: Sois testemunhas contra vós mesmos de que escolhestes o Senhor para o servir. E disseram: Nós o somos.
-23 Agora, pois, deitai fora os deuses estranhos que há no meio de vós e inclinai o coração ao Senhor, Deus de Israel.
-24 Disse o povo a Josué: Ao Senhor, nosso Deus, serviremos e obedeceremos à sua voz.
-25 Assim, naquele dia, fez Josué aliança com o povo e lha pôs por estatuto e direito em Siquém.
-26 Josué escreveu estas palavras no Livro da Lei de Deus; tomou uma grande pedra e a erigiu ali debaixo do carvalho que estava em lugar santo do Senhor.
-27 Disse Josué a todo o povo: Eis que esta pedra nos será testemunha, pois ouviu todas as palavras que o Senhor nos tem dito; portanto, será testemunha contra vós outros para que não mintais a vosso Deus.
-28 Então, Josué despediu o povo, cada um para a sua herança.
-29 Depois destas coisas, sucedeu que Josué, filho de Num, servo do Senhor, faleceu com a idade de cento e dez anos.
-30 Sepultaram-no na sua própria herança, em Timnate-Sera, que está na região montanhosa de Efraim, para o norte do monte Gaás.
-31 Serviu, pois, Israel ao Senhor todos os dias de Josué e todos os dias dos anciãos que ainda sobreviveram por muito tempo depois de Josué e que sabiam todas as obras feitas pelo Senhor a Israel.
-32 Os ossos de José, que os filhos de Israel trouxeram do Egito, enterraram-nos em Siquém, naquela parte do campo que Jacó comprara aos filhos de Hamor, pai de Siquém, por cem peças de prata, e que veio a ser a herança dos filhos de José.
-33 Faleceu também Eleazar, filho de Arão, e o sepultaram em Gibeá, pertencente a Fineias, seu filho, a qual lhe fora dada na região montanhosa de Efraim.
+1 Depois da morte de Josué, os filhos de Israel consultaram o Senhor, dizendo: Quem dentre nós, primeiro, subirá aos cananeus para pelejar contra eles?
+2 Respondeu o Senhor: Judá subirá; eis que nas suas mãos entreguei a terra.
+3 Disse, pois, Judá a Simeão, seu irmão: Sobe comigo à herança que me caiu por sorte, e pelejemos contra os cananeus, e também eu subirei contigo à tua, que te caiu por sorte. E Simeão partiu com ele.
+4 Subiu Judá, e o Senhor lhe entregou nas mãos os cananeus e os ferezeus; e feriram deles, em Bezeque, dez mil homens.
+5 Em Bezeque, encontraram Adoni-Bezeque e pelejaram contra ele; e feriram aos cananeus e aos ferezeus.
+6 Adoni-Bezeque, porém, fugiu; mas o perseguiram e, prendendo-o, lhe cortaram os polegares das mãos e dos pés.
+7 Então, disse Adoni-Bezeque: Setenta reis, a quem haviam sido cortados os polegares das mãos e dos pés, apanhavam migalhas debaixo da minha mesa; assim como eu fiz, assim Deus me pagou. E o levaram a Jerusalém, e morreu ali.
+8 Os filhos de Judá pelejaram contra Jerusalém e, tomando-a, passaram-na a fio de espada, pondo fogo à cidade.
+9 Depois, os filhos de Judá desceram a pelejar contra os cananeus que habitavam nas montanhas, no Neguebe e nas planícies.
+10 Partiu Judá contra os cananeus que habitavam em Hebrom, cujo nome, outrora, era Quiriate-Arba, e Judá feriu a Sesai, a Aimã e a Talmai.
+11 Dali partiu contra os moradores de Debir; e era, dantes, o nome de Debir Quiriate-Sefer.
+12 Disse Calebe: A quem derrotar Quiriate-Sefer e a tomar, darei minha filha Acsa por mulher.
+13 Tomou-a, pois, Otniel, filho de Quenaz, o irmão de Calebe, mais novo do que ele; e Calebe lhe deu sua filha Acsa por mulher.
+14 Esta, quando se foi a ele, insistiu com ele para que pedisse um campo ao pai dela; e ela apeou do jumento; então, Calebe lhe perguntou: Que desejas?
+15 Respondeu ela: Dá-me um presente; deste-me terra seca, dá-me também fontes de água. Então, Calebe lhe deu as fontes superiores e as fontes inferiores.
+16 Os filhos do queneu, sogro de Moisés, subiram, com os filhos de Judá, da cidade das Palmeiras ao deserto de Judá, que está ao sul de Arade; foram e habitaram com este povo.
+17 Foi-se, pois, Judá com Simeão, seu irmão, e feriram aos cananeus que habitavam em Zefate e totalmente a destruíram; por isso, lhe chamaram Horma.
+18 Tomou ainda Judá a Gaza, a Asquelom e a Ecrom com os seus respectivos territórios.
+19 Esteve o Senhor com Judá, e este despovoou as montanhas; porém não expulsou os moradores do vale, porquanto tinham carros de ferro.
+20 E, como Moisés o dissera, deram Hebrom a Calebe, e este expulsou dali os três filhos de Anaque.
+21 Porém os filhos de Benjamim não expulsaram os jebuseus que habitavam em Jerusalém; antes, os jebuseus habitam com os filhos de Benjamim em Jerusalém, até ao dia de hoje.
+22 Subiu também a casa de José contra Betel, e o Senhor era com eles.
+23 A casa de José enviou homens a espiar Betel, cujo nome, dantes, era Luz.
+24 Vendo os espias um homem que saía da cidade, lhe disseram: Mostra-nos a entrada da cidade, e usaremos de misericórdia para contigo.
+25 Mostrando-lhes ele a entrada da cidade, feriram a cidade a fio de espada; porém, àquele homem e a toda a sua família, deixaram ir.
+26 Então, se foi ele à terra dos heteus, e edificou uma cidade, e lhe chamou Luz; este é o seu nome até ao dia de hoje.
+27 Manassés não expulsou os habitantes de Bete-Seã, nem os de Taanaque, nem os de Dor, nem os de Ibleão, nem os de Megido, todas com suas respectivas aldeias; pelo que os cananeus lograram permanecer na mesma terra.
+28 Quando, porém, Israel se tornou mais forte, sujeitou os cananeus a trabalhos forçados e não os expulsou de todo.
+29 Efraim não expulsou os cananeus, habitantes de Gezer; antes, continuaram com ele em Gezer.
+30 Zebulom não expulsou os habitantes de Quitrom, nem os de Naalol; porém os cananeus continuaram com ele, sujeitos a trabalhos forçados.
+31 Aser não expulsou os habitantes de Aco, nem os de Sidom, os de Alabe, os de Aczibe, os de Helba, os de Afeca e os de Reobe;
+32 porém os aseritas continuaram no meio dos cananeus que habitavam na terra, porquanto os não expulsaram.
+33 Naftali não expulsou os habitantes de Bete-Semes, nem os de Bete-Anate; mas continuou no meio dos cananeus que habitavam na terra; porém os de Bete-Semes e Bete-Anate lhe foram sujeitos a trabalhos forçados.
+34 Os amorreus arredaram os filhos de Dã até às montanhas e não os deixavam descer ao vale.
+35 Porém os amorreus lograram habitar nas montanhas de Heres, em Aijalom e em Saalabim; contudo, a mão da casa de José prevaleceu, e foram sujeitos a trabalhos forçados.
+36 O limite dos amorreus foi desde a subida de Acrabim e desde Sela para cima.*
+1 Subiu o Anjo do Senhor de Gilgal a Boquim e disse: Do Egito vos fiz subir e vos trouxe à terra que, sob juramento, havia prometido a vossos pais. Eu disse: nunca invalidarei a minha aliança convosco.
+2 Vós, porém, não fareis aliança com os moradores desta terra; antes, derribareis os seus altares; contudo, não obedecestes à minha voz. Que é isso que fizestes?
+3 Pelo que também eu disse: não os expulsarei de diante de vós; antes, vos serão por adversários, e os seus deuses vos serão laços.
+4 Sucedeu que, falando o Anjo do Senhor estas palavras a todos os filhos de Israel, levantou o povo a sua voz e chorou.
+5 Daí, chamarem a esse lugar Boquim; e sacrificaram ali ao Senhor.
+6 Havendo Josué despedido o povo, foram-se os filhos de Israel, cada um à sua herança, para possuírem a terra.
+7 Serviu o povo ao Senhor todos os dias de Josué e todos os dias dos anciãos que ainda sobreviveram por muito tempo depois de Josué e que viram todas as grandes obras feitas pelo Senhor a Israel.
+8 Faleceu Josué, filho de Num, servo do Senhor, com a idade de cento e dez anos;
+9 sepultaram-no no limite da sua herança, em Timnate-Heres, na região montanhosa de Efraim, ao norte do monte Gaás.
+10 Foi também congregada a seus pais toda aquela geração; e outra geração após eles se levantou, que não conhecia o Senhor, nem tampouco as obras que fizera a Israel.
+11 Então, fizeram os filhos de Israel o que era mau perante o Senhor; pois serviram aos baalins.
+12 Deixaram o Senhor, Deus de seus pais, que os tirara da terra do Egito, e foram-se após outros deuses, dentre os deuses das gentes que havia ao redor deles, e os adoraram, e provocaram o Senhor à ira.
+13 Porquanto deixaram o Senhor e serviram a Baal e a Astarote.
+14 Pelo que a ira do Senhor se acendeu contra Israel e os deu na mão dos espoliadores, que os pilharam; e os entregou na mão dos seus inimigos ao redor; e não mais puderam resistir a eles.
+15 Por onde quer que saíam, a mão do Senhor era contra eles para seu mal, como o Senhor lhes dissera e jurara; e estavam em grande aperto.
+16 Suscitou o Senhor juízes, que os livraram da mão dos que os pilharam.
+17 Contudo, não obedeceram aos seus juízes; antes, se prostituíram após outros deuses e os adoraram. Depressa se desviaram do caminho por onde andaram seus pais na obediência dos mandamentos do Senhor; e não fizeram como eles.
+18 Quando o Senhor lhes suscitava juízes, o Senhor era com o juiz e os livrava da mão dos seus inimigos, todos os dias daquele juiz; porquanto o Senhor se compadecia deles ante os seus gemidos, por causa dos que os apertavam e oprimiam.
+19 Sucedia, porém, que, falecendo o juiz, reincidiam e se tornavam piores do que seus pais, seguindo após outros deuses, servindo-os e adorando-os eles; nada deixavam das suas obras, nem da obstinação dos seus caminhos.
+20 Pelo que a ira do Senhor se acendeu contra Israel; e disse: Porquanto este povo transgrediu a minha aliança que eu ordenara a seus pais e não deu ouvidos à minha voz,
+21 também eu não expulsarei mais de diante dele nenhuma das nações que Josué deixou quando morreu;
+22 para, por elas, pôr Israel à prova, se guardará ou não o caminho do Senhor, como seus pais o guardaram.
+23 Assim, o Senhor deixou ficar aquelas nações e não as expulsou logo, nem as entregou na mão de Josué.*
+1 São estas as nações que o Senhor deixou para, por elas, provar a Israel, isto é, provar quantos em Israel não sabiam de todas as guerras de Canaã.
+2 Isso tão somente para que as gerações dos filhos de Israel delas soubessem (para lhes ensinar a guerra), pelo menos as gerações que, dantes, não sabiam disso:
+3 cinco príncipes dos filisteus, e todos os cananeus, e sidônios, e heveus que habitavam as montanhas do Líbano, desde o monte de Baal-Hermom até à entrada de Hamate.
+4 Estes ficaram para, por eles, o Senhor pôr Israel à prova, para saber se dariam ouvidos aos mandamentos que havia ordenado a seus pais por intermédio de Moisés.
+5 Habitando, pois, os filhos de Israel no meio dos cananeus, dos heteus, e amorreus, e ferezeus, e heveus, e jebuseus,
+6 tomaram de suas filhas para si por mulheres e deram as suas próprias aos filhos deles; e rendiam culto a seus deuses.
+7 Os filhos de Israel fizeram o que era mau perante o Senhor e se esqueceram do Senhor, seu Deus; e renderam culto aos baalins e ao poste-ídolo.
+8 Então, a ira do Senhor se acendeu contra Israel, e ele os entregou nas mãos de Cusã-Risataim, rei da Mesopotâmia; e os filhos de Israel serviram a Cusã-Risataim oito anos.
+9 Clamaram ao Senhor os filhos de Israel, e o Senhor lhes suscitou libertador, que os libertou: Otniel, filho de Quenaz, que era irmão de Calebe e mais novo do que ele.
+10 Veio sobre ele o Espírito do Senhor, e ele julgou a Israel; saiu à peleja, e o Senhor lhe entregou nas mãos a Cusã-Risataim, rei da Mesopotâmia, contra o qual ele prevaleceu.
+11 Então, a terra ficou em paz durante quarenta anos. Otniel, filho de Quenaz, faleceu.
+12 Tornaram, então, os filhos de Israel a fazer o que era mau perante o Senhor; mas o Senhor deu poder a Eglom, rei dos moabitas, contra Israel, porquanto fizeram o que era mau perante o Senhor.
+13 E ajuntou consigo os filhos de Amom e os amalequitas, e foi, e feriu a Israel; e apoderaram-se da cidade das Palmeiras.
+14 E os filhos de Israel serviram a Eglom, rei dos moabitas, dezoito anos.
+15 Então, os filhos de Israel clamaram ao Senhor, e o Senhor lhes suscitou libertador: Eúde, homem canhoto, filho de Gera, benjamita. Por intermédio dele, enviaram os filhos de Israel tributo a Eglom, rei dos moabitas.
+16 Eúde fez para si um punhal de dois gumes, do comprimento de um côvado; e cingiu-o debaixo das suas vestes, do lado direito.
+17 Levou o tributo a Eglom, rei dos moabitas; era Eglom homem gordo.
+18 Tendo entregado o tributo, despediu a gente que o trouxera e saiu com ela.
+19 Porém voltou do ponto em que estavam as imagens de escultura ao pé de Gilgal e disse ao rei: Tenho uma palavra secreta a dizer-te, ó rei. O rei disse: Cala-te. Então, todos os que lhe assistiam saíram de sua presença.
+20 Eúde entrou numa sala de verão, que o rei tinha só para si, onde estava assentado, e disse: Tenho a dizer-te uma palavra de Deus. E Eglom se levantou da cadeira.
+21 Então, Eúde, estendendo a mão esquerda, puxou o seu punhal do lado direito e lho cravou no ventre,
+22 de tal maneira que entrou também o cabo com a lâmina, e, porque não o retirou do ventre, a gordura se fechou sobre ele; e Eúde, saindo por um postigo,
+23 passou para o vestíbulo, depois de cerrar sobre ele as portas, trancando-as.
+24 Tendo saído, vieram os servos do rei e viram, e eis que as portas da sala de verão estavam trancadas; e disseram: Sem dúvida está ele aliviando o ventre na privada da sala de verão.
+25 Aborreceram-se de esperar; e, como não abria a porta da sala, tomaram da chave e a abriram; e eis seu senhor estendido morto em terra.
+26 Eúde escapou enquanto eles se demoravam e, tendo passado pelas imagens de escultura, foi para Seirá.
+27 Tendo ele chegado, tocou a trombeta nas montanhas de Efraim; e os filhos de Israel desceram com ele das montanhas, indo ele à frente.
+28 E lhes disse: Segui-me, porque o Senhor entregou nas vossas mãos os vossos inimigos, os moabitas; e desceram após ele, e tomaram os vaus do Jordão contra os moabitas, e a nenhum deles deixaram passar.
+29 Naquele tempo, feriram dos moabitas uns dez mil homens, todos robustos e valentes; e não escapou nem sequer um.
+30 Assim, foi Moabe subjugado, naquele dia, sob o poder de Israel; e a terra ficou em paz oitenta anos.
+31 Depois dele, foi Sangar, filho de Anate, que feriu seiscentos homens dos filisteus com uma aguilhada de bois; e também ele libertou a Israel.*
+1 Os filhos de Israel tornaram a fazer o que era mau perante o Senhor, depois de falecer Eúde.
+2 Entregou-os o Senhor nas mãos de Jabim, rei de Canaã, que reinava em Hazor. Sísera era o comandante do seu exército, o qual, então, habitava em Harosete-Hagoim.
+3 Clamaram os filhos de Israel ao Senhor, porquanto Jabim tinha novecentos carros de ferro e, por vinte anos, oprimia duramente os filhos de Israel.
+4 Débora, profetisa, mulher de Lapidote, julgava a Israel naquele tempo.
+5 Ela atendia debaixo da palmeira de Débora, entre Ramá e Betel, na região montanhosa de Efraim; e os filhos de Israel subiam a ela a juízo.
+6 Mandou ela chamar a Baraque, filho de Abinoão, de Quedes de Naftali, e disse-lhe: Porventura, o Senhor, Deus de Israel, não deu ordem, dizendo: Vai, e leva gente ao monte Tabor, e toma contigo dez mil homens dos filhos de Naftali e dos filhos de Zebulom?
+7 E farei ir a ti para o ribeiro Quisom a Sísera, comandante do exército de Jabim, com os seus carros e as suas tropas; e o darei nas tuas mãos.
+8 Então, lhe disse Baraque: Se fores comigo, irei; porém, se não fores comigo, não irei.
+9 Ela respondeu: Certamente, irei contigo, porém não será tua a honra da investida que empreendes; pois às mãos de uma mulher o Senhor entregará a Sísera. E saiu Débora e se foi com Baraque para Quedes.
+10 Então, Baraque convocou a Zebulom e a Naftali em Quedes, e com ele subiram dez mil homens; e Débora também subiu com ele.
+11 Ora, Héber, queneu, se tinha apartado dos queneus, dos filhos de Hobabe, sogro de Moisés, e havia armado as suas tendas até ao carvalho de Zaananim, que está junto a Quedes.
+12 Anunciaram a Sísera que Baraque, filho de Abinoão, tinha subido ao monte Tabor.
+13 Sísera convocou todos os seus carros, novecentos carros de ferro, e todo o povo que estava com ele, de Harosete-Hagoim para o ribeiro Quisom.
+14 Então, disse Débora a Baraque: Dispõe-te, porque este é o dia em que o Senhor entregou a Sísera nas tuas mãos; porventura, o Senhor não saiu adiante de ti? Baraque, pois, desceu do monte Tabor, e dez mil homens, após ele.
+15 E o Senhor derrotou a Sísera, e todos os seus carros, e a todo o seu exército a fio de espada, diante de Baraque; e Sísera saltou do carro e fugiu a pé.
+16 Mas Baraque perseguiu os carros e os exércitos até Harosete-Hagoim; e todo o exército de Sísera caiu a fio de espada, sem escapar nem sequer um.
+17 Porém Sísera fugiu a pé para a tenda de Jael, mulher de Héber, queneu; porquanto havia paz entre Jabim, rei de Hazor, e a casa de Héber, queneu.
+18 Saindo Jael ao encontro de Sísera, disse-lhe: Entra, senhor meu, entra na minha tenda, não temas. Retirou-se para a sua tenda, e ela pôs sobre ele uma coberta.
+19 Então, ele lhe disse: Dá-me, peço-te, de beber um pouco de água, porque tenho sede. Ela abriu um odre de leite, e deu-lhe de beber, e o cobriu.
+20 E ele lhe disse mais: Põe-te à porta da tenda; e há de ser que, se vier alguém e te perguntar: Há aqui alguém?, responde: Não.
+21 Então, Jael, mulher de Héber, tomou uma estaca da tenda, e lançou mão de um martelo, e foi-se mansamente a ele, e lhe cravou a estaca na fonte, de sorte que penetrou na terra, estando ele em profundo sono e mui exausto; e, assim, morreu.
+22 E eis que, perseguindo Baraque a Sísera, Jael lhe saiu ao encontro e lhe disse: Vem, e mostrar-te-ei o homem que procuras. Ele a seguiu; e eis que Sísera jazia morto, e a estaca na fonte.
+23 Assim, Deus, naquele dia, humilhou a Jabim, rei de Canaã, diante dos filhos de Israel.
+24 E cada vez mais a mão dos filhos de Israel prevalecia contra Jabim, rei de Canaã, até que o exterminaram.*
+1 Naquele dia, cantaram Débora e Baraque, filho de Abinoão, dizendo:
+2 Desde que os chefes se puseram à frente de Israel, e o povo se ofereceu voluntariamente, bendizei ao Senhor.
+3 Ouvi, reis, dai ouvidos, príncipes: eu, eu mesma cantarei ao Senhor; salmodiarei ao Senhor, Deus de Israel.
+4 Saindo tu, ó Senhor, de Seir, marchando desde o campo de Edom, a terra estremeceu; os céus gotejaram, sim, até as nuvens gotejaram águas.
+5 Os montes vacilaram diante do Senhor, e até o Sinai, diante do Senhor, Deus de Israel.
+6 Nos dias de Sangar, filho de Anate, nos dias de Jael, cessaram as caravanas; e os viajantes tomavam desvios tortuosos.
+7 Ficaram desertas as aldeias em Israel, repousaram, até que eu, Débora, me levantei, levantei-me por mãe em Israel.
+8 Escolheram-se deuses novos; então, a guerra estava às portas; não se via escudo nem lança entre quarenta mil em Israel.
+9 Meu coração se inclina para os comandantes de Israel, que, voluntariamente, se ofereceram entre o povo; bendizei ao Senhor.
+10 Vós, os que cavalgais jumentas brancas, que vos assentais em juízo e que andais pelo caminho, falai disto.
+11 À música dos distribuidores de água, lá entre os canais dos rebanhos, falai dos atos de justiça do Senhor, das justiças a prol de suas aldeias em Israel. Então, o povo do Senhor pôde descer ao seu lar.
+12 Desperta, Débora, desperta, desperta, acorda, entoa um cântico; levanta-te, Baraque, e leva presos os que te prenderam, tu, filho de Abinoão.
+13 Então, desceu o restante dos nobres, o povo do Senhor em meu auxílio contra os poderosos.
+14 De Efraim, cujas raízes estão na antiga região de Amaleque, desceram guerreiros; depois de ti, ó Débora, seguiu Benjamim com seus povos; de Maquir desceram comandantes, e, de Zebulom, os que levam a vara de comando.
+15 Também os príncipes de Issacar foram com Débora; Issacar seguiu a Baraque, em cujas pegadas foi enviado para o vale. Entre as facções de Rúben houve grande discussão.
+16 Por que ficaste entre os currais para ouvires a flauta? Entre as facções de Rúben houve grande discussão.
+17 Gileade ficou dalém do Jordão, e Dã, por que se deteve junto a seus navios? Aser se assentou nas costas do mar e repousou nas suas baías.
+18 Zebulom é povo que expôs a sua vida à morte, como também Naftali, nas alturas do campo.
+19 Vieram reis e pelejaram; pelejaram os reis de Canaã em Taanaque, junto às águas de Megido; porém não levaram nenhum despojo de prata.
+20 Desde os céus pelejaram as estrelas contra Sísera, desde a sua órbita o fizeram.
+21 O ribeiro Quisom os arrastou, Quisom, o ribeiro das batalhas. Avante, ó minha alma, firme!
+22 Então, as unhas dos cavalos socavam pelo galopar, o galopar dos seus guerreiros.
+23 Amaldiçoai a Meroz, diz o Anjo do Senhor, amaldiçoai duramente os seus moradores, porque não vieram em socorro do Senhor, em socorro do Senhor e seus heróis.
+24 Bendita seja sobre as mulheres Jael, mulher de Héber, o queneu; bendita seja sobre as mulheres que vivem em tendas.
+25 Água pediu ele, leite lhe deu ela; em taça de príncipes lhe ofereceu nata.
+26 À estaca estendeu a mão e, ao maço dos trabalhadores, a direita; e deu o golpe em Sísera, rachou-lhe a cabeça, furou e traspassou-lhe as fontes.
+27 Aos pés dela se encurvou, caiu e ficou estirado; a seus pés se encurvou e caiu; onde se encurvou, ali caiu morto.
+28 A mãe de Sísera olhava pela janela e exclamava pela grade: Por que tarda em vir o seu carro? Por que se demoram os passos dos seus cavalos?
+29 As mais sábias das suas damas respondem, e até ela a si mesma respondia:
+30 Porventura, não achariam e repartiriam despojos? Uma ou duas moças, a cada homem? Para Sísera, estofos de várias cores, estofos de várias cores de bordados; um ou dois estofos bordados, para o pescoço da esposa?
+31 Assim, ó Senhor, pereçam todos os teus inimigos! Porém os que te amam brilham como o sol quando se levanta no seu esplendor. E a terra ficou em paz quarenta anos.*
+1 Fizeram os filhos de Israel o que era mau perante o Senhor; por isso, o Senhor os entregou nas mãos dos midianitas por sete anos.
+2 Prevalecendo o domínio dos midianitas sobre Israel, fizeram estes para si, por causa dos midianitas, as covas que estão nos montes, e as cavernas, e as fortificações.
+3 Porque, cada vez que Israel semeava, os midianitas e os amalequitas, como também os povos do Oriente, subiam contra ele.
+4 E contra ele se acampavam, destruindo os produtos da terra até à vizinhança de Gaza, e não deixavam em Israel sustento algum, nem ovelhas, nem bois, nem jumentos.
+5 Pois subiam com os seus gados e tendas e vinham como gafanhotos, em tanta multidão, que não se podiam contar, nem a eles nem aos seus camelos; e entravam na terra para a destruir.
+6 Assim, Israel ficou muito debilitado com a presença dos midianitas; então, os filhos de Israel clamavam ao Senhor.
+7 Tendo os filhos de Israel clamado ao Senhor, por causa dos midianitas,
+8 o Senhor lhes enviou um profeta, que lhes disse: Assim diz o Senhor, Deus de Israel: Eu é que vos fiz subir do Egito e vos tirei da casa da servidão;
+9 e vos livrei da mão dos egípcios e da mão de todos quantos vos oprimiam; e os expulsei de diante de vós e vos dei a sua terra;
+10 e disse: Eu sou o Senhor, vosso Deus; não temais os deuses dos amorreus, em cuja terra habitais; contudo, não destes ouvidos à minha voz.
+11 Então, veio o Anjo do Senhor, e assentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, abiezrita; e Gideão, seu filho, estava malhando o trigo no lagar, para o pôr a salvo dos midianitas.
+12 Então, o Anjo do Senhor lhe apareceu e lhe disse: O Senhor é contigo, homem valente.
+13 Respondeu-lhe Gideão: Ai, senhor meu! Se o Senhor é conosco, por que nos sobreveio tudo isto? E que é feito de todas as suas maravilhas que nossos pais nos contaram, dizendo: Não nos fez o Senhor subir do Egito? Porém, agora, o Senhor nos desamparou e nos entregou nas mãos dos midianitas.
+14 Então, se virou o Senhor para ele e disse: Vai nessa tua força e livra Israel da mão dos midianitas; porventura, não te enviei eu?
+15 E ele lhe disse: Ai, Senhor meu! Com que livrarei Israel? Eis que a minha família é a mais pobre em Manassés, e eu, o menor na casa de meu pai.
+16 Tornou-lhe o Senhor: Já que eu estou contigo, ferirás os midianitas como se fossem um só homem.
+17 Ele respondeu: Se, agora, achei mercê diante dos teus olhos, dá-me um sinal de que és tu, Senhor, que me falas.
+18 Rogo-te que daqui não te apartes até que eu volte, e traga a minha oferta, e a deponha perante ti. Respondeu ele: Esperarei até que voltes.
+19 Entrou Gideão e preparou um cabrito e bolos asmos de um efa de farinha; a carne pôs num cesto, e o caldo, numa panela; e trouxe-lho até debaixo do carvalho e lho apresentou.
+20 Porém o Anjo de Deus lhe disse: Toma a carne e os bolos asmos, põe-nos sobre esta penha e derrama-lhes por cima o caldo. E assim o fez.
+21 Estendeu o Anjo do Senhor a ponta do cajado que trazia na mão e tocou a carne e os bolos asmos; então, subiu fogo da penha e consumiu a carne e os bolos; e o Anjo do Senhor desapareceu de sua presença.
+22 Viu Gideão que era o Anjo do Senhor e disse: Ai de mim, Senhor Deus! Pois vi o Anjo do Senhor face a face.
+23 Porém o Senhor lhe disse: Paz seja contigo! Não temas! Não morrerás!
+24 Então, Gideão edificou ali um altar ao Senhor e lhe chamou de O Senhor É Paz. Ainda até ao dia de hoje está o altar em Ofra, que pertence aos abiezritas.
+25 Naquela mesma noite, lhe disse o Senhor: Toma um boi que pertence a teu pai, a saber, o segundo boi de sete anos, e derriba o altar de Baal que é de teu pai, e corta o poste-ídolo que está junto ao altar.
+26 Edifica ao Senhor, teu Deus, um altar no cimo deste baluarte, em camadas de pedra, e toma o segundo boi, e o oferecerás em holocausto com a lenha do poste-ídolo que vieres a cortar.
+27 Então, Gideão tomou dez homens dentre os seus servos e fez como o Senhor lhe dissera; temendo ele, porém, a casa de seu pai e os homens daquela cidade, não o fez de dia, mas de noite.
+28 Levantando-se, pois, de madrugada, os homens daquela cidade, eis que estava o altar de Baal derribado, e o poste-ídolo que estava junto dele, cortado; e o referido segundo boi fora oferecido no altar edificado.
+29 E uns aos outros diziam: Quem fez isto? E, perguntando e inquirindo, disseram: Gideão, o filho de Joás, fez esta coisa.
+30 Então, os homens daquela cidade disseram a Joás: Leva para fora o teu filho, para que morra; pois derribou o altar de Baal e cortou o poste-ídolo que estava junto dele.
+31 Porém Joás disse a todos os que se puseram contra ele: Contendereis vós por Baal? Livrá-lo-eis vós? Qualquer que por ele contender, ainda esta manhã, será morto. Se é deus, que por si mesmo contenda; pois derribaram o seu altar.
+32 Naquele dia, Gideão passou a ser chamado Jerubaal, porque foi dito: Baal contenda contra ele, pois ele derribou o seu altar.
+33 E todos os midianitas, e amalequitas, e povos do Oriente se ajuntaram, e passaram, e se acamparam no vale de Jezreel.
+34 Então, o Espírito do Senhor revestiu a Gideão, o qual tocou a rebate, e os abiezritas se ajuntaram após dele.
+35 Enviou mensageiros por toda a tribo de Manassés, que também foi convocada para o seguir; enviou ainda mensageiros a Aser, e a Zebulom, e a Naftali, e saíram para encontrar-se com ele.
+36 Disse Gideão a Deus: Se hás de livrar a Israel por meu intermédio, como disseste,
+37 eis que eu porei uma porção de lã na eira; se o orvalho estiver somente nela, e seca a terra ao redor, então, conhecerei que hás de livrar Israel por meu intermédio, como disseste.
+38 E assim sucedeu, porque, ao outro dia, se levantou de madrugada e, apertando a lã, do orvalho dela espremeu uma taça cheia de água.
+39 Disse mais Gideão: Não se acenda contra mim a tua ira, se ainda falar só esta vez; rogo-te que mais esta vez faça eu a prova com a lã; que só a lã esteja seca, e na terra ao redor haja orvalho.
+40 E Deus assim o fez naquela noite, pois só a lã estava seca, e sobre a terra ao redor havia orvalho.*
+1 Então, Jerubaal, que é Gideão, se levantou de madrugada, e todo o povo que com ele estava, e se acamparam junto à fonte de Harode, de maneira que o arraial dos midianitas lhe ficava para o norte, no vale, defronte do outeiro de Moré.
+2 Disse o Senhor a Gideão: É demais o povo que está contigo, para eu entregar os midianitas nas suas mãos; Israel poderia se gloriar contra mim, dizendo: A minha própria mão me livrou.
+3 Apregoa, pois, aos ouvidos do povo, dizendo: Quem for tímido e medroso, volte e retire-se da região montanhosa de Gileade. Então, voltaram do povo vinte e dois mil, e dez mil ficaram.
+4 Disse mais o Senhor a Gideão: Ainda há povo demais; faze-os descer às águas, e ali tos provarei; aquele de quem eu te disser: este irá contigo, esse contigo irá; porém todo aquele de quem eu te disser: este não irá contigo, esse não irá.
+5 Fez Gideão descer os homens às águas. Então, o Senhor lhe disse: Todo que lamber a água com a língua, como faz o cão, esse porás à parte, como também a todo aquele que se abaixar de joelhos a beber.
+6 Foi o número dos que lamberam, levando a mão à boca, trezentos homens; e todo o restante do povo se abaixou de joelhos a beber a água.
+7 Então, disse o Senhor a Gideão: Com estes trezentos homens que lamberam a água eu vos livrarei, e entregarei os midianitas nas tuas mãos; pelo que a outra gente toda que se retire, cada um para o seu lugar.
+8 Tomou o povo provisões nas mãos e as trombetas. Gideão enviou todos os homens de Israel cada um à sua tenda, porém os trezentos homens reteve consigo. Estava o arraial dos midianitas abaixo dele, no vale.
+9 Sucedeu que, naquela mesma noite, o Senhor lhe disse: Levanta-te e desce contra o arraial, porque o entreguei nas tuas mãos.
+10 Se ainda temes atacar, desce tu com teu moço Pura ao arraial;
+11 e ouvirás o que dizem; depois, fortalecidas as tuas mãos, descerás contra o arraial. Então, desceu ele com seu moço Pura até à vanguarda do arraial.
+12 Os midianitas, os amalequitas e todos os povos do Oriente cobriam o vale como gafanhotos em multidão; e eram os seus camelos em multidão inumerável como a areia que há na praia do mar.
+13 Chegando, pois, Gideão, eis que certo homem estava contando um sonho ao seu companheiro e disse: Tive um sonho. Eis que um pão de cevada rodava contra o arraial dos midianitas e deu de encontro à tenda do comandante, de maneira que esta caiu, e se virou de cima para baixo, e ficou assim estendida.
+14 Respondeu-lhe o companheiro e disse: Não é isto outra coisa, senão a espada de Gideão, filho de Joás, homem israelita. Nas mãos dele entregou Deus os midianitas e todo este arraial.
+15 Tendo ouvido Gideão contar este sonho e o seu significado, adorou; e tornou ao arraial de Israel e disse: Levantai-vos, porque o Senhor entregou o arraial dos midianitas nas vossas mãos.
+16 Então, repartiu os trezentos homens em três companhias e deu-lhes, a cada um nas suas mãos, trombetas e cântaros vazios, com tochas neles.
+17 E disse-lhes: Olhai para mim e fazei como eu fizer. Chegando eu às imediações do arraial, como fizer eu, assim fareis.
+18 Quando eu tocar a trombeta, e todos os que comigo estiverem, então, vós também tocareis a vossa ao redor de todo o arraial e direis: Pelo Senhor e por Gideão!
+19 Chegou, pois, Gideão e os cem homens que com ele iam às imediações do arraial, ao princípio da vigília média, havendo-se pouco tempo antes trocado as guardas; e tocaram as trombetas e quebraram os cântaros que traziam nas mãos.
+20 Assim, tocaram as três companhias as trombetas e despedaçaram os cântaros; e seguravam na mão esquerda as tochas e na mão direita, as trombetas que tocavam; e exclamaram: Espada pelo Senhor e por Gideão!
+21 E permaneceu cada um no seu lugar ao redor do arraial, que todo deitou a correr, e a gritar, e a fugir.
+22 Ao soar das trezentas trombetas, o Senhor tornou a espada de um contra o outro, e isto em todo o arraial, que fugiu rumo de Zererá, até Bete-Sita, até ao limite de Abel-Meolá, acima de Tabate.
+23 Então, os homens de Israel, de Naftali e de Aser e de todo o Manassés foram convocados e perseguiram os midianitas.
+24 Gideão enviou mensageiros a todas as montanhas de Efraim, dizendo: Descei de encontro aos midianitas e impedi-lhes a passagem pelas águas do Jordão até Bete-Bara. Convocados, pois, todos os homens de Efraim, cortaram-lhes a passagem pelo Jordão, até Bete-Bara.
+25 E prenderam a dois príncipes dos midianitas, Orebe e Zeebe; mataram Orebe na penha de Orebe e Zeebe mataram no lagar de Zeebe. Perseguiram aos midianitas e trouxeram as cabeças de Orebe e de Zeebe a Gideão, dalém do Jordão.*
+1 Então, os homens de Efraim disseram a Gideão: Que é isto que nos fizeste, que não nos chamaste quando foste pelejar contra os midianitas? E contenderam fortemente com ele.
+2 Porém ele lhes disse: Que mais fiz eu, agora, do que vós? Não são, porventura, os rabiscos de Efraim melhores do que a vindima de Abiezer?
+3 Deus entregou nas vossas mãos os príncipes dos midianitas, Orebe e Zeebe; que pude eu fazer comparável com o que fizestes? Então, com falar-lhes esta palavra, abrandou-se-lhes a ira para com ele.
+4 Vindo Gideão ao Jordão, passou com os trezentos homens que com ele estavam, cansados mas ainda perseguindo.
+5 E disse aos homens de Sucote: Dai, peço-vos, alguns pães para estes que me seguem, pois estão cansados, e eu vou ao encalço de Zeba e Salmuna, reis dos midianitas.
+6 Porém os príncipes de Sucote disseram: Porventura, tens já sob teu poder o punho de Zeba e de Salmuna, para que demos pão ao teu exército?
+7 Então, disse Gideão: Por isso, quando o Senhor entregar nas minhas mãos Zeba e Salmuna, trilharei a vossa carne com os espinhos do deserto e com os abrolhos.
+8 Dali subiu a Penuel e de igual modo falou a seus homens; estes de Penuel lhe responderam como os homens de Sucote lhe haviam respondido.
+9 Pelo que também falou aos homens de Penuel, dizendo: Quando eu voltar em paz, derribarei esta torre.
+10 Estavam, pois, Zeba e Salmuna em Carcor, e os seus exércitos, com eles, uns quinze mil homens, todos os que restaram do exército de povos do Oriente; e os que caíram foram cento e vinte mil homens que puxavam da espada.
+11 Subiu Gideão pelo caminho dos nômades, ao oriente de Noba e Jogbeá, e feriu aquele exército, que se achava descuidado.
+12 Fugiram Zeba e Salmuna; porém ele os perseguiu, e prendeu os dois reis dos midianitas, Zeba e Salmuna, e desbaratou todo o exército.
+13 Voltando, pois, Gideão, filho de Joás, da peleja, pela subida de Heres,
+14 deteve a um moço de Sucote e lhe fez perguntas; o moço deu por escrito o nome dos príncipes e anciãos de Sucote, setenta e sete homens.
+15 Então, veio Gideão aos homens de Sucote e disse: Vedes aqui Zeba e Salmuna, a respeito dos quais motejastes de mim, dizendo: Porventura, tens tu já sob teu poder o punho de Zeba e Salmuna para que demos pão aos teus homens cansados?
+16 E tomou os anciãos da cidade, e espinhos do deserto, e abrolhos e, com eles, deu severa lição aos homens de Sucote.
+17 Derribou a torre de Penuel e matou os homens da cidade.
+18 Depois disse a Zeba e a Salmuna: Que homens eram os que matastes em Tabor? Responderam: Como tu és, assim eram eles; cada um se assemelhava a filho de rei.
+19 Então, disse ele: Eram meus irmãos, filhos de minha mãe. Tão certo como vive o Senhor, se os tivésseis deixado com vida, eu não vos mataria a vós outros.
+20 E disse a Jéter, seu primogênito: Dispõe-te e mata-os. Porém o moço não arrancou da sua espada, porque temia, porquanto ainda era jovem.
+21 Então, disseram Zeba e Salmuna: Levanta-te e arremete contra nós, porque qual o homem, tal a sua valentia. Dispôs-se, pois, Gideão, e matou a Zeba e a Salmuna, e tomou os ornamentos em forma de meia-lua que estavam no pescoço dos seus camelos.
+22 Então, os homens de Israel disseram a Gideão: Domina sobre nós, tanto tu como teu filho e o filho de teu filho, porque nos livraste do poder dos midianitas.
+23 Porém Gideão lhes disse: Não dominarei sobre vós, nem tampouco meu filho dominará sobre vós; o Senhor vos dominará.
+24 Disse-lhes mais Gideão: Um pedido vos farei: dai-me vós, cada um as argolas do seu despojo (porque tinham argolas de ouro, pois eram ismaelitas).
+25 Disseram eles: De bom grado as daremos. E estenderam uma capa, e cada um deles deitou ali uma argola do seu despojo.
+26 O peso das argolas de ouro que pediu foram mil e setecentos siclos de ouro (afora os ornamentos em forma de meia-lua, as arrecadas e as vestes de púrpura que traziam os reis dos midianitas, e afora os ornamentos que os camelos traziam ao pescoço).
+27 Desse peso fez Gideão uma estola sacerdotal e a pôs na sua cidade, em Ofra; e todo o Israel se prostituiu ali após ela; a estola veio a ser um laço a Gideão e à sua casa.
+28 Assim, foram abatidos os midianitas diante dos filhos de Israel e nunca mais levantaram a cabeça; e ficou a terra em paz durante quarenta anos nos dias de Gideão.
+29 Retirou-se Jerubaal, filho de Joás, e habitou em sua casa.
+30 Teve Gideão setenta filhos, todos provindos dele, porque tinha muitas mulheres.
+31 A sua concubina, que estava em Siquém, lhe deu também à luz um filho; e ele lhe pôs por nome Abimeleque.
+32 Faleceu Gideão, filho de Joás, em boa velhice; e foi sepultado no sepulcro de Joás, seu pai, em Ofra dos abiezritas.
+33 Morto Gideão, tornaram a prostituir-se os filhos de Israel após os baalins e puseram Baal-Berite por deus.
+34 Os filhos de Israel não se lembraram do Senhor, seu Deus, que os livrara do poder de todos os seus inimigos ao redor;
+35 nem usaram de benevolência com a casa de Jerubaal, a saber, Gideão, segundo todo o bem que ele fizera a Israel.*
+1 Abimeleque, filho de Jerubaal, foi-se a Siquém, aos irmãos de sua mãe, e falou-lhes e a toda a geração da casa do pai de sua mãe, dizendo:
+2 Falai, peço-vos, aos ouvidos de todos os cidadãos de Siquém: Que vos parece melhor: que setenta homens, todos os filhos de Jerubaal, dominem sobre vós ou que apenas um domine sobre vós? Lembrai-vos também de que sou osso vosso e carne vossa.
+3 Então, os irmãos de sua mãe falaram a todos os cidadãos de Siquém todas aquelas palavras; e o coração deles se inclinou a seguir Abimeleque, porque disseram: É nosso irmão.
+4 E deram-lhe setenta peças de prata, da casa de Baal-Berite, com as quais alugou Abimeleque uns homens levianos e atrevidos, que o seguiram.
+5 Foi à casa de seu pai, a Ofra, e matou seus irmãos, os filhos de Jerubaal, setenta homens, sobre uma pedra. Porém Jotão, filho menor de Jerubaal, ficou, porque se escondera.
+6 Então, se ajuntaram todos os cidadãos de Siquém e toda Bete-Milo; e foram e proclamaram Abimeleque rei, junto ao carvalho memorial que está perto de Siquém.
+7 Avisado disto, Jotão foi, e se pôs no cimo do monte Gerizim, e em alta voz clamou, e disse-lhes: Ouvi-me, cidadãos de Siquém, e Deus vos ouvirá a vós outros.
+8 Foram, certa vez, as árvores ungir para si um rei e disseram à oliveira: Reina sobre nós.
+9 Porém a oliveira lhes respondeu: Deixaria eu o meu óleo, que Deus e os homens em mim prezam, e iria pairar sobre as árvores?
+10 Então, disseram as árvores à figueira: Vem tu e reina sobre nós.
+11 Porém a figueira lhes respondeu: Deixaria eu a minha doçura, o meu bom fruto e iria pairar sobre as árvores?
+12 Então, disseram as árvores à videira: Vem tu e reina sobre nós.
+13 Porém a videira lhes respondeu: Deixaria eu o meu vinho, que agrada a Deus e aos homens, e iria pairar sobre as árvores?
+14 Então, todas as árvores disseram ao espinheiro: Vem tu e reina sobre nós.
+15 Respondeu o espinheiro às árvores: Se, deveras, me ungis rei sobre vós, vinde e refugiai-vos debaixo de minha sombra; mas, se não, saia do espinheiro fogo que consuma os cedros do Líbano.
+16 Agora, pois, se, deveras e sinceramente, procedestes, proclamando rei Abimeleque, e se bem vos portastes para com Jerubaal e para com a sua casa, e se com ele agistes segundo o merecimento dos seus feitos
+17 (porque meu pai pelejou por vós e, arriscando a vida, vos livrou das mãos dos midianitas;
+18 porém vós, hoje, vos levantastes contra a casa de meu pai e matastes seus filhos, setenta homens, sobre uma pedra; e a Abimeleque, filho de sua serva, fizestes reinar sobre os cidadãos de Siquém, porque é vosso irmão),
+19 se, deveras e sinceramente, procedestes, hoje, com Jerubaal e com a sua casa, alegrai-vos com Abimeleque, e também ele se alegre convosco.
+20 Mas, se não, saia fogo de Abimeleque e consuma os cidadãos de Siquém e Bete-Milo; e saia fogo dos cidadãos de Siquém e de Bete-Milo, que consuma a Abimeleque.
+21 Fugiu logo Jotão, e foi-se para Beer, e ali habitou por temer seu irmão Abimeleque.
+22 Havendo, pois, Abimeleque dominado três anos sobre Israel,
+23 suscitou Deus um espírito de aversão entre Abimeleque e os cidadãos de Siquém; e estes se houveram aleivosamente contra Abimeleque,
+24 para que a vingança da violência praticada contra os setenta filhos de Jerubaal viesse, e o seu sangue caísse sobre Abimeleque, seu irmão, que os matara, e sobre os cidadãos de Siquém, que contribuíram para que ele matasse seus próprios irmãos.
+25 Os cidadãos de Siquém puseram contra ele homens de emboscada sobre os cimos dos montes; e todo aquele que passava pelo caminho junto a eles, eles o assaltavam; e isto se contou a Abimeleque.
+26 Veio também Gaal, filho de Ebede, com seus irmãos, e se estabeleceram em Siquém; e os cidadãos de Siquém confiaram nele,
+27 e saíram ao campo, e vindimaram as suas vinhas, e pisaram as uvas, e fizeram festas, e foram à casa de seu deus, e comeram, e beberam, e amaldiçoaram Abimeleque.
+28 Disse Gaal, filho de Ebede: Quem é Abimeleque, e quem somos nós de Siquém, para que o sirvamos? Não é, porventura, filho de Jerubaal? E não é Zebul o seu oficial? Servi, antes, aos homens de Hamor, pai de Siquém. Mas nós, por que serviremos a ele?
+29 Quem dera estivesse este povo sob a minha mão, e eu expulsaria Abimeleque e lhe diria: Multiplica o teu exército e sai.
+30 Ouvindo Zebul, governador da cidade, as palavras de Gaal, filho de Ebede, se acendeu em ira;
+31 e enviou, astutamente, mensageiros a Abimeleque, dizendo: Eis que Gaal, filho de Ebede, e seus irmãos vieram a Siquém e alvoroçaram a cidade contra ti.
+32 Levanta-te, pois, de noite, tu e o povo que tiveres contigo, e ponde-vos de emboscada no campo.
+33 Levanta-te pela manhã, ao sair o sol, e dá de golpe sobre a cidade; saindo contra ti Gaal com a sua gente, procede com ele como puderes.
+34 Levantou-se, pois, de noite, Abimeleque e todo o povo que com ele estava, e se puseram de emboscada contra Siquém, em quatro grupos.
+35 Gaal, filho de Ebede, saiu e pôs-se à entrada da porta da cidade; com isto Abimeleque e todo o povo que com ele estava se levantaram das emboscadas.
+36 Vendo Gaal aquele povo, disse a Zebul: Eis que desce gente dos cimos dos montes. Zebul, ao contrário, lhe disse: As sombras dos montes vês por homens.
+37 Porém Gaal tornou ainda a falar e disse: Eis ali desce gente defronte de nós, e uma tropa vem do caminho do carvalho dos Adivinhadores.
+38 Então, lhe disse Zebul: Onde está, agora, a tua boca, com a qual dizias: Quem é Abimeleque, para que o sirvamos? Não é este, porventura, o povo que desprezaste? Sai, pois, e peleja contra ele.
+39 Saiu Gaal adiante dos cidadãos de Siquém e pelejou contra Abimeleque.
+40 Abimeleque o perseguiu; Gaal fugiu de diante dele, e muitos feridos caíram até a entrada da porta da cidade.
+41 Abimeleque ficou em Arumá. E Zebul expulsou a Gaal e seus irmãos, para que não habitassem em Siquém.
+42 No dia seguinte, saiu o povo ao campo; disto foi avisado Abimeleque,
+43 que tomou os seus homens, e os repartiu em três grupos, e os pôs de emboscada no campo. Olhando, viu que o povo saía da cidade; então, se levantou contra eles e os feriu.
+44 Abimeleque e o grupo que com ele estava romperam de improviso e tomaram posição à porta da cidade, enquanto os dois outros grupos deram de golpe sobre todos quantos estavam no campo e os destroçaram.
+45 Todo aquele dia pelejou Abimeleque contra a cidade e a tomou. Matou o povo que nela havia, assolou-a e a semeou de sal.
+46 Tendo ouvido isto todos os cidadãos da Torre de Siquém, entraram na fortaleza subterrânea, no templo de El-Berite.
+47 Contou-se a Abimeleque que todos os cidadãos da Torre de Siquém se haviam congregado.
+48 Então, subiu ele ao monte Salmom, ele e todo o seu povo; Abimeleque tomou de um machado, e cortou uma ramada de árvore, e a levantou, e pô-la ao ombro, e disse ao povo que com ele estava: O que me vistes fazer, fazei-o também vós, depressa.
+49 Assim, cada um de todo o povo cortou a sua ramada, e seguiram Abimeleque, e as puseram em cima da fortaleza subterrânea, e queimaram sobre todos os da Torre de Siquém, de maneira que morreram todos, uns mil homens e mulheres.
+50 Então, se foi Abimeleque a Tebes, e a sitiou, e a tomou.
+51 Havia, porém, no meio da cidade, uma torre forte; e todos os homens e mulheres, todos os moradores da cidade, se acolheram a ela, e fecharam após si as portas da torre, e subiram ao seu eirado.
+52 Abimeleque veio até à torre, pelejou contra ela e se chegou até à sua porta para a incendiar.
+53 Porém certa mulher lançou uma pedra superior de moinho sobre a cabeça de Abimeleque e lhe quebrou o crânio.
+54 Então, chamou logo ao moço, seu escudeiro, e lhe disse: Desembainha a tua espada e mata-me, para que não se diga de mim: Mulher o matou. O moço o atravessou, e ele morreu.
+55 Vendo, pois, os homens de Israel que Abimeleque já estava morto, foram-se, cada um para sua casa.
+56 Assim, Deus fez tornar sobre Abimeleque o mal que fizera a seu pai, por ter aquele matado os seus setenta irmãos.
+57 De igual modo, todo o mal dos homens de Siquém Deus fez cair sobre a cabeça deles. Assim, veio sobre eles a maldição de Jotão, filho de Jerubaal.*
+1 Depois de Abimeleque, se levantou, para livrar Israel, Tola, filho de Puá, filho de Dodô, homem de Issacar; e habitava em Samir, na região montanhosa de Efraim.
+2 Julgou a Israel vinte e três anos, e morreu, e foi sepultado em Samir.
+3 Depois dele, se levantou Jair, gileadita, e julgou a Israel vinte e dois anos.
+4 Tinha este trinta filhos, que cavalgavam trinta jumentos; e tinham trinta cidades, a que chamavam Havote-Jair, até ao dia de hoje, as quais estão na terra de Gileade.
+5 Morreu Jair e foi sepultado em Camom.
+6 Tornaram os filhos de Israel a fazer o que era mau perante o Senhor e serviram aos baalins, e a Astarote, e aos deuses da Síria, e aos de Sidom, de Moabe, dos filhos de Amom e dos filisteus; deixaram o Senhor e não o serviram.
+7 Acendeu-se a ira do Senhor contra Israel, e entregou-os nas mãos dos filisteus e nas mãos dos filhos de Amom,
+8 os quais, nesse mesmo ano, vexaram e oprimiram os filhos de Israel. Por dezoito anos, oprimiram a todos os filhos de Israel que estavam dalém do Jordão, na terra dos amorreus, que está em Gileade.
+9 Os filhos de Amom passaram o Jordão para pelejar também contra Judá, e contra Benjamim, e contra a casa de Efraim, de maneira que Israel se viu muito angustiado.
+10 Então, os filhos de Israel clamaram ao Senhor, dizendo: Contra ti havemos pecado, porque deixamos o nosso Deus e servimos aos baalins.
+11 Porém o Senhor disse aos filhos de Israel: Quando os egípcios, e os amorreus, e os filhos de Amom, e os filisteus,
+12 e os sidônios, e os amalequitas, e os maonitas vos oprimiam, e vós clamáveis a mim, não vos livrei eu das suas mãos?
+13 Contudo, vós me deixastes a mim e servistes a outros deuses, pelo que não vos livrarei mais.
+14 Ide e clamai aos deuses que escolhestes; eles que vos livrem no tempo do vosso aperto.
+15 Mas os filhos de Israel disseram ao Senhor: Temos pecado; faze-nos tudo quanto te parecer bem; porém livra-nos ainda esta vez, te rogamos.
+16 E tiraram os deuses alheios do meio de si e serviram ao Senhor; então, já não pôde ele reter a sua compaixão por causa da desgraça de Israel.
+17 Tendo sido convocados os filhos de Amom, acamparam-se em Gileade; mas os filhos de Israel se congregaram e se acamparam em Mispa.
+18 Então, o povo, aliás, os príncipes de Gileade, disseram uns aos outros: Quem será o homem que começará a pelejar contra os filhos de Amom? Será esse o cabeça de todos os moradores de Gileade.*
+1 Era, então, Jefté, o gileadita, homem valente, porém filho de uma prostituta; Gileade gerara a Jefté.
+2 Também a mulher de Gileade lhe deu filhos, os quais, quando já grandes, expulsaram Jefté e lhe disseram: Não herdarás em casa de nosso pai, porque és filho doutra mulher.
+3 Então, Jefté fugiu da presença de seus irmãos e habitou na terra de Tobe; e homens levianos se ajuntaram com ele e com ele saíam.
+4 Passado algum tempo, pelejaram os filhos de Amom contra Israel.
+5 Quando pelejavam, foram os anciãos de Gileade buscar Jefté da terra de Tobe.
+6 E disseram a Jefté: Vem e sê nosso chefe, para que combatamos contra os filhos de Amom.
+7 Porém Jefté disse aos anciãos de Gileade: Porventura, não me aborrecestes a mim e não me expulsastes da casa de meu pai? Por que, pois, vindes a mim, agora, quando estais em aperto?
+8 Responderam os anciãos de Gileade a Jefté: Por isso mesmo, tornamos a ti. Vem, pois, conosco, e combate contra os filhos de Amom, e sê o nosso chefe sobre todos os moradores de Gileade.
+9 Então, Jefté perguntou aos anciãos de Gileade: Se me tornardes a levar para combater contra os filhos de Amom, e o Senhor mos der a mim, então, eu vos serei por cabeça?
+10 Responderam os anciãos de Gileade a Jefté: O Senhor será testemunha entre nós e nos castigará se não fizermos segundo a tua palavra.
+11 Então, Jefté foi com os anciãos de Gileade, e o povo o pôs por cabeça e chefe sobre si; e Jefté proferiu todas as suas palavras perante o Senhor, em Mispa.
+12 Enviou Jefté mensageiros ao rei dos filhos de Amom, dizendo: Que há entre mim e ti que vieste a mim a pelejar contra a minha terra?
+13 Respondeu o rei dos filhos de Amom aos mensageiros de Jefté: É porque, subindo Israel do Egito, me tomou a terra desde Arnom até ao Jaboque e ainda até ao Jordão; restitui-ma, agora, pacificamente.
+14 Porém Jefté tornou a enviar mensageiros ao rei dos filhos de Amom,
+15 dizendo-lhe: Assim diz Jefté: Israel não tomou nem a terra dos moabitas nem a terra dos filhos de Amom;
+16 porque, subindo Israel do Egito, andou pelo deserto até ao mar Vermelho e chegou a Cades.
+17 Então, Israel enviou mensageiros ao rei dos edomitas, dizendo: Rogo-te que me deixes passar pela tua terra. Porém o rei dos edomitas não lhe deu ouvidos; a mesma coisa mandou Israel pedir ao rei dos moabitas, o qual também não lhe quis atender; e, assim, Israel ficou em Cades.
+18 Depois, andou pelo deserto, e rodeou a terra dos edomitas e a terra dos moabitas, e chegou ao oriente da terra destes, e se acampou além do Arnom; por isso, não entrou no território dos moabitas, porque Arnom é o limite deles.
+19 Mas Israel enviou mensageiros a Seom, rei dos amorreus, rei de Hesbom; e disse-lhe: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar.
+20 Porém Seom, não confiando em Israel, recusou deixá-lo passar pelo seu território; pelo contrário, ajuntou todo o seu povo, e se acampou em Jaza, e pelejou contra Israel.
+21 O Senhor, Deus de Israel, entregou Seom e todo o seu povo nas mãos de Israel, que os feriu; e Israel desapossou os amorreus das terras que habitavam.
+22 Tomou posse de todo o território dos amorreus, desde o Arnom até ao Jaboque e desde o deserto até ao Jordão.
+23 Assim, o Senhor, Deus de Israel, desapossou os amorreus ante o seu povo de Israel. E pretendes tu ser dono desta terra?
+24 Não é certo que aquilo que Quemos, teu deus, te dá consideras como tua possessão? Assim, possuiremos nós o território de todos quantos o Senhor, nosso Deus, expulsou de diante de nós.
+25 És tu melhor do que o filho de Zipor, Balaque, rei dos moabitas? Porventura, contendeu este, em algum tempo, com Israel ou pelejou alguma vez contra ele?
+26 Enquanto Israel habitou trezentos anos em Hesbom e nas suas vilas, e em Aroer e nas suas vilas, e em todas as cidades que estão ao longe do Arnom, por que vós, amonitas, não as recuperastes durante esse tempo?
+27 Não sou eu, portanto, quem pecou contra ti! Porém tu fazes mal em pelejar contra mim; o Senhor, que é juiz, julgue hoje entre os filhos de Israel e os filhos de Amom.
+28 Porém o rei dos filhos de Amom não deu ouvidos à mensagem que Jefté lhe enviara.
+29 Então, o Espírito do Senhor veio sobre Jefté; e, atravessando este por Gileade e Manassés, passou até Mispa de Gileade e de Mispa de Gileade passou contra os filhos de Amom.
+30 Fez Jefté um voto ao Senhor e disse: Se, com efeito, me entregares os filhos de Amom nas minhas mãos,
+31 quem primeiro da porta da minha casa me sair ao encontro, voltando eu vitorioso dos filhos de Amom, esse será do Senhor, e eu o oferecerei em holocausto.
+32 Assim, Jefté foi de encontro aos filhos de Amom, a combater contra eles; e o Senhor os entregou nas mãos de Jefté.
+33 Este os derrotou desde Aroer até às proximidades de Minite (vinte cidades ao todo) e até Abel-Queramim; e foi mui grande a derrota. Assim, foram subjugados os filhos de Amom diante dos filhos de Israel.
+34 Vindo, pois, Jefté a Mispa, a sua casa, saiu-lhe a filha ao seu encontro, com adufes e com danças; e era ela filha única; não tinha ele outro filho nem filha.
+35 Quando a viu, rasgou as suas vestes e disse: Ah! Filha minha, tu me prostras por completo; tu passaste a ser a causa da minha calamidade, porquanto fiz voto ao Senhor e não tornarei atrás.
+36 E ela lhe disse: Pai meu, fizeste voto ao Senhor; faze, pois, de mim segundo o teu voto; pois o Senhor te vingou dos teus inimigos, os filhos de Amom.
+37 Disse mais a seu pai: Concede-me isto: deixa-me por dois meses, para que eu vá, e desça pelos montes, e chore a minha virgindade, eu e as minhas companheiras.
+38 Consentiu ele: Vai. E deixou-a ir por dois meses; então, se foi ela com as suas companheiras e chorou a sua virgindade pelos montes.
+39 Ao fim dos dois meses, tornou ela para seu pai, o qual lhe fez segundo o voto por ele proferido; assim, ela jamais foi possuída por varão. Daqui veio o costume em Israel
+40 de as filhas de Israel saírem por quatro dias, de ano em ano, a cantar em memória da filha de Jefté, o gileadita.*
+1 Então, foram convocados os homens de Efraim, e passaram para Zafom, e disseram a Jefté: Por que foste combater contra os filhos de Amom e não nos chamaste para ir contigo? Queimaremos a tua casa, estando tu dentro dela.
+2 E Jefté lhes disse: Eu e o meu povo tivemos grande contenda com os filhos de Amom; chamei-vos, e não me livrastes das suas mãos.
+3 Vendo eu que não me livráveis, arrisquei a minha vida e passei contra os filhos de Amom, e o Senhor os entregou nas minhas mãos; por que, pois, subistes, hoje, contra mim, para me combaterdes?
+4 Ajuntou Jefté todos os homens de Gileade e pelejou contra Efraim; e os homens de Gileade feriram Efraim, porque este dissera: Fugitivos sois de Efraim, vós, gileaditas, que morais no meio de Efraim e Manassés.
+5 Porém os gileaditas tomaram os vaus do Jordão que conduzem a Efraim; de sorte que, quando qualquer fugitivo de Efraim dizia: Quero passar; então, os homens de Gileade lhe perguntavam: És tu efraimita? Se respondia: Não;
+6 então, lhe tornavam: Dize, pois, chibolete; quando dizia sibolete, não podendo exprimir bem a palavra, então, pegavam dele e o matavam nos vaus do Jordão. E caíram de Efraim, naquele tempo, quarenta e dois mil.
+7 Jefté, o gileadita, julgou a Israel seis anos; e morreu e foi sepultado numa das cidades de Gileade.
+8 Depois dele, julgou a Israel Ibsã, de Belém.
+9 Tinha este trinta filhos e trinta filhas; a estas, casou fora; e, de fora, trouxe trinta mulheres para seus filhos. Julgou a Israel sete anos.
+10 Então, faleceu Ibsã e foi sepultado em Belém.
+11 Depois dele, veio Elom, o zebulonita, que julgou a Israel dez anos.
+12 Faleceu Elom, o zebulonita, e foi sepultado em Aijalom, na terra de Zebulom.
+13 Depois dele, julgou a Israel Abdom, filho de Hilel, o piratonita.
+14 Tinha este quarenta filhos e trinta netos, que cavalgavam setenta jumentos. Julgou a Israel oito anos.
+15 Então, faleceu Abdom, filho de Hilel, o piratonita; e foi sepultado em Piratom, na terra de Efraim, na região montanhosa dos amalequitas.*
+1 Tendo os filhos de Israel tornado a fazer o que era mau perante o Senhor, este os entregou nas mãos dos filisteus por quarenta anos.
+2 Havia um homem de Zorá, da linhagem de Dã, chamado Manoá, cuja mulher era estéril e não tinha filhos.
+3 Apareceu o Anjo do Senhor a esta mulher e lhe disse: Eis que és estéril e nunca tiveste filho; porém conceberás e darás à luz um filho.
+4 Agora, pois, guarda-te, não bebas vinho ou bebida forte, nem comas coisa imunda;
+5 porque eis que tu conceberás e darás à luz um filho sobre cuja cabeça não passará navalha; porquanto o menino será nazireu consagrado a Deus desde o ventre de sua mãe; e ele começará a livrar a Israel do poder dos filisteus.
+6 Então, a mulher foi a seu marido e lhe disse: Um homem de Deus veio a mim; sua aparência era semelhante à de um anjo de Deus, tremenda; não lhe perguntei donde era, nem ele me disse o seu nome.
+7 Porém me disse: Eis que tu conceberás e darás à luz um filho; agora, pois, não bebas vinho, nem bebida forte, nem comas coisa imunda; porque o menino será nazireu consagrado a Deus, desde o ventre materno até ao dia de sua morte.
+8 Então, Manoá orou ao Senhor e disse: Ah! Senhor meu, rogo-te que o homem de Deus que enviaste venha outra vez e nos ensine o que devemos fazer ao menino que há de nascer.
+9 Deus ouviu a voz de Manoá, e o Anjo de Deus veio outra vez à mulher, quando esta se achava assentada no campo; porém não estava com ela seu marido Manoá.
+10 Apressou-se, pois, a mulher, e, correndo, noticiou-o a seu marido, e lhe disse: Eis que me apareceu aquele homem que viera a mim no outro dia.
+11 Então, se levantou Manoá, e seguiu a sua mulher, e, tendo chegado ao homem, lhe disse: És tu o que falaste a esta mulher? Ele respondeu: Eu sou.
+12 Então, disse Manoá: Quando se cumprirem as tuas palavras, qual será o modo de viver do menino e o seu serviço?
+13 Respondeu-lhe o Anjo do Senhor: Guarde-se a mulher de tudo quanto eu lhe disse.
+14 De tudo quanto procede da videira não comerá, nem vinho nem bebida forte beberá, nem coisa imunda comerá; tudo quanto lhe tenho ordenado guardará.
+15 Então, Manoá disse ao Anjo do Senhor: Permite-nos deter-te, e te prepararemos um cabrito.
+16 Porém o Anjo do Senhor disse a Manoá: Ainda que me detenhas, não comerei de teu pão; e, se preparares holocausto, ao Senhor o oferecerás. Porque não sabia Manoá que era o Anjo do Senhor.
+17 Perguntou Manoá ao Anjo do Senhor: Qual é o teu nome, para que, quando se cumprir a tua palavra, te honremos?
+18 Respondeu-lhe o Anjo do Senhor e lhe disse: Por que perguntas assim pelo meu nome, que é maravilhoso?
+19 Tomou, pois, Manoá um cabrito e uma oferta de manjares e os apresentou sobre uma rocha ao Senhor; e o Anjo do Senhor se houve maravilhosamente. Manoá e sua mulher estavam observando.
+20 Sucedeu que, subindo para o céu a chama que saiu do altar, o Anjo do Senhor subiu nela; o que vendo Manoá e sua mulher, caíram com o rosto em terra.
+21 Nunca mais apareceu o Anjo do Senhor a Manoá, nem a sua mulher; então, Manoá ficou sabendo que era o Anjo do Senhor.
+22 Disse Manoá a sua mulher: Certamente, morreremos, porque vimos a Deus.
+23 Porém sua mulher lhe disse: Se o Senhor nos quisera matar, não aceitaria de nossas mãos o holocausto e a oferta de manjares, nem nos teria mostrado tudo isto, nem nos teria revelado tais coisas.
+24 Depois, deu a mulher à luz um filho e lhe chamou Sansão; o menino cresceu, e o Senhor o abençoou.
+25 E o Espírito do Senhor passou a incitá-lo em Maané-Dã, entre Zorá e Estaol.*
+1 Desceu Sansão a Timna; vendo em Timna uma das filhas dos filisteus,
+2 subiu, e declarou-o a seu pai e a sua mãe, e disse: Vi uma mulher em Timna, das filhas dos filisteus; tomai-ma, pois, por esposa.
+3 Porém seu pai e sua mãe lhe disseram: Não há, porventura, mulher entre as filhas de teus irmãos ou entre todo o meu povo, para que vás tomar esposa dos filisteus, daqueles incircuncisos? Disse Sansão a seu pai: Toma-me esta, porque só desta me agrado.
+4 Mas seu pai e sua mãe não sabiam que isto vinha do Senhor, pois este procurava ocasião contra os filisteus; porquanto, naquele tempo, os filisteus dominavam sobre Israel.
+5 Desceu, pois, com seu pai e sua mãe a Timna; e, chegando às vinhas de Timna, eis que um leão novo, bramando, lhe saiu ao encontro.
+6 Então, o Espírito do Senhor de tal maneira se apossou dele, que ele o rasgou como quem rasga um cabrito, sem nada ter na mão; todavia, nem a seu pai nem a sua mãe deu a saber o que fizera.
+7 Desceu, e falou àquela mulher, e dela se agradou.
+8 Depois de alguns dias, voltou ele para a tomar; e, apartando-se do caminho para ver o corpo do leão morto, eis que, neste, havia um enxame de abelhas com mel.
+9 Tomou o favo nas mãos e se foi andando e comendo dele; e chegando a seu pai e a sua mãe, deu-lhes do mel, e comeram; porém não lhes deu a saber que do corpo do leão é que o tomara.
+10 Descendo, pois, seu pai à casa daquela mulher, fez Sansão ali um banquete; porque assim o costumavam fazer os moços.
+11 Sucedeu que, como o vissem, convidaram trinta companheiros para estarem com ele.
+12 Disse-lhes, pois, Sansão: Dar-vos-ei um enigma a decifrar; se, nos sete dias das bodas, mo declarardes e descobrirdes, dar-vos-ei trinta camisas e trinta vestes festivais;
+13 se mo não puderdes declarar, vós me dareis a mim as trinta camisas e as trinta vestes festivais. E eles lhe disseram: Dá-nos o teu enigma a decifrar, para que o ouçamos.
+14 Então, lhes disse: Do comedor saiu comida, e do forte saiu doçura. E, em três dias, não puderam decifrar o enigma.
+15 Ao sétimo dia, disseram à mulher de Sansão: Persuade a teu marido que nos declare o enigma, para que não queimemos a ti e a casa de teu pai. Convidastes-nos para vos apossardes do que é nosso, não é assim?
+16 A mulher de Sansão chorou diante dele e disse: Tão somente me aborreces e não me amas; pois deste aos meus patrícios um enigma a decifrar e ainda não mo declaraste a mim. E ele lhe disse: Nem a meu pai nem a minha mãe o declarei e to declararia a ti?
+17 Ela chorava diante dele os sete dias em que celebravam as bodas; ao sétimo dia, lhe declarou, porquanto o importunava; então, ela declarou o enigma aos seus patrícios.
+18 Disseram, pois, a Sansão os homens daquela cidade, ao sétimo dia, antes de se pôr o sol: Que coisa há mais doce do que o mel e mais forte do que o leão? E ele lhes citou o provérbio: Se vós não lavrásseis com a minha novilha, nunca teríeis descoberto o meu enigma.
+19 Então, o Espírito do Senhor de tal maneira se apossou dele, que desceu aos asquelonitas, matou deles trinta homens, despojou-os e as suas vestes festivais deu aos que declararam o enigma; porém acendeu-se a sua ira, e ele subiu à casa de seu pai.
+20 Ao companheiro de honra de Sansão foi dada por mulher a esposa deste.*
+1 Passado algum tempo, nos dias da ceifa do trigo, Sansão, levando um cabrito, foi visitar a sua mulher, pois dizia: Entrarei na câmara de minha mulher. Porém o pai dela não o deixou entrar
+2 e lhe disse: Por certo, pensava eu que de todo a aborrecias, de sorte que a dei ao teu companheiro; porém não é mais formosa do que ela a irmã que é mais nova? Toma-a, pois, em seu lugar.
+3 Então, Sansão lhe respondeu: Desta feita sou inocente para com os filisteus, quando lhes fizer algum mal.
+4 E saiu e tomou trezentas raposas; e, tomando fachos, as virou cauda com cauda e lhes atou um facho no meio delas.
+5 Tendo ele chegado fogo aos tições, largou-as na seara dos filisteus e, assim, incendiou tanto os molhos como o cereal por ceifar, e as vinhas, e os olivais.
+6 Perguntaram os filisteus: Quem fez isto? Responderam: Sansão, o genro do timnita, porque lhe tomou a mulher e a deu a seu companheiro. Então, subiram os filisteus e queimaram a ela e o seu pai.
+7 Disse-lhes Sansão: Se assim procedeis, não desistirei enquanto não me vingar.
+8 E feriu-os com grande carnificina; e desceu e habitou na fenda da rocha de Etã.
+9 Então, os filisteus subiram, e acamparam-se contra Judá, e estenderam-se por Leí.
+10 Perguntaram-lhes os homens de Judá: Por que subistes contra nós? Responderam: Subimos para amarrar Sansão, para lhe fazer a ele como ele nos fez a nós.
+11 Então, três mil homens de Judá desceram até à fenda da rocha de Etã e disseram a Sansão: Não sabias tu que os filisteus dominam sobre nós? Por que, pois, nos fizeste isto? Ele lhes respondeu: Assim como me fizeram a mim, eu lhes fiz a eles.
+12 Descemos, replicaram eles, para te amarrar, para te entregar nas mãos dos filisteus. Sansão lhes disse: Jurai-me que vós mesmos não me acometereis.
+13 Eles lhe disseram: Não, mas somente te amarraremos e te entregaremos nas suas mãos; porém de maneira nenhuma te mataremos. E amarraram-no com duas cordas novas e fizeram-no subir da rocha.
+14 Chegando ele a Leí, os filisteus lhe saíram ao encontro, jubilando; porém o Espírito do Senhor de tal maneira se apossou dele, que as cordas que tinha nos braços se tornaram como fios de linho queimados, e as suas amarraduras se desfizeram das suas mãos.
+15 Achou uma queixada de jumento, ainda fresca, à mão, e tomou-a, e feriu com ela mil homens.
+16 E disse: Com uma queixada de jumento um montão, outro montão; com uma queixada de jumento feri mil homens.
+17 Tendo ele acabado de falar, lançou da sua mão a queixada. Chamou-se aquele lugar Ramate-Leí.
+18 Sentindo grande sede, clamou ao Senhor e disse: Por intermédio do teu servo deste esta grande salvação; morrerei eu, agora, de sede e cairei nas mãos destes incircuncisos?
+19 Então, o Senhor fendeu a cavidade que estava em Leí, e dela saiu água; tendo Sansão bebido, recobrou alento e reviveu; daí chamar-se aquele lugar En-Hacoré até ao dia de hoje.
+20 Sansão julgou a Israel, nos dias dos filisteus, vinte anos.*
+1 Sansão foi a Gaza, e viu ali uma prostituta, e coabitou com ela.
+2 Foi dito aos gazitas: Sansão chegou aqui. Cercaram-no, pois, e toda a noite o esperaram, às escondidas, na porta da cidade; e, toda a noite, estiveram em silêncio, pois diziam: Esperaremos até ao raiar do dia; então, daremos cabo dele.
+3 Porém Sansão esteve deitado até à meia-noite; então, se levantou, e pegou ambas as folhas da porta da cidade com suas ombreiras, e, juntamente com a tranca, as tomou, pondo-as sobre os ombros; e levou-as para cima, até ao cimo do monte que olha para Hebrom.
+4 Depois disto, aconteceu que se afeiçoou a uma mulher do vale de Soreque, a qual se chamava Dalila.
+5 Então, os príncipes dos filisteus subiram a ela e lhe disseram: Persuade-o e vê em que consiste a sua grande força e com que poderíamos dominá-lo e amarrá-lo, para assim o subjugarmos; e te daremos cada um mil e cem siclos de prata.
+6 Disse, pois, Dalila a Sansão: Declara-me, peço-te, em que consiste a tua grande força e com que poderias ser amarrado para te poderem subjugar.
+7 Respondeu-lhe Sansão: Se me amarrarem com sete tendões frescos, ainda não secos, então, me enfraquecerei, e serei como qualquer outro homem.
+8 Os príncipes dos filisteus trouxeram a Dalila sete tendões frescos, que ainda não estavam secos; e com os tendões ela o amarrou.
+9 Tinha ela no seu quarto interior homens escondidos. Então, ela lhe disse: Os filisteus vêm sobre ti, Sansão! Quebrou ele os tendões como se quebra o fio da estopa chamuscada; assim, não se soube em que lhe consistia a força.
+10 Disse Dalila a Sansão: Eis que zombaste de mim e me disseste mentiras; ora, declara-me, agora, com que poderias ser amarrado.
+11 Ele lhe disse: Se me amarrarem bem com cordas novas, com que se não tenha feito obra nenhuma, então, me enfraquecerei e serei como qualquer outro homem.
+12 Dalila tomou cordas novas, e o amarrou, e disse-lhe: Os filisteus vêm sobre ti, Sansão! Tinha ela no seu quarto interior homens escondidos. Ele as rebentou de seus braços como um fio.
+13 Disse Dalila a Sansão: Até agora, tens zombado de mim e me tens dito mentiras; declara-me, pois, agora: com que poderias ser amarrado? Ele lhe respondeu: Se teceres as sete tranças da minha cabeça com a urdidura da teia e se as firmares com pino de tear, então, me enfraquecerei e serei como qualquer outro homem. Enquanto ele dormia, tomou ela as sete tranças e as teceu com a urdidura da teia.
+14 E as fixou com um pino de tear e disse-lhe: Os filisteus vêm sobre ti, Sansão! Então, despertou do seu sono e arrancou o pino e a urdidura da teia.
+15 Então, ela lhe disse: Como dizes que me amas, se não está comigo o teu coração? Já três vezes zombaste de mim e ainda não me declaraste em que consiste a tua grande força.
+16 Importunando-o ela todos os dias com as suas palavras e molestando-o, apoderou-se da alma dele uma impaciência de matar.
+17 Descobriu-lhe todo o coração e lhe disse: Nunca subiu navalha à minha cabeça, porque sou nazireu de Deus, desde o ventre de minha mãe; se vier a ser rapado, ir-se-á de mim a minha força, e me enfraquecerei e serei como qualquer outro homem.
+18 Vendo, pois, Dalila que já ele lhe descobrira todo o coração, mandou chamar os príncipes dos filisteus, dizendo: Subi mais esta vez, porque, agora, me descobriu ele todo o coração. Então, os príncipes dos filisteus subiram a ter com ela e trouxeram com eles o dinheiro.
+19 Então, Dalila fez dormir Sansão nos joelhos dela e, tendo chamado um homem, mandou rapar-lhe as sete tranças da cabeça; passou ela a subjugá-lo; e retirou-se dele a sua força.
+20 E disse ela: Os filisteus vêm sobre ti, Sansão! Tendo ele despertado do seu sono, disse consigo mesmo: Sairei ainda esta vez como dantes e me livrarei; porque ele não sabia ainda que já o Senhor se tinha retirado dele.
+21 Então, os filisteus pegaram nele, e lhe vazaram os olhos, e o fizeram descer a Gaza; amarraram-no com duas cadeias de bronze, e virava um moinho no cárcere.
+22 E o cabelo da sua cabeça, logo após ser rapado, começou a crescer de novo.
+23 Então, os príncipes dos filisteus se ajuntaram para oferecer grande sacrifício a seu deus Dagom e para se alegrarem; e diziam: Nosso deus nos entregou nas mãos a Sansão, nosso inimigo.
+24 Vendo-o o povo, louvavam ao seu deus, porque diziam: Nosso deus nos entregou nas mãos o nosso inimigo, e o que destruía a nossa terra, e o que multiplicava os nossos mortos.
+25 Alegrando-se-lhes o coração, disseram: Mandai vir Sansão, para que nos divirta. Trouxeram Sansão do cárcere, o qual os divertia. Quando o fizeram estar em pé entre as colunas,
+26 disse Sansão ao moço que o tinha pela mão: Deixa-me, para que apalpe as colunas em que se sustém a casa, para que me encoste a elas.
+27 Ora, a casa estava cheia de homens e mulheres, e também ali estavam todos os príncipes dos filisteus; e sobre o teto havia uns três mil homens e mulheres, que olhavam enquanto Sansão os divertia.
+28 Sansão clamou ao Senhor e disse: Senhor Deus, peço-te que te lembres de mim, e dá-me força só esta vez, ó Deus, para que me vingue dos filisteus, ao menos por um dos meus olhos.
+29 Abraçou-se, pois, Sansão com as duas colunas do meio, em que se sustinha a casa, e fez força sobre elas, com a mão direita em uma e com a esquerda na outra.
+30 E disse: Morra eu com os filisteus. E inclinou-se com força, e a casa caiu sobre os príncipes e sobre todo o povo que nela estava; e foram mais os que matou na sua morte do que os que matara na sua vida.
+31 Então, seus irmãos desceram, e toda a casa de seu pai, tomaram-no, subiram com ele e o sepultaram entre Zorá e Estaol, no sepulcro de Manoá, seu pai. Julgou ele a Israel vinte anos.*
+1 Havia um homem da região montanhosa de Efraim cujo nome era Mica,
+2 o qual disse a sua mãe: Os mil e cem siclos de prata que te foram tirados, por cuja causa deitavas maldições e de que também me falaste, eis que esse dinheiro está comigo; eu o tomei. Então, lhe disse a mãe: Bendito do Senhor seja meu filho!
+3 Assim, restituiu os mil e cem siclos de prata a sua mãe, que disse: De minha mão dedico este dinheiro ao Senhor para meu filho, para fazer uma imagem de escultura e uma de fundição, de sorte que, agora, eu to devolvo.
+4 Porém ele restituiu o dinheiro a sua mãe, que tomou duzentos siclos de prata e os deu ao ourives, o qual fez deles uma imagem de escultura e uma de fundição; e a imagem esteve em casa de Mica.
+5 E, assim, este homem, Mica, veio a ter uma casa de deuses; fez uma estola sacerdotal e ídolos do lar e consagrou a um de seus filhos, para que lhe fosse por sacerdote.
+6 Naqueles dias, não havia rei em Israel; cada qual fazia o que achava mais reto.
+7 Havia um moço de Belém de Judá, da tribo de Judá, que era levita e se demorava ali.
+8 Esse homem partiu da cidade de Belém de Judá para ficar onde melhor lhe parecesse. Seguindo, pois, o seu caminho, chegou à região montanhosa de Efraim, até à casa de Mica.
+9 Perguntou-lhe Mica: Donde vens? Ele lhe respondeu: Sou levita de Belém de Judá e vou ficar onde melhor me parecer.
+10 Então, lhe disse Mica: Fica comigo e sê-me por pai e sacerdote; e cada ano te darei dez siclos de prata, o vestuário e o sustento. O levita entrou
+11 e consentiu em ficar com aquele homem; e o moço lhe foi como um de seus filhos.
+12 Consagrou Mica ao moço levita, que lhe passou a ser sacerdote; e ficou em casa de Mica.
+13 Então, disse Mica: Sei, agora, que o Senhor me fará bem, porquanto tenho um levita por sacerdote.*
+1 Naqueles dias, não havia rei em Israel, e a tribo dos danitas buscava para si herança em que habitar; porquanto, até àquele dia, entre as tribos de Israel, não lhe havia caído por sorte a herança.
+2 Enviaram os filhos de Dã cinco homens dentre todos os da sua tribo, homens valentes, de Zorá e de Estaol, a espiar e explorar a terra; e lhes disseram: Ide, explorai a terra. Chegaram à região montanhosa de Efraim, até à casa de Mica, e ali pernoitaram.
+3 Estando eles junto da casa de Mica, reconheceram a voz do moço, do levita; chegaram-se para lá e lhe disseram: Quem te trouxe para aqui? Que fazes aqui? E que é que tens aqui?
+4 Ele respondeu: Assim e assim me fez Mica; pois me assalariou, e eu lhe sirvo de sacerdote.
+5 Então, lhe disseram: Consulta a Deus, para que saibamos se prosperará o caminho que levamos.
+6 Disse-lhes o sacerdote: Ide em paz; o caminho que levais está sob as vistas do Senhor.
+7 Partiram os cinco homens, e chegaram a Laís, e viram que o povo que havia nela estava seguro, segundo o costume dos sidônios, em paz e confiado. Nenhuma autoridade havia que, por qualquer coisa, o oprimisse; também estava longe dos sidônios e não tinha trato com nenhuma outra gente.
+8 Então, voltaram a seus irmãos, a Zorá e a Estaol; e estes lhes perguntaram: Que nos dizeis?
+9 Eles disseram: Disponde-vos e subamos contra eles; porque examinamos a terra, e eis que é muito boa. Estais aí parados? Não vos demoreis em sair para ocupardes a terra.
+10 Quando lá chegardes, achareis um povo confiado, e a terra é ampla; porque Deus vo-la entregou nas mãos; é um lugar em que não há falta de coisa alguma que há na terra.
+11 Então, partiram dali, da tribo dos danitas, de Zorá e de Estaol, seiscentos homens armados de suas armas de guerra.
+12 Subiram e acamparam-se em Quiriate-Jearim, em Judá; pelo que chamaram a este lugar Maané-Dã, até ao dia de hoje; está por detrás de Quiriate-Jearim.
+13 Dali, passaram à região montanhosa de Efraim e chegaram até à casa de Mica.
+14 Os cinco homens que foram espiar a terra de Laís disseram a seus irmãos: Sabeis vós que, naquelas casas, há uma estola sacerdotal, e ídolos do lar, e uma imagem de escultura, e uma de fundição? Vede, pois, o que haveis de fazer.
+15 Então, foram para lá, e chegaram à casa do moço, o levita, em casa de Mica, e o saudaram.
+16 Os seiscentos homens que eram dos filhos de Dã, armados de suas armas de guerra, ficaram à entrada da porta.
+17 Porém, subindo os cinco homens que foram espiar a terra, entraram e apanharam a imagem de escultura, a estola sacerdotal, os ídolos do lar e a imagem de fundição, ficando o sacerdote em pé à entrada da porta, com os seiscentos homens que estavam armados com as armas de guerra.
+18 Entrando eles, pois, na casa de Mica e tomando a imagem de escultura, a estola sacerdotal, os ídolos do lar e a imagem de fundição, disse-lhes o sacerdote: Que estais fazendo?
+19 Eles lhe disseram: Cala-te, e põe a mão na boca, e vem conosco, e sê-nos por pai e sacerdote. Ser-te-á melhor seres sacerdote da casa de um só homem do que seres sacerdote de uma tribo e de uma família em Israel?
+20 Então, se alegrou o coração do sacerdote, tomou a estola sacerdotal, os ídolos do lar e a imagem de escultura e entrou no meio do povo.
+21 Assim, viraram e, tendo posto diante de si os meninos, o gado e seus bens, partiram.
+22 Estando já longe da casa de Mica, reuniram-se os homens que estavam nas casas junto à dele e alcançaram os filhos de Dã.
+23 E clamaram após eles, os quais, voltando-se, disseram a Mica: Que tens, que convocaste esse povo?
+24 Respondeu-lhes: Os deuses que eu fiz me tomastes e também o sacerdote e vos fostes; que mais me resta? Como, pois, me perguntais: Que é o que tens?
+25 Porém os filhos de Dã lhe disseram: Não nos faças ouvir a tua voz, para que, porventura, homens de ânimo amargoso não se lancem sobre ti, e tu percas a tua vida e a vida dos da tua casa.
+26 Assim, prosseguiram o seu caminho os filhos de Dã; e Mica, vendo que eram mais fortes do que ele, voltou-se e tornou para sua casa.
+27 Levaram eles o que Mica havia feito e o sacerdote que tivera, e chegaram a Laís, a um povo em paz e confiado, e os feriram a fio de espada, e queimaram a cidade.
+28 Ninguém houve que os livrasse, porquanto estavam longe de Sidom e não tinham trato com ninguém; a cidade estava no vale junto a Bete-Reobe. Reedificaram a cidade, habitaram nela
+29 e lhe chamaram Dã, segundo o nome de Dã, seu pai, que nascera a Israel; porém, outrora, o nome desta cidade era Laís.
+30 Os filhos de Dã levantaram para si aquela imagem de escultura; e Jônatas, filho de Gérson, o filho de Manassés, ele e seus filhos foram sacerdotes da tribo dos danitas até ao dia do cativeiro do povo.
+31 Assim, pois, a imagem de escultura feita por Mica estabeleceram para si todos os dias que a Casa de Deus esteve em Siló.*
+1 Naqueles dias, em que não havia rei em Israel, houve um homem levita, que, peregrinando nos longes da região montanhosa de Efraim, tomou para si uma concubina de Belém de Judá.
+2 Porém ela, aborrecendo-se dele, o deixou, tornou para a casa de seu pai, em Belém de Judá, e lá esteve os dias de uns quatro meses.
+3 Seu marido, tendo consigo o seu servo e dois jumentos, levantou-se e foi após ela para falar-lhe ao coração, a fim de tornar a trazê-la. Ela o fez entrar na casa de seu pai. Este, quando o viu, saiu alegre a recebê-lo.
+4 Seu sogro, o pai da moça, o deteve por três dias em sua companhia; comeram, beberam, e o casal se alojou ali.
+5 Ao quarto dia, madrugaram e se levantaram para partir; então, o pai da moça disse a seu genro: Fortalece-te com um bocado de pão, e, depois, partireis.
+6 Assentaram-se, pois, e comeram ambos juntos, e beberam; então, disse o pai da moça ao homem: Peço-te que ainda esta noite queiras passá-la aqui, e se alegre o teu coração.
+7 Contudo, o homem levantou-se para partir; porém o seu sogro, instando com ele, fê-lo pernoitar ali.
+8 Madrugando ele ao quinto dia para partir, disse o pai da moça: Fortalece-te, e detende-vos até ao declinar do dia; e ambos comeram juntos.
+9 Então, o homem se levantou para partir, ele, e a sua concubina, e o seu moço; e disse-lhe seu sogro, o pai da moça: Eis que já declina o dia, a tarde vem chegando; peço-te que passes aqui a noite; vai-se o dia acabando, passa aqui a noite, e que o teu coração se alegre; amanhã de madrugada, levantai-vos a caminhar e ide para a vossa casa.
+10 Porém o homem não quis passar ali a noite; mas levantou-se, e partiu, e veio até à altura de Jebus (que é Jerusalém), e com ele os dois jumentos albardados, como também a sua concubina.
+11 Estando, pois, já perto de Jebus e tendo-se adiantado o declinar-se do dia, disse o moço a seu senhor: Caminhai, agora, e retiremo-nos a esta cidade dos jebuseus e passemos ali a noite.
+12 Porém o seu senhor lhe disse: Não nos retiraremos a nenhuma cidade estranha, que não seja dos filhos de Israel, mas passemos até Gibeá.
+13 Disse mais a seu moço: Caminha, e cheguemos a um daqueles lugares e pernoitemos em Gibeá ou em Ramá.
+14 Passaram, pois, adiante e caminharam, e o sol se lhes pôs junto a Gibeá, que pertence a Benjamim.
+15 Retiraram-se para Gibeá, a fim de, nela, passarem a noite; entrando ele, assentou-se na praça da cidade, porque não houve quem os recolhesse em casa para ali pernoitarem.
+16 Eis que, ao anoitecer, vinha do seu trabalho no campo um homem velho; era este da região montanhosa de Efraim, mas morava em Gibeá; porém os habitantes do lugar eram benjamitas.
+17 Erguendo o velho os olhos, viu na praça da cidade este viajante e lhe perguntou: Para onde vais e donde vens?
+18 Ele lhe respondeu: Estamos viajando de Belém de Judá para os longes da região montanhosa de Efraim, donde sou; fui a Belém de Judá e, agora, estou de viagem para a Casa do Senhor; e ninguém há que me recolha em casa,
+19 ainda que há palha e pasto para os nossos jumentos, e também pão e vinho para mim, e para a tua serva, e para o moço que vem com os teus servos; de coisa nenhuma há falta.
+20 Então, disse o velho: Paz seja contigo; tudo quanto te vier a faltar fique a meu cargo; tão somente não passes a noite na praça.
+21 Levou-o para casa e deu pasto aos jumentos; e, tendo eles lavado os pés, comeram e beberam.
+22 Enquanto eles se alegravam, eis que os homens daquela cidade, filhos de Belial, cercaram a casa, batendo à porta; e falaram ao velho, senhor da casa, dizendo: Traze para fora o homem que entrou em tua casa, para que abusemos dele.
+23 O senhor da casa saiu a ter com eles e lhes disse: Não, irmãos meus, não façais semelhante mal; já que o homem está em minha casa, não façais tal loucura.
+24 Minha filha virgem e a concubina dele trarei para fora; humilhai-as e fazei delas o que melhor vos agrade; porém a este homem não façais semelhante loucura.
+25 Porém aqueles homens não o quiseram ouvir; então, ele pegou da concubina do levita e entregou a eles fora, e eles a forçaram e abusaram dela toda a noite até pela manhã; e, subindo a alva, a deixaram.
+26 Ao romper da manhã, vindo a mulher, caiu à porta da casa do homem, onde estava o seu senhor, e ali ficou até que se fez dia claro.
+27 Levantando-se pela manhã o seu senhor, abriu as portas da casa e, saindo a seguir o seu caminho, eis que a mulher, sua concubina, jazia à porta da casa, com as mãos sobre o limiar.
+28 Ele lhe disse: Levanta-te, e vamos; porém ela não respondeu; então, o homem a pôs sobre o jumento, dispôs-se e foi para sua casa.
+29 Chegando a casa, tomou de um cutelo e, pegando a concubina, a despedaçou por seus ossos em doze partes; e as enviou por todos os limites de Israel.
+30 Cada um que a isso presenciava aos outros dizia: Nunca tal se fez, nem se viu desde o dia em que os filhos de Israel subiram da terra do Egito até ao dia de hoje; ponderai nisso, considerai e falai.*
+1 Saíram todos os filhos de Israel, e a congregação se ajuntou perante o Senhor em Mispa, como se fora um só homem, desde Dã até Berseba, como também a terra de Gileade.
+2 Os príncipes de todo o povo e todas as tribos de Israel se apresentaram na congregação do povo de Deus. Havia quatrocentos mil homens de pé, que puxavam da espada.
+3 Ouviram os filhos de Benjamim que os filhos de Israel haviam subido a Mispa. Disseram os filhos de Israel: Contai-nos como sucedeu esta maldade.
+4 Então, respondeu o homem levita, marido da mulher que fora morta, e disse: Cheguei com a minha concubina a Gibeá, cidade de Benjamim, para passar a noite;
+5 os cidadãos de Gibeá se levantaram contra mim e, à noite, cercaram a casa em que eu estava; intentaram matar-me e violaram a minha concubina, de maneira que morreu.
+6 Então, peguei a minha concubina, e a fiz em pedaços, e os enviei por toda a terra da herança de Israel, porquanto fizeram vergonha e loucura em Israel.
+7 Eis que todos sois filhos de Israel; eia! Dai a vossa palavra e conselho neste caso.
+8 Então, todo o povo se levantou como um só homem, dizendo: Nenhum de nós voltará para sua tenda, nenhum de nós se retirará para casa.
+9 Porém isto é o que faremos a Gibeá: subiremos contra ela por sorte.
+10 Tomaremos dez homens de cem de todas as tribos de Israel, e cem de mil, e mil de dez mil, para providenciarem mantimento para o povo, a fim de que este, vindo a Gibeá de Benjamim, faça a ela conforme toda a loucura que tem feito em Israel.
+11 Assim, se ajuntaram contra esta cidade todos os homens de Israel, unidos como um só homem.
+12 As tribos de Israel enviaram homens por toda a tribo de Benjamim, para lhe dizerem: Que maldade é essa que se fez entre vós?
+13 Dai-nos, agora, os homens, filhos de Belial, que estão em Gibeá, para que os matemos e tiremos de Israel o mal; porém Benjamim não quis ouvir a voz de seus irmãos, os filhos de Israel.
+14 Antes, os filhos de Benjamim se ajuntaram, vindos das cidades em Gibeá, para saírem a pelejar contra os filhos de Israel.
+15 E contaram-se, naquele dia, os filhos de Benjamim vindos das cidades; eram vinte e seis mil homens que puxavam da espada, afora os moradores de Gibeá, de que se contavam setecentos homens escolhidos.
+16 Entre todo este povo havia setecentos homens escolhidos, canhotos, os quais atiravam com a funda uma pedra num cabelo e não erravam.
+17 Contaram-se dos homens de Israel, afora os de Benjamim, quatrocentos mil homens que puxavam da espada, e todos eles, homens de guerra.
+18 Levantaram-se os israelitas, subiram a Betel e consultaram a Deus, dizendo: Quem dentre nós subirá, primeiro, a pelejar contra Benjamim? Respondeu o Senhor: Judá subirá primeiro.
+19 Levantaram-se, pois, os filhos de Israel pela manhã e acamparam-se contra Gibeá.
+20 Saíram os homens de Israel à peleja contra Benjamim; e, junto a Gibeá, se ordenaram contra ele.
+21 Então, os filhos de Benjamim saíram de Gibeá e derribaram por terra, naquele dia, vinte e dois mil homens de Israel.
+22 Porém se animou o povo dos homens de Israel e tornaram a ordenar-se para a peleja, no lugar onde, no primeiro dia, o tinham feito.
+23 Antes, subiram os filhos de Israel, e choraram perante o Senhor até à tarde, e consultaram o Senhor, dizendo: Tornaremos a pelejar contra os filhos de Benjamim, nosso irmão? Respondeu o Senhor: Subi contra ele.
+24 Chegaram-se, pois, os filhos de Israel contra os filhos de Benjamim, no dia seguinte.
+25 Também os de Benjamim, no dia seguinte, saíram de Gibeá de encontro a eles e derribaram ainda por terra mais dezoito mil homens, todos dos que puxavam da espada.
+26 Então, todos os filhos de Israel, todo o povo, subiram, e vieram a Betel, e choraram, e estiveram ali perante o Senhor, e jejuaram aquele dia até à tarde; e, perante o Senhor, ofereceram holocaustos e ofertas pacíficas.
+27 E os filhos de Israel perguntaram ao Senhor (porquanto a arca da Aliança de Deus estava ali naqueles dias;
+28 e Fineias, filho de Eleazar, filho de Arão, ministrava perante ela naqueles dias), dizendo: Tornaremos a sair ainda a pelejar contra os filhos de Benjamim, nosso irmão, ou desistiremos? Respondeu o Senhor: Subi, que amanhã eu os entregarei nas vossas mãos.
+29 Então, Israel pôs emboscadas em redor de Gibeá.
+30 Ao terceiro dia, subiram os filhos de Israel contra os filhos de Benjamim e se ordenaram à peleja contra Gibeá, como das outras vezes.
+31 Então, os filhos de Benjamim saíram de encontro ao povo, e, deixando-se atrair para longe da cidade, começaram a ferir alguns do povo, e mataram, como das outras vezes, uns trinta dos homens de Israel, pelas estradas, das quais uma sobe para Betel, a outra, para Gibeá do Campo.
+32 Então, os filhos de Benjamim disseram: Vão derrotados diante de nós como dantes. Porém os filhos de Israel disseram: Fujamos e atraiamo-los da cidade para as estradas.
+33 Todos os homens de Israel se levantaram do seu lugar e se ordenaram para a peleja em Baal-Tamar; e a emboscada de Israel saiu do seu lugar, das vizinhanças de Geba.
+34 Dez mil homens escolhidos de todo o Israel vieram contra Gibeá, e a peleja se tornou renhida; porém eles não imaginavam que a calamidade lhes tocaria.
+35 Então, feriu o Senhor a Benjamim diante de Israel; e mataram os filhos de Israel, naquele dia, vinte e cinco mil e cem homens de Benjamim, todos dos que puxavam da espada;
+36 assim, viram os filhos de Benjamim que estavam feridos. Os homens de Israel retiraram-se perante os benjamitas, porquanto estavam confiados na emboscada que haviam posto contra Gibeá.
+37 A emboscada se apressou, e acometeu a Gibeá, e de golpe feriu-a toda a fio de espada.
+38 Os homens de Israel tinham um sinal determinado com a emboscada, que era fazerem levantar da cidade uma grande nuvem de fumaça.
+39 Então, os homens de Israel deviam voltar à peleja. Começara Benjamim a ferir e havia já matado uns trinta entre os homens de Israel, porque diziam: Com efeito, já estão derrotados diante de nós, como na peleja anterior.
+40 Então, a nuvem de fumaça começou a levantar-se da cidade, como se fora uma coluna; virando-se Benjamim a olhar para trás de si, eis que toda a cidade subia em chamas para o céu.
+41 Viraram os homens de Israel, e os de Benjamim pasmaram, porque viram que a calamidade lhes tocaria.
+42 E viraram diante dos homens de Israel, para o caminho do deserto; porém a peleja os apertou; e os que vinham das cidades os destruíram no meio deles.
+43 Cercaram a Benjamim, seguiram-no e, onde repousava, ali o alcançavam, até diante de Gibeá, para o nascente do sol.
+44 Caíram de Benjamim dezoito mil homens, todos estes homens valentes.
+45 Então, viraram e fugiram para o deserto, à penha Rimom; e, na respiga, mataram ainda pelos caminhos uns cinco mil homens, e de perto os seguiram até Gidom, e feriram deles dois mil homens.
+46 Todos os que de Benjamim caíram, naquele dia, foram vinte e cinco mil homens que puxavam da espada, todos eles homens valentes.
+47 Porém seiscentos homens viraram e fugiram para o deserto, à penha Rimom, onde ficaram quatro meses.
+48 Os homens de Israel voltaram para os filhos de Benjamim e passaram a fio de espada tudo o que restou da cidade, tanto homens como animais, em suma, tudo o que encontraram; e também a todas as cidades que acharam puseram fogo.*
+1 Ora, haviam jurado os homens de Israel em Mispa, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas.
+2 Veio o povo a Betel, e ali ficaram até à tarde diante de Deus, e levantaram a voz, e prantearam com grande pranto.
+3 Disseram: Ah! Senhor, Deus de Israel, por que sucedeu isto em Israel, que, hoje, lhe falte uma tribo?
+4 Ao dia seguinte, o povo, pela manhã, se levantou e edificou ali um altar; e apresentaram holocaustos e ofertas pacíficas.
+5 Disseram os filhos de Israel: Quem de todas as tribos de Israel não subiu à assembleia do Senhor? Porque se tinha feito um grande juramento acerca do que não viesse ao Senhor a Mispa, que dizia: Será morto.
+6 Os filhos de Israel tiveram compaixão de seu irmão Benjamim e disseram: Foi, hoje, eliminada uma tribo de Israel.
+7 Como obteremos mulheres para os restantes deles, pois juramos, pelo Senhor, que das nossas filhas não lhes daríamos por mulheres?
+8 E disseram: Há alguma das tribos de Israel que não tenha subido ao Senhor a Mispa? E eis que ninguém de Jabes-Gileade viera ao acampamento, à assembleia.
+9 Quando se contou o povo, eis que nenhum dos moradores de Jabes-Gileade se achou ali.
+10 Por isso, a congregação enviou lá doze mil homens dos mais valentes e lhes ordenou, dizendo: Ide e, a fio de espada, feri os moradores de Jabes-Gileade, e as mulheres, e as crianças.
+11 Isto é o que haveis de fazer: a todo homem e a toda mulher que se houver deitado com homem destruireis.
+12 Acharam entre os moradores de Jabes-Gileade quatrocentas moças virgens, que não se deitaram com homem; e as trouxeram ao acampamento, a Siló, que está na terra de Canaã.
+13 Toda a congregação, pois, enviou mensageiros aos filhos de Benjamim que estavam na penha Rimom, e lhes proclamaram a paz.
+14 Nesse mesmo tempo, voltaram os benjamitas; e se lhes deram por mulheres as que foram conservadas com vida, das de Jabes-Gileade; porém estas ainda não lhes bastaram.
+15 Então, o povo teve compaixão de Benjamim, porquanto o Senhor tinha feito brecha nas tribos de Israel.
+16 Disseram os anciãos da congregação: Como obteremos mulheres para os restantes ainda, pois foram exterminadas as mulheres dos benjamitas?
+17 Disseram mais: A herança dos que ficaram de resto não na deve perder Benjamim, visto que nenhuma tribo de Israel deve ser destruída.
+18 Porém nós não lhes poderemos dar mulheres de nossas filhas, porque os filhos de Israel juraram, dizendo: Maldito o que der mulher aos benjamitas.
+19 Então, disseram: Eis que, de ano em ano, há solenidade do Senhor em Siló, que se celebra para o norte de Betel, do lado do nascente do sol, pelo caminho alto que sobe de Betel a Siquém e para o sul de Lebona.
+20 Ordenaram aos filhos de Benjamim, dizendo: Ide, e emboscai-vos nas vinhas,
+21 e olhai; e eis aí, saindo as filhas de Siló a dançar em rodas, saí vós das vinhas, e arrebatai, dentre elas, cada um sua mulher, e ide-vos à terra de Benjamim.
+22 Quando seus pais ou seus irmãos vierem queixar-se a nós, nós lhes diremos: por amor de nós, tende compaixão deles, pois, na guerra contra Jabes-Gileade, não obtivemos mulheres para cada um deles; e também não lhes destes, pois neste caso ficaríeis culpados.
+23 Assim fizeram os filhos de Benjamim e levaram mulheres conforme o número deles, das que arrebataram das rodas que dançavam; e foram-se, voltaram à sua herança, reedificaram as cidades e habitaram nelas.
+24 Então, os filhos de Israel também partiram dali, cada um para a sua tribo, para a sua família e para a sua herança.
+25 Naqueles dias, não havia rei em Israel; cada um fazia o que achava mais reto.
 """
 # Example input text
 
 # Parse the verses
-parsed_verses = parse_verses(text,'Josué','1')
+parsed_verses = parse_verses(text,'Juízes','1')
 #print(parsed_verses)
 with open('textzin', 'w', encoding='utf-8') as f:
     f.write(parsed_verses)
