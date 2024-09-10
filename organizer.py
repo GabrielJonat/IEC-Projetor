@@ -26,872 +26,970 @@ def parse_verses(text,book,chapter):
 
 
 text = """
-1 Chamou o Senhor a Moisés e, da tenda da congregação, lhe disse:
-2 Fala aos filhos de Israel e dize-lhes: Quando algum de vós trouxer oferta ao Senhor, trareis a vossa oferta de gado, de rebanho ou de gado miúdo.
-3 Se a sua oferta for holocausto de gado, trará macho sem defeito; à porta da tenda da congregação o trará, para que o homem seja aceito perante o Senhor.
-4 E porá a mão sobre a cabeça do holocausto, para que seja aceito a favor dele, para a sua expiação.
-5 Depois, imolará o novilho perante o Senhor; e os filhos de Arão, os sacerdotes, apresentarão o sangue e o aspergirão ao redor sobre o altar que está diante da porta da tenda da congregação.
-6 Então, ele esfolará o holocausto e o cortará em seus pedaços.
-7 E os filhos de Arão, o sacerdote, porão fogo sobre o altar e porão em ordem lenha sobre o fogo.
-8 Também os filhos de Arão, os sacerdotes, colocarão em ordem os pedaços, a saber, a cabeça e o redenho, sobre a lenha que está no fogo sobre o altar.
-9 Porém as entranhas e as pernas, o sacerdote as lavará com água; e queimará tudo isso sobre o altar; é holocausto, oferta queimada, de aroma agradável ao Senhor.
-10 Se a sua oferta for de gado miúdo, de carneiros ou de cabritos, para holocausto, trará macho sem defeito.
-11 E o imolará ao lado do altar, para o lado norte, perante o Senhor; e os filhos de Arão, os sacerdotes, aspergirão o seu sangue em redor sobre o altar.
-12 Depois, ele o cortará em seus pedaços, como também a sua cabeça e o seu redenho; e o sacerdote os porá em ordem sobre a lenha que está no fogo sobre o altar;
-13 porém as entranhas e as pernas serão lavadas com água; e o sacerdote oferecerá tudo isso e o queimará sobre o altar; é holocausto, oferta queimada, de aroma agradável ao Senhor.
-14 Se a sua oferta ao Senhor for holocausto de aves, trará a sua oferta de rolas ou de pombinhos.
-15 O sacerdote a trará ao altar, e, com a unha, lhe destroncará a cabeça, sem a separar do pescoço, e a queimará sobre o altar; o seu sangue, ele o fará correr na parede do altar;
-16 tirará o papo com suas penas e o lançará junto ao altar, para o lado oriental, no lugar da cinza;
-17 rasgá-la-á pelas asas, porém não a partirá; o sacerdote a queimará sobre o altar, em cima da lenha que está no fogo; é holocausto, oferta queimada, de aroma agradável ao Senhor.*
-1 Quando alguma pessoa fizer oferta de manjares ao Senhor, a sua oferta será de flor de farinha; nela, deitará azeite e, sobre ela, porá incenso.
-2 Levá-la-á aos filhos de Arão, os sacerdotes, um dos quais tomará dela um punhado da flor de farinha e do seu azeite com todo o seu incenso e os queimará como porção memorial sobre o altar; é oferta queimada, de aroma agradável ao Senhor.
-3 O que ficar da oferta de manjares será de Arão e de seus filhos; é coisa santíssima das ofertas queimadas ao Senhor.
-4 Quando trouxeres oferta de manjares, cozida no forno, será de bolos asmos de flor de farinha amassados com azeite e obreias asmas untadas com azeite.
-5 Se a tua oferta for de manjares cozida na assadeira, será de flor de farinha sem fermento amassada com azeite.
-6 Em pedaços a partirás e, sobre ela, deitarás azeite; é oferta de manjares.
-7 Se a tua oferta for de manjares de frigideira, far-se-á de flor de farinha com azeite.
-8 E a oferta de manjares, que daquilo se fará, trarás ao Senhor; será apresentada ao sacerdote, o qual a levará ao altar.
-9 Da oferta de manjares tomará o sacerdote a porção memorial e a queimará sobre o altar; é oferta queimada, de aroma agradável ao Senhor.
-10 O que ficar da oferta de manjares será de Arão e de seus filhos; é coisa santíssima das ofertas queimadas ao Senhor.
-11 Nenhuma oferta de manjares, que fizerdes ao Senhor, se fará com fermento; porque de nenhum fermento e de mel nenhum queimareis por oferta ao Senhor.
-12 Deles, trareis ao Senhor por oferta das primícias; todavia, não se porão sobre o altar como aroma agradável.
-13 Toda oferta dos teus manjares temperarás com sal; à tua oferta de manjares não deixarás faltar o sal da aliança do teu Deus; em todas as tuas ofertas aplicarás sal.
-14 Se trouxeres ao Senhor oferta de manjares das primícias, farás a oferta de manjares das tuas primícias de espigas verdes, tostadas ao fogo, isto é, os grãos esmagados de espigas verdes.
-15 Deitarás azeite sobre ela e, por cima, lhe porás incenso; é oferta de manjares.
-16 Assim, o sacerdote queimará a porção memorial dos grãos de espigas esmagados e do azeite, com todo o incenso; é oferta queimada ao Senhor.*
-1 Se a oferta de alguém for sacrifício pacífico, se a fizer de gado, seja macho ou fêmea, oferecê-la-á sem defeito diante do Senhor.
-2 E porá a mão sobre a cabeça da sua oferta e a imolará diante da porta da tenda da congregação; e os filhos de Arão, os sacerdotes, aspergirão o sangue sobre o altar, ao redor.
-3 Do sacrifício pacífico fará oferta queimada ao Senhor: a gordura que cobre as entranhas e toda a gordura que está sobre as entranhas,
-4 como também os dois rins, a gordura que está sobre eles e junto aos lombos; e o redenho sobre o fígado com os rins, tirá-los-á.
-5 E os filhos de Arão queimarão tudo isso sobre o altar, em cima do holocausto, que estará sobre a lenha no fogo; é oferta queimada, de aroma agradável ao Senhor.
-6 Se a sua oferta por sacrifício pacífico ao Senhor for de gado miúdo, seja macho ou fêmea, sem defeito a oferecerá.
-7 Se trouxer um cordeiro por sua oferta, oferecê-lo-á perante o Senhor.
-8 E porá a mão sobre a cabeça da sua oferta e a imolará diante da tenda da congregação; e os filhos de Arão aspergirão o sangue sobre o altar, em redor.
-9 Então, do sacrifício pacífico trará ao Senhor por oferta queimada a sua gordura: a cauda toda, a qual tirará rente ao espinhaço, e a gordura que cobre as entranhas, e toda a gordura que está sobre as entranhas,
-10 como também os dois rins, a gordura que está sobre eles e junto aos lombos; e o redenho sobre o fígado com os rins, tirá-los-á.
-11 E o sacerdote queimará tudo isso sobre o altar; é manjar da oferta queimada ao Senhor.
-12 Mas, se a sua oferta for uma cabra, perante o Senhor a trará.
-13 E porá a mão sobre a sua cabeça e a imolará diante da tenda da congregação; e os filhos de Arão aspergirão o sangue sobre o altar, em redor.
-14 Depois, trará dela a sua oferta, por oferta queimada ao Senhor: a gordura que cobre as entranhas e toda a gordura que está sobre as entranhas,
-15 como também os dois rins, a gordura que está sobre eles e junto aos lombos; e o redenho sobre o fígado com os rins, tirá-los-á.
-16 E o sacerdote queimará tudo isso sobre o altar; é manjar da oferta queimada, de aroma agradável. Toda a gordura será do Senhor.
-17 Estatuto perpétuo será durante as vossas gerações, em todas as vossas moradas; gordura nenhuma nem sangue jamais comereis.*
-1 Disse mais o Senhor a Moisés:
-2 Fala aos filhos de Israel, dizendo: Quando alguém pecar por ignorância contra qualquer dos mandamentos do Senhor, por fazer contra algum deles o que não se deve fazer,
-3 se o sacerdote ungido pecar para escândalo do povo, oferecerá pelo seu pecado um novilho sem defeito ao Senhor, como oferta pelo pecado.
-4 Trará o novilho à porta da tenda da congregação, perante o Senhor; porá a mão sobre a cabeça do novilho e o imolará perante o Senhor.
-5 Então, o sacerdote ungido tomará do sangue do novilho e o trará à tenda da congregação;
-6 e, molhando o dedo no sangue, aspergirá dele sete vezes perante o Senhor, diante do véu do santuário.
-7 Também daquele sangue porá o sacerdote sobre os chifres do altar do incenso aromático, perante o Senhor, altar que está na tenda da congregação; e todo o restante do sangue do novilho derramará à base do altar do holocausto, que está à porta da tenda da congregação.
-8 Toda a gordura do novilho da expiação tirará dele: a gordura que cobre as entranhas e toda a gordura que está sobre as entranhas,
-9 como também os dois rins, a gordura que está sobre eles e junto aos lombos; e o redenho sobre o fígado com os rins, tirá-los-á
-10 como se tiram os do novilho do sacrifício pacífico; e o sacerdote os queimará sobre o altar do holocausto.
-11 Mas o couro do novilho, toda a sua carne, a cabeça, as pernas, as entranhas e o excremento,
-12 a saber, o novilho todo, levá-lo-á fora do arraial, a um lugar limpo, onde se lança a cinza, e o queimará sobre a lenha; será queimado onde se lança a cinza.
-13 Mas, se toda a congregação de Israel pecar por ignorância, e isso for oculto aos olhos da coletividade, e se fizerem, contra algum dos mandamentos do Senhor, aquilo que se não deve fazer, e forem culpados,
-14 e o pecado que cometeram for notório, então, a coletividade trará um novilho como oferta pelo pecado e o apresentará diante da tenda da congregação.
-15 Os anciãos da congregação porão as mãos sobre a cabeça do novilho perante o Senhor; e será imolado o novilho perante o Senhor.
-16 Então, o sacerdote ungido trará do sangue do novilho à tenda da congregação;
-17 molhará o dedo no sangue e o aspergirá sete vezes perante o Senhor, diante do véu.
-18 E daquele sangue porá sobre os chifres do altar que está perante o Senhor, na tenda da congregação; e todo o restante do sangue derramará à base do altar do holocausto, que está à porta da tenda da congregação.
-19 Tirará do novilho toda a gordura e a queimará sobre o altar;
-20 e fará a este novilho como fez ao novilho da oferta pelo pecado; assim lhe fará, e o sacerdote por eles fará expiação, e eles serão perdoados.
-21 Depois, levará o novilho fora do arraial e o queimará como queimou o primeiro novilho; é oferta pelo pecado da coletividade.
-22 Quando um príncipe pecar, e por ignorância fizer alguma de todas as coisas que o Senhor, seu Deus, ordenou se não fizessem, e se tornar culpado;
-23 ou se o pecado em que ele caiu lhe for notificado, trará por sua oferta um bode sem defeito.
-24 E porá a mão sobre a cabeça do bode e o imolará no lugar onde se imola o holocausto, perante o Senhor; é oferta pelo pecado.
-25 Então, o sacerdote, com o dedo, tomará do sangue da oferta pelo pecado e o porá sobre os chifres do altar do holocausto; e todo o restante do sangue derramará à base do altar do holocausto.
-26 Toda a gordura da oferta, queimá-la-á sobre o altar, como a gordura do sacrifício pacífico; assim, o sacerdote fará expiação por ele, no tocante ao seu pecado, e este lhe será perdoado.
-27 Se qualquer pessoa do povo da terra pecar por ignorância, por fazer alguma das coisas que o Senhor ordenou se não fizessem, e se tornar culpada;
-28 ou se o pecado em que ela caiu lhe for notificado, trará por sua oferta uma cabra sem defeito, pelo pecado que cometeu.
-29 E porá a mão sobre a cabeça da oferta pelo pecado e a imolará no lugar do holocausto.
-30 Então, o sacerdote, com o dedo, tomará do sangue da oferta e o porá sobre os chifres do altar do holocausto; e todo o restante do sangue derramará à base do altar.
-31 Tirará toda a gordura, como se tira a gordura do sacrifício pacífico; o sacerdote a queimará sobre o altar como aroma agradável ao Senhor; e o sacerdote fará expiação pela pessoa, e lhe será perdoado.
-32 Mas, se pela sua oferta trouxer uma cordeira como oferta pelo pecado, fêmea sem defeito a trará.
-33 E porá a mão sobre a cabeça da oferta pelo pecado e a imolará por oferta pelo pecado, no lugar onde se imola o holocausto.
-34 Então, o sacerdote, com o dedo, tomará do sangue da oferta pelo pecado e o porá sobre os chifres do altar do holocausto; e todo o restante do sangue derramará à base do altar.
-35 Tirará toda a gordura, como se tira a gordura do cordeiro do sacrifício pacífico; o sacerdote a queimará sobre o altar, em cima das ofertas queimadas do Senhor; assim, o sacerdote, por essa pessoa, fará expiação do seu pecado que cometeu, e lhe será perdoado.*
-1 Quando alguém pecar nisto: tendo ouvido a voz da imprecação, sendo testemunha de um fato, por ter visto ou sabido e, contudo, não o revelar, levará a sua iniquidade;
-2 ou quando alguém tocar em alguma coisa imunda, seja corpo morto de besta-fera imunda, seja corpo morto de animal imundo, seja corpo morto de réptil imundo, ainda que lhe fosse oculto, e tornar-se imundo, então, será culpado;
-3 ou quando tocar a imundícia de um homem, seja qual for a imundícia com que se faça imundo, e lhe for oculto, e o souber depois, será culpado;
-4 ou quando alguém jurar temerariamente com seus lábios fazer mal ou fazer bem, seja o que for que o homem pronuncie temerariamente com juramento, e lhe for oculto, e o souber depois, culpado será numa destas coisas.
-5 Será, pois, que, sendo culpado numa destas coisas, confessará aquilo em que pecou.
-6 Como sua oferta pela culpa, pelo pecado que cometeu, trará ele ao Senhor, do gado miúdo, uma cordeira ou uma cabrita como oferta pelo pecado; assim, o sacerdote, por ele, fará expiação do seu pecado.
-7 Se as suas posses não lhe permitirem trazer uma cordeira, trará ao Senhor, como oferta pela culpa, pelo pecado que cometeu, duas rolas ou dois pombinhos: um como oferta pelo pecado, e o outro como holocausto.
-8 Entregá-los-á ao sacerdote, o qual primeiro oferecerá aquele que é como oferta pelo pecado e lhe destroncará, com a unha, a cabeça, sem a separar do pescoço.
-9 Do sangue da oferta pelo pecado aspergirá sobre a parede do altar e o restante do sangue, fá-lo-á correr à base do altar; é oferta pelo pecado.
-10 E do outro fará holocausto, conforme o estabelecido; assim, o sacerdote, por ele, fará oferta pelo pecado que cometeu, e lhe será perdoado.
-11 Porém, se as suas posses não lhe permitirem trazer duas rolas ou dois pombinhos, então, aquele que pecou trará, por sua oferta, a décima parte de um efa de flor de farinha como oferta pelo pecado; não lhe deitará azeite, nem lhe porá em cima incenso, pois é oferta pelo pecado.
-12 Entregá-la-á ao sacerdote, e o sacerdote dela tomará um punhado como porção memorial e a queimará sobre o altar, em cima das ofertas queimadas ao Senhor; é oferta pelo pecado.
-13 Assim, o sacerdote, por ele, fará oferta pelo pecado que cometeu em alguma destas coisas, e lhe será perdoado; o restante será do sacerdote, como a oferta de manjares.
-14 Disse mais o Senhor a Moisés:
-15 Quando alguém cometer ofensa e pecar por ignorância nas coisas sagradas do Senhor, então, trará ao Senhor, por oferta, do rebanho, um carneiro sem defeito, conforme a tua avaliação em siclos de prata, segundo o siclo do santuário, como oferta pela culpa.
-16 Assim, restituirá o que ele tirou das coisas sagradas, e ainda acrescentará o seu quinto, e o dará ao sacerdote; assim, o sacerdote, com o carneiro da oferta pela culpa, fará expiação por ele, e lhe será perdoado.
-sse, contudo, será culpada e levará a sua iniquidade.
-18 E do rebanho trará ao sacerdote um carneiro sem defeito, conforme a tua avaliação, para oferta pela culpa, e o sacerdote, por ela, fará expiação no tocante ao erro que, por ignorância, cometeu, e lhe será perdoado.
-19 Oferta pela culpa é; certamente, se tornou culpada ao Senhor.*
-1 Falou mais o Senhor a Moisés, dizendo:
-2 Quando alguma pessoa pecar, e cometer ofensa contra o Senhor, e negar ao seu próximo o que este lhe deu em depósito, ou penhor, ou roubar, ou tiver usado de extorsão para com o seu próximo;
-3 ou que, tendo achado o perdido, o negar com falso juramento, ou fizer alguma outra coisa de todas em que o homem costuma pecar,
-4 será, pois, que, tendo pecado e ficado culpada, restituirá aquilo que roubou, ou que extorquiu, ou o depósito que lhe foi dado, ou o perdido que achou,
-5 ou tudo aquilo sobre que jurou falsamente; e o restituirá por inteiro e ainda a isso acrescentará a quinta parte; àquele a quem pertence, lho dará no dia da sua oferta pela culpa.
-6 E, por sua oferta pela culpa, trará, do rebanho, ao Senhor um carneiro sem defeito, conforme a tua avaliação, para a oferta pela culpa; trá-lo-á ao sacerdote.
-7 E o sacerdote fará expiação por ela diante do Senhor, e será perdoada de qualquer de todas as coisas que fez, tornando-se, por isso, culpada.
-8 Disse mais o Senhor a Moisés:
-9 Dá ordem a Arão e a seus filhos, dizendo: Esta é a lei do holocausto: o holocausto ficará na lareira do altar toda a noite até pela manhã, e nela se manterá aceso o fogo do altar.
-10 O sacerdote vestirá a sua túnica de linho e os calções de linho sobre a pele nua, e levantará a cinza, quando o fogo houver consumido o holocausto sobre o altar, e a porá junto a este.
-11 Depois, despirá as suas vestes e porá outras; e levará a cinza para fora do arraial a um lugar limpo.
-12 O fogo, pois, sempre arderá sobre o altar; não se apagará; mas o sacerdote acenderá lenha nele cada manhã, e sobre ele porá em ordem o holocausto, e sobre ele queimará a gordura das ofertas pacíficas.
-13 O fogo arderá continuamente sobre o altar; não se apagará.
-14 Esta é a lei da oferta de manjares: os filhos de Arão a oferecerão perante o Senhor, diante do altar.
-15 Um deles tomará dela um punhado de flor de farinha da oferta de manjares com seu azeite e todo o incenso que está sobre a oferta de manjares; então, o queimará sobre o altar, como porção memorial de aroma agradável ao Senhor.
-16 O restante dela comerão Arão e seus filhos; asmo se comerá no lugar santo; no pátio da tenda da congregação, o comerão.
-17 Levedado não se cozerá; sua porção dei-lhes das minhas ofertas queimadas; coisa santíssima é, como a oferta pelo pecado e a oferta pela culpa.
-18 Todo varão entre os filhos de Arão comerá da oferta de manjares; estatuto perpétuo será para as vossas gerações dentre as ofertas queimadas do Senhor; tudo o que tocar nelas será santo.
-19 Disse mais o Senhor a Moisés:
-20 Esta é a oferta de Arão e de seus filhos, que oferecerão ao Senhor no dia em que aquele for ungido: a décima parte de um efa de flor de farinha pela oferta de manjares contínua; metade dela será oferecida pela manhã, e a outra metade, à tarde.
-21 Numa assadeira, se fará com azeite; bem amassada a trarás; em pedaços cozidos trarás a oferta de manjares de aroma agradável ao Senhor.
-22 Também o sacerdote, que dentre os filhos de Arão for ungido em seu lugar, fará o mesmo; por estatuto perpétuo será de todo queimada ao Senhor.
-23 Assim, toda a oferta de manjares do sacerdote será totalmente queimada; não se comerá.
-24 Disse mais o Senhor a Moisés:
-25 Fala a Arão e a seus filhos, dizendo: Esta é a lei da oferta pelo pecado: no lugar onde se imola o holocausto, se imolará a oferta pelo pecado, perante o Senhor; coisa santíssima é.
-26 O sacerdote que a oferecer pelo pecado a comerá; no lugar santo, se comerá, no pátio da tenda da congregação.
-27 Tudo o que tocar a carne da oferta será santo; se aspergir alguém do seu sangue sobre a sua veste, lavarás aquilo sobre que caiu, no lugar santo.
-28 E o vaso de barro em que for cozida será quebrado; porém, se for cozida num vaso de bronze, esfregar-se-á e lavar-se-á na água.
-29 Todo varão entre os sacerdotes a comerá; coisa santíssima é.
-30 Porém não se comerá nenhuma oferta pelo pecado, cujo sangue se traz à tenda da congregação, para fazer expiação no santuário; no fogo será queimada.*
-1 Esta é a lei da oferta pela culpa; coisa santíssima é.
-2 No lugar onde imolam o holocausto, imolarão a oferta pela culpa, e o seu sangue se aspergirá sobre o altar, em redor.
-3 Dela se oferecerá toda a gordura, a cauda e a gordura que cobre as entranhas;
-4 também ambos os rins e a gordura que neles há, junto aos lombos; e o redenho sobre o fígado com os rins se tirará.
-5 O sacerdote o queimará sobre o altar em oferta queimada ao Senhor; é oferta pela culpa.
-6 Todo varão entre os sacerdotes a comerá; no lugar santo, se comerá; coisa santíssima é.
-7 Como a oferta pelo pecado, assim será a oferta pela culpa; uma única lei haverá para elas: será do sacerdote que, com ela, fizer expiação.
-8 O sacerdote que oferecer o holocausto de alguém terá o couro do holocausto que oferece,
-9 como também toda oferta de manjares que se cozer no forno, com tudo que se preparar na frigideira e na assadeira, será do sacerdote que a oferece.
-10 Toda oferta de manjares amassada com azeite ou seca será de todos os filhos de Arão, tanto de um como do outro.
-11 Esta é a lei das ofertas pacíficas que alguém pode oferecer ao Senhor.
-12 Se fizer por ação de graças, com a oferta de ação de graças trará bolos asmos amassados com azeite, obreias asmas untadas com azeite e bolos de flor de farinha bem amassados com azeite.
-13 Com os bolos trará, por sua oferta, pão levedado, com o sacrifício de sua oferta pacífica por ação de graças.
-14 E, de toda oferta, trará um bolo por oferta ao Senhor, que será do sacerdote que aspergir o sangue da oferta pacífica.
-15 Mas a carne do sacrifício de ação de graças da sua oferta pacífica se comerá no dia do seu oferecimento; nada se deixará dela até à manhã.
-16 E, se o sacrifício da sua oferta for voto ou oferta voluntária, no dia em que oferecer o seu sacrifício, se comerá; e o que dele ficar também se comerá no dia seguinte.
-17 Porém o que ainda restar da carne do sacrifício, ao terceiro dia, será queimado.
-18 Se da carne do seu sacrifício pacífico se comer ao terceiro dia, aquele que a ofereceu não será aceito, nem lhe será atribuído o sacrifício; coisa abominável será, e a pessoa que dela comer levará a sua iniquidade.
-19 A carne que tocar alguma coisa imunda não se comerá; será queimada. Qualquer que estiver limpo comerá a carne do sacrifício.
-20 Porém, se alguma pessoa, tendo sobre si imundícia, comer a carne do sacrifício pacífico, que é do Senhor, será eliminada do seu povo.
-21 Se uma pessoa tocar alguma coisa imunda, como imundícia de homem, ou de gado imundo, ou de qualquer réptil imundo e da carne do sacrifício pacífico, que é do Senhor, ela comer, será eliminada do seu povo.
-22 Disse mais o Senhor a Moisés:
-23 Fala aos filhos de Israel, dizendo: Não comereis gordura de boi, nem de carneiro, nem de cabra.
-24 A gordura do animal que morre por si mesmo e a do dilacerado por feras podem servir para qualquer outro uso, mas de maneira nenhuma as comereis;
-25 porque qualquer que comer a gordura do animal, do qual se trouxer ao Senhor oferta queimada, será eliminado do seu povo.
-26 Não comereis sangue em qualquer das vossas habitações, quer de aves, quer de gado.
-27 Toda pessoa que comer algum sangue será eliminada do seu povo.
-28 Disse mais o Senhor a Moisés:
-29 Fala aos filhos de Israel, dizendo: Quem oferecer ao Senhor o seu sacrifício pacífico trará a sua oferta ao Senhor; do seu sacrifício pacífico
-30 trará com suas próprias mãos as ofertas queimadas do Senhor; a gordura do peito com o peito trará para movê-lo por oferta movida perante o Senhor.
-31 O sacerdote queimará a gordura sobre o altar, porém o peito será de Arão e de seus filhos.
-32 Também a coxa direita dareis ao sacerdote por oferta dos vossos sacrifícios pacíficos.
-33 Aquele dos filhos de Arão que oferecer o sangue do sacrifício pacífico e a gordura, esse terá a coxa direita por sua porção;
-34 porque o peito movido e a coxa da oferta tomei dos filhos de Israel, dos seus sacrifícios pacíficos, e os dei a Arão, o sacerdote, e a seus filhos, por direito perpétuo dos filhos de Israel.
-35 Esta é a porção de Arão e a porção de seus filhos, das ofertas queimadas do Senhor, no dia em que os apresentou para oficiarem como sacerdotes ao Senhor;
-36 a qual o Senhor ordenou que se lhes desse dentre os filhos de Israel no dia em que os ungiu; estatuto perpétuo é pelas suas gerações.
-37 Esta é a lei do holocausto, da oferta de manjares, da oferta pelo pecado, da oferta pela culpa, da consagração e do sacrifício pacífico,
-38 que o Senhor ordenou a Moisés no monte Sinai, no dia em que ordenou aos filhos de Israel que oferecessem as suas ofertas ao Senhor, no deserto do Sinai.*
-1 Disse mais o Senhor a Moisés:
-2 Toma Arão, e seus filhos, e as vestes, e o óleo da unção, como também o novilho da oferta pelo pecado, e os dois carneiros, e o cesto dos pães asmos
-3 e ajunta toda a congregação à porta da tenda da congregação.
-4 Fez, pois, Moisés como o Senhor lhe ordenara, e a congregação se ajuntou à porta da tenda da congregação.
-5 Então, disse Moisés à congregação: Isto é o que o Senhor ordenou que se fizesse.
-6 E fez chegar a Arão e a seus filhos e os lavou com água.
-7 Vestiu a Arão da túnica, cingiu-o com o cinto e pôs sobre ele a sobrepeliz; também pôs sobre ele a estola sacerdotal, e o cingiu com o cinto de obra esmerada da estola sacerdotal, e o ajustou com ele.
-8 Depois, lhe colocou o peitoral, pondo no peitoral o Urim e o Tumim;
-9 e lhe pôs a mitra na cabeça e na mitra, na sua parte dianteira, pôs a lâmina de ouro, a coroa sagrada, como o Senhor ordenara a Moisés.
-10 Então, Moisés tomou o óleo da unção, e ungiu o tabernáculo e tudo o que havia nele, e o consagrou;
-11 e dele aspergiu sete vezes sobre o altar e ungiu o altar e todos os seus utensílios, como também a bacia e o seu suporte, para os consagrar.
-12 Depois, derramou do óleo da unção sobre a cabeça de Arão e ungiu-o, para consagrá-lo.
-13 Também Moisés fez chegar os filhos de Arão, e vestiu-lhes as túnicas, e cingiu-os com o cinto, e atou-lhes as tiaras, como o Senhor lhe ordenara.
-14 Então, fez chegar o novilho da oferta pelo pecado; e Arão e seus filhos puseram as mãos sobre a cabeça do novilho da oferta pelo pecado;
-15 e Moisés o imolou, e tomou o sangue, e dele pôs, com o dedo, sobre os chifres do altar em redor, e purificou o altar; depois, derramou o resto do sangue à base do altar e o consagrou, para fazer expiação por ele.
-16 Depois, tomou toda a gordura que está sobre as entranhas, e o redenho do fígado, e os dois rins, e sua gordura; e Moisés os queimou sobre o altar.
-17 Mas o novilho com o seu couro, e a sua carne, e o seu excremento queimou fora do arraial, como o Senhor ordenara a Moisés.
-18 Depois, fez chegar o carneiro do holocausto; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro.
-19 E Moisés o imolou e aspergiu o sangue sobre o altar, em redor.
-20 Partiu também o carneiro nos seus pedaços; Moisés queimou a cabeça, os pedaços e a gordura.
-21 Porém as entranhas e as pernas lavou com água; e Moisés queimou todo o carneiro sobre o altar; holocausto de aroma agradável, oferta queimada era ao Senhor, como o Senhor ordenara a Moisés.
-22 Então, fez chegar o outro carneiro, o carneiro da consagração; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro.
-23 E Moisés o imolou, e tomou do seu sangue, e o pôs sobre a ponta da orelha direita de Arão, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito.
-24 Também fez chegar os filhos de Arão; pôs daquele sangue sobre a ponta da orelha direita deles, e sobre o polegar da mão direita, e sobre o polegar do pé direito; e aspergiu Moisés o resto do sangue sobre o altar, em redor.
-25 Tomou a gordura, e a cauda, e toda a gordura que está nas entranhas, e o redenho do fígado, e ambos os rins, e a sua gordura, e a coxa direita.
-26 Também do cesto dos pães asmos, que estava diante do Senhor, tomou um bolo asmo, um bolo de pão azeitado e uma obreia e os pôs sobre a gordura e sobre a coxa direita.
-27 E tudo isso pôs nas mãos de Arão e de seus filhos e o moveu por oferta movida perante o Senhor.
-28 Depois, Moisés o tomou das suas mãos e o queimou no altar sobre o holocausto; era uma oferta da consagração, por aroma agradável, oferta queimada ao Senhor.
-29 Tomou Moisés o peito e moveu-o por oferta movida perante o Senhor; era a porção que tocava a Moisés, do carneiro da consagração, como o Senhor lhe ordenara.
-30 Tomou Moisés também do óleo da unção e do sangue que estava sobre o altar e o aspergiu sobre Arão e as suas vestes, bem como sobre os filhos de Arão e as suas vestes; e consagrou a Arão, e as suas vestes, e a seus filhos, e as vestes de seus filhos.
-31 Disse Moisés a Arão e a seus filhos: Cozei a carne diante da porta da tenda da congregação e ali a comereis com o pão que está no cesto da consagração, como tenho ordenado, dizendo: Arão e seus filhos a comerão.
-32 Mas o que restar da carne e do pão queimareis.
-33 Também da porta da tenda da congregação não saireis por sete dias, até ao dia em que se cumprirem os dias da vossa consagração; porquanto por sete dias o Senhor vos consagrará.
-34 Como se fez neste dia, assim o Senhor ordenou se fizesse, em expiação por vós.
-35 Ficareis, pois, à porta da tenda da congregação dia e noite, por sete dias, e observareis as prescrições do Senhor, para que não morrais; porque assim me foi ordenado.
-36 E Arão e seus filhos fizeram todas as coisas que o Senhor ordenara por intermédio de Moisés.*
-1 Ao oitavo dia, chamou Moisés a Arão, e a seus filhos, e aos anciãos de Israel
-2 e disse a Arão: Toma um bezerro, para oferta pelo pecado, e um carneiro, para holocausto, ambos sem defeito, e traze-os perante o Senhor.
-3 Depois, dirás aos filhos de Israel: Tomai um bode, para oferta pelo pecado, um bezerro e um cordeiro, ambos de um ano e sem defeito, como holocausto;
-4 e um boi e um carneiro, por oferta pacífica, para sacrificar perante o Senhor, e oferta de manjares amassada com azeite; porquanto, hoje, o Senhor vos aparecerá.
-5 Então, trouxeram o que ordenara Moisés, diante da tenda da congregação, e chegou-se toda a congregação e se pôs perante o Senhor.
-6 Disse Moisés: Esta coisa que o Senhor ordenou fareis; e a glória do Senhor vos aparecerá.
-7 Depois, disse Moisés a Arão: Chega-te ao altar, faze a tua oferta pelo pecado e o teu holocausto; e faze expiação por ti e pelo povo; depois, faze a oferta do povo e a expiação por ele, como ordenou o Senhor.
-8 Chegou-se, pois, Arão ao altar e imolou o bezerro da oferta pelo pecado que era por si mesmo.
-9 Os filhos de Arão trouxeram-lhe o sangue; ele molhou o dedo no sangue e o pôs sobre os chifres do altar; e o resto do sangue derramou à base do altar.
-10 Mas a gordura, e os rins, e o redenho do fígado da oferta pelo pecado queimou sobre o altar, como o Senhor ordenara a Moisés.
-11 Porém a carne e o couro queimou fora do arraial.
-12 Depois, imolou o holocausto, e os filhos de Arão lhe entregaram o sangue, e ele o aspergiu sobre o altar, em redor.
-13 Também lhe entregaram o holocausto nos seus pedaços, com a cabeça; e queimou-o sobre o altar.
-14 E lavou as entranhas e as pernas e as queimou sobre o holocausto, no altar.
-15 Depois, fez chegar a oferta do povo, e, tomando o bode da oferta pelo pecado, que era pelo povo, o imolou, e o preparou por oferta pelo pecado, como fizera com o primeiro.
-16 Também fez chegar o holocausto e o ofereceu segundo o rito.
-17 Fez chegar a oferta de manjares, e dela tomou um punhado, e queimou sobre o altar, além do holocausto da manhã.
-18 Depois, imolou o boi e o carneiro em sacrifício pacífico, que era pelo povo; e os filhos de Arão entregaram-lhe o sangue, que aspergiu sobre o altar, em redor,
-19 como também a gordura do boi e do carneiro, e a cauda, e o que cobre as entranhas, e os rins, e o redenho do fígado.
-20 E puseram a gordura sobre o peito, e ele a queimou sobre o altar;
-21 mas o peito e a coxa direita Arão moveu por oferta movida perante o Senhor, como Moisés tinha ordenado.
-22 Depois, Arão levantou as mãos para o povo e o abençoou; e desceu, havendo feito a oferta pelo pecado, e o holocausto, e a oferta pacífica.
-23 Então, entraram Moisés e Arão na tenda da congregação; e, saindo, abençoaram o povo; e a glória do Senhor apareceu a todo o povo.
-24 E eis que, saindo fogo de diante do Senhor, consumiu o holocausto e a gordura sobre o altar; o que vendo o povo, jubilou e prostrou-se sobre o rosto.*
-1 Nadabe e Abiú, filhos de Arão, tomaram cada um o seu incensário, e puseram neles fogo, e sobre este, incenso, e trouxeram fogo estranho perante a face do Senhor, o que lhes não ordenara.
-2 Então, saiu fogo de diante do Senhor e os consumiu; e morreram perante o Senhor.
-3 E falou Moisés a Arão: Isto é o que o Senhor disse: Mostrarei a minha santidade naqueles que se cheguem a mim e serei glorificado diante de todo o povo. Porém Arão se calou.
-4 Então, Moisés chamou a Misael e a Elzafã, filhos de Uziel, tio de Arão, e disse-lhes: Chegai, tirai vossos irmãos de diante do santuário, para fora do arraial.
-5 Chegaram-se, pois, e os levaram nas suas túnicas para fora do arraial, como Moisés tinha dito.
-6 Moisés disse a Arão e a seus filhos Eleazar e Itamar: Não desgrenheis os cabelos, nem rasgueis as vossas vestes, para que não morrais, nem venha grande ira sobre toda a congregação; mas vossos irmãos, toda a casa de Israel, lamentem o incêndio que o Senhor suscitou.
-7 Não saireis da porta da tenda da congregação, para que não morrais; porque está sobre vós o óleo da unção do Senhor. E fizeram conforme a palavra de Moisés.
-8 Falou também o Senhor a Arão, dizendo:
-9 Vinho ou bebida forte tu e teus filhos não bebereis quando entrardes na tenda da congregação, para que não morrais; estatuto perpétuo será isso entre as vossas gerações,
-10 para fazerdes diferença entre o santo e o profano e entre o imundo e o limpo
-11 e para ensinardes aos filhos de Israel todos os estatutos que o Senhor lhes tem falado por intermédio de Moisés.
-12 Disse Moisés a Arão e aos filhos deste, Eleazar e Itamar, que lhe ficaram: Tomai a oferta de manjares, restante das ofertas queimadas ao Senhor, e comei-a, sem fermento, junto ao altar, porquanto coisa santíssima é.
-13 Comê-la-eis em lugar santo, porque isto é a tua porção e a porção de teus filhos, das ofertas queimadas do Senhor; porque assim me foi ordenado.
-14 Também o peito da oferta movida e a coxa da oferta comereis em lugar limpo, tu, e teus filhos, e tuas filhas, porque foram dados por tua porção e por porção de teus filhos, dos sacrifícios pacíficos dos filhos de Israel.
-15 A coxa da oferta e o peito da oferta movida trarão com as ofertas queimadas de gordura, para mover por oferta movida perante o Senhor, o que será por estatuto perpétuo, para ti e para teus filhos, como o Senhor tem ordenado.
-16 Moisés diligentemente buscou o bode da oferta pelo pecado, e eis que já era queimado; portanto, indignando-se grandemente contra Eleazar e contra Itamar, os filhos que de Arão ficaram, disse:
-17 Por que não comestes a oferta pelo pecado no lugar santo? Pois coisa santíssima é; e o Senhor a deu a vós outros, para levardes a iniquidade da congregação, para fazerdes expiação por eles diante do Senhor.
-18 Eis que desta oferta não foi trazido o seu sangue para dentro do santuário; certamente, devíeis tê-la comido no santuário, como eu tinha ordenado.
-19 Respondeu Arão a Moisés: Eis que, hoje, meus filhos ofereceram a sua oferta pelo pecado e o seu holocausto perante o Senhor; e tais coisas me sucederam; se eu, hoje, tivesse comido a oferta pelo pecado, seria isso, porventura, aceito aos olhos do Senhor?
-20 O que ouvindo Moisés, deu-se por satisfeito.*
-1 Falou o Senhor a Moisés e a Arão, dizendo-lhes:
-2 Dizei aos filhos de Israel: São estes os animais que comereis de todos os quadrúpedes que há sobre a terra:
-3 todo o que tem unhas fendidas, e o casco se divide em dois, e rumina, entre os animais, esse comereis.
-4 Destes, porém, não comereis: dos que ruminam ou dos que têm unhas fendidas: o camelo, que rumina, mas não tem unhas fendidas; este vos será imundo;
-5 o arganaz, porque rumina, mas não tem as unhas fendidas; este vos será imundo;
-6 a lebre, porque rumina, mas não tem as unhas fendidas; esta vos será imunda.
-7 Também o porco, porque tem unhas fendidas e o casco dividido, mas não rumina; este vos será imundo;
-8 da sua carne não comereis, nem tocareis no seu cadáver. Estes vos serão imundos.
-9 De todos os animais que há nas águas comereis os seguintes: todo o que tem barbatanas e escamas, nos mares e nos rios; esses comereis.
-10 Porém todo o que não tem barbatanas nem escamas, nos mares e nos rios, todos os que enxameiam as águas e todo ser vivente que há nas águas, estes serão para vós outros abominação.
-11 Ser-vos-ão, pois, por abominação; da sua carne não comereis e abominareis o seu cadáver.
-12 Todo o que nas águas não tem barbatanas ou escamas será para vós outros abominação.
-13 Das aves, estas abominareis; não se comerão, serão abominação: a águia, o quebrantosso e a águia marinha;
-14 o milhano e o falcão, segundo a sua espécie,
-15 todo corvo, segundo a sua espécie,
-16 o avestruz, a coruja, a gaivota, o gavião, segundo a sua espécie,
-17 o mocho, o corvo marinho, a íbis,
-18 a gralha, o pelicano, o abutre,
-19 a cegonha, a garça, segundo a sua espécie, a poupa e o morcego.
-20 Todo inseto que voa, que anda sobre quatro pés será para vós outros abominação.
-21 Mas de todo inseto que voa, que anda sobre quatro pés, cujas pernas traseiras são mais compridas, para saltar com elas sobre a terra, estes comereis.
-22 Deles, comereis estes: a locusta, segundo a sua espécie, o gafanhoto devorador, segundo a sua espécie, o grilo, segundo a sua espécie, e o gafanhoto, segundo a sua espécie.
-23 Mas todos os outros insetos que voam, que têm quatro pés serão para vós outros abominação.
-24 E por estes vos tornareis imundos; qualquer que tocar o seu cadáver imundo será até à tarde.
-25 Qualquer que levar o seu cadáver lavará as suas vestes e será imundo até à tarde.
-26 Todo animal que tem unhas fendidas, mas o casco não dividido em dois e não rumina vos será por imundo; qualquer que tocar neles será imundo.
-27 Todo animal quadrúpede que anda na planta dos pés vos será por imundo; qualquer que tocar o seu cadáver será imundo até à tarde.
-28 E o que levar o seu cadáver lavará as suas vestes e será imundo até à tarde; eles vos serão por imundos.
-29 Estes vos serão imundos entre o enxame de criaturas que povoam a terra: a doninha, o rato, o lagarto, segundo a sua espécie,
-30 o geco, o crocodilo da terra, a lagartixa, o lagarto da areia e o camaleão;
-31 estes vos serão por imundos entre todo o enxame de criaturas; qualquer que os tocar, estando eles mortos, será imundo até à tarde.
-32 E tudo aquilo sobre que cair qualquer deles, estando eles mortos, será imundo, seja vaso de madeira, ou veste, ou pele, ou pano de saco, ou qualquer instrumento com que se faz alguma obra, será metido em água e será imundo até à tarde; então, será limpo.
-33 E todo vaso de barro, dentro do qual cair alguma coisa deles, tudo o que houver nele será imundo; o vaso quebrareis.
-34 Todo alimento que se come, preparado com água, será imundo; e todo líquido que se bebe, em todo vaso, será imundo.
-35 E aquilo sobre o que cair alguma coisa do seu corpo morto será imundo; se for um forno ou um fogareiro de barro, serão quebrados; imundos são; portanto, vos serão por imundos.
-36 Porém a fonte ou cisterna, em que se recolhem águas, será limpa; mas quem tocar no cadáver desses animais será imundo.
-37 Se do seu cadáver cair alguma coisa sobre alguma semente de semear, esta será limpa;
-38 mas, se alguém deitar água sobre a semente, e, se do cadáver cair alguma coisa sobre ela, vos será imunda.
-39 Se morrer algum dos animais de que vos é lícito comer, quem tocar no seu cadáver será imundo até à tarde;
-40 quem do seu cadáver comer lavará as suas vestes e será imundo até à tarde; e quem levar o seu corpo morto lavará as suas vestes e será imundo até à tarde.
-41 Também todo enxame de criaturas que povoam a terra será abominação; não se comerá.
-42 Tudo o que anda sobre o ventre, e tudo o que anda sobre quatro pés ou que tem muitos pés, entre todo enxame de criaturas que povoam a terra, não comereis, porquanto são abominação.
-43 Não vos façais abomináveis por nenhum enxame de criaturas, nem por elas vos contaminareis, para não serdes imundos.
-44 Eu sou o Senhor, vosso Deus; portanto, vós vos consagrareis e sereis santos, porque eu sou santo; e não vos contaminareis por nenhum enxame de criaturas que se arrastam sobre a terra.
-45 Eu sou o Senhor, que vos faço subir da terra do Egito, para que eu seja vosso Deus; portanto, vós sereis santos, porque eu sou santo.
-46 Esta é a lei dos animais, e das aves, e de toda alma vivente que se move nas águas, e de toda criatura que povoa a terra,
-47 para fazer diferença entre o imundo e o limpo e entre os animais que se podem comer e os animais que se não podem comer.*
-1 Disse mais o Senhor a Moisés:
-2 Fala aos filhos de Israel: Se uma mulher conceber e tiver um menino, será imunda sete dias; como nos dias da sua menstruação, será imunda.
-3 E, no oitavo dia, se circuncidará ao menino a carne do seu prepúcio.
-4 Depois, ficará ela trinta e três dias a purificar-se do seu sangue; nenhuma coisa santa tocará, nem entrará no santuário até que se cumpram os dias da sua purificação.
-5 Mas, se tiver uma menina, será imunda duas semanas, como na sua menstruação; depois, ficará sessenta e seis dias a purificar-se do seu sangue.
-6 E, cumpridos os dias da sua purificação por filho ou filha, trará ao sacerdote um cordeiro de um ano, por holocausto, e um pombinho ou uma rola, por oferta pelo pecado, à porta da tenda da congregação;
-7 o sacerdote o oferecerá perante o Senhor e, pela mulher, fará expiação; e ela será purificada do fluxo do seu sangue; esta é a lei da que der à luz menino ou menina.
-8 Mas, se as suas posses não lhe permitirem trazer um cordeiro, tomará, então, duas rolas ou dois pombinhos, um para o holocausto e o outro para a oferta pelo pecado; assim, o sacerdote fará expiação pela mulher, e será limpa.*
-1 Disse o Senhor a Moisés e a Arão:
-2 O homem que tiver na sua pele inchação, ou pústula, ou mancha lustrosa, e isto nela se tornar como praga de lepra, será levado a Arão, o sacerdote, ou a um de seus filhos, sacerdotes.
-3 O sacerdote lhe examinará a praga na pele; se o pelo na praga se tornou branco, e a praga parecer mais profunda do que a pele da sua carne, é praga de lepra; o sacerdote o examinará e o declarará imundo.
-4 Se a mancha lustrosa na pele for branca e não parecer mais profunda do que a pele, e o pelo não se tornou branco, então, o sacerdote encerrará por sete dias o que tem a praga.
-5 Ao sétimo dia, o sacerdote o examinará; se, na sua opinião, a praga tiver parado e não se estendeu na sua pele, então, o sacerdote o encerrará por outros sete dias.
-6 O sacerdote, ao sétimo dia, o examinará outra vez; se a lepra se tornou baça e na pele se não estendeu, então, o sacerdote o declarará limpo; é pústula; o homem lavará as suas vestes e será limpo.
-7 Mas, se a pústula se estende muito na pele, depois de se ter mostrado ao sacerdote para a sua purificação, outra vez se mostrará ao sacerdote.
-8 Este o examinará, e se a pústula se tiver estendido na pele, o sacerdote o declarará imundo; é lepra.
-9 Quando no homem houver praga de lepra, será levado ao sacerdote.
-10 E o sacerdote o examinará; se há inchação branca na pele, a qual tornou o pelo branco, e houver carne viva na inchação,
-11 é lepra inveterada na pele; portanto, o sacerdote o declarará imundo; não o encerrará, porque é imundo.
-12 Se a lepra se espalhar de todo na pele e cobrir a pele do que tem a lepra, desde a cabeça até aos pés, quanto podem ver os olhos do sacerdote,
-13 então, este o examinará. Se a lepra cobriu toda a sua carne, declarará limpo o que tem a mancha; a lepra tornou-se branca; o homem está limpo.
-14 Mas, no dia em que aparecer nele carne viva, será imundo.
-15 Vendo, pois, o sacerdote a carne viva, declará-lo-á imundo; a carne viva é imunda; é lepra.
-16 Se a carne viva mudar e ficar de novo branca, então, virá ao sacerdote,
-17 e este o examinará. Se a lepra se tornou branca, então, o sacerdote declarará limpo o que tem a praga; está limpo.
-18 Quando sarar a carne em cuja pele houver uma úlcera,
-19 e no lugar da úlcera aparecer uma inchação branca ou mancha lustrosa, branca que tira a vermelho, mostrar-se-á ao sacerdote.
-20 O sacerdote a examinará; se ela parece mais funda do que a pele, e o seu pelo se tornou branco, o sacerdote o declarará imundo; praga de lepra é, que brotou da úlcera.
-21 Porém, se o sacerdote a examinar, e nela não houver pelo branco, e não estiver ela mais funda do que a pele, porém baça, então, o sacerdote o encerrará por sete dias.
-22 Se ela se estender na pele, o sacerdote declarará imundo o homem; é lepra.
-23 Mas, se a mancha lustrosa parar no seu lugar, não se estendendo, é cicatriz da úlcera; o sacerdote, pois, o declarará limpo.
-24 Quando, na pele, houver queimadura de fogo, e a carne viva da queimadura se tornar em mancha lustrosa, branca que tira a vermelho ou branco,
-25 o sacerdote a examinará. Se o pelo da mancha lustrosa se tornou branco, e ela parece mais funda do que a pele, é lepra que brotou na queimadura. O sacerdote declarará imundo o homem; é a praga de lepra.
-26 Porém, se o sacerdote a examinar, e não houver pelo branco na mancha lustrosa, e ela não estiver mais funda que a pele, mas for de cor baça, o sacerdote encerrará por sete dias o homem.
-27 Depois, o sacerdote o examinará ao sétimo dia; se ela se tiver estendido na pele, o sacerdote o declarará imundo; é praga de lepra.
-28 Mas, se a mancha lustrosa parar no seu lugar e na pele não se estender, mas se tornou baça, é inchação da queimadura; portanto, o sacerdote o declarará limpo, porque é cicatriz da queimadura.
-29 Quando o homem (ou a mulher) tiver praga na cabeça ou na barba,
-30 o sacerdote examinará a praga; se ela parece mais funda do que a pele, e pelo amarelo fino nela houver, o sacerdote o declarará imundo; é tinha, é lepra da cabeça ou da barba.
-31 Mas, se o sacerdote, havendo examinado a praga da tinha, achar que ela não parece mais funda do que a pele, e, se nela não houver pelo preto, então, o sacerdote encerrará o que tem a praga da tinha por sete dias.
-32 Ao sétimo dia, o sacerdote examinará a praga; se a tinha não se tiver espalhado, e nela não houver pelo amarelo, e a tinha não parecer mais funda do que a pele,
-33 então, o homem será rapado; mas não se rapará a tinha. O sacerdote, por mais sete dias, encerrará o que tem a tinha.
-34 Ao sétimo dia, o sacerdote examinará a tinha; se ela não se houver estendido na pele e não parecer mais funda do que a pele, o sacerdote declarará limpo o homem; este lavará as suas vestes e será limpo.
-35 Mas, se a tinha, depois da sua purificação, se tiver espalhado muito na pele,
-36 então, o sacerdote o examinará; se a tinha se tiver espalhado na pele, o sacerdote não procurará pelo amarelo; está imundo.
-37 Mas, se a tinha, a seu ver, parou, e pelo preto cresceu nela, a tinha está sarada; ele está limpo, e o sacerdote o declarará limpo.
-38 E, quando o homem (ou a mulher) tiver manchas lustrosas na pele,
-39 então, o sacerdote o examinará; se na pele aparecerem manchas baças, brancas, é impigem branca que brotou na pele; está limpo.
-40 Quando os cabelos do homem lhe caírem da cabeça, é calva; contudo, está limpo.
-41 Se lhe caírem na frente da cabeça, é antecalva; contudo, está limpo.
-42 Porém, se, na calva ou na antecalva, houver praga branca, que tira a vermelho, é lepra, brotando na calva ou na antecalva.
-43 Havendo, pois, o sacerdote examinado, se a inchação da praga, na sua calva ou antecalva, está branca, que tira a vermelho, como parece a lepra na pele,
-44 é leproso aquele homem, está imundo; o sacerdote o declarará imundo; a sua praga está na cabeça.
-45 As vestes do leproso, em quem está a praga, serão rasgadas, e os seus cabelos serão desgrenhados; cobrirá o bigode e clamará: Imundo! Imundo!
-46 Será imundo durante os dias em que a praga estiver nele; é imundo, habitará só; a sua habitação será fora do arraial.
-47 Quando também em alguma veste houver praga de lepra, veste de lã ou de linho,
-48 seja na urdidura, seja na trama, de linho ou de lã, em pele ou em qualquer obra de peles,
-49 se a praga for esverdinhada ou avermelhada na veste, ou na pele, ou na urdidura, ou na trama, em qualquer coisa feita de pele, é a praga de lepra, e mostrar-se-á ao sacerdote.
-50 O sacerdote examinará a praga e encerrará, por sete dias, aquilo que tem a praga.
-51 Então, examinará a praga ao sétimo dia; se ela se houver estendido na veste, na urdidura ou na trama, seja na pele, seja qual for a obra em que se empregue, é lepra maligna; isso é imundo.
-52 Pelo que se queimará aquela veste, seja a urdidura, seja a trama, de lã, ou de linho, ou qualquer coisa feita de pele, em que se acha a praga, pois é lepra maligna; tudo se queimará.
-53 Mas, examinando o sacerdote, se a praga não se tiver espalhado na veste, nem na urdidura, nem na trama, nem em qualquer coisa feita de pele,
-54 então, o sacerdote ordenará que se lave aquilo em que havia a praga e o encerrará por mais sete dias;
-55 o sacerdote, examinando a coisa em que havia praga, depois de lavada aquela, se a praga não mudou a sua cor, nem se espalhou, está imunda; com fogo a queimarás; é lepra roedora, seja no avesso ou no direito.
-56 Mas, se o sacerdote examinar a mancha, e esta se tornou baça depois de lavada, então, a rasgará da veste, ou da pele, ou da urdidura, ou da trama.
-57 Se a praga ainda aparecer na veste, quer na urdidura, quer na trama, ou em qualquer coisa feita de pele, é lepra que se espalha; com fogo queimarás aquilo em que está a praga.
-58 Mas a veste, quer na urdidura, quer na trama, ou qualquer coisa de peles, que lavares e de que a praga se retirar, se lavará segunda vez e será limpa.
-59 Esta é a lei da praga da lepra da veste de lã ou de linho, quer na urdidura, quer na trama; ou de qualquer coisa de peles, para se poder declará-las limpas ou imundas.*
-do
-1 Disse o Senhor a Moisés:
-2 Esta será a lei do leproso no dia da sua purificação: será levado ao sacerdote;
-3 este sairá fora do arraial e o examinará. Se a praga da lepra do leproso está curada,
-4 então, o sacerdote ordenará que se tomem, para aquele que se houver de purificar, duas aves vivas e limpas, e pau de cedro, e estofo carmesim, e hissopo.
-5 Mandará também o sacerdote que se imole uma ave num vaso de barro, sobre águas correntes.
-6 Tomará a ave viva, e o pau de cedro, e o estofo carmesim, e o hissopo e os molhará no sangue da ave que foi imolada sobre as águas correntes.
-7 E, sobre aquele que há de purificar-se da lepra, aspergirá sete vezes; então, o declarará limpo e soltará a ave viva para o campo aberto.
-8 Aquele que tem de se purificar lavará as vestes, rapará todo o seu pelo, banhar-se-á com água e será limpo; depois, entrará no arraial, porém ficará fora da sua tenda por sete dias.
-9 Ao sétimo dia, rapará todo o seu cabelo, a cabeça, a barba e as sobrancelhas; rapará todo pelo, lavará as suas vestes, banhará o corpo com água e será limpo.
-10 No oitavo dia, tomará dois cordeiros sem defeito, uma cordeira sem defeito, de um ano, e três dízimas de um efa de flor de farinha, para oferta de manjares, amassada com azeite, e separadamente um sextário de azeite;
-11 e o sacerdote que faz a purificação apresentará o homem que houver de purificar-se e essas coisas diante do Senhor, à porta da tenda da congregação;
-12 tomará um dos cordeiros e o oferecerá por oferta pela culpa e o sextário de azeite; e os moverá por oferta movida perante o Senhor.
-13 Então, imolará o cordeiro no lugar em que se imola a oferta pelo pecado e o holocausto, no lugar santo; porque quer a oferta pela culpa como a oferta pelo pecado são para o sacerdote; são coisas santíssimas.
-14 O sacerdote tomará do sangue da oferta pela culpa e o porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito.
-15 Também tomará do sextário de azeite e o derramará na palma da própria mão esquerda.
-16 Molhará o dedo direito no azeite que está na mão esquerda e daquele azeite aspergirá, com o dedo, sete vezes perante o Senhor;
-17 do restante do azeite que está na mão, o sacerdote porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito, em cima do sangue da oferta pela culpa;
-18 o restante do azeite que está na mão do sacerdote, pô-lo-á sobre a cabeça daquele que tem de purificar-se; assim, o sacerdote fará expiação por ele perante o Senhor.
-19 Então, o sacerdote fará a oferta pelo pecado e fará expiação por aquele que tem de purificar-se da sua imundícia. Depois, imolará o holocausto
-20 e o oferecerá com a oferta de manjares sobre o altar; assim, o sacerdote fará expiação pelo homem, e este será limpo.
-21 Se for pobre, e as suas posses não lhe permitirem trazer tanto, tomará um cordeiro para oferta pela culpa como oferta movida, para fazer expiação por ele, e a dízima de um efa de flor de farinha, amassada com azeite, para oferta de manjares, e um sextário de azeite,
-22 duas rolas ou dois pombinhos, segundo as suas posses, dos quais um será para oferta pelo pecado, e o outro, para holocausto.
-23 Ao oitavo dia da sua purificação, os trará ao sacerdote, à porta da tenda da congregação, perante o Senhor.
-24 O sacerdote tomará o cordeiro da oferta pela culpa e o sextário de azeite e os moverá por oferta movida perante o Senhor.
-25 Então, o sacerdote imolará o cordeiro da oferta pela culpa, e tomará do sangue da oferta pela culpa, e o porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito.
-26 Derramará do azeite na palma da própria mão esquerda;
-27 e, com o dedo direito, aspergirá do azeite que está na sua mão esquerda, sete vezes perante o Senhor;
-28 porá do azeite que está na sua mão na ponta da orelha direita daquele que tem de purificar-se, e no polegar da sua mão direita, e no polegar do seu pé direito, por cima do sangue da oferta pela culpa;
-29 o restante do azeite que está na mão do sacerdote porá sobre a cabeça do que tem de purificar-se, para fazer expiação por ele perante o Senhor.
-30 Oferecerá uma das rolas ou um dos pombinhos, segundo as suas posses;
-31 será um para oferta pelo pecado, e o outro, para holocausto, além da oferta de manjares; e, assim, o sacerdote fará expiação por aquele que tem de purificar-se perante o Senhor.
-32 Esta é a lei daquele em quem está a praga da lepra, cujas posses não lhe permitem o devido para a sua purificação.
-33 Disse mais o Senhor a Moisés e a Arão:
-34 Quando entrardes na terra de Canaã, que vos darei por possessão, e eu enviar a praga da lepra a alguma casa da terra da vossa possessão,
-35 o dono da casa fará saber ao sacerdote, dizendo: Parece-me que há como que praga em minha casa.
-36 O sacerdote ordenará que despejem a casa, antes que venha para examinar a praga, para que não seja contaminado tudo o que está na casa; depois, virá o sacerdote, para examinar a casa,
-37 e examinará a praga. Se, nas paredes da casa, há manchas esverdinhadas ou avermelhadas e parecem mais fundas que a parede,
-38 então, o sacerdote sairá da casa e a cerrará por sete dias.
-39 Ao sétimo dia, voltará o sacerdote e examinará; se vir que a praga se estendeu nas paredes da casa,
-40 ele ordenará que arranquem as pedras em que estiver a praga e que as lancem fora da cidade num lugar imundo;
-41 e fará raspar a casa por dentro, ao redor, e o pó que houverem raspado lançarão, fora da cidade, num lugar imundo.
-42 Depois, tomarão outras pedras e as porão no lugar das primeiras; tomar-se-á outra argamassa e se rebocará a casa.
-43 Se a praga tornar a brotar na casa, depois de arrancadas as pedras, raspada a casa e de novo rebocada,
-44 então, o sacerdote entrará e examinará. Se a praga se tiver estendido na casa, há nela lepra maligna; está imunda.
-45 Derribar-se-á, portanto, a casa, as pedras e a sua madeira, como também todo o reboco da casa; e se levará tudo para fora da cidade, a um lugar imundo.
-46 Aquele que entrar na casa, enquanto está fechada, será imundo até à tarde.
-47 Também o que se deitar na casa lavará as suas vestes; e quem nela comer lavará as suas vestes.
-48 Porém, tornando o sacerdote a entrar, e, examinando, se a praga na casa não se tiver estendido depois que a casa foi rebocada, o sacerdote a declarará limpa, porque a praga está curada.
-49 Para purificar a casa, tomará duas aves, e pau de cedro, e estofo carmesim, e hissopo,
-50 imolará uma ave num vaso de barro sobre águas correntes,
-51 tomará o pau de cedro, e o hissopo, e o estofo carmesim, e a ave viva, e os molhará no sangue da ave imolada e nas águas correntes, e aspergirá a casa sete vezes.
-52 Assim, purificará aquela casa com o sangue da ave, e com as águas correntes, e com a ave viva, e com o pau de cedro, e com o hissopo, e com o estofo carmesim.
-53 Então, soltará a ave viva para fora da cidade, para o campo aberto; assim, fará expiação pela casa, e será limpa.
-54 Esta é a lei de toda sorte de praga de lepra, e de tinha,
-55 e da lepra das vestes, e das casas,
-56 e da inchação, e da pústula, e das manchas lustrosas,
-57 para ensinar quando qualquer coisa é limpa ou imunda. Esta é a lei da lepra.*
-1 Disse mais o Senhor a Moisés e a Arão:
-2 Falai aos filhos de Israel e dizei-lhes: Qualquer homem que tiver fluxo seminal do seu corpo será imundo por causa do fluxo.
-3 Esta, pois, será a sua imundícia por causa do seu fluxo: se o seu corpo vaza o fluxo ou se o seu corpo o estanca, esta é a sua imundícia.
-4 Toda cama em que se deitar o que tiver fluxo será imunda; e tudo sobre que se assentar será imundo.
-5 Qualquer que lhe tocar a cama lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-6 Aquele que se assentar sobre aquilo em que se assentara o que tem o fluxo lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-7 Quem tocar o corpo do que tem o fluxo lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-8 Se o homem que tem o fluxo cuspir sobre uma pessoa limpa, então, esta lavará as suas vestes, banhar-se-á em água e será imunda até à tarde.
-9 Também toda sela em que cavalgar o que tem o fluxo será imunda.
-10 Qualquer que tocar alguma coisa que esteve debaixo dele será imundo até à tarde; e aquele que a levar lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-11 Também todo aquele em quem tocar o que tiver o fluxo, sem haver lavado as suas mãos com água, lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-12 O vaso de barro em que tocar o que tem o fluxo será quebrado; porém todo vaso de madeira será lavado em água.
-13 Quando, pois, o que tem o fluxo dele estiver limpo, contar-se-ão sete dias para a sua purificação; lavará as suas vestes, banhará o corpo em águas correntes e será limpo.
-14 Ao oitavo dia, tomará duas rolas ou dois pombinhos, e virá perante o Senhor, à porta da tenda da congregação, e os dará ao sacerdote;
-15 este os oferecerá, um, para oferta pelo pecado, e o outro, para holocausto; e, assim, o sacerdote fará, por ele, expiação do seu fluxo perante o Senhor.
-16 Também o homem, quando se der com ele emissão do sêmen, banhará todo o seu corpo em água e será imundo até à tarde.
-17 Toda veste e toda pele em que houver sêmen se lavarão em água e serão imundas até à tarde.
-18 Se um homem coabitar com mulher e tiver emissão do sêmen, ambos se banharão em água e serão imundos até à tarde.
-19 A mulher, quando tiver o fluxo de sangue, se este for o fluxo costumado do seu corpo, estará sete dias na sua menstruação, e qualquer que a tocar será imundo até à tarde.
-20 Tudo sobre que ela se deitar durante a menstruação será imundo; e tudo sobre que se assentar será imundo.
-21 Quem tocar no leito dela lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-22 Quem tocar alguma coisa sobre que ela se tiver assentado lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-23 Também quem tocar alguma coisa que estiver sobre a cama ou sobre aquilo em que ela se assentou, esse será imundo até à tarde.
-24 Se um homem coabitar com ela, e a sua menstruação estiver sobre ele, será imundo por sete dias; e toda cama sobre que ele se deitar será imunda.
-25 Também a mulher, quando manar fluxo do seu sangue, por muitos dias fora do tempo da sua menstruação ou quando tiver fluxo do sangue por mais tempo do que o costumado, todos os dias do fluxo será imunda, como nos dias da sua menstruação.
-26 Toda cama sobre que se deitar durante os dias do seu fluxo ser-lhe-á como a cama da sua menstruação; e toda coisa sobre que se assentar será imunda, conforme a impureza da sua menstruação.
-27 Quem tocar estas será imundo; portanto, lavará as suas vestes, banhar-se-á em água e será imundo até à tarde.
-28 Porém, quando lhe cessar o fluxo, então, se contarão sete dias, e depois será limpa.
-29 Ao oitavo dia, tomará duas rolas ou dois pombinhos e os trará ao sacerdote à porta da tenda da congregação.
-30 Então, o sacerdote oferecerá um, para oferta pelo pecado, e o outro, para holocausto; o sacerdote fará, por ela, expiação do fluxo da sua impureza perante o Senhor.
-31 Assim, separareis os filhos de Israel das suas impurezas, para que não morram nelas, ao contaminarem o meu tabernáculo, que está no meio deles.
-32 Esta é a lei daquele que tem o fluxo, e daquele com quem se dá emissão do sêmen e que fica por ela imundo,
-33 e também da mulher passível da sua menstruação, e daquele que tem o fluxo, seja homem ou mulher, e do homem que se deita com mulher imunda.*
-1 Falou o Senhor a Moisés, depois que morreram os dois filhos de Arão, tendo chegado aqueles diante do Senhor.
-2 Então, disse o Senhor a Moisés: Dize a Arão, teu irmão, que não entre no santuário em todo tempo, para dentro do véu, diante do propiciatório que está sobre a arca, para que não morra; porque aparecerei na nuvem sobre o propiciatório.
-3 Entrará Arão no santuário com isto: um novilho, para oferta pelo pecado, e um carneiro, para holocausto.
-4 Vestirá ele a túnica de linho, sagrada, terá as calças de linho sobre a pele, cingir-se-á com o cinto de linho e se cobrirá com a mitra de linho; são estas as vestes sagradas. Banhará o seu corpo em água e, então, as vestirá.
-5 Da congregação dos filhos de Israel tomará dois bodes, para a oferta pelo pecado, e um carneiro, para holocausto.
-6 Arão trará o novilho da sua oferta pelo pecado e fará expiação por si e pela sua casa.
-7 Também tomará ambos os bodes e os porá perante o Senhor, à porta da tenda da congregação.
-8 Lançará sortes sobre os dois bodes: uma, para o Senhor, e a outra, para o bode emissário.
-9 Arão fará chegar o bode sobre o qual cair a sorte para o Senhor e o oferecerá por oferta pelo pecado.
-10 Mas o bode sobre que cair a sorte para bode emissário será apresentado vivo perante o Senhor, para fazer expiação por meio dele e enviá-lo ao deserto como bode emissário.
-11 Arão fará chegar o novilho da sua oferta pelo pecado e fará expiação por si e pela sua casa; imolará o novilho da sua oferta pelo pecado.
-12 Tomará também, de sobre o altar, o incensário cheio de brasas de fogo, diante do Senhor, e dois punhados de incenso aromático bem moído e o trará para dentro do véu.
-13 Porá o incenso sobre o fogo, perante o Senhor, para que a nuvem do incenso cubra o propiciatório, que está sobre o Testemunho, para que não morra.
-14 Tomará do sangue do novilho e, com o dedo, o aspergirá sobre a frente do propiciatório; e, diante do propiciatório, aspergirá sete vezes do sangue, com o dedo.
-15 Depois, imolará o bode da oferta pelo pecado, que será para o povo, e trará o seu sangue para dentro do véu; e fará com o seu sangue como fez com o sangue do novilho; aspergi-lo-á no propiciatório e também diante dele.
-16 Assim, fará expiação pelo santuário por causa das impurezas dos filhos de Israel, e das suas transgressões, e de todos os seus pecados. Da mesma sorte, fará pela tenda da congregação, que está com eles no meio das suas impurezas.
-17 Nenhum homem estará na tenda da congregação quando ele entrar para fazer propiciação no santuário, até que ele saia depois de feita a expiação por si mesmo, e pela sua casa, e por toda a congregação de Israel.
-18 Então, sairá ao altar, que está perante o Senhor, e fará expiação por ele. Tomará do sangue do novilho e do sangue do bode e o porá sobre os chifres do altar, ao redor.
-19 Do sangue aspergirá, com o dedo, sete vezes sobre o altar, e o purificará, e o santificará das impurezas dos filhos de Israel.
-20 Havendo, pois, acabado de fazer expiação pelo santuário, pela tenda da congregação e pelo altar, então, fará chegar o bode vivo.
-21 Arão porá ambas as mãos sobre a cabeça do bode vivo e sobre ele confessará todas as iniquidades dos filhos de Israel, todas as suas transgressões e todos os seus pecados; e os porá sobre a cabeça do bode e enviá-lo-á ao deserto, pela mão de um homem à disposição para isso.
-22 Assim, aquele bode levará sobre si todas as iniquidades deles para terra solitária; e o homem soltará o bode no deserto.
-23 Depois, Arão virá à tenda da congregação, e despirá as vestes de linho, que havia usado quando entrara no santuário, e ali as deixará.
-24 Banhará o seu corpo em água no lugar santo e porá as suas vestes; então, sairá, e oferecerá o seu holocausto e o holocausto do povo, e fará expiação por si e pelo povo.
-25 Também queimará a gordura da oferta pelo pecado sobre o altar.
-26 E aquele que tiver levado o bode emissário lavará as suas vestes, banhará o seu corpo em água e, depois, entrará no arraial.
-27 Mas o novilho e o bode da oferta pelo pecado, cujo sangue foi trazido para fazer expiação no santuário, serão levados fora do arraial; porém as suas peles, a sua carne e o seu excremento se queimarão.
-28 Aquele que o queimar lavará as suas vestes, banhará o seu corpo em água e, depois, entrará no arraial.
-29 Isso vos será por estatuto perpétuo: no sétimo mês, aos dez dias do mês, afligireis a vossa alma e nenhuma obra fareis, nem o natural nem o estrangeiro que peregrina entre vós.
-30 Porque, naquele dia, se fará expiação por vós, para purificar-vos; e sereis purificados de todos os vossos pecados, perante o Senhor.
-31 É sábado de descanso solene para vós outros, e afligireis a vossa alma; é estatuto perpétuo.
-32 Quem for ungido e consagrado para oficiar como sacerdote no lugar de seu pai fará a expiação, havendo posto as vestes de linho, as vestes santas;
-33 fará expiação pelo santuário, pela tenda da congregação e pelo altar; também a fará pelos sacerdotes e por todo o povo da congregação.
-34 Isto vos será por estatuto perpétuo, para fazer expiação uma vez por ano pelos filhos de Israel, por causa dos seus pecados. E fez Arão como o Senhor ordenara a Moisés.*
-1 Disse o Senhor a Moisés:
-2 Fala a Arão, e a seus filhos, e a todos os filhos de Israel e dize-lhes: Isto é o que o Senhor ordenou, dizendo:
-3 Qualquer homem da casa de Israel que imolar boi, ou cordeiro, ou cabra, no arraial ou fora dele,
-4 e os não trouxer à porta da tenda da congregação, como oferta ao Senhor diante do seu tabernáculo, a tal homem será imputada a culpa do sangue; derramou sangue, pelo que esse homem será eliminado do seu povo;
-5 para que os filhos de Israel, trazendo os seus sacrifícios, que imolam em campo aberto, os apresentem ao Senhor, à porta da tenda da congregação, ao sacerdote, e os ofereçam por sacrifícios pacíficos ao Senhor.
-6 O sacerdote aspergirá o sangue sobre o altar do Senhor, à porta da tenda da congregação, e queimará a gordura de aroma agradável ao Senhor.
-7 Nunca mais oferecerão os seus sacrifícios aos demônios, com os quais eles se prostituem; isso lhes será por estatuto perpétuo nas suas gerações.
-8 Dize-lhes, pois: Qualquer homem da casa de Israel ou dos estrangeiros que peregrinam entre vós que oferecer holocausto ou sacrifício
-9 e não o trouxer à porta da tenda da congregação, para oferecê-lo ao Senhor, esse homem será eliminado do seu povo.
-10 Qualquer homem da casa de Israel ou dos estrangeiros que peregrinam entre vós que comer algum sangue, contra ele me voltarei e o eliminarei do seu povo.
-11 Porque a vida da carne está no sangue. Eu vo-lo tenho dado sobre o altar, para fazer expiação pela vossa alma, porquanto é o sangue que fará expiação em virtude da vida.
-12 Portanto, tenho dito aos filhos de Israel: nenhuma alma de entre vós comerá sangue, nem o estrangeiro que peregrina entre vós o comerá.
-13 Qualquer homem dos filhos de Israel ou dos estrangeiros que peregrinam entre vós que caçar animal ou ave que se come derramará o seu sangue e o cobrirá com pó.
-14 Portanto, a vida de toda carne é o seu sangue; por isso, tenho dito aos filhos de Israel: não comereis o sangue de nenhuma carne, porque a vida de toda carne é o seu sangue; qualquer que o comer será eliminado.
-15 Todo homem, quer natural, quer estrangeiro, que comer o que morre por si ou dilacerado lavará as suas vestes, banhar-se-á em água e será imundo até à tarde; depois, será limpo.
-16 Mas, se não as lavar, nem banhar o corpo, levará sobre si a sua iniquidade.*
-1 Disse mais o Senhor a Moisés:
-2 Fala aos filhos de Israel e dize-lhes: Eu sou o Senhor, vosso Deus.
-3 Não fareis segundo as obras da terra do Egito, em que habitastes, nem fareis segundo as obras da terra de Canaã, para a qual eu vos levo, nem andareis nos seus estatutos.
-4 Fareis segundo os meus juízos e os meus estatutos guardareis, para andardes neles. Eu sou o Senhor, vosso Deus.
-5 Portanto, os meus estatutos e os meus juízos guardareis; cumprindo-os, o homem viverá por eles. Eu sou o Senhor.
-6 Nenhum homem se chegará a qualquer parenta da sua carne, para lhe descobrir a nudez. Eu sou o Senhor.
-7 Não descobrirás a nudez de teu pai e de tua mãe; ela é tua mãe; não lhe descobrirás a nudez.
-8 Não descobrirás a nudez da mulher de teu pai; é nudez de teu pai.
-9 A nudez da tua irmã, filha de teu pai ou filha de tua mãe, nascida em casa ou fora de casa, a sua nudez não descobrirás.
-10 A nudez da filha do teu filho ou da filha de tua filha, a sua nudez não descobrirás, porque é tua nudez.
-11 Não descobrirás a nudez da filha da mulher de teu pai, gerada de teu pai; ela é tua irmã.
-12 A nudez da irmã do teu pai não descobrirás; ela é parenta de teu pai.
-13 A nudez da irmã de tua mãe não descobrirás; pois ela é parenta de tua mãe.
-14 A nudez do irmão de teu pai não descobrirás; não te chegarás à sua mulher; ela é tua tia.
-15 A nudez de tua nora não descobrirás; ela é mulher de teu filho; não lhe descobrirás a nudez.
-16 A nudez da mulher de teu irmão não descobrirás; é a nudez de teu irmão.
-17 A nudez de uma mulher e de sua filha não descobrirás; não tomarás a filha de seu filho, nem a filha de sua filha, para lhe descobrir a nudez; parentes são; maldade é.
-18 E não tomarás com tua mulher outra, de sorte que lhe seja rival, descobrindo a sua nudez com ela durante sua vida.
-19 Não te chegarás à mulher, para lhe descobrir a nudez, durante a sua menstruação.
-20 Nem te deitarás com a mulher de teu próximo, para te contaminares com ela.
-21 E da tua descendência não darás nenhum para dedicar-se a Moloque, nem profanarás o nome de teu Deus. Eu sou o Senhor.
-22 Com homem não te deitarás, como se fosse mulher; é abominação.
-23 Nem te deitarás com animal, para te contaminares com ele, nem a mulher se porá perante um animal, para ajuntar-se com ele; é confusão.
-24 Com nenhuma destas coisas vos contaminareis, porque com todas estas coisas se contaminaram as nações que eu lanço de diante de vós.
-25 E a terra se contaminou; e eu visitei nela a sua iniquidade, e ela vomitou os seus moradores.
-26 Porém vós guardareis os meus estatutos e os meus juízos, e nenhuma destas abominações fareis, nem o natural, nem o estrangeiro que peregrina entre vós;
-27 porque todas estas abominações fizeram os homens desta terra que nela estavam antes de vós; e a terra se contaminou.
-28 Não suceda que a terra vos vomite, havendo-a vós contaminado, como vomitou o povo que nela estava antes de vós.
-29 Todo que fizer alguma destas abominações, sim, aqueles que as cometerem serão eliminados do seu povo.
-30 Portanto, guardareis a obrigação que tendes para comigo, não praticando nenhum dos costumes abomináveis que se praticaram antes de vós, e não vos contaminareis com eles. Eu sou o Senhor, vosso Deus.*
-1 Disse o Senhor a Moisés:
-2 Fala a toda a congregação dos filhos de Israel e dize-lhes: Santos sereis, porque eu, o Senhor, vosso Deus, sou santo.
-3 Cada um respeitará a sua mãe e o seu pai e guardará os meus sábados. Eu sou o Senhor, vosso Deus.
-4 Não vos virareis para os ídolos, nem vos fareis deuses de fundição. Eu sou o Senhor, vosso Deus.
-5 Quando oferecerdes sacrifício pacífico ao Senhor, oferecê-lo-eis para que sejais aceitos.
-6 No dia em que o oferecerdes e no dia seguinte, se comerá; mas o que sobejar, ao terceiro dia, será queimado.
-7 Se alguma coisa dele for comida ao terceiro dia, é abominação; não será aceita.
-8 Qualquer que o comer levará a sua iniquidade, porquanto profanou coisa santa do Senhor; por isso, será eliminado do seu povo.
-9 Quando também segares a messe da tua terra, o canto do teu campo não segarás totalmente, nem as espigas caídas colherás da tua messe.
-10 Não rebuscarás a tua vinha, nem colherás os bagos caídos da tua vinha; deixá-los-ás ao pobre e ao estrangeiro. Eu sou o Senhor, vosso Deus.
-11 Não furtareis, nem mentireis, nem usareis de falsidade cada um com o seu próximo;
-12 nem jurareis falso pelo meu nome, pois profanaríeis o nome do vosso Deus. Eu sou o Senhor.
-13 Não oprimirás o teu próximo, nem o roubarás; a paga do jornaleiro não ficará contigo até pela manhã.
-14 Não amaldiçoarás o surdo, nem porás tropeço diante do cego; mas temerás o teu Deus. Eu sou o Senhor.
-15 Não farás injustiça no juízo, nem favorecendo o pobre, nem comprazendo ao grande; com justiça julgarás o teu próximo.
-16 Não andarás como mexeriqueiro entre o teu povo; não atentarás contra a vida do teu próximo. Eu sou o Senhor.
-17 Não aborrecerás teu irmão no teu íntimo; mas repreenderás o teu próximo e, por causa dele, não levarás sobre ti pecado.
-18 Não te vingarás, nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor.
-19 Guardarás os meus estatutos; não permitirás que os teus animais se ajuntem com os de espécie diversa; no teu campo, não semearás semente de duas espécies; nem usarás roupa de dois estofos misturados.
-20 Se alguém se deitar com uma mulher, se for escrava desposada com outro homem e não for resgatada, nem se lhe houver dado liberdade, então, serão açoitados; não serão mortos, pois não foi libertada.
-21 O homem, como oferta pela sua culpa, trará um carneiro ao Senhor, à porta da tenda da congregação.
-22 Com o carneiro da oferta pela culpa, o sacerdote fará expiação, por ele, perante o Senhor, pelo pecado que cometeu, e ser-lhe-á perdoado o pecado que cometeu.
-23 Quando entrardes na terra e plantardes toda sorte de árvore de comer, ser-vos-á vedado o seu fruto; três anos vos será vedado; dele não se comerá.
-24 Porém, no quarto ano, todo o seu fruto será santo, será oferta de louvores ao Senhor.
-25 No quinto ano, comereis fruto dela para que vos faça aumentar a sua produção. Eu sou o Senhor, vosso Deus.
-26 Não comereis coisa alguma com sangue; não agourareis, nem adivinhareis.
-27 Não cortareis o cabelo em redondo, nem danificareis as extremidades da barba.
-28 Pelos mortos não ferireis a vossa carne; nem fareis marca nenhuma sobre vós. Eu sou o Senhor.
-29 Não contaminarás a tua filha, fazendo-a prostituir-se; para que a terra não se prostitua, nem se encha de maldade.
-30 Guardareis os meus sábados e reverenciareis o meu santuário. Eu sou o Senhor.
-31 Não vos voltareis para os necromantes, nem para os adivinhos; não os procureis para serdes contaminados por eles. Eu sou o Senhor, vosso Deus.
-32 Diante das cãs te levantarás, e honrarás a presença do ancião, e temerás o teu Deus. Eu sou o Senhor.
-33 Se o estrangeiro peregrinar na vossa terra, não o oprimireis.
-34 Como o natural, será entre vós o estrangeiro que peregrina convosco; amá-lo-eis como a vós mesmos, pois estrangeiros fostes na terra do Egito. Eu sou o Senhor, vosso Deus.
-35 Não cometereis injustiça no juízo, nem na vara, nem no peso, nem na medida.
-36 Balanças justas, pesos justos, efa justo e justo him tereis. Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito.
-37 Guardareis todos os meus estatutos e todos os meus juízos e os cumprireis. Eu sou o Senhor.*
-1 Disse mais o Senhor a Moisés:
-2 Também dirás aos filhos de Israel: Qualquer dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, que der de seus filhos a Moloque será morto; o povo da terra o apedrejará.
-3 Voltar-me-ei contra esse homem, e o eliminarei do meio do seu povo, porquanto deu de seus filhos a Moloque, contaminando, assim, o meu santuário e profanando o meu santo nome.
-4 Se o povo da terra fechar os olhos para não ver esse homem, quando der de seus filhos a Moloque, e o não matar,
-5 então, eu me voltarei contra esse homem e contra a sua família e o eliminarei do meio do seu povo, com todos os que após ele se prostituem com Moloque.
-6 Quando alguém se virar para os necromantes e feiticeiros, para se prostituir com eles, eu me voltarei contra ele e o eliminarei do meio do seu povo.
-7 Portanto, santificai-vos e sede santos, pois eu sou o Senhor, vosso Deus.
-8 Guardai os meus estatutos e cumpri-os. Eu sou o Senhor, que vos santifico.
-9 Se um homem amaldiçoar a seu pai ou a sua mãe, será morto; amaldiçoou a seu pai ou a sua mãe; o seu sangue cairá sobre ele.
-10 Se um homem adulterar com a mulher do seu próximo, será morto o adúltero e a adúltera.
-11 O homem que se deitar com a mulher de seu pai terá descoberto a nudez de seu pai; ambos serão mortos; o seu sangue cairá sobre eles.
-12 Se um homem se deitar com a nora, ambos serão mortos; fizeram confusão; o seu sangue cairá sobre eles.
-13 Se também um homem se deitar com outro homem, como se fosse mulher, ambos praticaram coisa abominável; serão mortos; o seu sangue cairá sobre eles.
-14 Se um homem tomar uma mulher e sua mãe, maldade é; a ele e a elas queimarão, para que não haja maldade no meio de vós.
-15 Se também um homem se ajuntar com um animal, será morto; e matarás o animal.
-16 Se uma mulher se achegar a algum animal e se ajuntar com ele, matarás tanto a mulher como o animal; o seu sangue cairá sobre eles.
-17 Se um homem tomar a sua irmã, filha de seu pai ou filha de sua mãe, e vir a nudez dela, e ela vir a dele, torpeza é; portanto, serão eliminados na presença dos filhos do seu povo; descobriu a nudez de sua irmã; levará sobre si a sua iniquidade.
-18 Se um homem se deitar com mulher no tempo da enfermidade dela e lhe descobrir a nudez, descobrindo a sua fonte, e ela descobrir a fonte do seu sangue, ambos serão eliminados do meio do seu povo.
-19 Também a nudez da irmã de tua mãe ou da irmã de teu pai não descobrirás; porquanto descobriu a nudez da sua parenta, sobre si levarão a sua iniquidade.
-20 Também se um homem se deitar com a sua tia, descobriu a nudez de seu tio; seu pecado sobre si levarão; morrerão sem filhos.
-21 Se um homem tomar a mulher de seu irmão, imundícia é; descobriu a nudez de seu irmão; ficarão sem filhos.
-22 Guardai, pois, todos os meus estatutos e todos os meus juízos e cumpri-os, para que vos não vomite a terra para a qual vos levo para habitardes nela.
-23 Não andeis nos costumes da gente que eu lanço de diante de vós, porque fizeram todas estas coisas; por isso, me aborreci deles.
-24 Mas a vós outros vos tenho dito: em herança possuireis a sua terra, e eu vo-la darei para a possuirdes, terra que mana leite e mel. Eu sou o Senhor, vosso Deus, que vos separei dos povos.
-25 Fareis, pois, distinção entre os animais limpos e os imundos e entre as aves imundas e as limpas; não vos façais abomináveis por causa dos animais, ou das aves, ou de tudo o que se arrasta sobre a terra, as quais coisas apartei de vós, para tê-las por imundas.
-26 Ser-me-eis santos, porque eu, o Senhor, sou santo e separei-vos dos povos, para serdes meus.
-27 O homem ou mulher que sejam necromantes ou sejam feiticeiros serão mortos; serão apedrejados; o seu sangue cairá sobre eles.*
-1 Disse o Senhor a Moisés: Fala aos sacerdotes, filhos de Arão, e dize-lhes: O sacerdote não se contaminará por causa de um morto entre o seu povo,
-2 salvo por seu parente mais chegado: por sua mãe, e por seu pai, e por seu filho, e por sua filha, e por seu irmão;
-3 e também por sua irmã virgem, chegada a ele, que ainda não teve marido, pode contaminar-se.
-4 Ele, sendo homem principal entre o seu povo, não se contaminará, pois que se profanaria.
-5 Não farão calva na sua cabeça e não cortarão as extremidades da barba, nem ferirão a sua carne.
-6 Santos serão a seu Deus e não profanarão o nome do seu Deus, porque oferecem as ofertas queimadas do Senhor, o pão de seu Deus; portanto, serão santos.
-7 Não tomarão mulher prostituta ou desonrada, nem tomarão mulher repudiada de seu marido, pois o sacerdote é santo a seu Deus.
-8 Portanto, o consagrarás, porque oferece o pão do teu Deus. Ele vos será santo, pois eu, o Senhor que vos santifico, sou santo.
-9 Se a filha de um sacerdote se desonra, prostituindo-se, profana a seu pai; será queimada.
-10 O sumo sacerdote entre seus irmãos, sobre cuja cabeça foi derramado o óleo da unção, e que for consagrado para vestir as vestes sagradas, não desgrenhará os cabelos, nem rasgará as suas vestes.
-11 Não se chegará a cadáver algum, nem se contaminará por causa de seu pai ou de sua mãe.
-12 Não sairá do santuário, nem profanará o santuário do seu Deus, pois a consagração do óleo da unção do seu Deus está sobre ele. Eu sou o Senhor.
-13 Ele tomará por mulher uma virgem.
-14 Viúva, ou repudiada, ou desonrada, ou prostituta, estas não tomará, mas virgem do seu povo tomará por mulher.
-15 E não profanará a sua descendência entre o seu povo, porque eu sou o Senhor, que o santifico.
-16 Disse mais o Senhor a Moisés:
-17 Fala a Arão, dizendo: Ninguém dos teus descendentes, nas suas gerações, em quem houver algum defeito se chegará para oferecer o pão do seu Deus.
-18 Pois nenhum homem em quem houver defeito se chegará: como homem cego, ou coxo, ou de rosto mutilado, ou desproporcionado,
-19 ou homem que tiver o pé quebrado ou mão quebrada,
-20 ou corcovado, ou anão, ou que tiver belida no olho, ou sarna, ou impigens, ou que tiver testículo quebrado.
-21 Nenhum homem da descendência de Arão, o sacerdote, em quem houver algum defeito se chegará para oferecer as ofertas queimadas do Senhor; ele tem defeito; não se chegará para oferecer o pão do seu Deus.
-22 Comerá o pão do seu Deus, tanto do santíssimo como do santo.
-23 Porém até ao véu não entrará, nem se chegará ao altar, porque tem defeito, para que não profane os meus santuários, porque eu sou o Senhor, que os santifico.
-24 Assim falou Moisés a Arão, aos filhos deste e a todos os filhos de Israel.*
-1 Disse o Senhor a Moisés:
-2 Dize a Arão e aos seus filhos que se abstenham das coisas sagradas, dedicadas a mim pelos filhos de Israel, para que não profanem o meu santo nome. Eu sou o Senhor.
-3 Dize-lhes: Todo homem, que entre as vossas gerações, de toda a vossa descendência, se chegar às coisas sagradas que os filhos de Israel dedicam ao Senhor, tendo sobre si a sua imundícia, aquela alma será eliminada de diante de mim. Eu sou o Senhor.
-4 Ninguém da descendência de Arão que for leproso ou tiver fluxo comerá das coisas sagradas, até que seja limpo; como também o que tocar alguma coisa imunda por causa de um morto ou aquele com quem se der a emissão do sêmen;
-5 ou qualquer que tocar algum réptil, com o que se faz imundo, ou a algum homem, com o que se faz imundo, seja qual for a sua imundícia.
-6 O homem que o tocar será imundo até à tarde e não comerá das coisas sagradas sem primeiro banhar o seu corpo em água.
-7 Posto o sol, então, será limpo e, depois, comerá das coisas sagradas, porque isto é o seu pão.
-8 Do animal que morre por si mesmo ou é dilacerado não comerá, para, com isso, não contaminar-se. Eu sou o Senhor.
-9 Guardarão, pois, a obrigação que têm para comigo, para que, por isso, não levem sobre si pecado e morram, havendo-o profanado. Eu sou o Senhor, que os santifico.
-10 Nenhum estrangeiro comerá das coisas sagradas; o hóspede do sacerdote nem o seu jornaleiro comerão das coisas sagradas.
-11 Mas, se o sacerdote comprar algum escravo com o seu dinheiro, este comerá delas; os que nascerem na sua casa, estes comerão do seu pão.
-12 Quando a filha do sacerdote se casar com estrangeiro, ela não comerá da oferta das coisas sagradas.
-13 Mas, se a filha do sacerdote for viúva ou repudiada, e não tiver filhos, e se houver tornado à casa de seu pai, como na sua mocidade, do pão de seu pai comerá; mas nenhum estrangeiro comerá dele.
-14 Se alguém, por ignorância, comer a coisa sagrada, ajuntar-se-lhe-á a sua quinta parte e a dará ao sacerdote com a coisa sagrada.
-15 Não profanarão as coisas sagradas que os filhos de Israel oferecem ao Senhor,
-16 pois assim os fariam levar sobre si a culpa da iniquidade, comendo as coisas sagradas; porque eu sou o Senhor, que os santifico.
-17 Disse mais o Senhor a Moisés:
-18 Fala a Arão, e a seus filhos, e a todos os filhos de Israel e dize-lhes: Qualquer que, da casa de Israel ou dos estrangeiros em Israel, apresentar a sua oferta, quer em cumprimento de seus votos ou como ofertas voluntárias, que apresentar ao Senhor em holocausto,
-19 para que seja aceitável, oferecerá macho sem defeito, ou do gado, ou do rebanho de ovelhas, ou de cabras.
-20 Porém todo o que tiver defeito, esse não oferecereis; porque não seria aceito a vosso favor.
-21 Quando alguém oferecer sacrifício pacífico ao Senhor, quer em cumprimento de voto ou como oferta voluntária, do gado ou do rebanho, o animal deve ser sem defeito para ser aceitável; nele, não haverá defeito nenhum.
-22 O cego, ou aleijado, ou mutilado, ou ulceroso, ou sarnoso, ou cheio de impigens, não os oferecereis ao Senhor e deles não poreis oferta queimada ao Senhor sobre o altar.
-23 Porém novilho ou cordeiro desproporcionados poderás oferecer por oferta voluntária, mas, por voto, não será aceito.
-24 Não oferecereis ao Senhor animal que tiver os testículos machucados, ou moídos, ou arrancados, ou cortados; nem fareis isso na vossa terra.
-25 Também da mão do estrangeiro nenhum desses animais oferecereis como pão do vosso Deus, porque são corrompidos pelo defeito que há neles; não serão aceitos a vosso favor.
-26 Disse mais o Senhor a Moisés:
-27 Quando nascer o boi, ou cordeiro, ou cabra, sete dias estará com a mãe; do oitavo dia em diante, será aceito por oferta queimada ao Senhor.
-28 Ou seja vaca, ou seja ovelha, não imolarás a ela e seu filho, ambos no mesmo dia.
-29 Quando oferecerdes sacrifício de louvores ao Senhor, fá-lo-eis para que sejais aceitos.
-30 No mesmo dia, será comido; e, dele, nada deixareis ficar até pela manhã. Eu sou o Senhor.
-31 Pelo que guardareis os meus mandamentos e os cumprireis. Eu sou o Senhor.
-32 Não profanareis o meu santo nome, mas serei santificado no meio dos filhos de Israel. Eu sou o Senhor, que vos santifico,
-33 que vos tirei da terra do Egito, para ser o vosso Deus. Eu sou o Senhor.*
-1 Disse o Senhor a Moisés:
-2 Fala aos filhos de Israel e dize-lhes: As festas fixas do Senhor, que proclamareis, serão santas convocações; são estas as minhas festas.
-3 Seis dias trabalhareis, mas o sétimo será o sábado do descanso solene, santa convocação; nenhuma obra fareis; é sábado do Senhor em todas as vossas moradas.
-4 São estas as festas fixas do Senhor, as santas convocações, que proclamareis no seu tempo determinado:
-5 no mês primeiro, aos catorze do mês, no crepúsculo da tarde, é a Páscoa do Senhor.
-6 E aos quinze dias deste mês é a Festa dos Pães Asmos do Senhor; sete dias comereis pães asmos.
-7 No primeiro dia, tereis santa convocação; nenhuma obra servil fareis;
-8 mas sete dias oferecereis oferta queimada ao Senhor; ao sétimo dia, haverá santa convocação; nenhuma obra servil fareis.
-9 Disse mais o Senhor a Moisés:
-10 Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra, que vos dou, e segardes a sua messe, então, trareis um molho das primícias da vossa messe ao sacerdote;
-11 este moverá o molho perante o Senhor, para que sejais aceitos;
-12 no dia imediato ao sábado, o sacerdote o moverá. No dia em que moverdes o molho, oferecereis um cordeiro sem defeito, de um ano, em holocausto ao Senhor.
-13 A sua oferta de manjares serão duas dízimas de um efa de flor de farinha, amassada com azeite, para oferta queimada de aroma agradável ao Senhor, e a sua libação será de vinho, a quarta parte de um him.
-14 Não comereis pão, nem trigo torrado, nem espigas verdes, até ao dia em que trouxerdes a oferta ao vosso Deus; é estatuto perpétuo por vossas gerações, em todas as vossas moradas.
-15 Contareis para vós outros desde o dia imediato ao sábado, desde o dia em que trouxerdes o molho da oferta movida; sete semanas inteiras serão.
-16 Até ao dia imediato ao sétimo sábado, contareis cinquenta dias; então, trareis nova oferta de manjares ao Senhor.
-17 Das vossas moradas trareis dois pães para serem movidos; de duas dízimas de um efa de farinha serão; levedados se cozerão; são primícias ao Senhor.
-18 Com o pão oferecereis sete cordeiros sem defeito de um ano, e um novilho, e dois carneiros; holocausto serão ao Senhor, com a sua oferta de manjares e as suas libações, por oferta queimada de aroma agradável ao Senhor.
-19 Também oferecereis um bode, para oferta pelo pecado, e dois cordeiros de um ano, por oferta pacífica.
-20 Então, o sacerdote os moverá, com o pão das primícias, por oferta movida perante o Senhor, com os dois cordeiros; santos serão ao Senhor, para o uso do sacerdote.
-21 No mesmo dia, se proclamará que tereis santa convocação; nenhuma obra servil fareis; é estatuto perpétuo em todas as vossas moradas, pelas vossas gerações.
-22 Quando segardes a messe da vossa terra, não rebuscareis os cantos do vosso campo, nem colhereis as espigas caídas da vossa sega; para o pobre e para o estrangeiro as deixareis. Eu sou o Senhor, vosso Deus.
-23 Disse mais o Senhor a Moisés:
-24 Fala aos filhos de Israel, dizendo: No mês sétimo, ao primeiro do mês, tereis descanso solene, memorial, com sonidos de trombetas, santa convocação.
-25 Nenhuma obra servil fareis, mas trareis oferta queimada ao Senhor.
-26 Disse mais o Senhor a Moisés:
-27 Mas, aos dez deste mês sétimo, será o Dia da Expiação; tereis santa convocação e afligireis a vossa alma; trareis oferta queimada ao Senhor.
-28 Nesse mesmo dia, nenhuma obra fareis, porque é o Dia da Expiação, para fazer expiação por vós perante o Senhor, vosso Deus.
-29 Porque toda alma que, nesse dia, se não afligir será eliminada do seu povo.
-30 Quem, nesse dia, fizer alguma obra, a esse eu destruirei do meio do seu povo.
-31 Nenhuma obra fareis; é estatuto perpétuo pelas vossas gerações, em todas as vossas moradas.
-32 Sábado de descanso solene vos será; então, afligireis a vossa alma; aos nove do mês, de uma tarde a outra tarde, celebrareis o vosso sábado.
-A Festa dos Tabernáculos
-33 Disse mais o Senhor a Moisés:
-34 Fala aos filhos de Israel, dizendo: Aos quinze dias deste mês sétimo, será a Festa dos Tabernáculos ao Senhor, por sete dias.
-35 Ao primeiro dia, haverá santa convocação; nenhuma obra servil fareis.
-36 Sete dias oferecereis ofertas queimadas ao Senhor; ao dia oitavo, tereis santa convocação e oferecereis ofertas queimadas ao Senhor; é reunião solene, nenhuma obra servil fareis.
-37 São estas as festas fixas do Senhor, que proclamareis para santas convocações, para oferecer ao Senhor oferta queimada, holocausto e oferta de manjares, sacrifício e libações, cada qual em seu dia próprio,
-38 além dos sábados do Senhor, e das vossas dádivas, e de todos os vossos votos, e de todas as vossas ofertas voluntárias que dareis ao Senhor.
-39 Porém, aos quinze dias do mês sétimo, quando tiverdes recolhido os produtos da terra, celebrareis a festa do Senhor, por sete dias; ao primeiro dia e também ao oitavo, haverá descanso solene.
-40 No primeiro dia, tomareis para vós outros frutos de árvores formosas, ramos de palmeiras, ramos de árvores frondosas e salgueiros de ribeiras; e, por sete dias, vos alegrareis perante o Senhor, vosso Deus.
-41 Celebrareis esta como festa ao Senhor, por sete dias cada ano; é estatuto perpétuo pelas vossas gerações; no mês sétimo, a celebrareis.
-42 Sete dias habitareis em tendas de ramos; todos os naturais de Israel habitarão em tendas,
-43 para que saibam as vossas gerações que eu fiz habitar os filhos de Israel em tendas, quando os tirei da terra do Egito. Eu sou o Senhor, vosso Deus.
-44 Assim, declarou Moisés as festas fixas do Senhor aos filhos de Israel.*
-1 Disse o Senhor a Moisés:
-2 Ordena aos filhos de Israel que te tragam azeite puro de oliveira, batido, para o candelabro, para que haja lâmpada acesa continuamente.
-3 Na tenda da congregação fora do véu, que está diante do Testemunho, Arão a conservará em ordem, desde a tarde até pela manhã, de contínuo, perante o Senhor; estatuto perpétuo será este pelas suas gerações.
-4 Sobre o candeeiro de ouro puro conservará em ordem as lâmpadas perante o Senhor, continuamente.
-5 Também tomarás da flor de farinha e dela cozerás doze pães, cada um dos quais será de duas dízimas de um efa.
-6 E os porás em duas fileiras, seis em cada fileira, sobre a mesa de ouro puro, perante o Senhor.
-7 Sobre cada fileira porás incenso puro, que será, para o pão, como porção memorial; é oferta queimada ao Senhor.
-8 Em cada sábado, Arão os porá em ordem perante o Senhor, continuamente, da parte dos filhos de Israel, por aliança perpétua.
-9 E serão de Arão e de seus filhos, os quais os comerão no lugar santo, porque são coisa santíssima para eles, das ofertas queimadas ao Senhor, como estatuto perpétuo.
-10 Apareceu entre os filhos de Israel o filho de uma israelita, o qual era filho de um egípcio; o filho da israelita e certo homem israelita contenderam no arraial.
-11 Então, o filho da mulher israelita blasfemou o nome do Senhor e o amaldiçoou, pelo que o trouxeram a Moisés. O nome de sua mãe era Selomite, filha de Dibri, da tribo de Dã.
-12 E o levaram à prisão, até que se lhes fizesse declaração pela boca do Senhor.
-13 Disse o Senhor a Moisés:
-14 Tira o que blasfemou para fora do arraial; e todos os que o ouviram porão as mãos sobre a cabeça dele, e toda a congregação o apedrejará.
-15 Dirás aos filhos de Israel: Qualquer que amaldiçoar o seu Deus levará sobre si o seu pecado.
-16 Aquele que blasfemar o nome do Senhor será morto; toda a congregação o apedrejará; tanto o estrangeiro como o natural, blasfemando o nome do Senhor, será morto.
-17 Quem matar alguém será morto.
-18 Mas quem matar um animal o restituirá: igual por igual.
-19 Se alguém causar defeito em seu próximo, como ele fez, assim lhe será feito:
-20 fratura por fratura, olho por olho, dente por dente; como ele tiver desfigurado a algum homem, assim se lhe fará.
-21 Quem matar um animal restituirá outro; quem matar um homem será morto.
-22 Uma e a mesma lei havereis, tanto para o estrangeiro como para o natural; pois eu sou o Senhor, vosso Deus.
-23 Então, falou Moisés aos filhos de Israel que levassem o que tinha blasfemado para fora do arraial e o apedrejassem; e os filhos de Israel fizeram como o Senhor ordenara a Moisés.*
-1 Disse o Senhor a Moisés, no monte Sinai:
-2 Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra, que vos dou, então, a terra guardará um sábado ao Senhor.
-3 Seis anos semearás o teu campo, e seis anos podarás a tua vinha, e colherás os seus frutos.
-4 Porém, no sétimo ano, haverá sábado de descanso solene para a terra, um sábado ao Senhor; não semearás o teu campo, nem podarás a tua vinha.
-5 O que nascer de si mesmo na tua seara não segarás e as uvas da tua vinha não podada não colherás; ano de descanso solene será para a terra.
-6 Mas os frutos da terra em descanso vos serão por alimento, a ti, e ao teu servo, e à tua serva, e ao teu jornaleiro, e ao estrangeiro que peregrina contigo;
-7 e ao teu gado, e aos animais que estão na tua terra, todo o seu produto será por mantimento.
-8 Contarás sete semanas de anos, sete vezes sete anos, de maneira que os dias das sete semanas de anos te serão quarenta e nove anos.
-9 Então, no mês sétimo, aos dez do mês, farás passar a trombeta vibrante; no Dia da Expiação, fareis passar a trombeta por toda a vossa terra.
-10 Santificareis o ano quinquagésimo e proclamareis liberdade na terra a todos os seus moradores; ano de jubileu vos será, e tornareis, cada um à sua possessão, e cada um à sua família.
-11 O ano quinquagésimo vos será jubileu; não semeareis, nem segareis o que nele nascer de si mesmo, nem nele colhereis as uvas das vinhas não podadas.
-12 Porque é jubileu, santo será para vós outros; o produto do campo comereis.
-13 Neste Ano do Jubileu, tornareis cada um à sua possessão.
-14 Quando venderes alguma coisa ao teu próximo ou a comprares da mão do teu próximo, não oprimas teu irmão.
-15 Segundo o número dos anos desde o Jubileu, comprarás de teu próximo; e, segundo o número dos anos das messes, ele venderá a ti.
-16 Sendo muitos os anos, aumentarás o preço e, sendo poucos, abaixarás o preço; porque ele te vende o número das messes.
-17 Não oprimais ao vosso próximo; cada um, porém, tema a seu Deus; porque eu sou o Senhor, vosso Deus.
-18 Observai os meus estatutos, guardai os meus juízos e cumpri-os; assim, habitareis seguros na terra.
-19 A terra dará o seu fruto, e comereis a fartar e nela habitareis seguros.
-20 Se disserdes: Que comeremos no ano sétimo, visto que não havemos de semear, nem colher a nossa messe?
-21 Então, eu vos darei a minha bênção no sexto ano, para que dê fruto por três anos.
-22 No oitavo ano, semeareis e comereis da colheita anterior até ao ano nono; até que venha a sua messe, comereis da antiga.
-23 Também a terra não se venderá em perpetuidade, porque a terra é minha; pois vós sois para mim estrangeiros e peregrinos.
-24 Portanto, em toda a terra da vossa possessão dareis resgate à terra.
-25 Se teu irmão empobrecer e vender alguma parte das suas possessões, então, virá o seu resgatador, seu parente, e resgatará o que seu irmão vendeu.
-26 Se alguém não tiver resgatador, porém vier a tornar-se próspero e achar o bastante com que a remir,
-27 então, contará os anos desde a sua venda, e o que ficar restituirá ao homem a quem vendeu, e tornará à sua possessão.
-28 Mas, se as suas posses não lhe permitirem reavê-la, então, a que for vendida ficará na mão do comprador até ao Ano do Jubileu; porém, no Ano do Jubileu, sairá do poder deste, e aquele tornará à sua possessão.
-29 Quando alguém vender uma casa de moradia em cidade murada, poderá resgatá-la dentro de um ano a contar de sua venda; durante um ano, será lícito o seu resgate.
-30 Se, passando-se-lhe um ano, não for resgatada, então, a casa que estiver na cidade que tem muro ficará em perpetuidade ao que a comprou, pelas suas gerações; não sairá do poder dele no Jubileu.
-31 Mas as casas das aldeias que não têm muro em roda serão estimadas como os campos da terra; para elas haverá resgate, e sairão do poder do comprador no Jubileu.
-32 Mas, com respeito às cidades dos levitas, às casas das cidades da sua possessão, terão direito perpétuo de resgate os levitas.
-33 Se o levita não resgatar a casa que vendeu, então, a casa comprada na cidade da sua possessão sairá do poder do comprador, no Jubileu; porque as casas das cidades dos levitas são a sua possessão no meio dos filhos de Israel.
-34 Mas o campo no arrabalde das suas cidades não se venderá, porque lhes é possessão perpétua.
-35 Se teu irmão empobrecer, e as suas forças decaírem, então, sustentá-lo-ás. Como estrangeiro e peregrino ele viverá contigo.
-36 Não receberás dele juros nem ganho; teme, porém, ao teu Deus, para que teu irmão viva contigo.
-37 Não lhe darás teu dinheiro com juros, nem lhe darás o teu mantimento por causa de lucro.
-38 Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaã e para ser o vosso Deus.
-39 Também se teu irmão empobrecer, estando ele contigo, e vender-se a ti, não o farás servir como escravo.
-40 Como jornaleiro e peregrino estará contigo; até ao Ano do Jubileu te servirá;
-41 então, sairá de tua casa, ele e seus filhos com ele, e tornará à sua família e à possessão de seus pais.
-42 Porque são meus servos, que tirei da terra do Egito; não serão vendidos como escravos.
-43 Não te assenhorearás dele com tirania; teme, porém, ao teu Deus.
-44 Quanto aos escravos ou escravas que tiverdes, virão das nações ao vosso derredor; delas comprareis escravos e escravas.
-45 Também os comprareis dos filhos dos forasteiros que peregrinam entre vós, deles e das suas famílias que estiverem convosco, que nasceram na vossa terra; e vos serão por possessão.
-46 Deixá-los-eis por herança para vossos filhos depois de vós, para os haverem como possessão; perpetuamente os fareis servir, mas sobre vossos irmãos, os filhos de Israel, não vos assenhoreareis com tirania, um sobre os outros.
-47 Quando o estrangeiro ou peregrino que está contigo se tornar rico, e teu irmão junto dele empobrecer e vender-se ao estrangeiro, ou peregrino que está contigo, ou a alguém da família do estrangeiro,
-48 depois de haver-se vendido, haverá ainda resgate para ele; um de seus irmãos poderá resgatá-lo:
-49 seu tio ou primo o resgatará; ou um dos seus, parente da sua família, o resgatará; ou, se lograr meios, se resgatará a si mesmo.
-50 Com aquele que o comprou acertará contas desde o ano em que se vendeu a ele até ao Ano do Jubileu; o preço da sua venda será segundo o número dos anos, conforme se paga a um jornaleiro.
-51 Se ainda faltarem muitos anos, devolverá proporcionalmente a eles, do dinheiro pelo qual foi comprado, o preço do seu resgate.
-52 Se restarem poucos anos até ao Ano do Jubileu, então, fará contas com ele e pagará, em proporção aos anos restantes, o preço do seu resgate.
-53 Como jornaleiro, de ano em ano, estará com ele; não se assenhoreará dele com tirania à tua vista.
-54 Se desta sorte se não resgatar, sairá no Ano do Jubileu, ele e seus filhos com ele.
-55 Porque os filhos de Israel me são servos; meus servos são eles, os quais tirei da terra do Egito. Eu sou o Senhor, vosso Deus.*
-1 Não fareis para vós outros ídolos, nem vos levantareis imagem de escultura nem coluna, nem poreis pedra com figuras na vossa terra, para vos inclinardes a ela; porque eu sou o Senhor, vosso Deus.
-2 Guardareis os meus sábados e reverenciareis o meu santuário. Eu sou o Senhor.
-3 Se andardes nos meus estatutos, guardardes os meus mandamentos e os cumprirdes,
-4 então, eu vos darei as vossas chuvas a seu tempo; e a terra dará a sua messe, e a árvore do campo, o seu fruto.
-5 A debulha se estenderá até à vindima, e a vindima, até à sementeira; comereis o vosso pão a fartar e habitareis seguros na vossa terra.
-6 Estabelecerei paz na terra; deitar-vos-eis, e não haverá quem vos espante; farei cessar os animais nocivos da terra, e pela vossa terra não passará espada.
-7 Perseguireis os vossos inimigos, e cairão à espada diante de vós.
-8 Cinco de vós perseguirão a cem, e cem dentre vós perseguirão a dez mil; e os vossos inimigos cairão à espada diante de vós.
-9 Para vós outros olharei, e vos farei fecundos, e vos multiplicarei, e confirmarei a minha aliança convosco.
-10 Comereis o velho da colheita anterior e, para dar lugar ao novo, tirareis fora o velho.
-11 Porei o meu tabernáculo no meio de vós, e a minha alma não vos aborrecerá.
-12 Andarei entre vós e serei o vosso Deus, e vós sereis o meu povo.
-13 Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito, para que não fôsseis seus escravos; quebrei os timões do vosso jugo e vos fiz andar eretos.
-14 Mas, se me não ouvirdes e não cumprirdes todos estes mandamentos;
-15 se rejeitardes os meus estatutos, e a vossa alma se aborrecer dos meus juízos, a ponto de não cumprir todos os meus mandamentos, e violardes a minha aliança,
-16 então, eu vos farei isto: porei sobre vós terror, a tísica e a febre ardente, que fazem desaparecer o lustre dos olhos e definhar a vida; e semeareis debalde a vossa semente, porque os vossos inimigos a comerão.
-17 Voltar-me-ei contra vós outros, e sereis feridos diante de vossos inimigos; os que vos aborrecerem assenhorear-se-ão de vós e fugireis, sem ninguém vos perseguir.
-18 Se ainda assim com isto não me ouvirdes, tornarei a castigar-vos sete vezes mais por causa dos vossos pecados.
-19 Quebrantarei a soberba da vossa força e vos farei que os céus sejam como ferro e a vossa terra, como bronze.
-20 Debalde se gastará a vossa força; a vossa terra não dará a sua messe, e as árvores da terra não darão o seu fruto.
-21 E, se andardes contrariamente para comigo e não me quiserdes ouvir, trarei sobre vós pragas sete vezes mais, segundo os vossos pecados.
-22 Porque enviarei para o meio de vós as feras do campo, as quais vos desfilharão, e acabarão com o vosso gado, e vos reduzirão a poucos; e os vossos caminhos se tornarão desertos.
-23 Se ainda com isto não vos corrigirdes para volverdes a mim, porém andardes contrariamente comigo,
-24 eu também serei contrário a vós outros e eu mesmo vos ferirei sete vezes mais por causa dos vossos pecados.
-25 Trarei sobre vós a espada vingadora da minha aliança; e, então, quando vos ajuntardes nas vossas cidades, enviarei a peste para o meio de vós, e sereis entregues na mão do inimigo.
-26 Quando eu vos tirar o sustento do pão, dez mulheres cozerão o vosso pão num só forno e vo-lo entregarão por peso; comereis, porém não vos fartareis.
-27 Se ainda com isto me não ouvirdes e andardes contrariamente comigo,
-28 eu também, com furor, serei contrário a vós outros e vos castigarei sete vezes mais por causa dos vossos pecados.
-29 Comereis a carne de vossos filhos e de vossas filhas.
-30 Destruirei os vossos altos, e desfarei as vossas imagens do sol, e lançarei o vosso cadáver sobre o cadáver dos vossos deuses; a minha alma se aborrecerá de vós.
-31 Reduzirei as vossas cidades a deserto, e assolarei os vossos santuários, e não aspirarei o vosso aroma agradável.
-32 Assolarei a terra, e se espantarão disso os vossos inimigos que nela morarem.
-33 Espalhar-vos-ei por entre as nações e desembainharei a espada atrás de vós; a vossa terra será assolada, e as vossas cidades serão desertas.
-34 Então, a terra folgará nos seus sábados, todos os dias da sua assolação, e vós estareis na terra dos vossos inimigos; nesse tempo, a terra descansará e folgará nos seus sábados.
-35 Todos os dias da assolação descansará, porque não descansou nos vossos sábados, quando habitáveis nela.
-36 Quanto aos que de vós ficarem, eu lhes meterei no coração tal ansiedade, nas terras dos seus inimigos, que o ruído de uma folha movida os perseguirá; fugirão como quem foge da espada; e cairão sem ninguém os perseguir.
-37 Cairão uns sobre os outros como diante da espada, sem ninguém os perseguir; não podereis levantar-vos diante dos vossos inimigos.
-38 Perecereis entre as nações, e a terra dos vossos inimigos vos consumirá.
-39 Aqueles que dentre vós ficarem serão consumidos pela sua iniquidade nas terras dos vossos inimigos e pela iniquidade de seus pais com eles serão consumidos.
-40 Mas, se confessarem a sua iniquidade e a iniquidade de seus pais, na infidelidade que cometeram contra mim, como também confessarem que andaram contrariamente para comigo,
-41 pelo que também fui contrário a eles e os fiz entrar na terra dos seus inimigos; se o seu coração incircunciso se humilhar, e tomarem eles por bem o castigo da sua iniquidade,
-42 então, me lembrarei da minha aliança com Jacó, e também da minha aliança com Isaque, e também da minha aliança com Abraão, e da terra me lembrarei.
-43 Mas a terra na sua assolação, deixada por eles, folgará nos seus sábados; e tomarão eles por bem o castigo da sua iniquidade, visto que rejeitaram os meus juízos e a sua alma se aborreceu dos meus estatutos.
-44 Mesmo assim, estando eles na terra dos seus inimigos, não os rejeitarei, nem me aborrecerei deles, para consumi-los e invalidar a minha aliança com eles, porque eu sou o Senhor, seu Deus.
-45 Antes, por amor deles, me lembrarei da aliança com os seus antepassados, que tirei da terra do Egito à vista das nações, para lhes ser por Deus. Eu sou o Senhor.
-46 São estes os estatutos, juízos e leis que deu o Senhor entre si e os filhos de Israel, no monte Sinai, pela mão de Moisés.*
-1 Disse mais o Senhor a Moisés:
-2 Fala aos filhos de Israel e dize-lhes: Quando alguém fizer voto com respeito a pessoas, estas serão do Senhor, segundo a tua avaliação.
-3 Se o objeto da tua avaliação for homem, da idade de vinte anos até à de sessenta, será a tua avaliação de cinquenta siclos de prata, segundo o siclo do santuário.
-4 Porém, se for mulher, a tua avaliação será de trinta siclos.
-5 Se a idade for de cinco anos até vinte, a tua avaliação do homem será de vinte siclos, e a da mulher, de dez siclos.
-6 Se a idade for de um mês até cinco anos, a tua avaliação do homem será de cinco siclos de prata, e a tua avaliação pela mulher será de três siclos de prata.
-7 De sessenta anos para cima, se for homem, a tua avaliação será de quinze siclos; se mulher, dez siclos.
-8 Mas, se for mais pobre do que a tua avaliação, então, apresentar-se-á diante do sacerdote, para que este o avalie; segundo o que permitem as posses do que fez o voto, o avaliará o sacerdote.
-9 Se for animal dos que se oferecem ao Senhor, tudo quanto dele se der ao Senhor será santo.
-10 Não o mudará, nem o trocará bom por mau ou mau por bom; porém, se dalgum modo se trocar animal por animal, um e outro serão santos.
-11 Se for animal imundo dos que se não oferecem ao Senhor, então, apresentará o animal diante do sacerdote.
-12 O sacerdote o avaliará, seja bom ou mau; segundo a avaliação do sacerdote, assim será.
-13 Porém, se dalgum modo o resgatar, então, acrescentará a quinta parte à tua avaliação.
-14 Quando alguém dedicar a sua casa para ser santa ao Senhor, o sacerdote a avaliará, seja boa ou seja má; como o sacerdote a avaliar, assim será.
-15 Mas, se aquele que a dedicou quiser resgatar a casa, então, acrescentará a quinta parte do dinheiro à tua avaliação, e será sua.
-16 Se alguém dedicar ao Senhor parte do campo da sua herança, então, a tua avaliação será segundo a semente necessária para o semear: um gômer pleno de cevada será avaliado por cinquenta siclos de prata.
-17 Se dedicar o seu campo desde o Ano do Jubileu, segundo a tua plena avaliação, ficará.
-18 Mas, se dedicar o seu campo depois do Ano do Jubileu, então, o sacerdote lhe contará o dinheiro segundo os anos restantes até ao Ano do Jubileu, e isto se abaterá da tua avaliação.
-19 Se aquele que dedicou o campo dalgum modo o quiser resgatar, então, acrescentará a quinta parte do dinheiro à tua avaliação, e ficará seu.
-20 Se não quiser resgatar o campo ou se o vender a outro homem, nunca mais se resgatará.
-21 Porém, havendo o campo saído livre no Ano do Jubileu, será santo ao Senhor, como campo consagrado; a posse dele será do sacerdote.
-22 Se alguém dedicar ao Senhor o campo que comprou, e não for parte da sua herança,
-23 então, o sacerdote lhe contará o preço da avaliação até ao Ano do Jubileu; e, no mesmo dia, dará o importe da avaliação como coisa santa ao Senhor.
-24 No Ano do Jubileu, o campo tornará àquele que o vendeu, àquele de quem era a posse do campo por herança.
-25 Toda a tua avaliação se fará segundo o siclo do santuário; o siclo será de vinte geras.
-26 Mas o primogênito de um animal, por já pertencer ao Senhor, ninguém o dedicará; seja boi ou gado miúdo, é do Senhor.
-27 Mas, se for de um animal imundo, resgatar-se-á, segundo a tua avaliação, e sobre ele acrescentará a quinta parte; se não for resgatado, vender-se-á, segundo a tua avaliação.
-28 No entanto, nada do que alguém dedicar irremissivelmente ao Senhor, de tudo o que tem, seja homem, ou animal, ou campo da sua herança, se poderá vender, nem resgatar; toda coisa assim consagrada será santíssima ao Senhor.
-29 Ninguém que dentre os homens for dedicado irremissivelmente ao Senhor se poderá resgatar; será morto.
-30 Também todas as dízimas da terra, tanto dos cereais do campo como dos frutos das árvores, são do Senhor; santas são ao Senhor.
-31 Se alguém, das suas dízimas, quiser resgatar alguma coisa, acrescentará a sua quinta parte sobre ela.
-32 No tocante às dízimas do gado e do rebanho, de tudo o que passar debaixo do bordão do pastor, o dízimo será santo ao Senhor.
-33 Não se investigará se é bom ou mau, nem o trocará; mas, se dalgum modo o trocar, um e outro serão santos; não serão resgatados.
-34 São estes os mandamentos que o Senhor ordenou a Moisés, para os filhos de Israel, no monte Sinai.
+1 São estas as palavras que Moisés falou a todo o Israel, dalém do Jordão, no deserto, na Arabá, defronte do mar de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.
+2 Jornada de onze dias há desde Horebe, pelo caminho da montanha de Seir, até Cades-Barneia.
+3 Sucedeu que, no ano quadragésimo, no primeiro dia do undécimo mês, falou Moisés aos filhos de Israel, segundo tudo o que o Senhor lhe mandara a respeito deles,
+4 depois que feriu a Seom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote, em Edrei.
+5 Além do Jordão, na terra de Moabe, encarregou-se Moisés de explicar esta lei, dizendo:
+6 O Senhor, nosso Deus, nos falou em Horebe, dizendo: Tempo bastante haveis estado neste monte.
+7 Voltai-vos e parti; ide à região montanhosa dos amorreus, e a todos os seus vizinhos, na Arabá, e à região montanhosa, e à baixada, e ao Neguebe, e à costa marítima, terra dos cananeus, e ao Líbano, até ao grande rio Eufrates.
+8 Eis aqui a terra que eu pus diante de vós; entrai e possuí a terra que o Senhor, com juramento, deu a vossos pais, Abraão, Isaque e Jacó, a eles e à sua descendência depois deles.
+9 Nesse mesmo tempo, eu vos disse: eu sozinho não poderei levar-vos.
+10 O Senhor, vosso Deus, vos tem multiplicado; e eis que, já hoje, sois multidão como as estrelas dos céus.
+11 O Senhor, Deus de vossos pais, vos faça mil vezes mais numerosos do que sois e vos abençoe, como vos prometeu.
+12 Como suportaria eu sozinho o vosso peso, a vossa carga e a vossa contenda?
+13 Tomai-vos homens sábios, inteligentes e experimentados, segundo as vossas tribos, para que os ponha por vossos cabeças.
+14 Então, me respondestes e dissestes: É bom cumprir a palavra que tens falado.
+15 Tomei, pois, os cabeças de vossas tribos, homens sábios e experimentados, e os fiz cabeças sobre vós, chefes de milhares, chefes de cem, chefes de cinquenta, chefes de dez e oficiais, segundo as vossas tribos.
+16 Nesse mesmo tempo, ordenei a vossos juízes, dizendo: ouvi a causa entre vossos irmãos e julgai justamente entre o homem e seu irmão ou o estrangeiro que está com ele.
+17 Não sereis parciais no juízo, ouvireis tanto o pequeno como o grande; não temereis a face de ninguém, porque o juízo é de Deus; porém a causa que vos for demasiadamente difícil fareis vir a mim, e eu a ouvirei.
+18 Assim, naquele tempo, vos ordenei todas as coisas que havíeis de fazer.
+19 Então, partimos de Horebe e caminhamos por todo aquele grande e terrível deserto que vistes, pelo caminho da região montanhosa dos amorreus, como o Senhor, nosso Deus, nos ordenara; e chegamos a Cades-Barneia.
+20 Então, eu vos disse: tendes chegado à região montanhosa dos amorreus, que o Senhor, nosso Deus, nos dá.
+21 Eis que o Senhor, teu Deus, te colocou esta terra diante de ti. Sobe, possui-a, como te falou o Senhor, Deus de teus pais: Não temas e não te assustes.
+22 Então, todos vós vos chegastes a mim e dissestes: Mandemos homens adiante de nós, para que nos espiem a terra e nos digam por que caminho devemos subir e a que cidades devemos ir.
+23 Isto me pareceu bem; de maneira que tomei, dentre vós, doze homens, de cada tribo um homem.
+24 E foram-se, e subiram à região montanhosa, e, espiando a terra, vieram até o vale de Escol,
+25 e tomaram do fruto da terra nas mãos, e no-lo trouxeram, e nos informaram, dizendo: É terra boa que nos dá o Senhor, nosso Deus.
+26 Porém vós não quisestes subir, mas fostes rebeldes à ordem do Senhor, vosso Deus.
+27 Murmurastes nas vossas tendas e dissestes: Tem o Senhor contra nós ódio; por isso, nos tirou da terra do Egito para nos entregar nas mãos dos amorreus e destruir-nos.
+28 Para onde subiremos? Nossos irmãos fizeram com que se derretesse o nosso coração, dizendo: Maior e mais alto do que nós é este povo; as cidades são grandes e fortificadas até aos céus. Também vimos ali os filhos dos anaquins.
+29 Então, eu vos disse: não vos espanteis, nem os temais.
+30 O Senhor, vosso Deus, que vai adiante de vós, ele pelejará por vós, segundo tudo o que fez conosco, diante de vossos olhos, no Egito,
+31 como também no deserto, onde vistes que o Senhor, vosso Deus, nele vos levou, como um homem leva a seu filho, por todo o caminho pelo qual andastes, até chegardes a este lugar.
+32 Mas nem por isso crestes no Senhor, vosso Deus,
+33 que foi adiante de vós por todo o caminho, para vos procurar o lugar onde deveríeis acampar; de noite, no fogo, para vos mostrar o caminho por onde havíeis de andar, e, de dia, na nuvem.
+34 Tendo, pois, ouvido o Senhor as vossas palavras, indignou-se e jurou, dizendo:
+35 Certamente, nenhum dos homens desta maligna geração verá a boa terra que jurei dar a vossos pais,
+36 salvo Calebe, filho de Jefoné; ele a verá, e a terra que pisou darei a ele e a seus filhos, porquanto perseverou em seguir ao Senhor.
+37 Também contra mim se indignou o Senhor por causa de vós, dizendo: Também tu lá não entrarás.
+38 Josué, filho de Num, que está diante de ti, ele ali entrará; anima-o, porque ele fará que Israel a receba por herança.
+39 E vossos meninos, de quem dissestes: Por presa serão; e vossos filhos, que, hoje, nem sabem distinguir entre bem e mal, esses ali entrarão, e a eles darei a terra, e eles a possuirão.
+40 Porém vós virai-vos e parti para o deserto, pelo caminho do mar Vermelho.
+41 Então, respondestes e me dissestes: Pecamos contra o Senhor; nós subiremos e pelejaremos, segundo tudo o que nos ordenou o Senhor, nosso Deus. Vós vos armastes, cada um dos seus instrumentos de guerra, e vos mostrastes temerários em subindo à região montanhosa.
+42 Disse-me o Senhor: Dize-lhes: Não subais, nem pelejeis, pois não estou no meio de vós, para que não sejais derrotados diante dos vossos inimigos.
+43 Assim vos falei, e não escutastes; antes, fostes rebeldes às ordens do Senhor e, presunçosos, subistes às montanhas.
+44 Os amorreus que habitavam naquela região montanhosa vos saíram ao encontro; e vos perseguiram como fazem as abelhas e vos derrotaram desde Seir até Horma.
+45 Tornastes-vos, pois, e chorastes perante o Senhor, porém o Senhor não vos ouviu, não inclinou os ouvidos a vós outros.
+46 Assim, permanecestes muitos dias em Cades.*
+1 Depois, viramo-nos, e seguimos para o deserto, caminho do mar Vermelho como o Senhor me dissera, e muitos dias rodeamos a montanha de Seir.
+2 Então, o Senhor me falou, dizendo:
+3 Tendes já rodeado bastante esta montanha; virai-vos para o norte.
+4 Ordena ao povo, dizendo: Passareis pelos limites de vossos irmãos, os filhos de Esaú, que habitam em Seir; e eles terão medo de vós; portanto, guardai-vos bem.
+5 Não vos entremetais com eles, porque vos não darei da sua terra nem ainda a pisada da planta de um pé; pois a Esaú dei por possessão a montanha de Seir.
+6 Comprareis deles, por dinheiro, comida que comais; também água que bebais comprareis por dinheiro.
+7 Pois o Senhor, teu Deus, te abençoou em toda a obra das tuas mãos; ele sabe que andas por este grande deserto; estes quarenta anos o Senhor, teu Deus, esteve contigo; coisa nenhuma te faltou.
+8 Passamos, pois, flanqueando assim nossos irmãos, os filhos de Esaú, que habitavam em Seir, como o caminho da Arabá, de Elate e de Eziom-Geber, viramo-nos e seguimos o caminho do deserto de Moabe.
+9 Então, o Senhor me disse: Não molestes Moabe e não contendas com eles em peleja, porque te não darei possessão da sua terra; pois dei Ar em possessão aos filhos de Ló.
+10 (Os emins, dantes, habitavam nela, povo grande, numeroso e alto como os anaquins;
+11 também eles foram considerados refains, como os anaquins; e os moabitas lhes chamavam emins.
+12 Os horeus também habitavam, outrora, em Seir; porém os filhos de Esaú os desapossaram, e os destruíram de diante de si, e habitaram no lugar deles, assim como Israel fez à terra da sua possessão, que o Senhor lhes tinha dado.)
+13 Levantai-vos, agora, e passai o ribeiro de Zerede; assim, passamos o ribeiro de Zerede.
+14 O tempo que caminhamos, desde Cades-Barneia até passarmos o ribeiro de Zerede, foram trinta e oito anos, até que toda aquela geração dos homens de guerra se consumiu do meio do arraial, como o Senhor lhes jurara.
+15 Também foi contra eles a mão do Senhor, para os destruir do meio do arraial, até os haver consumido.
+16 Sucedeu que, consumidos já todos os homens de guerra pela morte, do meio do povo,
+17 o Senhor me falou, dizendo:
+18 Hoje, passarás por Ar, pelos limites de Moabe,
+19 e chegarás até defronte dos filhos de Amom; não os molestes e com eles não contendas, porque da terra dos filhos de Amom te não darei possessão, porquanto aos filhos de Ló a tenho dado por possessão.
+20 (Também esta é considerada terra dos refains; dantes, habitavam nela refains, e os amonitas lhes chamavam zanzumins,
+21 povo grande, numeroso e alto como os anaquins; o Senhor os destruiu diante dos amonitas; e estes, tendo-os desapossado, habitaram no lugar deles;
+22 assim como fez com os filhos de Esaú que habitavam em Seir, de diante dos quais destruiu os horeus. Os filhos de Esaú, tendo-os desapossado, habitaram no lugar deles até este dia;
+23 também os caftorins que saíram de Caftor destruíram os aveus, que habitavam em vilas até Gaza, e habitaram no lugar deles.)
+24 Levantai-vos, parti e passai o ribeiro de Arnom; eis aqui na tua mão tenho dado a Seom, amorreu, rei de Hesbom, e a sua terra; passa a possuí-la e contende com eles em peleja.
+25 Hoje, começarei a meter o terror e o medo de ti aos povos que estão debaixo de todo o céu; os que ouvirem a tua fama tremerão diante de ti e se angustiarão.
+26 Então, mandei mensageiros desde o deserto de Quedemote a Seom, rei de Hesbom, com palavras de paz, dizendo:
+27 deixa-me passar pela tua terra; somente pela estrada irei; não me desviarei para a direita nem para a esquerda.
+28 A comida que eu coma vender-me-ás por dinheiro e dar-me-ás também por dinheiro a água que beba; tão somente deixa-me passar a pé,
+29 como fizeram comigo os filhos de Esaú, que habitam em Seir, e os moabitas, que habitam em Ar; até que eu passe o Jordão, à terra que o Senhor, nosso Deus, nos dá.
+30 Mas Seom, rei de Hesbom, não nos quis deixar passar por sua terra, porquanto o Senhor, teu Deus, endurecera o seu espírito e fizera obstinado o seu coração, para to dar nas mãos, como hoje se vê.
+31 Disse-me, pois, o Senhor: Eis aqui, tenho começado a dar-te Seom e a sua terra; passa a desapossá-lo, para lhe ocupares o país.
+32 Então, Seom saiu-nos ao encontro, ele e todo o seu povo, à peleja em Jasa.
+33 E o Senhor, nosso Deus, no-lo entregou, e o derrotamos, a ele, e a seus filhos, e a todo o seu povo.
+34 Naquele tempo, tomamos todas as suas cidades e a cada uma destruímos com os seus homens, mulheres e crianças; não deixamos sobrevivente algum.
+35 Somente tomamos, por presa, o gado para nós e o despojo das cidades que tínhamos tomado.
+36 Desde Aroer, que está à borda do vale de Arnom, e a cidade que nele está, até Gileade, nenhuma cidade houve alta demais para nós; tudo isto o Senhor, nosso Deus, nos entregou.
+37 Somente à terra dos filhos de Amom não chegaste; nem a toda a borda do ribeiro de Jaboque, nem às cidades da região montanhosa, nem a lugar algum que nos proibira o Senhor, nosso Deus.*
+1 Depois, nos viramos e subimos o caminho de Basã; e Ogue, rei de Basã, nos saiu ao encontro, ele e todo o seu povo, à peleja em Edrei.
+2 Então, o Senhor me disse: Não temas, porque a ele, e todo o seu povo, e sua terra dei na tua mão; e far-lhe-ás como fizeste a Seom, rei dos amorreus, que habitava em Hesbom.
+3 Deu-nos o Senhor, nosso Deus, em nossas mãos também a Ogue, rei de Basã, e a todo o seu povo; e ferimo-lo, até que lhe não ficou nenhum sobrevivente.
+4 Nesse tempo, tomamos todas as suas cidades; nenhuma cidade houve que lhe não tomássemos: sessenta cidades, toda a região de Argobe, o reino de Ogue, em Basã.
+5 Todas estas cidades eram fortificadas com altos muros, portas e ferrolhos; tomamos também outras muitas cidades, que eram sem muros.
+6 Destruímo-las totalmente, como fizemos a Seom, rei de Hesbom, fazendo perecer, por completo, cada uma das cidades com os seus homens, suas mulheres e crianças.
+7 Porém todo o gado e o despojo das cidades tomamos para nós, por presa.
+8 Assim, nesse tempo, tomamos a terra da mão daqueles dois reis dos amorreus que estavam dalém do Jordão: desde o rio de Arnom até ao monte Hermom
+9 (Os sidônios a Hermom chamam Siriom; porém os amorreus lhe chamam Senir.),
+10 tomamos todas as cidades do planalto, e todo o Gileade, e todo o Basã, até Salca e Edrei, cidades do reino de Ogue, em Basã
+11 (Porque só Ogue, rei de Basã, restou dos refains; eis que o seu leito, leito de ferro, não está, porventura, em Rabá dos filhos de Amom, sendo de nove côvados o seu comprimento, e de quatro, a sua largura, pelo côvado comum?).
+12 Tomamos, pois, esta terra em possessão nesse tempo; desde Aroer, que está junto ao vale de Arnom, e a metade da região montanhosa de Gileade, com as suas cidades, dei aos rubenitas e gaditas.
+13 O resto de Gileade, como também todo o Basã, o reino de Ogue, dei à meia tribo de Manassés; toda aquela região de Argobe, todo o Basã, se chamava a terra dos refains.
+14 Jair, filho de Manassés, tomou toda a região de Argobe até ao limite dos gesuritas e maacatitas, isto é, Basã, e às aldeias chamou pelo seu nome: Havote-Jair, até o dia de hoje.
+15 A Maquir dei Gileade.
+16 Mas aos rubenitas e gaditas dei desde Gileade até ao vale de Arnom, cujo meio serve de limite; e até ao ribeiro de Jaboque, o limite dos filhos de Amom,
+17 como também a Arabá e o Jordão por limite, desde Quinerete até ao mar da Arabá, o mar Salgado, pelas faldas de Pisga, para o oriente.
+18 Nesse mesmo tempo, vos ordenei, dizendo: o Senhor, vosso Deus, vos deu esta terra, para a possuirdes; passai, pois, armados, todos os homens valentes, adiante de vossos irmãos, os filhos de Israel.
+19 Tão somente vossas mulheres, e vossas crianças, e vosso gado (porque sei que tendes muito gado) ficarão nas vossas cidades que já vos tenho dado,
+20 até que o Senhor dê descanso a vossos irmãos como a vós outros, para que eles também ocupem a terra que o Senhor, vosso Deus, lhes dá dalém do Jordão; então, voltareis cada qual à sua possessão que vos dei.
+21 Também, nesse tempo, dei ordem a Josué, dizendo: os teus olhos veem tudo o que o Senhor, vosso Deus, tem feito a estes dois reis; assim fará o Senhor a todos os reinos a que tu passarás.
+22 Não os temais, porque o Senhor, vosso Deus, é o que peleja por vós.
+23 Também eu, nesse tempo, implorei graça ao Senhor, dizendo:
+24 Ó Senhor Deus! Passaste a mostrar ao teu servo a tua grandeza e a tua poderosa mão; porque que deus há, nos céus ou na terra, que possa fazer segundo as tuas obras, segundo os teus poderosos feitos?
+25 Rogo-te que me deixes passar, para que eu veja esta boa terra que está dalém do Jordão, esta boa região montanhosa e o Líbano.
+26 Porém o Senhor indignou-se muito contra mim, por vossa causa, e não me ouviu; antes, me disse: Basta! Não me fales mais nisto.
+27 Sobe ao cimo de Pisga, levanta os olhos para o ocidente, e para o norte, e para o sul, e para o oriente e contempla com os próprios olhos, porque não passarás este Jordão.
+28 Dá ordens a Josué, e anima-o, e fortalece-o; porque ele passará adiante deste povo e o fará possuir a terra que tu apenas verás.
+29 Assim, ficamos no vale defronte de Bete-Peor.*
+1 Agora, pois, ó Israel, ouve os estatutos e os juízos que eu vos ensino, para os cumprirdes, para que vivais, e entreis, e possuais a terra que o Senhor, Deus de vossos pais, vos dá.
+2 Nada acrescentareis à palavra que vos mando, nem diminuireis dela, para que guardeis os mandamentos do Senhor, vosso Deus, que eu vos mando.
+3 Os vossos olhos viram o que o Senhor fez por causa de Baal-Peor; pois a todo homem que seguiu a Baal-Peor o Senhor, vosso Deus, consumiu do vosso meio.
+4 Porém vós que permanecestes fiéis ao Senhor, vosso Deus, todos, hoje, estais vivos.
+5 Eis que vos tenho ensinado estatutos e juízos, como me mandou o Senhor, meu Deus, para que assim façais no meio da terra que passais a possuir.
+6 Guardai-os, pois, e cumpri-os, porque isto será a vossa sabedoria e o vosso entendimento perante os olhos dos povos que, ouvindo todos estes estatutos, dirão: Certamente, este grande povo é gente sábia e inteligente.
+7 Pois que grande nação há que tenha deuses tão chegados a si como o Senhor, nosso Deus, todas as vezes que o invocamos?
+8 E que grande nação há que tenha estatutos e juízos tão justos como toda esta lei que eu hoje vos proponho?
+9 Tão somente guarda-te a ti mesmo e guarda bem a tua alma, que te não esqueças daquelas coisas que os teus olhos têm visto, e se não apartem do teu coração todos os dias da tua vida, e as farás saber a teus filhos e aos filhos de teus filhos.
+10 Não te esqueças do dia em que estiveste perante o Senhor, teu Deus, em Horebe, quando o Senhor me disse: Reúne este povo, e os farei ouvir as minhas palavras, a fim de que aprenda a temer-me todos os dias que na terra viver e as ensinará a seus filhos.
+11 Então, chegastes e vos pusestes ao pé do monte; e o monte ardia em fogo até ao meio dos céus, e havia trevas, e nuvens, e escuridão.
+12 Então, o Senhor vos falou do meio do fogo; a voz das palavras ouvistes; porém, além da voz, não vistes aparência nenhuma.
+13 Então, vos anunciou ele a sua aliança, que vos prescreveu, os dez mandamentos, e os escreveu em duas tábuas de pedra.
+14 Também o Senhor me ordenou, ao mesmo tempo, que vos ensinasse estatutos e juízos, para que os cumprísseis na terra a qual passais a possuir.
+15 Guardai, pois, cuidadosamente, a vossa alma, pois aparência nenhuma vistes no dia em que o Senhor, vosso Deus, vos falou em Horebe, no meio do fogo;
+16 para que não vos corrompais e vos façais alguma imagem esculpida na forma de ídolo, semelhança de homem ou de mulher,
+17 semelhança de algum animal que há na terra, semelhança de algum volátil que voa pelos céus,
+18 semelhança de algum animal que rasteja sobre a terra, semelhança de algum peixe que há nas águas debaixo da terra.
+19 Guarda-te não levantes os olhos para os céus e, vendo o sol, a lua e as estrelas, a saber, todo o exército dos céus, sejas seduzido a inclinar-te perante eles e dês culto àqueles, coisas que o Senhor, teu Deus, repartiu a todos os povos debaixo de todos os céus.
+20 Mas o Senhor vos tomou e vos tirou da fornalha de ferro do Egito, para que lhe sejais povo de herança, como hoje se vê.
+21 Também o Senhor se indignou contra mim, por vossa causa, e jurou que eu não passaria o Jordão e não entraria na boa terra que o Senhor, teu Deus, te dá por herança.
+22 Porque eu morrerei neste lugar, não passarei o Jordão; porém vós o passareis e possuireis aquela boa terra.
+23 Guardai-vos não vos esqueçais da aliança do Senhor, vosso Deus, feita convosco, e vos façais alguma imagem esculpida, semelhança de alguma coisa que o Senhor, vosso Deus, vos proibiu.
+24 Porque o Senhor, teu Deus, é fogo que consome, é Deus zeloso.
+25 Quando, pois, gerardes filhos e filhos de filhos, e vos envelhecerdes na terra, e vos corromperdes, e fizerdes alguma imagem esculpida, semelhança de alguma coisa, e fizerdes mal aos olhos do Senhor, teu Deus, para o provocar à ira,
+26 hoje, tomo por testemunhas contra vós outros o céu e a terra, que, com efeito, perecereis, imediatamente, da terra a qual, passado o Jordão, ides possuir; não prolongareis os vossos dias nela; antes, sereis de todo destruídos.
+27 O Senhor vos espalhará entre os povos, e restareis poucos em número entre as gentes aonde o Senhor vos conduzirá.
+28 Lá, servireis a deuses que são obra de mãos de homens, madeira e pedra, que não veem, nem ouvem, nem comem, nem cheiram.
+29 De lá, buscarás ao Senhor, teu Deus, e o acharás, quando o buscares de todo o teu coração e de toda a tua alma.
+30 Quando estiveres em angústia, e todas estas coisas te sobrevierem nos últimos dias, e te voltares para o Senhor, teu Deus, e lhe atenderes a voz,
+31 então, o Senhor, teu Deus, não te desamparará, porquanto é Deus misericordioso, nem te destruirá, nem se esquecerá da aliança que jurou a teus pais.
+32 Agora, pois, pergunta aos tempos passados, que te precederam, desde o dia em que Deus criou o homem sobre a terra, desde uma extremidade do céu até à outra, se sucedeu jamais coisa tamanha como esta ou se se ouviu coisa como esta;
+33 ou se algum povo ouviu falar a voz de algum deus do meio do fogo, como tu a ouviste, ficando vivo;
+34 ou se um deus intentou ir tomar para si um povo do meio de outro povo, com provas, e com sinais, e com milagres, e com peleja, e com mão poderosa, e com braço estendido, e com grandes espantos, segundo tudo quanto o Senhor, vosso Deus, vos fez no Egito, aos vossos olhos.
+35 A ti te foi mostrado para que soubesses que o Senhor é Deus; nenhum outro há, senão ele.
+36 Dos céus te fez ouvir a sua voz, para te ensinar, e sobre a terra te mostrou o seu grande fogo, e do meio do fogo ouviste as suas palavras.
+37 Porquanto amou teus pais, e escolheu a sua descendência depois deles, e te tirou do Egito, ele mesmo presente e com a sua grande força,
+38 para lançar de diante de ti nações maiores e mais poderosas do que tu, para te introduzir na sua terra e ta dar por herança, como hoje se vê.
+39 Por isso, hoje, saberás e refletirás no teu coração que só o Senhor é Deus em cima no céu e embaixo na terra; nenhum outro há.
+40 Guarda, pois, os seus estatutos e os seus mandamentos que te ordeno hoje, para que te vá bem a ti e a teus filhos depois de ti e para que prolongues os dias na terra que o Senhor, teu Deus, te dá para todo o sempre.
+41 Então, Moisés separou três cidades dalém do Jordão, do lado do nascimento do sol,
+42 para que se acolhesse ali o homicida que matasse, involuntariamente, o seu próximo, a quem, dantes, não tivesse ódio algum, e se acolhesse a uma destas cidades e vivesse:
+43 Bezer, no deserto, no planalto, para os rubenitas; Ramote, em Gileade, para os gaditas; e Golã, em Basã, para os manassitas.
+44 Esta é a lei que Moisés propôs aos filhos de Israel.
+45 São estes os testemunhos, e os estatutos, e os juízos que Moisés falou aos filhos de Israel, quando saíram do Egito,
+46 além do Jordão, no vale defronte de Bete-Peor, na terra de Seom, rei dos amorreus, que habitava em Hesbom, a quem Moisés e os filhos de Israel feriram ao saírem do Egito,
+47 e tomaram a sua terra em possessão, como também a terra de Ogue, rei de Basã, dois reis dos amorreus, que estavam além do Jordão, do lado do nascimento do sol;
+48 desde Aroer, que está à borda do vale de Arnom, até ao monte Siom, que é Hermom,
+49 e toda a Arabá, além do Jordão, do lado oriental, até ao mar da Arabá, pelas faldas de Pisga.*
+1 Chamou Moisés a todo o Israel e disse-lhe: Ouvi, ó Israel, os estatutos e juízos que hoje vos falo aos ouvidos, para que os aprendais e cuideis em os cumprirdes.
+2 O Senhor, nosso Deus, fez aliança conosco em Horebe.
+3 Não foi com nossos pais que fez o Senhor esta aliança, e sim conosco, todos os que, hoje, aqui estamos vivos.
+4 Face a face falou o Senhor conosco, no monte, do meio do fogo
+5 (Nesse tempo, eu estava em pé entre o Senhor e vós, para vos notificar a palavra do Senhor, porque temestes o fogo e não subistes ao monte.), dizendo:
+6 Eu sou o Senhor, teu Deus, que te tirei do Egito, da casa da servidão.
+7 Não terás outros deuses diante de mim.
+8 Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra;
+9 não as adorarás, nem lhes darás culto; porque eu, o Senhor, teu Deus, sou Deus zeloso, que visito a iniquidade dos pais nos filhos até a terceira e quarta geração daqueles que me aborrecem,
+10 e faço misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.
+11 Não tomarás o nome do Senhor, teu Deus, em vão, porque o Senhor não terá por inocente o que tomar o seu nome em vão.
+12 Guarda o dia de sábado, para o santificar, como te ordenou o Senhor, teu Deus.
+13 Seis dias trabalharás e farás toda a tua obra.
+14 Mas o sétimo dia é o sábado do Senhor, teu Deus; não farás nenhum trabalho, nem tu, nem o teu filho, nem a tua filha, nem o teu servo, nem a tua serva, nem o teu boi, nem o teu jumento, nem animal algum teu, nem o estrangeiro das tuas portas para dentro, para que o teu servo e a tua serva descansem como tu;
+15 porque te lembrarás que foste servo na terra do Egito e que o Senhor, teu Deus, te tirou dali com mão poderosa e braço estendido; pelo que o Senhor, teu Deus, te ordenou que guardasses o dia de sábado.
+16 Honra a teu pai e a tua mãe, como o Senhor, teu Deus, te ordenou, para que se prolonguem os teus dias e para que te vá bem na terra que o Senhor, teu Deus, te dá.
+17 Não matarás.
+18 Não adulterarás.
+19 Não furtarás.
+20 Não dirás falso testemunho contra o teu próximo.
+21 Não cobiçarás a mulher do teu próximo. Não desejarás a casa do teu próximo, nem o seu campo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma do teu próximo.
+22 Estas palavras falou o Senhor a toda a vossa congregação no monte, do meio do fogo, da nuvem e da escuridade, com grande voz, e nada acrescentou. Tendo-as escrito em duas tábuas de pedra, deu-mas a mim.
+23 Sucedeu que, ouvindo a voz do meio das trevas, enquanto ardia o monte em fogo, vos achegastes a mim, todos os cabeças das vossas tribos e vossos anciãos,
+24 e dissestes: Eis aqui o Senhor, nosso Deus, nos fez ver a sua glória e a sua grandeza, e ouvimos a sua voz do meio do fogo; hoje, vimos que Deus fala com o homem, e este permanece vivo.
+25 Agora, pois, por que morreríamos? Pois este grande fogo nos consumiria; se ainda mais ouvíssemos a voz do Senhor, nosso Deus, morreríamos.
+26 Porque quem há, de toda carne, que tenha ouvido a voz do Deus vivo falar do meio do fogo, como nós ouvimos, e permanecido vivo?
+27 Chega-te, e ouve tudo o que disser o Senhor, nosso Deus; e tu nos dirás tudo o que te disser o Senhor, nosso Deus, e o ouviremos, e o cumpriremos.
+28 Ouvindo, pois, o Senhor as vossas palavras, quando me faláveis a mim, o Senhor me disse: Eu ouvi as palavras deste povo, as quais te disseram; em tudo falaram eles bem.
+29 Quem dera que eles tivessem tal coração, que me temessem e guardassem em todo o tempo todos os meus mandamentos, para que bem lhes fosse a eles e a seus filhos, para sempre!
+30 Vai, dize-lhes: Tornai-vos às vossas tendas.
+31 Tu, porém, fica-te aqui comigo, e eu te direi todos os mandamentos, e estatutos, e juízos que tu lhes hás de ensinar que cumpram na terra que eu lhes darei para possuí-la.
+32 Cuidareis em fazerdes como vos mandou o Senhor, vosso Deus; não vos desviareis, nem para a direita, nem para a esquerda.
+33 Andareis em todo o caminho que vos manda o Senhor, vosso Deus, para que vivais, bem vos suceda, e prolongueis os dias na terra que haveis de possuir.*
+1 Estes, pois, são os mandamentos, os estatutos e os juízos que mandou o Senhor, teu Deus, se te ensinassem, para que os cumprisses na terra a que passas para a possuir;
+2 para que temas ao Senhor, teu Deus, e guardes todos os seus estatutos e mandamentos que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida; e que teus dias sejam prolongados.
+3 Ouve, pois, ó Israel, e atenta em os cumprires, para que bem te suceda, e muito te multipliques na terra que mana leite e mel, como te disse o Senhor, Deus de teus pais.
+4 Ouve, Israel, o Senhor, nosso Deus, é o único Senhor.
+5 Amarás, pois, o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de toda a tua força.
+6 Estas palavras que, hoje, te ordeno estarão no teu coração;
+7 tu as inculcarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e ao deitar-te, e ao levantar-te.
+8 Também as atarás como sinal na tua mão, e te serão por frontal entre os olhos.
+9 E as escreverás nos umbrais de tua casa e nas tuas portas.
+10 Havendo-te, pois, o Senhor, teu Deus, introduzido na terra que, sob juramento, prometeu a teus pais, Abraão, Isaque e Jacó, te daria, grandes e boas cidades, que tu não edificaste;
+11 e casas cheias de tudo o que é bom, casas que não encheste; e poços abertos, que não abriste; vinhais e olivais, que não plantaste; e, quando comeres e te fartares,
+12 guarda-te, para que não esqueças o Senhor, que te tirou da terra do Egito, da casa da servidão.
+13 O Senhor, teu Deus, temerás, a ele servirás, e, pelo seu nome, jurarás.
+14 Não seguirás outros deuses, nenhum dos deuses dos povos que houver à roda de ti,
+15 porque o Senhor, teu Deus, é Deus zeloso no meio de ti, para que a ira do Senhor, teu Deus, se não acenda contra ti e te destrua de sobre a face da terra.
+16 Não tentarás o Senhor, teu Deus, como o tentaste em Massá.
+17 Diligentemente, guardarás os mandamentos do Senhor, teu Deus, e os seus testemunhos, e os seus estatutos que te ordenou.
+18 Farás o que é reto e bom aos olhos do Senhor, para que bem te suceda, e entres, e possuas a boa terra a qual o Senhor, sob juramento, prometeu dar a teus pais,
+19 lançando todos os teus inimigos de diante de ti, como o Senhor tem dito.
+20 Quando teu filho, no futuro, te perguntar, dizendo: Que significam os testemunhos, e estatutos, e juízos que o Senhor, nosso Deus, vos ordenou?
+21 Então, dirás a teu filho: Éramos servos de Faraó, no Egito; porém o Senhor de lá nos tirou com poderosa mão.
+22 Aos nossos olhos fez o Senhor sinais e maravilhas, grandes e terríveis, contra o Egito e contra Faraó e toda a sua casa;
+23 e dali nos tirou, para nos levar e nos dar a terra que sob juramento prometeu a nossos pais.
+24 O Senhor nos ordenou cumpríssemos todos estes estatutos e temêssemos o Senhor, nosso Deus, para o nosso perpétuo bem, para nos guardar em vida, como tem feito até hoje.
+25 Será por nós justiça, quando tivermos cuidado de cumprir todos estes mandamentos perante o Senhor, nosso Deus, como nos tem ordenado.*
+1 Quando o Senhor, teu Deus, te introduzir na terra a qual passas a possuir, e tiver lançado muitas nações de diante de ti, os heteus, e os girgaseus, e os amorreus, e os cananeus, e os ferezeus, e os heveus, e os jebuseus, sete nações mais numerosas e mais poderosas do que tu;
+2 e o Senhor, teu Deus, as tiver dado diante de ti, para as ferir, totalmente as destruirás; não farás com elas aliança, nem terás piedade delas;
+3 nem contrairás matrimônio com os filhos dessas nações; não darás tuas filhas a seus filhos, nem tomarás suas filhas para teus filhos;
+4 pois elas fariam desviar teus filhos de mim, para que servissem a outros deuses; e a ira do Senhor se acenderia contra vós outros e depressa vos destruiria.
+5 Porém assim lhes fareis: derribareis os seus altares, quebrareis as suas colunas, cortareis os seus postes-ídolos e queimareis as suas imagens de escultura.
+6 Porque tu és povo santo ao Senhor, teu Deus; o Senhor, teu Deus, te escolheu, para que lhe fosses o seu povo próprio, de todos os povos que há sobre a terra.
+7 Não vos teve o Senhor afeição, nem vos escolheu porque fôsseis mais numerosos do que qualquer povo, pois éreis o menor de todos os povos,
+8 mas porque o Senhor vos amava e, para guardar o juramento que fizera a vossos pais, o Senhor vos tirou com mão poderosa e vos resgatou da casa da servidão, do poder de Faraó, rei do Egito.
+9 Saberás, pois, que o Senhor, teu Deus, é Deus, o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e cumprem os seus mandamentos;
+10 e dá o pago diretamente aos que o odeiam, fazendo-os perecer; não será demorado para com o que o odeia; prontamente, lho retribuirá.
+11 Guarda, pois, os mandamentos, e os estatutos, e os juízos que hoje te mando cumprir.
+12 Será, pois, que, se, ouvindo estes juízos, os guardares e cumprires, o Senhor, teu Deus, te guardará a aliança e a misericórdia prometida sob juramento a teus pais;
+13 ele te amará, e te abençoará, e te fará multiplicar; também abençoará os teus filhos, e o fruto da tua terra, e o teu cereal, e o teu vinho, e o teu azeite, e as crias das tuas vacas e das tuas ovelhas, na terra que, sob juramento a teus pais, prometeu dar-te.
+14 Bendito serás mais do que todos os povos; não haverá entre ti nem homem, nem mulher estéril, nem entre os teus animais.
+15 O Senhor afastará de ti toda enfermidade; sobre ti não porá nenhuma das doenças malignas dos egípcios, que bem sabes; antes, as porá sobre todos os que te odeiam.
+16 Consumirás todos os povos que te der o Senhor, teu Deus; os teus olhos não terão piedade deles, nem servirás a seus deuses, pois isso te seria por ciladas.
+17 Se disseres no teu coração: Estas nações são mais numerosas do que eu; como poderei desapossá-las?
+18 Delas não tenhas temor; lembrar-te-ás do que o Senhor, teu Deus, fez a Faraó e a todo o Egito;
+19 das grandes provas que viram os teus olhos, e dos sinais, e maravilhas, e mão poderosa, e braço estendido, com que o Senhor, teu Deus, te tirou; assim fará o Senhor, teu Deus, com todos os povos, aos quais temes.
+20 Além disso, o Senhor, teu Deus, mandará entre eles vespões, até que pereçam os que ficarem e se esconderem de diante de ti.
+21 Não te espantes diante deles, porque o Senhor, teu Deus, está no meio de ti, Deus grande e temível.
+22 O Senhor, teu Deus, lançará fora estas nações, pouco a pouco, de diante de ti; não poderás destruí-las todas de pronto, para que as feras do campo se não multipliquem contra ti.
+23 Mas o Senhor, teu Deus, tas entregará e lhes infligirá grande confusão, até que sejam destruídas.
+24 Entregar-te-á também nas mãos os seus reis, para que apagues o nome deles de debaixo dos céus; nenhum homem poderá resistir-te, até que os destruas.
+25 As imagens de escultura de seus deuses queimarás; a prata e o ouro que estão sobre elas não cobiçarás, nem os tomarás para ti, para que te não enlaces neles; pois são abominação ao Senhor, teu Deus.
+26 Não meterás, pois, coisa abominável em tua casa, para que não sejas amaldiçoado, semelhante a ela; de todo, a detestarás e, de todo, a abominarás, pois é amaldiçoada.*
+1 Cuidareis de cumprir todos os mandamentos que hoje vos ordeno, para que vivais, e vos multipliqueis, e entreis, e possuais a terra que o Senhor prometeu sob juramento a vossos pais.
+2 Recordar-te-ás de todo o caminho pelo qual o Senhor, teu Deus, te guiou no deserto estes quarenta anos, para te humilhar, para te provar, para saber o que estava no teu coração, se guardarias ou não os seus mandamentos.
+3 Ele te humilhou, e te deixou ter fome, e te sustentou com o maná, que tu não conhecias, nem teus pais o conheciam, para te dar a entender que não só de pão viverá o homem, mas de tudo o que procede da boca do Senhor viverá o homem.
+4 Nunca envelheceu a tua veste sobre ti, nem se inchou o teu pé nestes quarenta anos.
+5 Sabe, pois, no teu coração, que, como um homem disciplina a seu filho, assim te disciplina o Senhor, teu Deus.
+6 Guarda os mandamentos do Senhor, teu Deus, para andares nos seus caminhos e o temeres;
+7 porque o Senhor, teu Deus, te faz entrar numa boa terra, terra de ribeiros de águas, de fontes, de mananciais profundos, que saem dos vales e das montanhas;
+8 terra de trigo e cevada, de vides, figueiras e romeiras; terra de oliveiras, de azeite e mel;
+9 terra em que comerás o pão sem escassez, e nada te faltará nela; terra cujas pedras são ferro e de cujos montes cavarás o cobre.
+10 Comerás, e te fartarás, e louvarás o Senhor, teu Deus, pela boa terra que te deu.
+11 Guarda-te não te esqueças do Senhor, teu Deus, não cumprindo os seus mandamentos, os seus juízos e os seus estatutos, que hoje te ordeno;
+12 para não suceder que, depois de teres comido e estiveres farto, depois de haveres edificado boas casas e morado nelas;
+13 depois de se multiplicarem os teus gados e os teus rebanhos, e se aumentar a tua prata e o teu ouro, e ser abundante tudo quanto tens,
+14 se eleve o teu coração, e te esqueças do Senhor, teu Deus, que te tirou da terra do Egito, da casa da servidão,
+15 que te conduziu por aquele grande e terrível deserto de serpentes abrasadoras, de escorpiões e de secura, em que não havia água; e te fez sair água da pederneira;
+16 que no deserto te sustentou com maná, que teus pais não conheciam; para te humilhar, e para te provar, e, afinal, te fazer bem.
+17 Não digas, pois, no teu coração: A minha força e o poder do meu braço me adquiriram estas riquezas.
+18 Antes, te lembrarás do Senhor, teu Deus, porque é ele o que te dá força para adquirires riquezas; para confirmar a sua aliança, que, sob juramento, prometeu a teus pais, como hoje se vê.
+19 Se te esqueceres do Senhor, teu Deus, e andares após outros deuses, e os servires, e os adorares, protesto, hoje, contra vós outros que perecereis.
+20 Como as nações que o Senhor destruiu de diante de vós, assim perecereis; porquanto não quisestes obedecer à voz do Senhor, vosso Deus.*
+1 Ouve, ó Israel, tu passas, hoje, o Jordão para entrares a possuir nações maiores e mais fortes do que tu; cidades grandes e amuralhadas até aos céus;
+2 povo grande e alto, filhos dos anaquins, que tu conheces e de que já ouvistes: Quem poderá resistir aos filhos de Enaque?
+3 Sabe, pois, hoje, que o Senhor, teu Deus, é que passa adiante de ti; é fogo que consome, e os destruirá, e os subjugará diante de ti; assim, os desapossarás e, depressa, os farás perecer, como te prometeu o Senhor.
+4 Quando, pois, o Senhor, teu Deus, os tiver lançado de diante de ti, não digas no teu coração: Por causa da minha justiça é que o Senhor me trouxe a esta terra para a possuir, porque, pela maldade destas gerações, é que o Senhor as lança de diante de ti.
+5 Não é por causa da tua justiça, nem pela retitude do teu coração que entras a possuir a sua terra, mas pela maldade destas nações o Senhor, teu Deus, as lança de diante de ti; e para confirmar a palavra que o Senhor, teu Deus, jurou a teus pais, Abraão, Isaque e Jacó.
+6 Sabe, pois, que não é por causa da tua justiça que o Senhor, teu Deus, te dá esta boa terra para possuí-la, pois tu és povo de dura cerviz.
+7 Lembrai-vos e não vos esqueçais de que muito provocastes à ira o Senhor, vosso Deus, no deserto; desde o dia em que saístes do Egito até que chegastes a este lugar, rebeldes fostes contra o Senhor;
+8 pois, em Horebe, tanto provocastes à ira o Senhor, que a ira do Senhor se acendeu contra vós para vos destruir.
+9 Subindo eu ao monte a receber as tábuas de pedra, as tábuas da aliança que o Senhor fizera convosco, fiquei no monte quarenta dias e quarenta noites; não comi pão, nem bebi água.
+10 Deu-me o Senhor as duas tábuas de pedra, escritas com o dedo de Deus; e, nelas, estavam todas as palavras segundo o Senhor havia falado convosco no monte, do meio do fogo, estando reunido todo o povo.
+11 Ao fim dos quarenta dias e quarenta noites, o Senhor me deu as duas tábuas de pedra, as tábuas da aliança.
+12 E o Senhor me disse: Levanta-te, desce depressa daqui, porque o teu povo, que tiraste do Egito, já se corrompeu; cedo se desviou do caminho que lhe ordenei; imagem fundida para si fez.
+13 Falou-me ainda o Senhor, dizendo: Atentei para este povo, e eis que ele é povo de dura cerviz.
+14 Deixa-me que o destrua e apague o seu nome de debaixo dos céus; e te faça a ti nação mais forte e mais numerosa do que esta.
+15 Então, me virei e desci do monte; e o monte ardia em fogo; as duas tábuas da aliança estavam em ambas as minhas mãos.
+16 Olhei, e eis que havíeis pecado contra o Senhor, vosso Deus; tínheis feito para vós outros um bezerro fundido; cedo vos desviastes do caminho que o Senhor vos ordenara.
+17 Então, peguei as duas tábuas, e as arrojei das minhas mãos, e as quebrei ante os vossos olhos.
+18 Prostrado estive perante o Senhor, como dantes, quarenta dias e quarenta noites; não comi pão e não bebi água, por causa de todo o vosso pecado que havíeis cometido, fazendo mal aos olhos do Senhor, para o provocar à ira.
+19 Pois temia por causa da ira e do furor com que o Senhor tanto estava irado contra vós outros para vos destruir; porém ainda esta vez o Senhor me ouviu.
+20 O Senhor se irou muito contra Arão para o destruir; mas também orei por Arão ao mesmo tempo.
+21 Porém tomei o vosso pecado, o bezerro que tínheis feito, e o queimei, e o esmaguei, moendo-o bem, até que se desfez em pó; e o seu pó lancei no ribeiro que descia do monte.
+22 Também em Taberá, em Massá e em Quibrote-Hataavá provocastes muito a ira do Senhor.
+23 Quando também o Senhor vos enviou de Cades-Barneia, dizendo: Subi e possuí a terra que vos dei, rebeldes fostes ao mandado do Senhor, vosso Deus, e não o crestes, e não obedecestes à sua voz.
+24 Rebeldes fostes contra o Senhor, desde o dia em que vos conheci.
+25 Prostrei-me, pois, perante o Senhor e, quarenta dias e quarenta noites, estive prostrado; porquanto o Senhor dissera que vos queria destruir.
+26 Orei ao Senhor, dizendo: Ó Senhor Deus! Não destruas o teu povo e a tua herança, que resgataste com a tua grandeza, que tiraste do Egito com poderosa mão.
+27 Lembra-te dos teus servos Abraão, Isaque e Jacó; não atentes para a dureza deste povo, nem para a sua maldade, nem para o seu pecado,
+28 para que o povo da terra donde nos tiraste não diga: Não tendo podido o Senhor introduzi-los na terra de que lhes tinha falado e porque os aborrecia, os tirou para matá-los no deserto.
+29 Todavia, são eles o teu povo e a tua herança, que tiraste com a tua grande força e com o braço estendido.*
+1 Naquele tempo, me disse o Senhor: Lavra duas tábuas de pedra, como as primeiras, e sobe a mim ao monte, e faze uma arca de madeira.
+2 Escreverei nas duas tábuas as palavras que estavam nas primeiras que quebraste, e as porás na arca.
+3 Assim, fiz uma arca de madeira de acácia, lavrei duas tábuas de pedra, como as primeiras, e subi ao monte com as duas tábuas na mão.
+4 Então, escreveu o Senhor nas tábuas, segundo a primeira escritura, os dez mandamentos que ele vos falara no dia da congregação, no monte, no meio do fogo; e o Senhor mas deu a mim.
+5 Virei-me, e desci do monte, e pus as tábuas na arca que eu fizera; e ali estão, como o Senhor me ordenou.
+6 Partiram os filhos de Israel de Beerote-Benê-Jaacã para Mosera. Ali faleceu Arão e ali foi sepultado. Eleazar, seu filho, oficiou como sacerdote em seu lugar.
+7 Dali partiram para Gudgoda e de Gudgoda para Jotbatá, terra de ribeiros de águas.
+8 Por esse mesmo tempo, o Senhor separou a tribo de Levi para levar a arca da Aliança do Senhor, para estar diante do Senhor, para o servir e para abençoar em seu nome até ao dia de hoje.
+9 Pelo que Levi não tem parte nem herança com seus irmãos; o Senhor é a sua herança, como o Senhor, teu Deus, lhe tem prometido.
+10 Permaneci no monte, como da primeira vez, quarenta dias e quarenta noites; o Senhor me ouviu ainda por esta vez; não quis o Senhor destruir-te.
+11 Porém o Senhor me disse: Levanta-te, põe-te a caminho diante do povo, para que entre e possua a terra que, sob juramento, prometi dar a seus pais.
+12 Agora, pois, ó Israel, que é que o Senhor requer de ti? Não é que temas o Senhor, teu Deus, e andes em todos os seus caminhos, e o ames, e sirvas ao Senhor, teu Deus, de todo o teu coração e de toda a tua alma,
+13 para guardares os mandamentos do Senhor e os seus estatutos que hoje te ordeno, para o teu bem?
+14 Eis que os céus e os céus dos céus são do Senhor, teu Deus, a terra e tudo o que nela há.
+15 Tão somente o Senhor se afeiçoou a teus pais para os amar; a vós outros, descendentes deles, escolheu de todos os povos, como hoje se vê.
+16 Circuncidai, pois, o vosso coração e não mais endureçais a vossa cerviz.
+17 Pois o Senhor, vosso Deus, é o Deus dos deuses e o Senhor dos senhores, o Deus grande, poderoso e temível, que não faz acepção de pessoas, nem aceita suborno;
+18 que faz justiça ao órfão e à viúva e ama o estrangeiro, dando-lhe pão e vestes.
+19 Amai, pois, o estrangeiro, porque fostes estrangeiros na terra do Egito.
+20 Ao Senhor, teu Deus, temerás; a ele servirás, a ele te chegarás e, pelo seu nome, jurarás.
+21 Ele é o teu louvor e o teu Deus, que te fez estas grandes e temíveis coisas que os teus olhos têm visto.
+22 Com setenta almas, teus pais desceram ao Egito; e, agora, o Senhor, teu Deus, te pôs como as estrelas dos céus em multidão.*
+1 Amarás, pois, o Senhor, teu Deus, e todos os dias guardarás os seus preceitos, os seus estatutos, os seus juízos e os seus mandamentos.
+2 Considerai hoje (não falo com os vossos filhos que não conheceram, nem viram a disciplina do Senhor, vosso Deus), considerai a grandeza do Senhor, a sua poderosa mão e o seu braço estendido;
+3 e também os seus sinais, as suas obras, que fez no meio do Egito a Faraó, rei do Egito, e a toda a sua terra;
+4 e o que fez ao exército do Egito, aos seus cavalos e aos seus carros, fazendo passar sobre eles as águas do mar Vermelho, quando vos perseguiam, e como o Senhor os destruiu até ao dia de hoje;
+5 e o que fez no deserto, até que chegastes a este lugar;
+6 e ainda o que fez a Datã e a Abirão, filhos de Eliabe, filho de Rúben; como a terra abriu a boca e os tragou e bem assim a sua família, suas tendas e tudo o que os seguia, no meio de todo o Israel;
+7 porquanto os vossos olhos são os que viram todas as grandes obras que fez o Senhor.
+8 Guardai, pois, todos os mandamentos que hoje vos ordeno, para que sejais fortes, e entreis, e possuais a terra para onde vos dirigis;
+9 para que prolongueis os dias na terra que o Senhor, sob juramento, prometeu dar a vossos pais e à sua descendência, terra que mana leite e mel.
+10 Porque a terra que passais a possuir não é como a terra do Egito, donde saístes, em que semeáveis a vossa semente e, com o pé, a regáveis como a uma horta;
+11 mas a terra que passais a possuir é terra de montes e de vales; da chuva dos céus beberá as águas;
+12 terra de que cuida o Senhor, vosso Deus; os olhos do Senhor, vosso Deus, estão sobre ela continuamente, desde o princípio até ao fim do ano.
+13 Se diligentemente obedecerdes a meus mandamentos que hoje vos ordeno, de amar o Senhor, vosso Deus, e de o servir de todo o vosso coração e de toda a vossa alma,
+14 darei as chuvas da vossa terra a seu tempo, as primeiras e as últimas, para que recolhais o vosso cereal, e o vosso vinho, e o vosso azeite.
+15 Darei erva no vosso campo aos vossos gados, e comereis e vos fartareis.
+16 Guardai-vos não suceda que o vosso coração se engane, e vos desvieis, e sirvais a outros deuses, e vos prostreis perante eles;
+17 que a ira do Senhor se acenda contra vós outros, e feche ele os céus, e não haja chuva, e a terra não dê a sua messe, e cedo sejais eliminados da boa terra que o Senhor vos dá.
+18 Ponde, pois, estas minhas palavras no vosso coração e na vossa alma; atai-as por sinal na vossa mão, para que estejam por frontal entre os olhos.
+19 Ensinai-as a vossos filhos, falando delas assentados em vossa casa, e andando pelo caminho, e deitando-vos, e levantando-vos.
+20 Escrevei-as nos umbrais de vossa casa e nas vossas portas,
+21 para que se multipliquem os vossos dias e os dias de vossos filhos na terra que o Senhor, sob juramento, prometeu dar a vossos pais, e sejam tão numerosos como os dias do céu acima da terra.
+22 Porque, se diligentemente guardardes todos estes mandamentos que vos ordeno para os guardardes, amando o Senhor, vosso Deus, andando em todos os seus caminhos, e a ele vos achegardes,
+23 o Senhor desapossará todas estas nações, e possuireis nações maiores e mais poderosas do que vós.
+24 Todo lugar que pisar a planta do vosso pé, desde o deserto, desde o Líbano, desde o rio, o rio Eufrates, até ao mar ocidental, será vosso.
+25 Ninguém vos poderá resistir; o Senhor, vosso Deus, porá sobre toda terra que pisardes o vosso terror e o vosso temor, como já vos tem dito.
+26 Eis que, hoje, eu ponho diante de vós a bênção e a maldição:
+27 a bênção, quando cumprirdes os mandamentos do Senhor, vosso Deus, que hoje vos ordeno;
+28 a maldição, se não cumprirdes os mandamentos do Senhor, vosso Deus, mas vos desviardes do caminho que hoje vos ordeno, para seguirdes outros deuses que não conhecestes.
+29 Quando, porém, o Senhor, teu Deus, te introduzir na terra a que vais para possuí-la, então, pronunciarás a bênção sobre o monte Gerizim e a maldição sobre o monte Ebal.
+30 Porventura, não estão eles além do Jordão, na direção do pôr do sol, na terra dos cananeus, que habitam na Arabá, defronte de Gilgal, junto aos carvalhais de Moré?
+31 Pois ides passar o Jordão para entrardes e possuirdes a terra que vos dá o Senhor, vosso Deus; possuí-la-eis e nela habitareis.
+32 Tende, pois, cuidado em cumprir todos os estatutos e os juízos que eu, hoje, vos prescrevo.*
+1 São estes os estatutos e os juízos que cuidareis de cumprir na terra que vos deu o Senhor, Deus de vossos pais, para a possuirdes todos os dias que viverdes sobre a terra.
+2 Destruireis por completo todos os lugares onde as nações que ides desapossar serviram aos seus deuses, sobre as altas montanhas, sobre os outeiros e debaixo de toda árvore frondosa;
+3 deitareis abaixo os seus altares, e despedaçareis as suas colunas, e os seus postes-ídolos queimareis, e despedaçareis as imagens esculpidas dos seus deuses, e apagareis o seu nome daquele lugar.
+4 Não fareis assim para com o Senhor, vosso Deus,
+5 mas buscareis o lugar que o Senhor, vosso Deus, escolher de todas as vossas tribos, para ali pôr o seu nome e sua habitação; e para lá ireis.
+6 A esse lugar fareis chegar os vossos holocaustos, e os vossos sacrifícios, e os vossos dízimos, e a oferta das vossas mãos, e as ofertas votivas, e as ofertas voluntárias, e os primogênitos das vossas vacas e das vossas ovelhas.
+7 Lá, comereis perante o Senhor, vosso Deus, e vos alegrareis em tudo o que fizerdes, vós e as vossas casas, no que vos tiver abençoado o Senhor, vosso Deus.
+8 Não procedereis em nada segundo estamos fazendo aqui, cada qual tudo o que bem parece aos seus olhos,
+9 porque, até agora, não entrastes no descanso e na herança que vos dá o Senhor, vosso Deus.
+10 Mas passareis o Jordão e habitareis na terra que vos fará herdar o Senhor, vosso Deus; e vos dará descanso de todos os vossos inimigos em redor, e morareis seguros.
+11 Então, haverá um lugar que escolherá o Senhor, vosso Deus, para ali fazer habitar o seu nome; a esse lugar fareis chegar tudo o que vos ordeno: os vossos holocaustos, e os vossos sacrifícios, e os vossos dízimos, e a oferta das vossas mãos, e toda escolha dos vossos votos feitos ao Senhor,
+12 e vos alegrareis perante o Senhor, vosso Deus, vós, os vossos filhos, as vossas filhas, os vossos servos, as vossas servas e o levita que mora dentro das vossas cidades e que não tem porção nem herança convosco.
+13 Guarda-te, não ofereças os teus holocaustos em todo lugar que vires;
+14 mas, no lugar que o Senhor escolher numa das tuas tribos, ali oferecerás os teus holocaustos e ali farás tudo o que te ordeno.
+15 Porém, consoante todo desejo da tua alma, poderás matar e comer carne nas tuas cidades, segundo a bênção do Senhor, teu Deus; o imundo e o limpo dela comerão, assim como se come da carne do corço e do veado.
+16 Tão somente o sangue não comerás; sobre a terra o derramarás como água.
+17 Nas tuas cidades, não poderás comer o dízimo do teu cereal, nem do teu vinho, nem do teu azeite, nem os primogênitos das tuas vacas, nem das tuas ovelhas, nem nenhuma das tuas ofertas votivas, que houveres prometido, nem as tuas ofertas voluntárias, nem as ofertas das tuas mãos;
+18 mas o comerás perante o Senhor, teu Deus, no lugar que o Senhor, teu Deus, escolher, tu, e teu filho, e tua filha, e teu servo, e tua serva, e o levita que mora na tua cidade; e perante o Senhor, teu Deus, te alegrarás em tudo o que fizeres.
+19 Guarda-te, não desampares o levita todos os teus dias na terra.
+20 Quando o Senhor, teu Deus, alargar o teu território, como te prometeu, e, por desejares comer carne, disseres: Comerei carne, então, segundo o teu desejo, comerás carne.
+21 Se estiver longe de ti o lugar que o Senhor, teu Deus, escolher para nele pôr o seu nome, então, matarás das tuas vacas e tuas ovelhas, que o Senhor te houver dado, como te ordenei; e comerás dentro da tua cidade, segundo todo o teu desejo.
+22 Porém, como se come da carne do corço e do veado, assim comerás destas carnes; destas comerá tanto o homem imundo como o limpo.
+23 Somente empenha-te em não comeres o sangue, pois o sangue é a vida; pelo que não comerás a vida com a carne.
+24 Não o comerás; na terra o derramarás como água.
+25 Não o comerás, para que bem te suceda a ti e a teus filhos, depois de ti, quando fizeres o que é reto aos olhos do Senhor.
+26 Porém tomarás o que houveres consagrado daquilo que te pertence e as tuas ofertas votivas e virás ao lugar que o Senhor escolher.
+27 E oferecerás os teus holocaustos, a carne e o sangue sobre o altar do Senhor, teu Deus; e o sangue dos teus sacrifícios se derramará sobre o altar do Senhor, teu Deus; porém a carne comerás.
+28 Guarda e cumpre todas estas palavras que te ordeno, para que bem te suceda a ti e a teus filhos, depois de ti, para sempre, quando fizeres o que é bom e reto aos olhos do Senhor, teu Deus.
+29 Quando o Senhor, teu Deus, eliminar de diante de ti as nações, para as quais vais para possuí-las, e as desapossares e habitares na sua terra,
+30 guarda-te, não te enlaces com imitá-las, após terem sido destruídas diante de ti; e que não indagues acerca dos seus deuses, dizendo: Assim como serviram estas nações aos seus deuses, do mesmo modo também farei eu.
+31 Não farás assim ao Senhor, teu Deus, porque tudo o que é abominável ao Senhor e que ele odeia fizeram eles a seus deuses, pois até seus filhos e suas filhas queimaram aos seus deuses.
+32 Tudo o que eu te ordeno observarás; nada lhe acrescentarás, nem diminuirás.*
+1 Quando profeta ou sonhador se levantar no meio de ti e te anunciar um sinal ou prodígio,
+2 e suceder o tal sinal ou prodígio de que te houver falado, e disser: Vamos após outros deuses, que não conheceste, e sirvamo-los,
+3 não ouvirás as palavras desse profeta ou sonhador; porquanto o Senhor, vosso Deus, vos prova, para saber se amais o Senhor, vosso Deus, de todo o vosso coração e de toda a vossa alma.
+4 Andareis após o Senhor, vosso Deus, e a ele temereis; guardareis os seus mandamentos, ouvireis a sua voz, a ele servireis e a ele vos achegareis.
+5 Esse profeta ou sonhador será morto, pois pregou rebeldia contra o Senhor, vosso Deus, que vos tirou da terra do Egito e vos resgatou da casa da servidão, para vos apartar do caminho que vos ordenou o Senhor, vosso Deus, para andardes nele. Assim, eliminarás o mal do meio de ti.
+6 Se teu irmão, filho de tua mãe, ou teu filho, ou tua filha, ou a mulher do teu amor, ou teu amigo que amas como à tua alma te incitar em segredo, dizendo: Vamos e sirvamos a outros deuses, que não conheceste, nem tu, nem teus pais,
+7 dentre os deuses dos povos que estão em redor de ti, perto ou longe de ti, desde uma até à outra extremidade da terra,
+8 não concordarás com ele, nem o ouvirás; não olharás com piedade, não o pouparás, nem o esconderás,
+9 mas, certamente, o matarás. A tua mão será a primeira contra ele, para o matar, e depois a mão de todo o povo.
+10 Apedrejá-lo-ás até que morra, pois te procurou apartar do Senhor, teu Deus, que te tirou da terra do Egito, da casa da servidão.
+11 E todo o Israel ouvirá e temerá, e não se tornará a praticar maldade como esta no meio de ti.
+12 Quando em alguma das tuas cidades que o Senhor, teu Deus, te dá, para ali habitares, ouvires dizer
+13 que homens malignos saíram do meio de ti e incitaram os moradores da sua cidade, dizendo: Vamos e sirvamos a outros deuses, que não conheceste,
+14 então, inquirirás, investigarás e, com diligência, perguntarás; e eis que, se for verdade e certo que tal abominação se cometeu no meio de ti,
+15 então, certamente, ferirás a fio de espada os moradores daquela cidade, destruindo-a completamente e tudo o que nela houver, até os animais.
+16 Ajuntarás todo o seu despojo no meio da sua praça e a cidade e todo o seu despojo queimarás por oferta total ao Senhor, teu Deus, e será montão perpétuo de ruínas; nunca mais se edificará.
+17 Também nada do que for condenado deverá ficar em tua mão, para que o Senhor se aparte do ardor da sua ira, e te faça misericórdia, e tenha piedade de ti, e te multiplique, como jurou a teus pais,
+18 se ouvires a voz do Senhor, teu Deus, e guardares todos os seus mandamentos que hoje te ordeno, para fazeres o que é reto aos olhos do Senhor, teu Deus.*
+1 Filhos sois do Senhor, vosso Deus; não vos dareis golpes, nem sobre a testa fareis calva por causa de algum morto.
+2 Porque sois povo santo ao Senhor, vosso Deus, e o Senhor vos escolheu de todos os povos que há sobre a face da terra, para lhe serdes seu povo próprio.
+3 Não comereis coisa alguma abominável.
+4 São estes os animais que comereis: o boi, a ovelha, a cabra,
+5 o veado, a gazela, a corça, a cabra montês, o antílope, a ovelha montês e o gamo.
+6 Todo animal que tem unhas fendidas, e o casco se divide em dois, e rumina, entre os animais, isso comereis.
+7 Porém estes não comereis, dos que somente ruminam ou que têm a unha fendida: o camelo, a lebre e o arganaz, porque ruminam, mas não têm a unha fendida; imundos vos serão.
+8 Nem o porco, porque tem unha fendida, mas não rumina; imundo vos será. Destes não comereis a carne e não tocareis no seu cadáver.
+9 Isto comereis de tudo o que há nas águas: tudo o que tem barbatanas e escamas.
+10 Mas tudo o que não tiver barbatanas nem escamas não o comereis; imundo vos será.
+11 Toda ave limpa comereis.
+12 Estas, porém, são as que não comereis: a águia, o quebrantosso, a águia marinha,
+13 o açor, o falcão e o milhano, segundo a sua espécie;
+14 e todo corvo, segundo a sua espécie;
+15 o avestruz, a coruja, a gaivota e o gavião, segundo a sua espécie;
+16 o mocho, a íbis, a gralha,
+17 o pelicano, o abutre, o corvo marinho,
+18 a cegonha, e a garça, segundo a sua espécie, e a poupa, e o morcego.
+19 Também todo inseto que voa vos será imundo; não se comerá.
+20 Toda ave limpa comereis.
+21 Não comereis nenhum animal que morreu por si. Podereis dá-lo ao estrangeiro que está dentro da tua cidade, para que o coma, ou vendê-lo ao estranho, porquanto sois povo santo ao Senhor, vosso Deus. Não cozerás o cabrito no leite da sua própria mãe.
+22 Certamente, darás os dízimos de todo o fruto das tuas sementes, que ano após ano se recolher do campo.
+23 E, perante o Senhor, teu Deus, no lugar que escolher para ali fazer habitar o seu nome, comerás os dízimos do teu cereal, do teu vinho, do teu azeite e os primogênitos das tuas vacas e das tuas ovelhas; para que aprendas a temer o Senhor, teu Deus, todos os dias.
+24 Quando o caminho te for comprido demais, que os não possas levar, por estar longe de ti o lugar que o Senhor, teu Deus, escolher para ali pôr o seu nome, quando o Senhor, teu Deus, te tiver abençoado,
+25 então, vende-os, e leva o dinheiro na tua mão, e vai ao lugar que o Senhor, teu Deus, escolher.
+26 Esse dinheiro, dá-lo-ás por tudo o que deseja a tua alma, por vacas, ou ovelhas, ou vinho, ou bebida forte, ou qualquer coisa que te pedir a tua alma; come-o ali perante o Senhor, teu Deus, e te alegrarás, tu e a tua casa;
+27 porém não desampararás o levita que está dentro da tua cidade, pois não tem parte nem herança contigo.
+28 Ao fim de cada três anos, tirarás todos os dízimos do fruto do terceiro ano e os recolherás na tua cidade.
+29 Então, virão o levita (pois não tem parte nem herança contigo), o estrangeiro, o órfão e a viúva que estão dentro da tua cidade, e comerão, e se fartarão, para que o Senhor, teu Deus, te abençoe em todas as obras que as tuas mãos fizerem.*
+1 Ao fim de cada sete anos, farás remissão.
+2 Este, pois, é o modo da remissão: todo credor que emprestou ao seu próximo alguma coisa remitirá o que havia emprestado; não o exigirá do seu próximo ou do seu irmão, pois a remissão do Senhor é proclamada.
+3 Do estranho podes exigi-lo, mas o que tiveres em poder de teu irmão, quitá-lo-ás;
+4 para que entre ti não haja pobre; pois o Senhor, teu Deus, te abençoará abundantemente na terra que te dá por herança, para a possuíres,
+5 se apenas ouvires, atentamente, a voz do Senhor, teu Deus, para cuidares em cumprir todos estes mandamentos que hoje te ordeno.
+6 Pois o Senhor, teu Deus, te abençoará, como te tem dito; assim, emprestarás a muitas nações, mas não tomarás empréstimos; e dominarás muitas nações, porém elas não te dominarão.
+7 Quando entre ti houver algum pobre de teus irmãos, em alguma das tuas cidades, na tua terra que o Senhor, teu Deus, te dá, não endurecerás o teu coração, nem fecharás as mãos a teu irmão pobre;
+8 antes, lhe abrirás de todo a mão e lhe emprestarás o que lhe falta, quanto baste para a sua necessidade.
+9 Guarda-te não haja pensamento vil no teu coração, nem digas: Está próximo o sétimo ano, o ano da remissão, de sorte que os teus olhos sejam malignos para com teu irmão pobre, e não lhe dês nada, e ele clame contra ti ao Senhor, e haja em ti pecado.
+10 Livremente, lhe darás, e não seja maligno o teu coração, quando lho deres; pois, por isso, te abençoará o Senhor, teu Deus, em toda a tua obra e em tudo o que empreenderes.
+11 Pois nunca deixará de haver pobres na terra; por isso, eu te ordeno: livremente, abrirás a mão para o teu irmão, para o necessitado, para o pobre na tua terra.
+12 Quando um de teus irmãos, hebreu ou hebreia, te for vendido, seis anos servir-te-á, mas, no sétimo, o despedirás forro.
+13 E, quando de ti o despedires forro, não o deixarás ir vazio.
+14 Liberalmente, lhe fornecerás do teu rebanho, da tua eira e do teu lagar; daquilo com que o Senhor, teu Deus, te houver abençoado, lhe darás.
+15 Lembrar-te-ás de que foste servo na terra do Egito e de que o Senhor, teu Deus, te remiu; pelo que, hoje, isso te ordeno.
+16 Se, porém, ele te disser: Não sairei de ti; porquanto te ama, a ti e a tua casa, por estar bem contigo,
+17 então, tomarás uma sovela e lhe furarás a orelha, na porta, e será para sempre teu servo; e também assim farás à tua serva.
+18 Não pareça aos teus olhos duro o despedi-lo forro; pois seis anos te serviu por metade do salário do jornaleiro; assim, o Senhor, teu Deus, te abençoará em tudo o que fizeres.
+19 Todo primogênito que nascer do teu gado ou de tuas ovelhas, o macho consagrarás ao Senhor, teu Deus; com o primogênito do teu gado não trabalharás, nem tosquiarás o primogênito das tuas ovelhas.
+20 Comê-lo-ás perante o Senhor, tu e a tua casa, de ano em ano, no lugar que o Senhor escolher.
+21 Porém, havendo nele algum defeito, se for coxo, ou cego, ou tiver outro defeito grave, não o sacrificarás ao Senhor, teu Deus.
+22 Na tua cidade, o comerás; o imundo e o limpo o comerão juntamente, como a carne do corço ou do veado.
+23 Somente o seu sangue não comerás; sobre a terra o derramarás como água.*
+1 Guarda o mês de abibe e celebra a Páscoa do Senhor, teu Deus; porque, no mês de abibe, o Senhor, teu Deus, te tirou do Egito, de noite.
+2 Então, sacrificarás como oferta de Páscoa ao Senhor, teu Deus, do rebanho e do gado, no lugar que o Senhor escolher para ali fazer habitar o seu nome.
+3 Nela, não comerás levedado; sete dias, nela, comerás pães asmos, pão de aflição (porquanto, apressadamente, saíste da terra do Egito), para que te lembres, todos os dias da tua vida, do dia em que saíste da terra do Egito.
+4 Fermento não se achará contigo por sete dias, em todo o teu território; também da carne que sacrificares à tarde, no primeiro dia, nada ficará até pela manhã.
+5 Não poderás sacrificar a Páscoa em nenhuma das tuas cidades que te dá o Senhor, teu Deus,
+6 senão no lugar que o Senhor, teu Deus, escolher para fazer habitar o seu nome, ali sacrificarás a Páscoa à tarde, ao pôr do sol, ao tempo em que saíste do Egito.
+7 Então, a cozerás e comerás no lugar que o Senhor, teu Deus, escolher; sairás pela manhã e voltarás às tuas tendas.
+8 Seis dias comerás pães asmos, e, no sétimo dia, é solenidade ao Senhor, teu Deus; nenhuma obra farás.
+9 Sete semanas contarás; quando a foice começar na seara, entrarás a contar as sete semanas.
+10 E celebrarás a Festa das Semanas ao Senhor, teu Deus, com ofertas voluntárias da tua mão, segundo o Senhor, teu Deus, te houver abençoado.
+11 Alegrar-te-ás perante o Senhor, teu Deus, tu, e o teu filho, e a tua filha, e o teu servo, e a tua serva, e o levita que está dentro da tua cidade, e o estrangeiro, e o órfão, e a viúva que estão no meio de ti, no lugar que o Senhor, teu Deus, escolher para ali fazer habitar o seu nome.
+12 Lembrar-te-ás de que foste servo no Egito, e guardarás estes estatutos, e os cumprirás.
+13 A Festa dos Tabernáculos, celebrá-la-ás por sete dias, quando houveres recolhido da tua eira e do teu lagar.
+14 Alegrar-te-ás, na tua festa, tu, e o teu filho, e a tua filha, e o teu servo, e a tua serva, e o levita, e o estrangeiro, e o órfão, e a viúva que estão dentro das tuas cidades.
+15 Sete dias celebrarás a festa ao Senhor, teu Deus, no lugar que o Senhor escolher, porque o Senhor, teu Deus, há de abençoar-te em toda a tua colheita e em toda obra das tuas mãos, pelo que de todo te alegrarás.
+16 Três vezes no ano, todo varão entre ti aparecerá perante o Senhor, teu Deus, no lugar que escolher, na Festa dos Pães Asmos, e na Festa das Semanas, e na Festa dos Tabernáculos; porém não aparecerá de mãos vazias perante o Senhor;
+17 cada um oferecerá na proporção em que possa dar, segundo a bênção que o Senhor, seu Deus, lhe houver concedido.
+18 Juízes e oficiais constituirás em todas as tuas cidades que o Senhor, teu Deus, te der entre as tuas tribos, para que julguem o povo com reto juízo.
+19 Não torcerás a justiça, não farás acepção de pessoas, nem tomarás suborno; porquanto o suborno cega os olhos dos sábios e subverte a causa dos justos.
+20 A justiça seguirás, somente a justiça, para que vivas e possuas em herança a terra que te dá o Senhor, teu Deus.
+21 Não estabelecerás poste-ídolo, plantando qualquer árvore junto ao altar do Senhor, teu Deus, que fizeres para ti.
+22 Nem levantarás coluna, a qual o Senhor, teu Deus, odeia.*
+1 Não sacrificarás ao Senhor, teu Deus, novilho ou ovelha em que haja imperfeição ou algum defeito grave; pois é abominação ao Senhor, teu Deus.
+2 Quando no meio de ti, em alguma das tuas cidades que te dá o Senhor, teu Deus, se achar algum homem ou mulher que proceda mal aos olhos do Senhor, teu Deus, transgredindo a sua aliança,
+3 que vá, e sirva a outros deuses, e os adore, ou ao sol, ou à lua, ou a todo o exército do céu, o que eu não ordenei;
+4 e te seja denunciado, e o ouvires; então, indagarás bem; e eis que, sendo verdade e certo que se fez tal abominação em Israel,
+5 então, levarás o homem ou a mulher que fez este malefício às tuas portas e os apedrejarás, até que morram.
+6 Por depoimento de duas ou três testemunhas, será morto o que houver de morrer; por depoimento de uma só testemunha, não morrerá.
+7 A mão das testemunhas será a primeira contra ele, para matá-lo; e, depois, a mão de todo o povo; assim, eliminarás o mal do meio de ti.
+8 Quando alguma coisa te for difícil demais em juízo, entre caso e caso de homicídio, e de demanda e demanda, e de violência e violência, e outras questões de litígio, então, te levantarás e subirás ao lugar que o Senhor, teu Deus, escolher.
+9 Virás aos levitas sacerdotes e ao juiz que houver naqueles dias; inquirirás, e te anunciarão a sentença do juízo.
+10 E farás segundo o mandado da palavra que te anunciarem do lugar que o Senhor escolher; e terás cuidado de fazer consoante tudo o que te ensinarem.
+11 Segundo o mandado da lei que te ensinarem e de acordo com o juízo que te disserem, farás; da sentença que te anunciarem não te desviarás, nem para a direita nem para a esquerda.
+12 O homem, pois, que se houver soberbamente, não dando ouvidos ao sacerdote, que está ali para servir ao Senhor, teu Deus, nem ao juiz, esse morrerá; e eliminarás o mal de Israel,
+13 para que todo o povo o ouça, tema e jamais se ensoberbeça.
+14 Quando entrares na terra que te dá o Senhor, teu Deus, e a possuíres, e nela habitares, e disseres: Estabelecerei sobre mim um rei, como todas as nações que se acham em redor de mim,
+15 estabelecerás, com efeito, sobre ti como rei aquele que o Senhor, teu Deus, escolher; homem estranho, que não seja dentre os teus irmãos, não estabelecerás sobre ti, e sim um dentre eles.
+16 Porém este não multiplicará para si cavalos, nem fará voltar o povo ao Egito, para multiplicar cavalos; pois o Senhor vos disse: Nunca mais voltareis por este caminho.
+17 Tampouco para si multiplicará mulheres, para que o seu coração se não desvie; nem multiplicará muito para si prata ou ouro.
+18 Também, quando se assentar no trono do seu reino, escreverá para si um traslado desta lei num livro, do que está diante dos levitas sacerdotes.
+19 E o terá consigo e nele lerá todos os dias da sua vida, para que aprenda a temer o Senhor, seu Deus, a fim de guardar todas as palavras desta lei e estes estatutos, para os cumprir.
+20 Isto fará para que o seu coração não se eleve sobre os seus irmãos e não se aparte do mandamento, nem para a direita nem para a esquerda; de sorte que prolongue os dias no seu reino, ele e seus filhos no meio de Israel.*
+1 Os sacerdotes levitas e toda a tribo de Levi não terão parte nem herança em Israel; das ofertas queimadas ao Senhor e daquilo que lhes é devido comerão.
+2 Pelo que não terão herança no meio de seus irmãos; o Senhor é a sua herança, como lhes tem dito.
+3 Será este, pois, o direito devido aos sacerdotes, da parte do povo, dos que oferecerem sacrifício, seja gado ou rebanho: que darão ao sacerdote a espádua, e as queixadas, e o bucho.
+4 Dar-lhe-ás as primícias do teu cereal, do teu vinho e do teu azeite e as primícias da tosquia das tuas ovelhas.
+5 Porque o Senhor, teu Deus, o escolheu de entre todas as tuas tribos para ministrar em o nome do Senhor, ele e seus filhos, todos os dias.
+6 Quando vier um levita de alguma das tuas cidades de todo o Israel, onde ele habita, e vier com todo o desejo da sua alma ao lugar que o Senhor escolheu,
+7 e ministrar em o nome do Senhor, seu Deus, como também todos os seus irmãos, os levitas, que assistem ali perante o Senhor,
+8 porção igual à deles terá para comer, além das vendas do seu patrimônio.
+9 Quando entrares na terra que o Senhor, teu Deus, te der, não aprenderás a fazer conforme as abominações daqueles povos.
+10 Não se achará entre ti quem faça passar pelo fogo o seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro;
+11 nem encantador, nem necromante, nem mágico, nem quem consulte os mortos;
+12 pois todo aquele que faz tal coisa é abominação ao Senhor; e por estas abominações o Senhor, teu Deus, os lança de diante de ti.
+13 Perfeito serás para com o Senhor, teu Deus.
+14 Porque estas nações que hás de possuir ouvem os prognosticadores e os adivinhadores; porém a ti o Senhor, teu Deus, não permitiu tal coisa.
+15 O Senhor, teu Deus, te suscitará um profeta do meio de ti, de teus irmãos, semelhante a mim; a ele ouvirás,
+16 segundo tudo o que pediste ao Senhor, teu Deus, em Horebe, quando reunido o povo: Não ouvirei mais a voz do Senhor, meu Deus, nem mais verei este grande fogo, para que não morra.
+17 Então, o Senhor me disse: Falaram bem aquilo que disseram.
+18 Suscitar-lhes-ei um profeta do meio de seus irmãos, semelhante a ti, em cuja boca porei as minhas palavras, e ele lhes falará tudo o que eu lhe ordenar.
+19 De todo aquele que não ouvir as minhas palavras, que ele falar em meu nome, disso lhe pedirei contas.
+20 Porém o profeta que presumir de falar alguma palavra em meu nome, que eu lhe não mandei falar, ou o que falar em nome de outros deuses, esse profeta será morto.
+21 Se disseres no teu coração: Como conhecerei a palavra que o Senhor não falou?
+22 Sabe que, quando esse profeta falar em nome do Senhor, e a palavra dele se não cumprir, nem suceder, como profetizou, esta é palavra que o Senhor não disse; com soberba, a falou o tal profeta; não tenhas temor dele.*
+1 Quando o Senhor, teu Deus, eliminar as nações cuja terra te dará o Senhor, teu Deus, e as desapossares e morares nas suas cidades e nas suas casas,
+2 três cidades separarás no meio da tua terra que te dará o Senhor, teu Deus, para a possuíres.
+3 Preparar-te-ás o caminho e os limites da tua terra que te fará possuir o Senhor, teu Deus, dividirás em três; e isto será para que nelas se acolha todo homicida.
+4 Este é o caso tocante ao homicida que nelas se acolher, para que viva: aquele que, sem o querer, ferir o seu próximo, a quem não aborrecia dantes.
+5 Assim, aquele que entrar com o seu próximo no bosque, para cortar lenha, e, manejando com impulso o machado para cortar a árvore, o ferro saltar do cabo e atingir o seu próximo, e este morrer, o tal se acolherá em uma destas cidades e viverá;
+6 para que o vingador do sangue não persiga o homicida, quando se lhe enfurecer o coração, e o alcance, por ser comprido o caminho, e lhe tire a vida, porque não é culpado de morte, pois não o aborrecia dantes.
+7 Portanto, te ordeno: três cidades separarás.
+8 Se o Senhor, teu Deus, dilatar os teus limites, como jurou a teus pais, e te der toda a terra que lhes prometeu,
+9 desde que guardes todos estes mandamentos que hoje te ordeno, para cumpri-los, amando o Senhor, teu Deus, e andando nos seus caminhos todos os dias, então, acrescentarás outras três cidades além destas três,
+10 para que o sangue inocente se não derrame no meio da tua terra que o Senhor, teu Deus, te dá por herança, pois haveria sangue sobre ti.
+11 Mas, havendo alguém que aborrece a seu próximo, e lhe arma ciladas, e se levanta contra ele, e o fere de golpe mortal, e se acolhe em uma dessas cidades,
+12 os anciãos da sua cidade enviarão a tirá-lo dali e a entregá-lo na mão do vingador do sangue, para que morra.
+13 Não o olharás com piedade; antes, exterminarás de Israel a culpa do sangue inocente, para que te vá bem.
+14 Não mudes os marcos do teu próximo, que os antigos fixaram na tua herança, na terra que o Senhor, teu Deus, te dá para a possuíres.
+15 Uma só testemunha não se levantará contra alguém por qualquer iniquidade ou por qualquer pecado, seja qual for que cometer; pelo depoimento de duas ou três testemunhas, se estabelecerá o fato.
+16 Quando se levantar testemunha falsa contra alguém, para o acusar de algum transvio,
+17 então, os dois homens que tiverem a demanda se apresentarão perante o Senhor, diante dos sacerdotes e dos juízes que houver naqueles dias.
+18 Os juízes indagarão bem; se a testemunha for falsa e tiver testemunhado falsamente contra seu irmão,
+19 far-lhe-eis como cuidou fazer a seu irmão; e, assim, exterminarás o mal do meio de ti;
+20 para que os que ficarem o ouçam, e temam, e nunca mais tornem a fazer semelhante mal no meio de ti.
+21 Não o olharás com piedade: vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.*
+1 Quando saíres à peleja contra os teus inimigos e vires cavalos, e carros, e povo maior em número do que tu, não os temerás; pois o Senhor, teu Deus, que te fez sair da terra do Egito, está contigo.
+2 Quando vos achegardes à peleja, o sacerdote se adiantará, e falará ao povo,
+3 e dir-lhe-á: Ouvi, ó Israel, hoje, vos achegais à peleja contra os vossos inimigos; que não desfaleça o vosso coração; não tenhais medo, não tremais, nem vos aterrorizeis diante deles,
+4 pois o Senhor, vosso Deus, é quem vai convosco a pelejar por vós contra os vossos inimigos, para vos salvar.
+5 Os oficiais falarão ao povo, dizendo: Qual o homem que edificou casa nova e ainda não a consagrou? Vá, torne-se para casa, para que não morra na peleja, e outrem a consagre.
+6 Qual o homem que plantou uma vinha e ainda não a desfrutou? Vá, torne-se para casa, para que não morra na peleja, e outrem a desfrute.
+7 Qual o homem que está desposado com alguma mulher e ainda não a recebeu? Vá, torne-se para casa, para que não morra na peleja, e outro homem a receba.
+8 E continuarão os oficiais a falar ao povo, dizendo: Qual o homem medroso e de coração tímido? Vá, torne-se para casa, para que o coração de seus irmãos se não derreta como o seu coração.
+9 Quando os oficiais tiverem falado ao povo, designarão os capitães dos exércitos para a dianteira do povo.
+10 Quando te aproximares de alguma cidade para pelejar contra ela, oferecer-lhe-ás a paz.
+11 Se a sua resposta é de paz, e te abrir as portas, todo o povo que nela se achar será sujeito a trabalhos forçados e te servirá.
+12 Porém, se ela não fizer paz contigo, mas te fizer guerra, então, a sitiarás.
+13 E o Senhor, teu Deus, a dará na tua mão; e todos os do sexo masculino que houver nela passarás a fio de espada;
+14 mas as mulheres, e as crianças, e os animais, e tudo o que houver na cidade, todo o seu despojo, tomarás para ti; e desfrutarás o despojo dos inimigos que o Senhor, teu Deus, te deu.
+15 Assim farás a todas as cidades que estiverem mui longe de ti, que não forem das cidades destes povos.
+16 Porém, das cidades destas nações que o Senhor, teu Deus, te dá em herança, não deixarás com vida tudo o que tem fôlego.
+17 Antes, como te ordenou o Senhor, teu Deus, destruí-las-ás totalmente: os heteus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus,
+18 para que não vos ensinem a fazer segundo todas as suas abominações, que fizeram a seus deuses, pois pecaríeis contra o Senhor, vosso Deus.
+19 Quando sitiares uma cidade por muito tempo, pelejando contra ela para a tomar, não destruirás o seu arvoredo, metendo nele o machado, porque dele comerás; pelo que não o cortarás, pois será a árvore do campo algum homem, para que fosse sitiada por ti?
+20 Mas as árvores cujos frutos souberes não se comem, destruí-las-ás, cortando-as; e, contra a cidade que guerrear contra ti, edificarás baluartes, até que seja derribada.*
+1 Quando na terra que te der o Senhor, teu Deus, para possuí-la se achar alguém morto, caído no campo, sem que se saiba quem o matou,
+2 sairão os teus anciãos e os teus juízes e medirão a distância até às cidades que estiverem em redor do morto.
+3 Os anciãos da cidade mais próxima do morto tomarão uma novilha da manada, que não tenha trabalhado, nem puxado com o jugo,
+4 e a trarão a um vale de águas correntes, que não foi lavrado, nem semeado; e ali, naquele vale, desnucarão a novilha.
+5 Chegar-se-ão os sacerdotes, filhos de Levi, porque o Senhor, teu Deus, os escolheu para o servirem, para abençoarem em nome do Senhor e, por sua palavra, decidirem toda demanda e todo caso de violência.
+6 Todos os anciãos desta cidade, mais próximos do morto, lavarão as mãos sobre a novilha desnucada no vale
+7 e dirão: As nossas mãos não derramaram este sangue, e os nossos olhos o não viram derramar-se.
+8 Sê propício ao teu povo de Israel, que tu, ó Senhor, resgataste, e não ponhas a culpa do sangue inocente no meio do teu povo de Israel. E a culpa daquele sangue lhe será perdoada.
+9 Assim, eliminarás a culpa do sangue inocente do meio de ti, pois farás o que é reto aos olhos do Senhor.
+10 Quando saíres à peleja contra os teus inimigos, e o Senhor, teu Deus, os entregar nas tuas mãos, e tu deles levares cativos,
+11 e vires entre eles uma mulher formosa, e te afeiçoares a ela, e a quiseres tomar por mulher,
+12 então, a levarás para casa, e ela rapará a cabeça, e cortará as unhas,
+13 e despirá o vestido do seu cativeiro, e ficará na tua casa, e chorará a seu pai e a sua mãe durante um mês. Depois disto, a tomarás; tu serás seu marido, e ela, tua mulher.
+14 E, se não te agradares dela, deixá-la-ás ir à sua própria vontade; porém, de nenhuma sorte, a venderás por dinheiro, nem a tratarás mal, pois a tens humilhado.
+15 Se um homem tiver duas mulheres, uma a quem ama e outra a quem aborrece, e uma e outra lhe derem filhos, e o primogênito for da aborrecida,
+16 no dia em que fizer herdar a seus filhos aquilo que possuir, não poderá dar a primogenitura ao filho da amada, preferindo-o ao filho da aborrecida, que é o primogênito.
+17 Mas ao filho da aborrecida reconhecerá por primogênito, dando-lhe dobrada porção de tudo quanto possuir, porquanto aquele é o primogênito do seu vigor; o direito da primogenitura é dele.
+18 Se alguém tiver um filho contumaz e rebelde, que não obedece à voz de seu pai e à de sua mãe e, ainda castigado, não lhes dá ouvidos,
+19 seu pai e sua mãe o pegarão, e o levarão aos anciãos da cidade, à sua porta,
+20 e lhes dirão: Este nosso filho é rebelde e contumaz, não dá ouvidos à nossa voz, é dissoluto e beberrão.
+21 Então, todos os homens da sua cidade o apedrejarão até que morra; assim, eliminarás o mal do meio de ti; todo o Israel ouvirá e temerá.
+22 Se alguém houver pecado, passível da pena de morte, e tiver sido morto, e o pendurares num madeiro,
+23 o seu cadáver não permanecerá no madeiro durante a noite, mas, certamente, o enterrarás no mesmo dia; porquanto o que for pendurado no madeiro é maldito de Deus; assim, não contaminarás a terra que o Senhor, teu Deus, te dá em herança.*
+1 Vendo extraviado o boi ou a ovelha de teu irmão, não te furtarás a eles; restituí-los-ás, sem falta, a teu irmão.
+2 Se teu irmão não for teu vizinho ou tu o não conheceres, recolhê-los-ás na tua casa, para que fiquem contigo até que teu irmão os busque, e tu lhos restituas.
+3 Assim também farás com o seu jumento e assim farás com as suas vestes; o mesmo farás com toda coisa que se perder de teu irmão, e tu achares; não te poderás furtar a ela.
+4 O jumento que é de teu irmão ou o seu boi não verás caído no caminho e a eles te furtarás; sem falta o ajudarás a levantá-lo.
+5 A mulher não usará roupa de homem, nem o homem, veste peculiar à mulher; porque qualquer que faz tais coisas é abominável ao Senhor, teu Deus.
+6 Se de caminho encontrares algum ninho de ave, nalguma árvore ou no chão, com passarinhos, ou ovos, e a mãe sobre os passarinhos ou sobre os ovos, não tomarás a mãe com os filhotes;
+7 deixarás ir, livremente, a mãe e os filhotes tomarás para ti, para que te vá bem, e prolongues os teus dias.
+8 Quando edificares uma casa nova, far-lhe-ás, no terraço, um parapeito, para que nela não ponhas culpa de sangue, se alguém de algum modo cair dela.
+9 Não semearás a tua vinha com duas espécies de semente, para que não degenere o fruto da semente que semeaste e a messe da vinha.
+10 Não lavrarás com junta de boi e jumento.
+11 Não te vestirás de estofos de lã e linho juntamente.
+12 Farás borlas nos quatro cantos do manto com que te cobrires.
+13 Se um homem casar com uma mulher, e, depois de coabitar com ela, a aborrecer,
+14 e lhe atribuir atos vergonhosos, e contra ela divulgar má fama, dizendo: Casei com esta mulher e me cheguei a ela, porém não a achei virgem,
+15 então, o pai da moça e sua mãe tomarão as provas da virgindade da moça e as levarão aos anciãos da cidade, à porta.
+16 O pai da moça dirá aos anciãos: Dei minha filha por mulher a este homem; porém ele a aborreceu;
+17 e eis que lhe atribuiu atos vergonhosos, dizendo: Não achei virgem a tua filha; todavia, eis aqui as provas da virgindade de minha filha. E estenderão a roupa dela diante dos anciãos da cidade,
+18 os quais tomarão o homem, e o açoitarão,
+19 e o condenarão a cem siclos de prata, e o darão ao pai da moça, porquanto divulgou má fama sobre uma virgem de Israel. Ela ficará sendo sua mulher, e ele não poderá mandá-la embora durante a sua vida.
+20 Porém, se isto for verdade, que se não achou na moça a virgindade,
+21 então, a levarão à porta da casa de seu pai, e os homens de sua cidade a apedrejarão até que morra, pois fez loucura em Israel, prostituindo-se na casa de seu pai; assim, eliminarás o mal do meio de ti.
+22 Se um homem for achado deitado com uma mulher que tem marido, então, ambos morrerão, o homem que se deitou com a mulher e a mulher; assim, eliminarás o mal de Israel.
+23 Se houver moça virgem, desposada, e um homem a achar na cidade e se deitar com ela,
+24 então, trareis ambos à porta daquela cidade e os apedrejareis até que morram; a moça, porque não gritou na cidade, e o homem, porque humilhou a mulher do seu próximo; assim, eliminarás o mal do meio de ti.
+25 Porém, se algum homem no campo achar moça desposada, e a forçar, e se deitar com ela, então, morrerá só o homem que se deitou com ela;
+26 à moça não farás nada; ela não tem culpa de morte, porque, como o homem que se levanta contra o seu próximo e lhe tira a vida, assim também é este caso.
+27 Pois a achou no campo; a moça desposada gritou, e não houve quem a livrasse.
+28 Se um homem achar moça virgem, que não está desposada, e a pegar, e se deitar com ela, e forem apanhados,
+29 então, o homem que se deitou com ela dará ao pai da moça cinquenta siclos de prata; e, uma vez que a humilhou, lhe será por mulher; não poderá mandá-la embora durante a sua vida.
+30 Nenhum homem tomará sua madrasta e não profanará o leito de seu pai.
+1 Aquele a quem forem trilhados os testículos ou cortado o membro viril não entrará na assembleia do Senhor.
+2 Nenhum bastardo entrará na assembleia do Senhor; nem ainda a sua décima geração entrará nela.
+3 Nenhum amonita ou moabita entrará na assembleia do Senhor; nem ainda a sua décima geração entrará na assembleia do Senhor, eternamente.
+4 Porquanto não foram ao vosso encontro com pão e água, no caminho, quando saíeis do Egito; e porque alugaram contra ti Balaão, filho de Beor, de Petor, da Mesopotâmia, para te amaldiçoar.
+5 Porém o Senhor, teu Deus, não quis ouvir a Balaão; antes, trocou em bênção a maldição, porquanto o Senhor, teu Deus, te amava.
+6 Não lhes procurarás nem paz nem bem em todos os teus dias, para sempre.
+7 Não aborrecerás o edomita, pois é teu irmão; nem aborrecerás o egípcio, pois estrangeiro foste na sua terra.
+8 Os filhos que lhes nascerem na terceira geração, cada um deles entrará na assembleia do Senhor.
+9 Quando sair o exército contra os teus inimigos, então, te guardarás de toda coisa má.
+10 Se houver entre vós alguém que, por motivo de polução noturna, não esteja limpo, sairá do acampamento; não permanecerá nele.
+11 Porém, em declinando a tarde, lavar-se-á em água; e, posto o sol, entrará para o meio do acampamento.
+12 Também haverá um lugar fora do acampamento, para onde irás.
+13 Dentre as tuas armas terás um porrete; e, quando te abaixares fora, cavarás com ele e, volvendo-te, cobrirás o que defecaste.
+14 Porquanto o Senhor, teu Deus, anda no meio do teu acampamento para te livrar e para entregar-te os teus inimigos; portanto, o teu acampamento será santo, para que ele não veja em ti coisa indecente e se aparte de ti.
+15 Não entregarás ao seu senhor o escravo que, tendo fugido dele, se acolher a ti.
+16 Contigo ficará, no meio de ti, no lugar que escolher, em alguma de tuas cidades onde lhe agradar; não o oprimirás.
+17 Das filhas de Israel não haverá quem se prostitua no serviço do templo, nem dos filhos de Israel haverá quem o faça.
+18 Não trarás salário de prostituição nem preço de sodomita à Casa do Senhor, teu Deus, por qualquer voto; porque uma e outra coisa são igualmente abomináveis ao Senhor, teu Deus.
+19 A teu irmão não emprestarás com juros, seja dinheiro, seja comida ou qualquer coisa que é costume se emprestar com juros.
+20 Ao estrangeiro emprestarás com juros, porém a teu irmão não emprestarás com juros, para que o Senhor, teu Deus, te abençoe em todos os teus empreendimentos na terra a qual passas a possuir.
+21 Quando fizeres algum voto ao Senhor, teu Deus, não tardarás em cumpri-lo; porque o Senhor, teu Deus, certamente, o requererá de ti, e em ti haverá pecado.
+22 Porém, abstendo-te de fazer o voto, não haverá pecado em ti.
+23 O que proferiram os teus lábios, isso guardarás e o farás, porque votaste livremente ao Senhor, teu Deus, o que falaste com a tua boca.
+24 Quando entrares na vinha do teu próximo, comerás uvas segundo o teu desejo, até te fartares, porém não as levarás no cesto.
+25 Quando entrares na seara do teu próximo, com as mãos arrancarás as espigas; porém na seara não meterás a foice.*
+1 Se um homem tomar uma mulher e se casar com ela, e se ela não for agradável aos seus olhos, por ter ele achado coisa indecente nela, e se ele lhe lavrar um termo de divórcio, e lho der na mão, e a despedir de casa;
+2 e se ela, saindo da sua casa, for e se casar com outro homem;
+3 e se este a aborrecer, e lhe lavrar termo de divórcio, e lho der na mão, e a despedir da sua casa ou se este último homem, que a tomou para si por mulher, vier a morrer,
+4 então, seu primeiro marido, que a despediu, não poderá tornar a desposá-la para que seja sua mulher, depois que foi contaminada, pois é abominação perante o Senhor; assim, não farás pecar a terra que o Senhor, teu Deus, te dá por herança.
+5 Homem recém-casado não sairá à guerra, nem se lhe imporá qualquer encargo; por um ano ficará livre em casa e promoverá felicidade à mulher que tomou.
+6 Não se tomarão em penhor as duas mós, nem apenas a de cima, pois se penhoraria, assim, a vida.
+7 Se se achar alguém que, tendo roubado um dentre os seus irmãos, dos filhos de Israel, o trata como escravo ou o vende, esse ladrão morrerá. Assim, eliminarás o mal do meio de ti.
+8 Guarda-te da praga da lepra e tem diligente cuidado de fazer segundo tudo o que te ensinarem os sacerdotes levitas; como lhes tenho ordenado, terás cuidado de o fazer.
+9 Lembra-te do que o Senhor, teu Deus, fez a Miriã no caminho, quando saíste do Egito.
+10 Se emprestares alguma coisa ao teu próximo, não entrarás em sua casa para lhe tirar o penhor.
+11 Ficarás do lado de fora, e o homem, a quem emprestaste, aí te trará o penhor.
+12 Porém, se for homem pobre, não usarás de noite o seu penhor;
+13 em se pondo o sol, restituir-lhe-ás, sem falta, o penhor para que durma no seu manto e te abençoe; isto te será justiça diante do Senhor, teu Deus.
+14 Não oprimirás o jornaleiro pobre e necessitado, seja ele teu irmão ou estrangeiro que está na tua terra e na tua cidade.
+15 No seu dia, lhe darás o seu salário, antes do pôr do sol, porquanto é pobre, e disso depende a sua vida; para que não clame contra ti ao Senhor, e haja em ti pecado.
+16 Os pais não serão mortos em lugar dos filhos, nem os filhos, em lugar dos pais; cada qual será morto pelo seu pecado.
+17 Não perverterás o direito do estrangeiro e do órfão; nem tomarás em penhor a roupa da viúva.
+18 Lembrar-te-ás de que foste escravo no Egito e de que o Senhor te livrou dali; pelo que te ordeno que faças isso.
+19 Quando, no teu campo, segares a messe e, nele, esqueceres um feixe de espigas, não voltarás a tomá-lo; para o estrangeiro, para o órfão e para a viúva será; para que o Senhor, teu Deus, te abençoe em toda obra das tuas mãos.
+20 Quando sacudires a tua oliveira, não voltarás a colher o fruto dos ramos; para o estrangeiro, para o órfão e para a viúva será.
+21 Quando vindimares a tua vinha, não tornarás a rebuscá-la; para o estrangeiro, para o órfão e para a viúva será o restante.
+22 Lembrar-te-ás de que foste escravo na terra do Egito; pelo que te ordeno que faças isso.*
+1 Em havendo contenda entre alguns, e vierem a juízo, os juízes os julgarão, justificando ao justo e condenando ao culpado.
+2 Se o culpado merecer açoites, o juiz o fará deitar-se e o fará açoitar, na sua presença, com o número de açoites segundo a sua culpa.
+3 Quarenta açoites lhe fará dar, não mais; para que, porventura, se lhe fizer dar mais do que estes, teu irmão não fique aviltado aos teus olhos.
+4 Não atarás a boca ao boi quando debulha.
+5 Se irmãos morarem juntos, e um deles morrer sem filhos, então, a mulher do que morreu não se casará com outro estranho, fora da família; seu cunhado a tomará, e a receberá por mulher, e exercerá para com ela a obrigação de cunhado.
+6 O primogênito que ela lhe der será sucessor do nome do seu irmão falecido, para que o nome deste não se apague em Israel.
+7 Porém, se o homem não quiser tomar sua cunhada, subirá esta à porta, aos anciãos, e dirá: Meu cunhado recusa suscitar a seu irmão nome em Israel; não quer exercer para comigo a obrigação de cunhado.
+8 Então, os anciãos da sua cidade devem chamá-lo e falar-lhe; e, se ele persistir e disser: Não quero tomá-la,
+9 então, sua cunhada se chegará a ele na presença dos anciãos, e lhe descalçará a sandália do pé, e lhe cuspirá no rosto, e protestará, e dirá: Assim se fará ao homem que não quer edificar a casa de seu irmão;
+10 e o nome de sua casa se chamará em Israel: A casa do descalçado.
+11 Quando brigarem dois homens, um contra o outro, e a mulher de um chegar para livrar o marido da mão do que o fere, e ela estender a mão, e o pegar pelas suas vergonhas,
+12 cortar-lhe-ás a mão; não a olharás com piedade.
+13 Na tua bolsa, não terás pesos diversos, um grande e um pequeno.
+14 Na tua casa, não terás duas sortes de efa, um grande e um pequeno.
+15 Terás peso integral e justo, efa integral e justo; para que se prolonguem os teus dias na terra que te dá o Senhor, teu Deus.
+16 Porque é abominação ao Senhor, teu Deus, todo aquele que pratica tal injustiça.
+17 Lembra-te do que te fez Amaleque no caminho, quando saías do Egito;
+18 como te veio ao encontro no caminho e te atacou na retaguarda todos os desfalecidos que iam após ti, quando estavas abatido e afadigado; e não temeu a Deus.
+19 Quando, pois, o Senhor, teu Deus, te houver dado sossego de todos os teus inimigos em redor, na terra que o Senhor, teu Deus, te dá por herança, para a possuíres, apagarás a memória de Amaleque de debaixo do céu; não te esqueças.*
+1 Ao entrares na terra que o Senhor, teu Deus, te dá por herança, ao possuí-la e nela habitares,
+2 tomarás das primícias de todos os frutos do solo que recolheres da terra que te dá o Senhor, teu Deus, e as porás num cesto, e irás ao lugar que o Senhor, teu Deus, escolher para ali fazer habitar o seu nome.
+3 Virás ao que, naqueles dias, for sacerdote e lhe dirás: Hoje, declaro ao Senhor, teu Deus, que entrei na terra que o Senhor, sob juramento, prometeu dar a nossos pais.
+4 O sacerdote tomará o cesto da tua mão e o porá diante do altar do Senhor, teu Deus.
+5 Então, testificarás perante o Senhor, teu Deus, e dirás: Arameu prestes a perecer foi meu pai, e desceu para o Egito, e ali viveu como estrangeiro com pouca gente; e ali veio a ser nação grande, forte e numerosa.
+6 Mas os egípcios nos maltrataram, e afligiram, e nos impuseram dura servidão.
+7 Clamamos ao Senhor, Deus de nossos pais; e o Senhor ouviu a nossa voz e atentou para a nossa angústia, para o nosso trabalho e para a nossa opressão;
+8 e o Senhor nos tirou do Egito com poderosa mão, e com braço estendido, e com grande espanto, e com sinais, e com milagres;
+9 e nos trouxe a este lugar e nos deu esta terra, terra que mana leite e mel.
+10 Eis que, agora, trago as primícias dos frutos da terra que tu, ó Senhor, me deste. Então, as porás perante o Senhor, teu Deus, e te prostrarás perante ele.
+11 Alegrar-te-ás por todo o bem que o Senhor, teu Deus, te tem dado a ti e a tua casa, tu, e o levita, e o estrangeiro que está no meio de ti.
+12 Quando acabares de separar todos os dízimos da tua messe no ano terceiro, que é o dos dízimos, então, os darás ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas cidades e se fartem.
+13 Dirás perante o Senhor, teu Deus: Tirei de minha casa o que é consagrado e dei também ao levita, e ao estrangeiro, e ao órfão, e à viúva, segundo todos os teus mandamentos que me tens ordenado; nada transgredi dos teus mandamentos, nem deles me esqueci.
+14 Dos dízimos não comi no meu luto e deles nada tirei estando imundo, nem deles dei para a casa de algum morto; obedeci à voz do Senhor, meu Deus; segundo tudo o que me ordenaste, tenho feito.
+15 Olha desde a tua santa habitação, desde o céu, e abençoa o teu povo, a Israel, e a terra que nos deste, como juraste a nossos pais, terra que mana leite e mel.
+16 Hoje, o Senhor, teu Deus, te manda cumprir estes estatutos e juízos; guarda-os, pois, e cumpre-os de todo o teu coração e de toda a tua alma.
+17 Hoje, fizeste o Senhor declarar que te será por Deus, e que andarás nos seus caminhos, e guardarás os seus estatutos, e os seus mandamentos, e os seus juízos, e darás ouvidos à sua voz.
+18 E o Senhor, hoje, te fez dizer que lhe serás por povo seu próprio, como te disse, e que guardarás todos os seus mandamentos.
+19 Para, assim, te exaltar em louvor, renome e glória sobre todas as nações que fez e para que sejas povo santo ao Senhor, teu Deus, como tem dito.*
+1 Moisés e os anciãos de Israel deram ordem ao povo, dizendo: Guarda todos estes mandamentos que, hoje, te ordeno.
+2 No dia em que passares o Jordão à terra que te der o Senhor, teu Deus, levantar-te-ás pedras grandes e as caiarás.
+3 Havendo-o passado, escreverás, nelas, todas as palavras desta lei, para entrares na terra que te dá o Senhor, teu Deus, terra que mana leite e mel, como te prometeu o Senhor, Deus de teus pais.
+4 Quando houveres passado o Jordão, levantarás estas pedras, que hoje te ordeno, no monte Ebal, e as caiarás.
+5 Ali, edificarás um altar ao Senhor, teu Deus, altar de pedras, sobre as quais não manejarás instrumento de ferro.
+6 De pedras toscas edificarás o altar do Senhor, teu Deus; e sobre ele lhe oferecerás holocaustos.
+7 Também sacrificarás ofertas pacíficas; ali, comerás e te alegrarás perante o Senhor, teu Deus.
+8 Nestas pedras, escreverás, mui distintamente, as palavras todas desta lei.
+9 Falou mais Moisés, juntamente com os sacerdotes levitas, a todo o Israel, dizendo: Guarda silêncio e ouve, ó Israel! Hoje, vieste a ser povo do Senhor, teu Deus.
+10 Portanto, obedecerás à voz do Senhor, teu Deus, e lhe cumprirás os mandamentos e os estatutos que hoje te ordeno.
+11 Moisés deu ordem, naquele dia, ao povo, dizendo:
+12 Quando houveres passado o Jordão, estarão sobre o monte Gerizim, para abençoarem o povo, estes: Simeão, Levi, Judá, Issacar, José e Benjamim.
+13 E estes, para amaldiçoar, estarão sobre o monte Ebal: Rúben, Gade, Aser, Zebulom, Dã e Naftali.
+14 Os levitas testificarão a todo o povo de Israel em alta voz e dirão:
+15 Maldito o homem que fizer imagem de escultura ou de fundição, abominável ao Senhor, obra de artífice, e a puser em lugar oculto. E todo o povo responderá: Amém!
+16 Maldito aquele que desprezar a seu pai ou a sua mãe. E todo o povo dirá: Amém!
+17 Maldito aquele que mudar os marcos do seu próximo. E todo o povo dirá: Amém!
+18 Maldito aquele que fizer o cego errar o caminho. E todo o povo dirá: Amém!
+19 Maldito aquele que perverter o direito do estrangeiro, do órfão e da viúva. E todo o povo dirá: Amém!
+20 Maldito aquele que se deitar com a madrasta, porquanto profanaria o leito de seu pai. E todo o povo dirá: Amém!
+21 Maldito aquele que se ajuntar com animal. E todo o povo dirá: Amém!
+22 Maldito aquele que se deitar com sua irmã, filha de seu pai ou filha de sua mãe. E todo o povo dirá: Amém!
+23 Maldito aquele que se deitar com sua sogra. E todo o povo dirá: Amém!
+24 Maldito aquele que ferir o seu próximo em oculto. E todo o povo dirá: Amém!
+25 Maldito aquele que aceitar suborno para matar pessoa inocente. E todo o povo dirá: Amém!
+26 Maldito aquele que não confirmar as palavras desta lei, não as cumprindo. E todo o povo dirá: Amém!*
+1 Se atentamente ouvires a voz do Senhor, teu Deus, tendo cuidado de guardar todos os seus mandamentos que hoje te ordeno, o Senhor, teu Deus, te exaltará sobre todas as nações da terra.
+2 Se ouvires a voz do Senhor, teu Deus, virão sobre ti e te alcançarão todas estas bênçãos:
+3 Bendito serás tu na cidade e bendito serás no campo.
+4 Bendito o fruto do teu ventre, e o fruto da tua terra, e o fruto dos teus animais, e as crias das tuas vacas e das tuas ovelhas.
+5 Bendito o teu cesto e a tua amassadeira.
+6 Bendito serás ao entrares e bendito, ao saíres.
+7 O Senhor fará que sejam derrotados na tua presença os inimigos que se levantarem contra ti; por um caminho, sairão contra ti, mas, por sete caminhos, fugirão da tua presença.
+8 O Senhor determinará que a bênção esteja nos teus celeiros e em tudo o que colocares a mão; e te abençoará na terra que te dá o Senhor, teu Deus.
+9 O Senhor te constituirá para si em povo santo, como te tem jurado, quando guardares os mandamentos do Senhor, teu Deus, e andares nos seus caminhos.
+10 E todos os povos da terra verão que és chamado pelo nome do Senhor e terão medo de ti.
+11 O Senhor te dará abundância de bens no fruto do teu ventre, no fruto dos teus animais e no fruto do teu solo, na terra que o Senhor, sob juramento a teus pais, prometeu dar-te.
+12 O Senhor te abrirá o seu bom tesouro, o céu, para dar chuva à tua terra no seu tempo e para abençoar toda obra das tuas mãos; emprestarás a muitas gentes, porém tu não tomarás emprestado.
+13 O Senhor te porá por cabeça e não por cauda; e só estarás em cima e não debaixo, se obedeceres aos mandamentos do Senhor, teu Deus, que hoje te ordeno, para os guardar e cumprir.
+14 Não te desviarás de todas as palavras que hoje te ordeno, nem para a direita nem para a esquerda, seguindo outros deuses, para os servires.
+15 Será, porém, que, se não deres ouvidos à voz do Senhor, teu Deus, não cuidando em cumprir todos os seus mandamentos e os seus estatutos que, hoje, te ordeno, então, virão todas estas maldições sobre ti e te alcançarão:
+16 Maldito serás tu na cidade e maldito serás no campo.
+17 Maldito o teu cesto e a tua amassadeira.
+18 Maldito o fruto do teu ventre, e o fruto da tua terra, e as crias das tuas vacas e das tuas ovelhas.
+19 Maldito serás ao entrares e maldito, ao saíres.
+20 O Senhor mandará sobre ti a maldição, a confusão e a ameaça em tudo quanto empreenderes, até que sejas destruído e repentinamente pereças, por causa da maldade das tuas obras, com que me abandonaste.
+21 O Senhor fará que a pestilência te pegue a ti, até que te consuma a terra a que passas para possuí-la.
+22 O Senhor te ferirá com a tísica, e a febre, e a inflamação, e com o calor ardente, e a secura, e com o crestamento, e a ferrugem; e isto te perseguirá até que pereças.
+23 Os teus céus sobre a tua cabeça serão de bronze; e a terra debaixo de ti será de ferro.
+24 Por chuva da tua terra, o Senhor te dará pó e cinza; dos céus, descerá sobre ti, até que sejas destruído.
+25 O Senhor te fará cair diante dos teus inimigos; por um caminho, sairás contra eles, e, por sete caminhos, fugirás diante deles, e serás motivo de horror para todos os reinos da terra.
+26 O teu cadáver servirá de pasto a todas as aves dos céus e aos animais da terra; e ninguém haverá que os espante.
+27 O Senhor te ferirá com as úlceras do Egito, com tumores, com sarna e com prurido de que não possas curar-te.
+28 O Senhor te ferirá com loucura, com cegueira e com perturbação do espírito.
+29 Apalparás ao meio-dia, como o cego apalpa nas trevas, e não prosperarás nos teus caminhos; porém somente serás oprimido e roubado todos os teus dias; e ninguém haverá que te salve.
+30 Desposar-te-ás com uma mulher, porém outro homem dormirá com ela; edificarás casa, porém não morarás nela; plantarás vinha, porém não a desfrutarás.
+31 O teu boi será morto aos teus olhos, porém dele não comerás; o teu jumento será roubado diante de ti e não voltará a ti; as tuas ovelhas serão dadas aos teus inimigos; e ninguém haverá que te salve.
+32 Teus filhos e tuas filhas serão dados a outro povo; os teus olhos o verão e desfalecerão de saudades todo o dia; porém a tua mão nada poderá fazer.
+33 O fruto da tua terra e todo o teu trabalho, comê-los-á um povo que nunca conheceste; e tu serás oprimido e quebrantado todos os dias;
+34 e te enlouquecerás pelo que vires com os teus olhos.
+35 O Senhor te ferirá com úlceras malignas nos joelhos e nas pernas, das quais não te possas curar, desde a planta do pé até ao alto da cabeça.
+36 O Senhor te levará e o teu rei que tiveres constituído sobre ti a uma gente que não conheceste, nem tu, nem teus pais; e ali servirás a outros deuses, feitos de madeira e de pedra.
+37 Virás a ser pasmo, provérbio e motejo entre todos os povos a que o Senhor te levará.
+38 Lançarás muita semente ao campo; porém colherás pouco, porque o gafanhoto a consumirá.
+39 Plantarás e cultivarás muitas vinhas, porém do seu vinho não beberás, nem colherás as uvas, porque o verme as devorará.
+40 Em todos os teus limites terás oliveiras; porém não te ungirás com azeite, porque as tuas azeitonas cairão.
+41 Gerarás filhos e filhas, porém não ficarão contigo, porque serão levados ao cativeiro.
+42 Todo o teu arvoredo e o fruto da tua terra o gafanhoto os consumirá.
+43 O estrangeiro que está no meio de ti se elevará mais e mais, e tu mais e mais descerás.
+44 Ele te emprestará a ti, porém tu não lhe emprestarás a ele; ele será por cabeça, e tu serás por cauda.
+45 Todas estas maldições virão sobre ti, e te perseguirão, e te alcançarão, até que sejas destruído, porquanto não ouviste a voz do Senhor, teu Deus, para guardares os mandamentos e os estatutos que te ordenou.
+46 Serão, no teu meio, por sinal e por maravilha, como também entre a tua descendência, para sempre.
+47 Porquanto não serviste ao Senhor, teu Deus, com alegria e bondade de coração, não obstante a abundância de tudo.
+48 Assim, com fome, com sede, com nudez e com falta de tudo, servirás aos inimigos que o Senhor enviará contra ti; sobre o teu pescoço porá um jugo de ferro, até que te haja destruído.
+49 O Senhor levantará contra ti uma nação de longe, da extremidade da terra virá, como o voo impetuoso da águia, nação cuja língua não entenderás;
+50 nação feroz de rosto, que não respeitará ao velho, nem se apiedará do moço.
+51 Ela comerá o fruto dos teus animais e o fruto da tua terra, até que sejas destruído; e não te deixará cereal, mosto, nem azeite, nem as crias das tuas vacas e das tuas ovelhas, até que te haja consumido.
+52 Sitiar-te-á em todas as tuas cidades, até que venham a cair, em toda a tua terra, os altos e fortes muros em que confiavas; e te sitiará em todas as tuas cidades, em toda a terra que o Senhor, teu Deus, te deu.
+53 Comerás o fruto do teu ventre, a carne de teus filhos e de tuas filhas, que te der o Senhor, teu Deus, na angústia e no aperto com que os teus inimigos te apertarão.
+54 O mais mimoso dos homens e o mais delicado do teu meio será mesquinho para com seu irmão, e para com a mulher do seu amor, e para com os demais de seus filhos que ainda lhe restarem;
+55 de sorte que não dará a nenhum deles da carne de seus filhos, que ele comer; porquanto nada lhe ficou de resto na angústia e no aperto com que o teu inimigo te apertará em todas as tuas cidades.
+56 A mais mimosa das mulheres e a mais delicada do teu meio, que de mimo e delicadeza não tentaria pôr a planta do pé sobre a terra, será mesquinha para com o marido de seu amor, e para com seu filho, e para com sua filha;
+57 mesquinha da placenta que lhe saiu dentre os pés e dos filhos que tiver, porque os comerá às escondidas pela falta de tudo, na angústia e no aperto com que o teu inimigo te apertará nas tuas cidades.
+58 Se não tiveres cuidado de guardar todas as palavras desta lei, escritas neste livro, para temeres este nome glorioso e terrível, o Senhor, teu Deus,
+59 então, o Senhor fará terríveis as tuas pragas e as pragas de tua descendência, grandes e duradouras pragas, e enfermidades graves e duradouras;
+60 fará voltar contra ti todas as moléstias do Egito, que temeste; e se apegarão a ti.
+61 Também o Senhor fará vir sobre ti toda enfermidade e toda praga que não estão escritas no livro desta Lei, até que sejas destruído.
+62 Ficareis poucos em número, vós que éreis como as estrelas dos céus em multidão, porque não destes ouvidos à voz do Senhor, vosso Deus.
+63 Assim como o Senhor se alegrava em vós outros, em fazer-vos bem e multiplicar-vos, da mesma sorte o Senhor se alegrará em vos fazer perecer e vos destruir; sereis desarraigados da terra à qual passais para possuí-la.
+64 O Senhor vos espalhará entre todos os povos, de uma até à outra extremidade da terra. Servirás ali a outros deuses que não conheceste, nem tu, nem teus pais; servirás à madeira e à pedra.
+65 Nem ainda entre estas nações descansarás, nem a planta de teu pé terá repouso, porquanto o Senhor ali te dará coração tremente, olhos mortiços e desmaio de alma.
+66 A tua vida estará suspensa como por um fio diante de ti; terás pavor de noite e de dia e não crerás na tua vida.
+67 Pela manhã dirás: Ah! Quem me dera ver a noite! E, à noitinha, dirás: Ah! Quem me dera ver a manhã! Isso pelo pavor que sentirás no coração e pelo espetáculo que terás diante dos olhos.
+68 O Senhor te fará voltar ao Egito em navios, pelo caminho de que te disse: Nunca jamais o verás; sereis ali oferecidos para venda como escravos e escravas aos vossos inimigos, mas não haverá quem vos compre.*
+1 São estas as palavras da aliança que o Senhor ordenou a Moisés fizesse com os filhos de Israel na terra de Moabe, além da aliança que fizera com eles em Horebe.
+2 Chamou Moisés a todo o Israel e disse-lhe: Tendes visto tudo quanto o Senhor fez na terra do Egito, perante vós, a Faraó, e a todos os seus servos, e a toda a sua terra;
+3 as grandes provas que os vossos olhos viram, os sinais e grandes maravilhas;
+4 porém o Senhor não vos deu coração para entender, nem olhos para ver, nem ouvidos para ouvir, até ao dia de hoje.
+5 Quarenta anos vos conduzi pelo deserto; não envelheceram sobre vós as vossas vestes, nem se gastou no vosso pé a sandália.
+6 Pão não comestes e não bebestes vinho nem bebida forte, para que soubésseis que eu sou o Senhor, vosso Deus.
+7 Quando viestes a este lugar, Seom, rei de Hesbom, e Ogue, rei de Basã, nos saíram ao encontro, à peleja, e nós os ferimos;
+8 tomamos-lhes a terra e a demos por herança aos rubenitas, e aos gaditas, e à meia tribo dos manassitas.
+9 Guardai, pois, as palavras desta aliança e cumpri-as, para que prospereis em tudo quanto fizerdes.
+10 Vós estais, hoje, todos perante o Senhor, vosso Deus: os cabeças de vossas tribos, vossos anciãos e os vossos oficiais, todos os homens de Israel,
+11 os vossos meninos, as vossas mulheres e o estrangeiro que está no meio do vosso arraial, desde o vosso rachador de lenha até ao vosso tirador de água,
+12 para que entres na aliança do Senhor, teu Deus, e no juramento que, hoje, o Senhor, teu Deus, faz contigo;
+13 para que, hoje, te estabeleça por seu povo, e ele te seja por Deus, como te tem prometido, como jurou a teus pais, Abraão, Isaque e Jacó.
+14 Não é somente convosco que faço esta aliança e este juramento,
+15 porém com aquele que, hoje, aqui, está conosco perante o Senhor, nosso Deus, e também com aquele que não está aqui, hoje, conosco.
+16 Porque vós sabeis como habitamos na terra do Egito e como passamos pelo meio das nações pelas quais viestes a passar;
+17 vistes as suas abominações e os seus ídolos, feitos de madeira e de pedra, bem como vistes a prata e o ouro que havia entre elas;
+18 para que, entre vós, não haja homem, nem mulher, nem família, nem tribo cujo coração, hoje, se desvie do Senhor, nosso Deus, e vá servir aos deuses destas nações; para que não haja entre vós raiz que produza erva venenosa e amarga,
+19 ninguém que, ouvindo as palavras desta maldição, se abençoe no seu íntimo, dizendo: Terei paz, ainda que ande na perversidade do meu coração, para acrescentar à sede a bebedice.
+20 O Senhor não lhe quererá perdoar; antes, fumegará a ira do Senhor e o seu zelo sobre tal homem, e toda maldição escrita neste livro jazerá sobre ele; e o Senhor lhe apagará o nome de debaixo do céu.
+21 O Senhor o separará de todas as tribos de Israel para calamidade, segundo todas as maldições da aliança escrita neste Livro da Lei.
+22 Então, dirá a geração vindoura, os vossos filhos, que se levantarem depois de vós, e o estrangeiro que virá de terras longínquas, vendo as pragas desta terra e as suas doenças, com que o Senhor a terá afligido,
+23 e toda a sua terra abrasada com enxofre e sal, de sorte que não será semeada, e nada produzirá, nem crescerá nela erva alguma, assim como foi a destruição de Sodoma e de Gomorra, de Admá e de Zeboim, que o Senhor destruiu na sua ira e no seu furor,
+24 isto é, todas as nações dirão: Por que fez o Senhor assim com esta terra? Qual foi a causa do furor de tamanha ira?
+25 Então, se dirá: Porque desprezaram a aliança que o Senhor, Deus de seus pais, fez com eles, quando os tirou do Egito;
+26 e se foram, e serviram a outros deuses, e os adoraram; deuses que não conheceram e que ele não lhes havia designado.
+27 Pelo que a ira do Senhor se acendeu contra esta terra, trazendo sobre ela toda a maldição que está escrita neste livro.
+28 O Senhor os arrancou, com ira, de sua terra, mas também com indignação e grande furor, e os lançou para outra terra, como hoje se vê.
+29 As coisas encobertas pertencem ao Senhor, nosso Deus, porém as reveladas nos pertencem, a nós e a nossos filhos, para sempre, para que cumpramos todas as palavras desta lei.*
+1 Quando, pois, todas estas coisas vierem sobre ti, a bênção e a maldição que pus diante de ti, se te recordares delas entre todas as nações para onde te lançar o Senhor, teu Deus;
+2 e tornares ao Senhor, teu Deus, tu e teus filhos, de todo o teu coração e de toda a tua alma, e deres ouvidos à sua voz, segundo tudo o que hoje te ordeno,
+3 então, o Senhor, teu Deus, mudará a tua sorte, e se compadecerá de ti, e te ajuntará, de novo, de todos os povos entre os quais te havia espalhado o Senhor, teu Deus.
+4 Ainda que os teus desterrados estejam para a extremidade dos céus, desde aí te ajuntará o Senhor, teu Deus, e te tomará de lá.
+5 O Senhor, teu Deus, te introduzirá na terra que teus pais possuíram, e a possuirás; e te fará bem e te multiplicará mais do que a teus pais.
+6 O Senhor, teu Deus, circuncidará o teu coração e o coração de tua descendência, para amares o Senhor, teu Deus, de todo o coração e de toda a tua alma, para que vivas.
+7 O Senhor, teu Deus, porá todas estas maldições sobre os teus inimigos e sobre os teus aborrecedores, que te perseguiram.
+8 De novo, pois, darás ouvidos à voz do Senhor; cumprirás todos os seus mandamentos que hoje te ordeno.
+9 O Senhor, teu Deus, te dará abundância em toda obra das tuas mãos, no fruto do teu ventre, no fruto dos teus animais e no fruto da tua terra e te beneficiará; porquanto o Senhor tornará a exultar em ti, para te fazer bem, como exultou em teus pais;
+10 se deres ouvidos à voz do Senhor, teu Deus, guardando os seus mandamentos e os seus estatutos, escritos neste Livro da Lei, se te converteres ao Senhor, teu Deus, de todo o teu coração e de toda a tua alma.
+11 Porque este mandamento que, hoje, te ordeno não é demasiado difícil, nem está longe de ti.
+12 Não está nos céus, para dizeres: Quem subirá por nós aos céus, que no-lo traga e no-lo faça ouvir, para que o cumpramos?
+13 Nem está além do mar, para dizeres: Quem passará por nós além do mar que no-lo traga e no-lo faça ouvir, para que o cumpramos?
+14 Pois esta palavra está mui perto de ti, na tua boca e no teu coração, para a cumprires.
+15 Vê que proponho, hoje, a vida e o bem, a morte e o mal;
+16 se guardares o mandamento que hoje te ordeno, que ames o Senhor, teu Deus, andes nos seus caminhos, e guardes os seus mandamentos, e os seus estatutos, e os seus juízos, então, viverás e te multiplicarás, e o Senhor, teu Deus, te abençoará na terra à qual passas para possuí-la.
+17 Porém, se o teu coração se desviar, e não quiseres dar ouvidos, e fores seduzido, e te inclinares a outros deuses, e os servires,
+18 então, hoje, te declaro que, certamente, perecerás; não permanecerás longo tempo na terra à qual vais, passando o Jordão, para a possuíres.
+19 Os céus e a terra tomo, hoje, por testemunhas contra ti, que te propus a vida e a morte, a bênção e a maldição; escolhe, pois, a vida, para que vivas, tu e a tua descendência,
+20 amando o Senhor, teu Deus, dando ouvidos à sua voz e apegando-te a ele; pois disto depende a tua vida e a tua longevidade; para que habites na terra que o Senhor, sob juramento, prometeu dar a teus pais, Abraão, Isaque e Jacó.*
+1 Passou Moisés a falar estas palavras a todo o Israel
+2 e disse-lhes: Sou, hoje, da idade de cento e vinte anos. Já não posso sair e entrar, e o Senhor me disse: Não passarás o Jordão.
+3 O Senhor, teu Deus, passará adiante de ti; ele destruirá estas nações de diante de ti, e tu as possuirás; Josué passará adiante de ti, como o Senhor tem dito.
+4 O Senhor lhes fará como fez a Seom e a Ogue, reis dos amorreus, os quais destruiu, bem como a sua terra.
+5 Quando, pois, o Senhor vos entregar estes povos diante de vós, então, com eles fareis segundo todo o mandamento que vos tenho ordenado.
+6 Sede fortes e corajosos, não temais, nem vos atemorizeis diante deles, porque o Senhor, vosso Deus, é quem vai convosco; não vos deixará, nem vos desamparará.
+7 Chamou Moisés a Josué e lhe disse na presença de todo o Israel: Sê forte e corajoso; porque, com este povo, entrarás na terra que o Senhor, sob juramento, prometeu dar a teus pais; e tu os farás herdá-la.
+8 O Senhor é quem vai adiante de ti; ele será contigo, não te deixará, nem te desamparará; não temas, nem te atemorizes.
+9 Esta lei, escreveu-a Moisés e a deu aos sacerdotes, filhos de Levi, que levavam a arca da Aliança do Senhor, e a todos os anciãos de Israel.
+10 Ordenou-lhes Moisés, dizendo: Ao fim de cada sete anos, precisamente no ano da remissão, na Festa dos Tabernáculos,
+11 quando todo o Israel vier a comparecer perante o Senhor, teu Deus, no lugar que este escolher, lerás esta lei diante de todo o Israel.
+12 Ajuntai o povo, os homens, as mulheres, os meninos e o estrangeiro que está dentro da vossa cidade, para que ouçam, e aprendam, e temam o Senhor, vosso Deus, e cuidem de cumprir todas as palavras desta lei;
+13 para que seus filhos que não a souberem ouçam e aprendam a temer o Senhor, vosso Deus, todos os dias que viverdes sobre a terra à qual ides, passando o Jordão, para a possuir.
+14 Disse o Senhor a Moisés: Eis que os teus dias são chegados, para que morras; chama Josué, e apresentai-vos na tenda da congregação, para que eu lhe dê ordens. Assim, foram Moisés e Josué e se apresentaram na tenda da congregação.
+15 Então, o Senhor apareceu, ali, na coluna de nuvem, a qual se deteve sobre a porta da tenda.
+16 Disse o Senhor a Moisés: Eis que estás para dormir com teus pais; e este povo se levantará, e se prostituirá, indo após deuses estranhos na terra para cujo meio vai, e me deixará, e anulará a aliança que fiz com ele.
+17 Nesse dia, a minha ira se acenderá contra ele; desampará-lo-ei e dele esconderei o rosto, para que seja devorado; e tantos males e angústias o alcançarão, que dirá naquele dia: Não nos alcançaram estes males por não estar o nosso Deus no meio de nós?
+18 Esconderei, pois, certamente, o rosto naquele dia, por todo o mal que tiverem feito, por se haverem tornado a outros deuses.
+19 Escrevei para vós outros este cântico e ensinai-o aos filhos de Israel; ponde-o na sua boca, para que este cântico me seja por testemunha contra os filhos de Israel.
+20 Quando eu tiver introduzido o meu povo na terra que mana leite e mel, a qual, sob juramento, prometi a seus pais, e, tendo ele comido, e se fartado, e engordado, e houver tornado a outros deuses, e os houver servido, e me irritado, e anulado a minha aliança;
+21 e, quando o tiverem alcançado muitos males e angústias, então, este cântico responderá contra ele por testemunha, pois a sua descendência, sempre, o trará na boca; porquanto conheço os desígnios que, hoje, estão formulando, antes que o introduza na terra que, sob juramento, prometi.
+22 Assim, Moisés, naquele mesmo dia, escreveu este cântico e o ensinou aos filhos de Israel.
+23 Ordenou o Senhor a Josué, filho de Num, e disse: Sê forte e corajoso, porque tu introduzirás os filhos de Israel na terra que, sob juramento, lhes prometi; e eu serei contigo.
+24 Tendo Moisés acabado de escrever, integralmente, as palavras desta lei num livro,
+25 deu ordem aos levitas que levavam a arca da Aliança do Senhor, dizendo:
+26 Tomai este Livro da Lei e ponde-o ao lado da arca da Aliança do Senhor, vosso Deus, para que ali esteja por testemunha contra ti.
+27 Porque conheço a tua rebeldia e a tua dura cerviz. Pois, se, vivendo eu, ainda hoje, convosco, sois rebeldes contra o Senhor, quanto mais depois da minha morte?
+28 Ajuntai perante mim todos os anciãos das vossas tribos e vossos oficiais, para que eu fale aos seus ouvidos estas palavras e contra eles, por testemunhas, tomarei os céus e a terra.
+29 Porque sei que, depois da minha morte, por certo, procedereis corruptamente e vos desviareis do caminho que vos tenho ordenado; então, este mal vos alcançará nos últimos dias, porque fareis mal perante o Senhor, provocando-o à ira com as obras das vossas mãos.
+30 Então, Moisés pronunciou, integralmente, as palavras deste cântico aos ouvidos de toda a congregação de Israel:*
+1 Inclinai os ouvidos, ó céus, e falarei; e ouça a terra as palavras da minha boca.
+2 Goteje a minha doutrina como a chuva, destile a minha palavra como o orvalho, como chuvisco sobre a relva e como gotas de água sobre a erva.
+3 Porque proclamarei o nome do Senhor. Engrandecei o nosso Deus.
+4 Eis a Rocha! Suas obras são perfeitas, porque todos os seus caminhos são juízo; Deus é fidelidade, e não há nele injustiça; é justo e reto.
+5 Procederam corruptamente contra ele, já não são seus filhos, e sim suas manchas; é geração perversa e deformada.
+6 É assim que recompensas ao Senhor, povo louco e ignorante? Não é ele teu pai, que te adquiriu, te fez e te estabeleceu?
+7 Lembra-te dos dias da antiguidade, atenta para os anos de gerações e gerações; pergunta a teu pai, e ele te informará, aos teus anciãos, e eles to dirão.
+8 Quando o Altíssimo distribuía as heranças às nações, quando separava os filhos dos homens uns dos outros, fixou os limites dos povos, segundo o número dos filhos de Israel.
+9 Porque a porção do Senhor é o seu povo; Jacó é a parte da sua herança.
+10 Achou-o numa terra deserta e num ermo solitário povoado de uivos; rodeou-o e cuidou dele, guardou-o como a menina dos olhos.
+11 Como a águia desperta a sua ninhada e voeja sobre os seus filhotes, estende as asas e, tomando-os, os leva sobre elas,
+12 assim, só o Senhor o guiou, e não havia com ele deus estranho.
+13 Ele o fez cavalgar sobre os altos da terra, comer as messes do campo, chupar mel da rocha e azeite da dura pederneira,
+14 coalhada de vacas e leite de ovelhas, com a gordura dos cordeiros, dos carneiros que pastam em Basã e dos bodes, com o mais escolhido trigo; e bebeste o sangue das uvas, o mosto.
+15 Mas, engordando-se o meu amado, deu coices; engordou-se, engrossou-se, ficou nédio e abandonou a Deus, que o fez, desprezou a Rocha da sua salvação.
+16 Com deuses estranhos o provocaram a zelos, com abominações o irritaram.
+17 Sacrifícios ofereceram aos demônios, não a Deus; a deuses que não conheceram, novos deuses que vieram há pouco, dos quais não se estremeceram seus pais.
+18 Olvidaste a Rocha que te gerou; e te esqueceste do Deus que te deu o ser.
+19 Viu isto o Senhor e os desprezou, por causa da provocação de seus filhos e suas filhas;
+20 e disse: Esconderei deles o rosto, verei qual será o seu fim; porque são raça de perversidade, filhos em quem não há lealdade.
+21 A zelos me provocaram com aquilo que não é Deus; com seus ídolos me provocaram à ira; portanto, eu os provocarei a zelos com aquele que não é povo; com louca nação os despertarei à ira.
+22 Porque um fogo se acendeu no meu furor e arderá até ao mais profundo do inferno, consumirá a terra e suas messes e abrasará os fundamentos dos montes.
+23 Amontoarei males sobre eles; as minhas setas esgotarei contra eles.
+24 Consumidos serão pela fome, devorados pela febre e peste violenta; e contra eles enviarei dentes de feras e ardente peçonha de serpentes do pó.
+25 Fora devastará a espada, em casa, o pavor, tanto ao jovem como à virgem, tanto à criança de peito como ao homem encanecido.
+26 Eu teria dito: Por todos os cantos os espalharei e farei cessar a sua memória dentre os homens,
+27 se eu não tivesse receado a provocação do inimigo, para que os seus adversários não se iludam, para que não digam: A nossa mão tem prevalecido, e não foi o Senhor quem fez tudo isto.
+28 Porque o meu povo é gente falta de conselhos, e neles não há entendimento.
+29 Tomara fossem eles sábios! Então, entenderiam isto e atentariam para o seu fim.
+30 Como poderia um só perseguir mil, e dois fazerem fugir dez mil, se a sua Rocha lhos não vendera, e o Senhor lhos não entregara?
+31 Porque a rocha deles não é como a nossa Rocha; e os próprios inimigos o atestam.
+32 Porque a sua vinha é da vinha de Sodoma e dos campos de Gomorra; as suas uvas são uvas de veneno, seus cachos, amargos;
+33 o seu vinho é ardente veneno de répteis e peçonha terrível de víboras.
+34 Não está isto guardado comigo, selado nos meus tesouros?
+35 A mim me pertence a vingança, a retribuição, a seu tempo, quando resvalar o seu pé; porque o dia da sua calamidade está próximo, e o seu destino se apressa em chegar.
+36 Porque o Senhor fará justiça ao seu povo e se compadecerá dos seus servos, quando vir que o seu poder se foi, e já não há nem escravo nem livre.
+37 Então, dirá: Onde estão os seus deuses? E a rocha em quem confiavam?
+38 Deuses que comiam a gordura de seus sacrifícios e bebiam o vinho de suas libações? Levantem-se eles e vos ajudem, para que haja esconderijo para vós outros!
+39 Vede, agora, que Eu Sou, Eu somente, e mais nenhum deus além de mim; eu mato e eu faço viver; eu firo e eu saro; e não há quem possa livrar alguém da minha mão.
+40 Levanto a mão aos céus e afirmo por minha vida eterna:
+41 se eu afiar a minha espada reluzente, e a minha mão exercitar o juízo, tomarei vingança contra os meus adversários e retribuirei aos que me odeiam.
+42 Embriagarei as minhas setas de sangue (a minha espada comerá carne), do sangue dos mortos e dos prisioneiros, das cabeças cabeludas do inimigo.
+43 Louvai, ó nações, o seu povo, porque o Senhor vingará o sangue dos seus servos, tomará vingança dos seus adversários e fará expiação pela terra do seu povo.
+44 Veio Moisés e falou todas as palavras deste cântico aos ouvidos do povo, ele e Josué, filho de Num.
+45 Tendo Moisés falado todas estas palavras a todo o Israel,
+46 disse-lhes: Aplicai o coração a todas as palavras que, hoje, testifico entre vós, para que ordeneis a vossos filhos que cuidem de cumprir todas as palavras desta lei.
+47 Porque esta palavra não é para vós outros coisa vã; antes, é a vossa vida; e, por esta mesma palavra, prolongareis os dias na terra à qual, passando o Jordão, ides para a possuir.
+48 Naquele mesmo dia, falou o Senhor a Moisés, dizendo:
+49 Sobe a este monte de Abarim, ao monte Nebo, que está na terra de Moabe, defronte de Jericó, e vê a terra de Canaã, que aos filhos de Israel dou em possessão.
+50 E morrerás no monte, ao qual terás subido, e te recolherás ao teu povo, como Arão, teu irmão, morreu no monte Hor e se recolheu ao seu povo,
+51 porquanto prevaricastes contra mim no meio dos filhos de Israel, nas águas de Meribá de Cades, no deserto de Zim, pois me não santificastes no meio dos filhos de Israel.
+52 Pelo que verás a terra defronte de ti, porém não entrarás nela, na terra que dou aos filhos de Israel.*
+1 Esta é a bênção que Moisés, homem de Deus, deu aos filhos de Israel, antes da sua morte.
+2 Disse, pois: O Senhor veio do Sinai e lhes alvoreceu de Seir, resplandeceu desde o monte Parã; e veio das miríades de santos; à sua direita, havia para eles o fogo da lei.
+3 Na verdade, amas os povos; todos os teus santos estão na tua mão; eles se colocam a teus pés e aprendem das tuas palavras.
+4 Moisés nos prescreveu a lei por herança da congregação de Jacó.
+5 E o Senhor se tornou rei ao seu povo amado, quando se congregaram os cabeças do povo com as tribos de Israel.
+6 Viva Rúben e não morra; e não sejam poucos os seus homens!
+7 Isto é o que disse de Judá: Ouve, ó Senhor, a voz de Judá e introduze-o no seu povo; com as tuas mãos, peleja por ele e sê tu ajuda contra os seus inimigos.
+8 De Levi disse: Dá, ó Deus, o teu Tumim e o teu Urim para o homem, teu fidedigno, que tu provaste em Massá, com quem contendeste nas águas de Meribá;
+9 aquele que disse a seu pai e a sua mãe: Nunca os vi; e não conheceu a seus irmãos e não estimou a seus filhos, pois guardou a tua palavra e observou a tua aliança.
+10 Ensinou os teus juízos a Jacó e a tua lei, a Israel; ofereceu incenso às tuas narinas e holocausto, sobre o teu altar.
+11 Abençoa o seu poder, ó Senhor, e aceita a obra das suas mãos, fere os lombos dos que se levantam contra ele e o aborrecem, para que nunca mais se levantem.
+12 De Benjamim disse: O amado do Senhor habitará seguro com ele; todo o dia o Senhor o protegerá, e ele descansará nos seus braços.
+13 De José disse: Bendita do Senhor seja a sua terra, com o que é mais excelente dos céus, do orvalho e das profundezas,
+14 com o que é mais excelente daquilo que o sol amadurece e daquilo que os meses produzem,
+15 com o que é mais excelente dos montes antigos e mais excelente dos outeiros eternos,
+16 com o que é mais excelente da terra e da sua plenitude e da benevolência daquele que apareceu na sarça; que tudo isto venha sobre a cabeça de José, sobre a cabeça do príncipe entre seus irmãos.
+17 Ele tem a imponência do primogênito do seu touro, e as suas pontas são como as de um boi selvagem; com elas rechaçará todos os povos até às extremidades da terra. Tais, pois, as miríades de Efraim, e tais, os milhares de Manassés.
+18 De Zebulom disse: Alegra-te, Zebulom, nas tuas saídas marítimas, e tu, Issacar, nas tuas tendas.
+19 Os dois chamarão os povos ao monte; ali apresentarão ofertas legítimas, porque chuparão a abundância dos mares e os tesouros escondidos da areia.
+20 De Gade disse: Bendito aquele que faz dilatar Gade, o qual habita como a leoa e despedaça o braço e o alto da cabeça.
+21 E se proveu da melhor parte, porquanto ali estava escondida a porção do chefe; ele marchou adiante do povo, executou a justiça do Senhor e os seus juízos para com Israel.
+22 De Dã disse: Dã é leãozinho; saltará de Basã.
+23 De Naftali disse: Naftali goza de favores e, cheio da bênção do Senhor, possuirá o lago e o Sul.
+24 De Aser disse: Bendito seja Aser entre os filhos de Jacó, agrade a seus irmãos e banhe em azeite o pé.
+25 Sejam de ferro e de bronze os teus ferrolhos, e, como os teus dias, durará a tua paz.
+26 Não há outro, ó amado, semelhante a Deus, que cavalga sobre os céus para a tua ajuda e com a sua alteza sobre as nuvens.
+27 O Deus eterno é a tua habitação e, por baixo de ti, estende os braços eternos; ele expulsou o inimigo de diante de ti e disse: Destrói-o.
+28 Israel, pois, habitará seguro, a fonte de Jacó habitará a sós numa terra de cereal e de vinho; e os seus céus destilarão orvalho.
+29 Feliz és tu, ó Israel! Quem é como tu? Povo salvo pelo Senhor, escudo que te socorre, espada que te dá alteza. Assim, os teus inimigos te serão sujeitos, e tu pisarás os seus altos.*
+1 Então, subiu Moisés das campinas de Moabe ao monte Nebo, ao cimo de Pisga, que está defronte de Jericó; e o Senhor lhe mostrou toda a terra de Gileade até Dã;
+2 e todo o Naftali, e a terra de Efraim, e Manassés; e toda a terra de Judá até ao mar ocidental;
+3 e o Neguebe e a campina do vale de Jericó, a cidade das Palmeiras, até Zoar.
+4 Disse-lhe o Senhor: Esta é a terra que, sob juramento, prometi a Abraão, a Isaque e a Jacó, dizendo: à tua descendência a darei; eu te faço vê-la com os próprios olhos; porém não irás para lá.
+5 Assim, morreu ali Moisés, servo do Senhor, na terra de Moabe, segundo a palavra do Senhor.
+6 Este o sepultou num vale, na terra de Moabe, defronte de Bete-Peor; e ninguém sabe, até hoje, o lugar da sua sepultura.
+7 Tinha Moisés a idade de cento e vinte anos quando morreu; não se lhe escureceram os olhos, nem se lhe abateu o vigor.
+8 Os filhos de Israel prantearam Moisés por trinta dias, nas campinas de Moabe; então, se cumpriram os dias do pranto no luto por Moisés.
+9 Josué, filho de Num, estava cheio do espírito de sabedoria, porquanto Moisés impôs sobre ele as mãos; assim, os filhos de Israel lhe deram ouvidos e fizeram como o Senhor ordenara a Moisés.
+10 Nunca mais se levantou em Israel profeta algum como Moisés, com quem o Senhor houvesse tratado face a face,
+11 no tocante a todos os sinais e maravilhas que, por mando do Senhor, fez na terra do Egito, a Faraó, a todos os seus oficiais e a toda a sua terra;
+12 e no tocante a todas as obras de sua poderosa mão e aos grandes e terríveis feitos que operou Moisés à vista de todo o Israel.
 """
 # Example input text
 
 # Parse the verses
-parsed_verses = parse_verses(text,'Levítico','1')
+parsed_verses = parse_verses(text,'Deuteronômio','1')
 #print(parsed_verses)
 with open('textzin', 'w', encoding='utf-8') as f:
     f.write(parsed_verses)
