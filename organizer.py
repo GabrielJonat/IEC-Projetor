@@ -26,1304 +26,1411 @@ def parse_verses(text,book,chapter):
 
 
 text = """
-1 Visão de Isaías, filho de Amoz, que ele teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá.
-2 Ouvi, ó céus, e dá ouvidos, ó terra, porque o Senhor é quem fala: Criei filhos e os engrandeci, mas eles estão revoltados contra mim.
-3 O boi conhece o seu possuidor, e o jumento, o dono da sua manjedoura; mas Israel não tem conhecimento, o meu povo não entende.
-4 Ai desta nação pecaminosa, povo carregado de iniquidade, raça de malignos, filhos corruptores; abandonaram o Senhor, blasfemaram do Santo de Israel, voltaram para trás.
-5 Por que haveis de ainda ser feridos, visto que continuais em rebeldia? Toda a cabeça está doente, e todo o coração, enfermo.
-6 Desde a planta do pé até à cabeça não há nele coisa sã, senão feridas, contusões e chagas inflamadas, umas e outras não espremidas, nem atadas, nem amolecidas com óleo.
-7 A vossa terra está assolada, as vossas cidades, consumidas pelo fogo; a vossa lavoura os estranhos devoram em vossa presença; e a terra se acha devastada como numa subversão de estranhos.
-8 A filha de Sião é deixada como choça na vinha, como palhoça no pepinal, como cidade sitiada.
-9 Se o Senhor dos Exércitos não nos tivesse deixado alguns sobreviventes, já nos teríamos tornado como Sodoma e semelhantes a Gomorra.
-10 Ouvi a palavra do Senhor, vós, príncipes de Sodoma; prestai ouvidos à lei do nosso Deus, vós, povo de Gomorra.
-11 De que me serve a mim a multidão de vossos sacrifícios? — diz o Senhor. Estou farto dos holocaustos de carneiros e da gordura de animais cevados e não me agrado do sangue de novilhos, nem de cordeiros, nem de bodes.
-12 Quando vindes para comparecer perante mim, quem vos requereu o só pisardes os meus átrios?
-13 Não continueis a trazer ofertas vãs; o incenso é para mim abominação, e também as Festas da Lua Nova, os sábados, e a convocação das congregações; não posso suportar iniquidade associada ao ajuntamento solene.
-14 As vossas Festas da Lua Nova e as vossas solenidades, a minha alma as aborrece; já me são pesadas; estou cansado de as sofrer.
-15 Pelo que, quando estendeis as mãos, escondo de vós os olhos; sim, quando multiplicais as vossas orações, não as ouço, porque as vossas mãos estão cheias de sangue.
-16 Lavai-vos, purificai-vos, tirai a maldade de vossos atos de diante dos meus olhos; cessai de fazer o mal.
-17 Aprendei a fazer o bem; atendei à justiça, repreendei ao opressor; defendei o direito do órfão, pleiteai a causa das viúvas.
-18 Vinde, pois, e arrazoemos, diz o Senhor; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a lã.
-19 Se quiserdes e me ouvirdes, comereis o melhor desta terra.
-20 Mas, se recusardes e fordes rebeldes, sereis devorados à espada; porque a boca do Senhor o disse.
-21 Como se fez prostituta a cidade fiel! Ela, que estava cheia de justiça! Nela, habitava a retidão, mas, agora, homicidas.
-22 A tua prata se tornou em escórias, o teu licor se misturou com água.
-23 Os teus príncipes são rebeldes e companheiros de ladrões; cada um deles ama o suborno e corre atrás de recompensas. Não defendem o direito do órfão, e não chega perante eles a causa das viúvas.
-24 Portanto, diz o Senhor, o Senhor dos Exércitos, o Poderoso de Israel: Ah! Tomarei satisfações aos meus adversários e vingar-me-ei dos meus inimigos.
-25 Voltarei contra ti a minha mão, purificar-te-ei como com potassa das tuas escórias e tirarei de ti todo metal impuro.
-26 Restituir-te-ei os teus juízes, como eram antigamente, os teus conselheiros, como no princípio; depois, te chamarão cidade de justiça, cidade fiel.
-27 Sião será redimida pelo direito, e os que se arrependem, pela justiça.
-28 Mas os transgressores e os pecadores serão juntamente destruídos; e os que deixarem o Senhor perecerão.
-29 Porque vos envergonhareis dos carvalhos que cobiçastes e sereis confundidos por causa dos jardins que escolhestes.
-30 Porque sereis como o carvalho, cujas folhas murcham, e como a floresta que não tem água.
-31 O forte se tornará em estopa, e a sua obra, em faísca; ambos arderão juntamente, e não haverá quem os apague.*
-1 Palavra que, em visão, veio a Isaías, filho de Amoz, a respeito de Judá e Jerusalém.
-2 Nos últimos dias, acontecerá que o monte da Casa do Senhor será estabelecido no cimo dos montes e se elevará sobre os outeiros, e para ele afluirão todos os povos.
-3 Irão muitas nações e dirão: Vinde, e subamos ao monte do Senhor e à casa do Deus de Jacó, para que nos ensine os seus caminhos, e andemos pelas suas veredas; porque de Sião sairá a lei, e a palavra do Senhor, de Jerusalém.
-4 Ele julgará entre os povos e corrigirá muitas nações; estas converterão as suas espadas em relhas de arados e suas lanças, em podadeiras; uma nação não levantará a espada contra outra nação, nem aprenderão mais a guerra.
-5 Vinde, ó casa de Jacó, e andemos na luz do Senhor.
-6 Pois, tu, Senhor, desamparaste o teu povo, a casa de Jacó, porque os seus se encheram da corrupção do Oriente e são agoureiros como os filisteus e se associam com os filhos dos estranhos.
-7 A sua terra está cheia de prata e de ouro, e não têm conta os seus tesouros; também está cheia de cavalos, e os seus carros não têm fim.
-8 Também está cheia a sua terra de ídolos; adoram a obra das suas mãos, aquilo que os seus próprios dedos fizeram.
-9 Com isso, a gente se abate, e o homem se avilta; portanto, não lhes perdoarás.
-10 Vai, entra nas rochas e esconde-te no pó, ante o terror do Senhor e a glória da sua majestade.
-11 Os olhos altivos dos homens serão abatidos, e a sua altivez será humilhada; só o Senhor será exaltado naquele dia.
-12 Porque o Dia do Senhor dos Exércitos será contra todo soberbo e altivo e contra todo aquele que se exalta, para que seja abatido;
-13 contra todos os cedros do Líbano, altos, mui elevados; e contra todos os carvalhos de Basã;
-14 contra todos os montes altos e contra todos os outeiros elevados;
-15 contra toda torre alta e contra toda muralha firme;
-16 contra todos os navios de Társis e contra tudo o que é belo à vista.
-17 A arrogância do homem será abatida, e a sua altivez será humilhada; só o Senhor será exaltado naquele dia.
-18 Os ídolos serão de todo destruídos.
-19 Então, os homens se meterão nas cavernas das rochas e nos buracos da terra, ante o terror do Senhor e a glória da sua majestade, quando ele se levantar para espantar a terra.
-20 Naquele dia, os homens lançarão às toupeiras e aos morcegos os seus ídolos de prata e os seus ídolos de ouro, que fizeram para ante eles se prostrarem,
-21 e meter-se-ão pelas fendas das rochas e pelas cavernas das penhas, ante o terror do Senhor e a glória da sua majestade, quando ele se levantar para espantar a terra.
-22 Afastai-vos, pois, do homem cujo fôlego está no seu nariz. Pois em que é ele estimado?*
-1 Porque eis que o Senhor, o Senhor dos Exércitos, tira de Jerusalém e de Judá o sustento e o apoio, todo sustento de pão e todo sustento de água;
-2 o valente, o guerreiro e o juiz; o profeta, o adivinho e o ancião;
-3 o capitão de cinquenta, o respeitável, o conselheiro, o hábil entre os artífices e o encantador perito.
-4 Dar-lhes-ei meninos por príncipes, e crianças governarão sobre eles.
-5 Entre o povo, oprimem uns aos outros, cada um, ao seu próximo; o menino se atreverá contra o ancião, e o vil, contra o nobre.
-6 Quando alguém se chegar a seu irmão e lhe disser, na casa de seu pai: Tu tens roupa, sê nosso príncipe e toma sob teu governo esta ruína;
-7 naquele dia, levantará este a sua voz, dizendo: Não sou médico, não há pão em minha casa, nem veste alguma; não me ponhais por príncipe do povo.
-8 Porque Jerusalém está arruinada, e Judá, caída; porquanto a sua língua e as suas obras são contra o Senhor, para desafiarem a sua gloriosa presença.
-9 O aspecto do seu rosto testifica contra eles; e, como Sodoma, publicam o seu pecado e não o encobrem. Ai da sua alma! Porque fazem mal a si mesmos.
-10 Dizei aos justos que bem lhes irá; porque comerão do fruto das suas ações.
-11 Ai do perverso! Mal lhe irá; porque a sua paga será o que as suas próprias mãos fizeram.
-12 Os opressores do meu povo são crianças, e mulheres estão à testa do seu governo. Oh! Povo meu! Os que te guiam te enganam e destroem o caminho por onde deves seguir.
-13 O Senhor se dispõe para pleitear e se apresenta para julgar os povos.
-14 O Senhor entra em juízo contra os anciãos do seu povo e contra os seus príncipes. Vós sois os que consumistes esta vinha; o que roubastes do pobre está em vossa casa.
-15 Que há convosco que esmagais o meu povo e moeis a face dos pobres? — diz o Senhor, o Senhor dos Exércitos.
-16 Diz ainda mais o Senhor: Visto que são altivas as filhas de Sião e andam de pescoço emproado, de olhares impudentes, andam a passos curtos, fazendo tinir os ornamentos de seus pés,
-17 o Senhor fará tinhosa a cabeça das filhas de Sião, o Senhor porá a descoberto as suas vergonhas.
-18 Naquele dia, tirará o Senhor o enfeite dos anéis dos tornozelos, e as toucas, e os ornamentos em forma de meia-lua;
-19 os pendentes, e os braceletes, e os véus esvoaçantes;
-20 os turbantes, as cadeiazinhas para os passos, as cintas, as caixinhas de perfumes e os amuletos;
-21 os sinetes e as joias pendentes do nariz;
-22 os vestidos de festa, os mantos, os xales e as bolsas;
-23 os espelhos, as camisas finíssimas, os atavios de cabeça e os véus grandes.
-24 Será que em lugar de perfume haverá podridão, e por cinta, corda; em lugar de encrespadura de cabelos, calvície; e em lugar de veste suntuosa, cilício; e marca de fogo, em lugar de formosura.
-25 Os teus homens cairão à espada, e os teus valentes, na guerra.
-26 As suas portas chorarão e estarão de luto; Sião, desolada, se assentará em terra.*
-1 Sete mulheres, naquele dia, lançarão mão de um homem, dizendo: Nós mesmas do nosso próprio pão nos sustentaremos e do que é nosso nos vestiremos; tão somente queremos ser chamadas pelo teu nome; tira o nosso opróbrio.
-2 Naquele dia, o Renovo do Senhor será de beleza e de glória; e o fruto da terra, orgulho e adorno para os de Israel que forem salvos.
-3 Será que os restantes de Sião e os que ficarem em Jerusalém serão chamados santos; todos os que estão inscritos em Jerusalém, para a vida,
-4 quando o Senhor lavar a imundícia das filhas de Sião e limpar Jerusalém da culpa do sangue do meio dela, com o Espírito de justiça e com o Espírito purificador.
-5 Criará o Senhor, sobre todo o monte de Sião e sobre todas as suas assembleias, uma nuvem de dia e fumaça e resplendor de fogo chamejante de noite; porque sobre toda a glória se estenderá um dossel e um pavilhão,
-6 os quais serão para sombra contra o calor do dia e para refúgio e esconderijo contra a tempestade e a chuva.*
-1 Agora, cantarei ao meu amado o cântico do meu amado a respeito da sua vinha. O meu amado teve uma vinha num outeiro fertilíssimo.
-2 Sachou-a, limpou-a das pedras e a plantou de vides escolhidas; edificou no meio dela uma torre e também abriu um lagar. Ele esperava que desse uvas boas, mas deu uvas bravas.
-3 Agora, pois, ó moradores de Jerusalém e homens de Judá, julgai, vos peço, entre mim e a minha vinha.
-4 Que mais se podia fazer ainda à minha vinha, que eu lhe não tenha feito? E como, esperando eu que desse uvas boas, veio a produzir uvas bravas?
-5 Agora, pois, vos farei saber o que pretendo fazer à minha vinha: tirarei a sua sebe, para que a vinha sirva de pasto; derribarei o seu muro, para que seja pisada;
-6 torná-la-ei em deserto. Não será podada, nem sachada, mas crescerão nela espinheiros e abrolhos; às nuvens darei ordem que não derramem chuva sobre ela.
-7 Porque a vinha do Senhor dos Exércitos é a casa de Israel, e os homens de Judá são a planta dileta do Senhor; este desejou que exercessem juízo, e eis aí quebrantamento da lei; justiça, e eis aí clamor.
-8 Ai dos que ajuntam casa a casa, reúnem campo a campo, até que não haja mais lugar, e ficam como únicos moradores no meio da terra!
-9 A meus ouvidos disse o Senhor dos Exércitos: Em verdade, muitas casas ficarão desertas, até as grandes e belas, sem moradores.
-10 E dez jeiras de vinha não darão mais do que um bato, e um ômer cheio de semente não dará mais do que um efa.
-11 Ai dos que se levantam pela manhã e seguem a bebedice e continuam até alta noite, até que o vinho os esquenta!
-12 Liras e harpas, tamboris e flautas e vinho há nos seus banquetes; porém não consideram os feitos do Senhor, nem olham para as obras das suas mãos.
-13 Portanto, o meu povo será levado cativo, por falta de entendimento; os seus nobres terão fome, e a sua multidão se secará de sede.
-14 Por isso, a cova aumentou o seu apetite, abriu a sua boca desmesuradamente; para lá desce a glória de Jerusalém, e o seu tumulto, e o seu ruído, e quem nesse meio folgava.
-15 Então, a gente se abate, e o homem se avilta; e os olhos dos altivos são humilhados.
-16 Mas o Senhor dos Exércitos é exaltado em juízo; e Deus, o Santo, é santificado em justiça.
-17 Então, os cordeiros pastarão lá como se no seu pasto; e os nômades se nutrirão dos campos dos ricos lá abandonados.
-18 Ai dos que puxam para si a iniquidade com cordas de injustiça e o pecado, como com tirantes de carro!
-19 E dizem: Apresse-se Deus, leve a cabo a sua obra, para que a vejamos; aproxime-se, manifeste-se o conselho do Santo de Israel, para que o conheçamos.
-20 Ai dos que ao mal chamam bem e ao bem, mal; que fazem da escuridade luz e da luz, escuridade; põem o amargo por doce e o doce, por amargo!
-21 Ai dos que são sábios a seus próprios olhos e prudentes em seu próprio conceito!
-22 Ai dos que são heróis para beber vinho e valentes para misturar bebida forte,
-23 os quais por suborno justificam o perverso e ao justo negam justiça!
-24 Pelo que, como a língua de fogo consome o restolho, e a erva seca se desfaz pela chama, assim será a sua raiz como podridão, e a sua flor se esvaecerá como pó; porquanto rejeitaram a lei do Senhor dos Exércitos e desprezaram a palavra do Santo de Israel.
-25 Por isso, se acende a ira do Senhor contra o seu povo, povo contra o qual estende a mão e o fere, de modo que tremem os montes e os seus cadáveres são como monturo no meio das ruas. Com tudo isto não se aplaca a sua ira, mas ainda está estendida a sua mão.
-26 Ele arvorará o estandarte para as nações distantes e lhes assobiará para que venham das extremidades da terra; e vêm apressadamente.
-27 Não há entre elas cansado, nem quem tropece; ninguém tosqueneja, nem dorme; não se lhe desata o cinto dos seus lombos, nem se lhe rompe das sandálias a correia.
-28 As suas flechas são agudas, e todos os seus arcos, retesados; as unhas dos seus cavalos dizem-se de pederneira, e as rodas dos seus carros, um redemoinho.
-29 O seu rugido é como o do leão; rugem como filhos de leão, e, rosnando, arrebatam a presa, e a levam, e não há quem a livre.
-30 Bramam contra eles naquele dia, como o bramido do mar; se alguém olhar para a terra, eis que só há trevas e angústia, e a luz se escurece em densas nuvens.*
-1 No ano da morte do rei Uzias, eu vi o Senhor assentado sobre um alto e sublime trono, e as abas de suas vestes enchiam o templo.
-2 Serafins estavam por cima dele; cada um tinha seis asas: com duas cobria o rosto, com duas cobria os seus pés e com duas voava.
-3 E clamavam uns para os outros, dizendo: Santo, santo, santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória.
-4 As bases do limiar se moveram à voz do que clamava, e a casa se encheu de fumaça.
-5 Então, disse eu: ai de mim! Estou perdido! Porque sou homem de lábios impuros, habito no meio de um povo de impuros lábios, e os meus olhos viram o Rei, o Senhor dos Exércitos!
-6 Então, um dos serafins voou para mim, trazendo na mão uma brasa viva, que tirara do altar com uma tenaz;
-7 com a brasa tocou a minha boca e disse: Eis que ela tocou os teus lábios; a tua iniquidade foi tirada, e perdoado, o teu pecado.
-8 Depois disto, ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Disse eu: eis-me aqui, envia-me a mim.
-9 Então, disse ele: Vai e dize a este povo: Ouvi, ouvi e não entendais; vede, vede, mas não percebais.
-10 Torna insensível o coração deste povo, endurece-lhe os ouvidos e fecha-lhe os olhos, para que não venha ele a ver com os olhos, a ouvir com os ouvidos e a entender com o coração, e se converta, e seja salvo.
-11 Então, disse eu: até quando, Senhor? Ele respondeu: Até que sejam desoladas as cidades e fiquem sem habitantes, as casas fiquem sem moradores, e a terra seja de todo assolada,
-12 e o Senhor afaste dela os homens, e no meio da terra seja grande o desamparo.
-13 Mas, se ainda ficar a décima parte dela, tornará a ser destruída. Como terebinto e como carvalho, dos quais, depois de derribados, ainda fica o toco, assim a santa semente é o seu toco.*
-1 Sucedeu nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém, para pelejarem contra ela, porém não prevaleceram contra ela.
-2 Deu-se aviso à casa de Davi: A Síria está aliada com Efraim. Então, ficou agitado o coração de Acaz e o coração do seu povo, como se agitam as árvores do bosque com o vento.
-3 Disse o Senhor a Isaías: Agora, sai tu com teu filho, que se chama Um-Resto-Volverá, ao encontro de Acaz, que está na outra extremidade do aqueduto do açude superior, junto ao caminho do campo do lavadeiro,
-4 e dize-lhe: Acautela-te e aquieta-te; não temas, nem se desanime o teu coração por causa destes dois tocos de tições fumegantes; por causa do ardor da ira de Rezim, e da Síria, e do filho de Remalias.
-5 Porquanto a Síria resolveu fazer-te mal, bem como Efraim e o filho de Remalias, dizendo:
-6 Subamos contra Judá, e amedrontemo-lo, e o conquistemos para nós, e façamos reinar no meio dele o filho de Tabeal.
-7 Assim diz o Senhor Deus: Isto não subsistirá, nem tampouco acontecerá.
-8 Mas a capital da Síria será Damasco, e o cabeça de Damasco, Rezim, e dentro de sessenta e cinco anos Efraim será destruído e deixará de ser povo.
-9 Entretanto, a capital de Efraim será Samaria, e o cabeça de Samaria, o filho de Remalias; se o não crerdes, certamente, não permanecereis.
-10 E continuou o Senhor a falar com Acaz, dizendo:
-11 Pede ao Senhor, teu Deus, um sinal, quer seja embaixo, nas profundezas, ou em cima, nas alturas.
-12 Acaz, porém, disse: Não o pedirei, nem tentarei ao Senhor.
-13 Então, disse o profeta: Ouvi, agora, ó casa de Davi: acaso, não vos basta fatigardes os homens, mas ainda fatigais também ao meu Deus?
-14 Portanto, o Senhor mesmo vos dará um sinal: eis que a virgem conceberá e dará à luz um filho e lhe chamará Emanuel.
-15 Ele comerá manteiga e mel quando souber desprezar o mal e escolher o bem.
-16 Na verdade, antes que este menino saiba desprezar o mal e escolher o bem, será desamparada a terra ante cujos dois reis tu tremes de medo.
-17 Mas o Senhor fará vir sobre ti, sobre o teu povo e sobre a casa de teu pai, por intermédio do rei da Assíria, dias tais, quais nunca vieram, desde o dia em que Efraim se separou de Judá.
-18 Porque há de acontecer que, naquele dia, assobiará o Senhor às moscas que há no extremo dos rios do Egito e às abelhas que andam na terra da Assíria;
-19 elas virão e pousarão todas nos vales profundos, nas fendas das rochas, em todos os espinhos e em todos os pastios.
-20 Naquele dia, rapar-te-á o Senhor com uma navalha alugada doutro lado do rio, a saber, por meio do rei da Assíria, a cabeça e os cabelos das vergonhas e tirará também a barba.
-21 Naquele dia, sucederá que um homem manterá apenas uma vaca nova e duas ovelhas,
-22 e será tal a abundância de leite que elas lhe darão, que comerá manteiga; manteiga e mel comerá todo o restante no meio da terra.
-23 Também, naquele dia, todo lugar em que houver mil vides, do valor de mil siclos de prata, será para espinheiros e abrolhos.
-24 Com flechas e arco se entrará aí, porque os espinheiros e abrolhos cobrirão toda a terra.
-25 Quanto a todos os montes, que os homens costumam sachar, para ali não irás por temeres os espinhos e abrolhos; serão para pasto de bois e para serem pisados de ovelhas.*
-1 Disse-me também o Senhor: Toma uma ardósia grande e escreve nela de maneira inteligível: Rápido-Despojo-Presa-Segura.
-2 Tomei para isto comigo testemunhas fidedignas, a Urias, sacerdote, e a Zacarias, filho de Jeberequias.
-3 Fui ter com a profetisa; ela concebeu e deu à luz um filho. Então, me disse o Senhor: Põe-lhe o nome de Rápido-Despojo-Presa-Segura.
-4 Porque antes que o menino saiba dizer meu pai ou minha mãe, serão levadas as riquezas de Damasco e os despojos de Samaria, diante do rei da Assíria.
-5 Falou-me ainda o Senhor, dizendo:
-6 Em vista de este povo ter desprezado as águas de Siloé, que correm brandamente, e se estar derretendo de medo diante de Rezim e do filho de Remalias,
-7 eis que o Senhor fará vir sobre eles as águas do Eufrates, fortes e impetuosas, isto é, o rei da Assíria, com toda a sua glória; águas que encherão o leito dos rios e transbordarão por todas as suas ribanceiras.
-8 Penetrarão em Judá, inundando-o, e, passando por ele, chegarão até ao pescoço; as alas estendidas do seu exército cobrirão a largura da tua terra, ó Emanuel.
-9 Enfurecei-vos, ó povos, e sereis despedaçados; dai ouvidos, todos os que sois de países longínquos; cingi-vos e sereis despedaçados, cingi-vos e sereis despedaçados.
-10 Forjai projetos, e eles serão frustrados; dai ordens, e elas não serão cumpridas, porque Deus é conosco.
-11 Porque assim o Senhor me disse, tendo forte a mão sobre mim, e me advertiu que não andasse pelo caminho deste povo, dizendo:
-12 Não chameis conjuração a tudo quanto este povo chama conjuração; não temais o que ele teme, nem tomeis isso por temível.
-13 Ao Senhor dos Exércitos, a ele santificai; seja ele o vosso temor, seja ele o vosso espanto.
-14 Ele vos será santuário; mas será pedra de tropeço e rocha de ofensa às duas casas de Israel, laço e armadilha aos moradores de Jerusalém.
-15 Muitos dentre eles tropeçarão e cairão, serão quebrantados, enlaçados e presos.
-16 Resguarda o testemunho, sela a lei no coração dos meus discípulos.
-17 Esperarei no Senhor, que esconde o seu rosto da casa de Jacó, e a ele aguardarei.
-18 Eis-me aqui, e os filhos que o Senhor me deu, para sinais e para maravilhas em Israel da parte do Senhor dos Exércitos, que habita no monte Sião.
-19 Quando vos disserem: Consultai os necromantes e os adivinhos, que chilreiam e murmuram, acaso, não consultará o povo ao seu Deus? A favor dos vivos se consultarão os mortos?
-20 À lei e ao testemunho! Se eles não falarem desta maneira, jamais verão a alva.
-21 Passarão pela terra duramente oprimidos e famintos; e será que, quando tiverem fome, enfurecendo-se, amaldiçoarão ao seu rei e ao seu Deus, olhando para cima.
-22 Olharão para a terra, e eis aí angústia, escuridão e sombras de ansiedade, e serão lançados para densas trevas.*
-1 Mas para a terra que estava aflita não continuará a obscuridade. Deus, nos primeiros tempos, tornou desprezível a terra de Zebulom e a terra de Naftali; mas, nos últimos, tornará glorioso o caminho do mar, além do Jordão, Galileia dos gentios.
-2 O povo que andava em trevas viu grande luz, e aos que viviam na região da sombra da morte, resplandeceu-lhes a luz.
-3 Tens multiplicado este povo, a alegria lhe aumentaste; alegram-se eles diante de ti, como se alegram na ceifa e como exultam quando repartem os despojos.
-4 Porque tu quebraste o jugo que pesava sobre eles, a vara que lhes feria os ombros e o cetro do seu opressor, como no dia dos midianitas;
-5 porque toda bota com que anda o guerreiro no tumulto da batalha e toda veste revolvida em sangue serão queimadas, servirão de pasto ao fogo.
-6 Porque um menino nos nasceu, um filho se nos deu; o governo está sobre os seus ombros; e o seu nome será: Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz;
-7 para que se aumente o seu governo, e venha paz sem fim sobre o trono de Davi e sobre o seu reino, para o estabelecer e o firmar mediante o juízo e a justiça, desde agora e para sempre. O zelo do Senhor dos Exércitos fará isto.
-8 O Senhor enviou uma palavra contra Jacó, e ela caiu em Israel.
-9 Todo o povo o saberá, Efraim e os moradores de Samaria, que em soberba e altivez de coração dizem:
-10 Os tijolos ruíram por terra, mas tornaremos a edificar com pedras lavradas; cortaram-se os sicômoros, mas por cedros os substituiremos.
-11 Portanto, o Senhor suscita contra ele os adversários de Rezim e instiga os inimigos.
-12 Do Oriente vêm os siros, do Ocidente, os filisteus e devoram a Israel à boca escancarada. Com tudo isto, não se aparta a sua ira, e a mão dele continua ainda estendida.
-13 Todavia, este povo não se voltou para quem o fere, nem busca ao Senhor dos Exércitos.
-14 Pelo que o Senhor corta de Israel a cabeça e a cauda, a palma e o junco, num mesmo dia.
-15 O ancião, o homem de respeito, é a cabeça; o profeta que ensina a mentira é a cauda.
-16 Porque os guias deste povo são enganadores, e os que por eles são dirigidos são devorados.
-17 Pelo que o Senhor não se regozija com os jovens dele e não se compadece dos seus órfãos e das suas viúvas, porque todos eles são ímpios e malfazejos, e toda boca profere doidices. Com tudo isto, não se aparta a sua ira, e a mão dele continua ainda estendida.
-18 Porque a maldade lavra como um fogo, ela devora os espinheiros e os abrolhos; acende as brenhas do bosque, e estas sobem em espessas nuvens de fumaça.
-19 Por causa da ira do Senhor dos Exércitos, a terra está abrasada, e o povo é pasto do fogo; ninguém poupa a seu irmão.
-20 Abocanha à direita e ainda tem fome, devora à esquerda e não se farta; cada um come a carne do seu próximo:
-21 Manassés ataca a Efraim, e Efraim ataca a Manassés, e ambos, juntos, atacam a Judá. Com tudo isto, não se aparta a sua ira, e a mão dele continua ainda estendida.*
-1 Ai dos que decretam leis injustas, dos que escrevem leis de opressão,
-2 para negarem justiça aos pobres, para arrebatarem o direito aos aflitos do meu povo, a fim de despojarem as viúvas e roubarem os órfãos!
-3 Mas que fareis vós outros no dia do castigo, na calamidade que vem de longe? A quem recorrereis para obter socorro e onde deixareis a vossa glória?
-4 Nada mais vos resta a fazer, senão dobrar-vos entre os prisioneiros e cair entre os mortos. Com tudo isto, não se aparta a sua ira, e a mão dele continua ainda estendida.
-5 Ai da Assíria, cetro da minha ira! A vara em sua mão é o instrumento do meu furor.
-6 Envio-a contra uma nação ímpia e contra o povo da minha indignação lhe dou ordens, para que dele roube a presa, e lhe tome o despojo, e o ponha para ser pisado aos pés, como a lama das ruas.
-7 Ela, porém, assim não pensa, o seu coração não entende assim; antes, intenta consigo mesma destruir e desarraigar não poucas nações.
-8 Porque diz: Não são meus príncipes todos eles reis?
-9 Não é Calno como Carquemis? Não é Hamate como Arpade? E Samaria, como Damasco?
-10 O meu poder atingiu os reinos dos ídolos, ainda que as suas imagens de escultura eram melhores do que as de Jerusalém e do que as de Samaria.
-11 Porventura, como fiz a Samaria e aos seus ídolos, não o faria igualmente a Jerusalém e aos seus ídolos?
-12 Por isso, acontecerá que, havendo o Senhor acabado toda a sua obra no monte Sião e em Jerusalém, então, castigará a arrogância do coração do rei da Assíria e a desmedida altivez dos seus olhos;
-13 porquanto o rei disse: Com o poder da minha mão, fiz isto, e com a minha sabedoria, porque sou inteligente; removi os limites dos povos, e roubei os seus tesouros, e como valente abati os que se assentavam em tronos.
-14 Meti a mão nas riquezas dos povos como a um ninho e, como se ajuntam os ovos abandonados, assim eu ajuntei toda a terra, e não houve quem movesse a asa, ou abrisse a boca, ou piasse.
-15 Porventura, gloriar-se-á o machado contra o que corta com ele? Ou presumirá a serra contra o que a maneja? Seria isso como se a vara brandisse os que a levantam ou o bastão levantasse a quem não é pau!
-16 Pelo que o Senhor, o Senhor dos Exércitos, enviará a tísica contra os seus homens, todos gordos, e debaixo da sua glória acenderá uma queima, como a queima de fogo.
-17 Porque a Luz de Israel virá a ser como fogo, e o seu Santo, como labareda, que abrase e consuma os espinheiros e os abrolhos da Assíria, num só dia.
-18 Também consumirá a glória da sua floresta e do seu campo fértil, desde a alma até ao corpo; e será como quando um doente se definha.
-19 O resto das árvores da sua floresta será tão pouco, que um menino saberá escrever o número delas.
-20 Acontecerá, naquele dia, que os restantes de Israel e os da casa de Jacó que se tiverem salvado nunca mais se estribarão naquele que os feriu, mas, com efeito, se estribarão no Senhor, o Santo de Israel.
-21 Os restantes se converterão ao Deus forte, sim, os restantes de Jacó.
-22 Porque ainda que o teu povo, ó Israel, seja como a areia do mar, o restante se converterá; destruição será determinada, transbordante de justiça.
-23 Porque uma destruição, e essa já determinada, o Senhor, o Senhor dos Exércitos, a executará no meio de toda esta terra.
-24 Pelo que assim diz o Senhor, o Senhor dos Exércitos: Povo meu, que habitas em Sião, não temas a Assíria, quando te ferir com a vara e contra ti levantar o seu bastão à maneira dos egípcios;
-25 porque daqui a bem pouco se cumprirá a minha indignação e a minha ira, para a consumir.
-26 Porque o Senhor dos Exércitos suscitará contra ela um flagelo, como a matança de Midiã junto à penha de Orebe; a sua vara estará sobre o mar, e ele a levantará como fez no Egito.
-27 Acontecerá, naquele dia, que o peso será tirado do teu ombro, e o seu jugo, do teu pescoço, jugo que será despedaçado por causa da gordura.
-28 A Assíria vem a Aiate, passa por Migrom e em Micmás larga a sua bagagem.
-29 Passa o desfiladeiro, aloja-se em Geba, já Ramá treme, Gibeá de Saul foge.
-30 Ergue com estrídulo a voz, ó filha de Galim! Ouve, ó Laís! Oh! Pobre Anatote!
-31 Madmena se dispersa; os moradores de Gebim fogem para salvar-se.
-32 Nesse mesmo dia, a Assíria parará em Nobe; agitará o punho ao monte da filha de Sião, o outeiro de Jerusalém.
-33 Mas eis que o Senhor, o Senhor dos Exércitos, cortará os ramos com violência, as árvores de alto porte serão derribadas, e as altivas serão abatidas.
-34 Cortará com o ferro as brenhas da floresta, e o Líbano cairá pela mão de um poderoso.*
-1 Do tronco de Jessé sairá um rebento, e das suas raízes, um renovo.
-2 Repousará sobre ele o Espírito do Senhor, o Espírito de sabedoria e de entendimento, o Espírito de conselho e de fortaleza, o Espírito de conhecimento e de temor do Senhor.
-3 Deleitar-se-á no temor do Senhor; não julgará segundo a vista dos seus olhos, nem repreenderá segundo o ouvir dos seus ouvidos;
-4 mas julgará com justiça os pobres e decidirá com equidade a favor dos mansos da terra; ferirá a terra com a vara de sua boca e com o sopro dos seus lábios matará o perverso.
-5 A justiça será o cinto dos seus lombos, e a fidelidade, o cinto dos seus rins.
-6 O lobo habitará com o cordeiro, e o leopardo se deitará junto ao cabrito; o bezerro, o leão novo e o animal cevado andarão juntos, e um pequenino os guiará.
-7 A vaca e a ursa pastarão juntas, e as suas crias juntas se deitarão; o leão comerá palha como o boi.
-8 A criança de peito brincará sobre a toca da áspide, e o já desmamado meterá a mão na cova do basilisco.
-9 Não se fará mal nem dano algum em todo o meu santo monte, porque a terra se encherá do conhecimento do Senhor, como as águas cobrem o mar.
-10 Naquele dia, recorrerão as nações à raiz de Jessé que está posta por estandarte dos povos; a glória lhe será a morada.
-11 Naquele dia, o Senhor tornará a estender a mão para resgatar o restante do seu povo, que for deixado, da Assíria, do Egito, de Patros, da Etiópia, de Elão, de Sinar, de Hamate e das terras do mar.
-12 Levantará um estandarte para as nações, ajuntará os desterrados de Israel e os dispersos de Judá recolherá desde os quatro confins da terra.
-13 Afastar-se-á a inveja de Efraim, e os adversários de Judá serão eliminados; Efraim não invejará a Judá, e Judá não oprimirá a Efraim.
-14 Antes, voarão para sobre os ombros dos filisteus ao Ocidente; juntos, despojarão os filhos do Oriente; contra Edom e Moabe lançarão as mãos, e os filhos de Amom lhes serão sujeitos.
-15 O Senhor destruirá totalmente o braço do mar do Egito, e com a força do seu vento moverá a mão contra o Eufrates, e, ferindo-o, dividi-lo-á em sete canais, de sorte que qualquer o atravessará de sandálias.
-16 Haverá caminho plano para o restante do seu povo, que for deixado, da Assíria, como o houve para Israel no dia em que subiu da terra do Egito.*
-1 Orarás naquele dia: Graças te dou, ó Senhor, porque, ainda que te iraste contra mim, a tua ira se retirou, e tu me consolas.
-2 Eis que Deus é a minha salvação; confiarei e não temerei, porque o Senhor Deus é a minha força e o meu cântico; ele se tornou a minha salvação.
-3 Vós, com alegria, tirareis água das fontes da salvação.
-4 Direis naquele dia: Dai graças ao Senhor, invocai o seu nome, tornai manifestos os seus feitos entre os povos, relembrai que é excelso o seu nome.
-5 Cantai louvores ao Senhor, porque fez coisas grandiosas; saiba-se isto em toda a terra.
-6 Exulta e jubila, ó habitante de Sião, porque grande é o Santo de Israel no meio de ti.*
-1 Sentença que, numa visão, recebeu Isaías, filho de Amoz, contra a Babilônia.
-2 Alçai um estandarte sobre o monte escalvado; levantai a voz para eles; acenai-lhes com a mão, para que entrem pelas portas dos tiranos.
-3 Eu dei ordens aos meus consagrados, sim, chamei os meus valentes para executarem a minha ira, os que com exultação se orgulham.
-4 Já se ouve sobre os montes o rumor como o de muito povo, o clamor de reinos e de nações já congregados. O Senhor dos Exércitos passa revista às tropas de guerra.
-5 Já vêm de um país remoto, desde a extremidade do céu, o Senhor e os instrumentos da sua indignação, para destruir toda a terra.
-6 Uivai, pois está perto o Dia do Senhor; vem do Todo-Poderoso como assolação.
-7 Pelo que todos os braços se tornarão frouxos, e o coração de todos os homens se derreterá.
-8 Assombrar-se-ão, e apoderar-se-ão deles dores e ais, e terão contorções como a mulher parturiente; olharão atônitos uns para outros; o seu rosto se tornará rosto flamejante.
-9 Eis que vem o Dia do Senhor, dia cruel, com ira e ardente furor, para converter a terra em assolação e dela destruir os pecadores.
-10 Porque as estrelas e constelações dos céus não darão a sua luz; o sol, logo ao nascer, se escurecerá, e a lua não fará resplandecer a sua luz.
-11 Castigarei o mundo por causa da sua maldade e os perversos, por causa da sua iniquidade; farei cessar a arrogância dos atrevidos e abaterei a soberba dos violentos.
-12 Farei que os homens sejam mais escassos do que o ouro puro, mais raros do que o ouro de Ofir.
-13 Portanto, farei estremecer os céus; e a terra será sacudida do seu lugar, por causa da ira do Senhor dos Exércitos e por causa do dia do seu ardente furor.
-14 Cada um será como a gazela que foge e como o rebanho que ninguém recolhe; cada um voltará para o seu povo e cada um fugirá para a sua terra.
-15 Quem for achado será traspassado; e aquele que for apanhado cairá à espada.
-16 Suas crianças serão esmagadas perante eles; a sua casa será saqueada, e sua mulher, violada.
-17 Eis que eu despertarei contra eles os medos, que não farão caso de prata, nem tampouco desejarão ouro.
-18 Os seus arcos matarão os jovens; eles não se compadecerão do fruto do ventre; os seus olhos não pouparão as crianças.
-19 Babilônia, a joia dos reinos, glória e orgulho dos caldeus, será como Sodoma e Gomorra, quando Deus as transtornou.
-20 Nunca jamais será habitada, ninguém morará nela de geração em geração; o arábio não armará ali a sua tenda, nem tampouco os pastores farão ali deitar os seus rebanhos.
-21 Porém, nela, as feras do deserto repousarão, e as suas casas se encherão de corujas; ali habitarão os avestruzes, e os sátiros pularão ali.
-22 As hienas uivarão nos seus castelos; os chacais, nos seus palácios de prazer; está prestes a chegar o seu tempo, e os seus dias não se prolongarão.*
-1 Porque o Senhor se compadecerá de Jacó, e ainda elegerá a Israel, e os porá na sua própria terra; e unir-se-ão a eles os estrangeiros, e estes se achegarão à casa de Jacó.
-2 Os povos os tomarão e os levarão aos lugares deles, e a casa de Israel possuirá esses povos por servos e servas, na terra do Senhor; cativarão aqueles que os cativaram e dominarão os seus opressores.
-3 No dia em que Deus vier a dar-te descanso do teu trabalho, das tuas angústias e da dura servidão com que te fizeram servir,
-4 então, proferirás este motejo contra o rei da Babilônia e dirás: Como cessou o opressor! Como acabou a tirania!
-5 Quebrou o Senhor a vara dos perversos e o cetro dos dominadores,
-6 que feriam os povos com furor, com golpes incessantes, e com ira dominavam as nações, com perseguição irreprimível.
-7 Já agora descansa e está sossegada toda a terra. Todos exultam de júbilo.
-8 Até os ciprestes se alegram sobre ti, e os cedros do Líbano exclamam: Desde que tu caíste, ninguém já sobe contra nós para nos cortar.
-9 O além, desde o profundo, se turba por ti, para te sair ao encontro na tua chegada; ele, por tua causa, desperta as sombras e todos os príncipes da terra e faz levantar dos seus tronos a todos os reis das nações.
-10 Todos estes respondem e te dizem: Tu também, como nós, estás fraco? E és semelhante a nós?
-11 Derribada está na cova a tua soberba, e, também, o som da tua harpa; por baixo de ti, uma cama de gusanos, e os vermes são a tua coberta.
-12 Como caíste do céu, ó estrela da manhã, filho da alva! Como foste lançado por terra, tu que debilitavas as nações!
-13 Tu dizias no teu coração: Eu subirei ao céu; acima das estrelas de Deus exaltarei o meu trono e no monte da congregação me assentarei, nas extremidades do Norte;
-14 subirei acima das mais altas nuvens e serei semelhante ao Altíssimo.
-15 Contudo, serás precipitado para o reino dos mortos, no mais profundo do abismo.
-16 Os que te virem te contemplarão, hão de fitar-te e dizer-te: É este o homem que fazia estremecer a terra e tremer os reinos?
-17 Que punha o mundo como um deserto e assolava as suas cidades? Que a seus cativos não deixava ir para casa?
-18 Todos os reis das nações, sim, todos eles, jazem com honra, cada um, no seu túmulo.
-19 Mas tu és lançado fora da tua sepultura, como um renovo bastardo, coberto de mortos traspassados à espada, cujo cadáver desce à cova e é pisado de pedras.
-20 Com eles não te reunirás na sepultura, porque destruíste a tua terra e mataste o teu povo; a descendência dos malignos jamais será nomeada.
-21 Preparai a matança para os filhos, por causa da maldade de seus pais, para que não se levantem, e possuam a terra, e encham o mundo de cidades.
-22 Levantar-me-ei contra eles, diz o Senhor dos Exércitos; exterminarei de Babilônia o nome e os sobreviventes, os descendentes e a posteridade, diz o Senhor.
-23 Reduzi-la-ei a possessão de ouriços e a lagoas de águas; varrê-la-ei com a vassoura da destruição, diz o Senhor dos Exércitos.
-24 Jurou o Senhor dos Exércitos, dizendo: Como pensei, assim sucederá, e, como determinei, assim se efetuará.
-25 Quebrantarei a Assíria na minha terra e nas minhas montanhas a pisarei, para que o seu jugo se aparte de Israel, e a sua carga se desvie dos ombros dele.
-26 Este é o desígnio que se formou concernente a toda a terra; e esta é a mão que está estendida sobre todas as nações.
-27 Porque o Senhor dos Exércitos o determinou; quem, pois, o invalidará? A sua mão está estendida; quem, pois, a fará voltar atrás?
-28 No ano em que morreu o rei Acaz, foi pronunciada esta sentença:
-29 Não te alegres, tu, toda a Filístia, por estar quebrada a vara que te feria; porque da estirpe da cobra sairá uma áspide, e o seu fruto será uma serpente voadora.
-30 Os primogênitos dos pobres serão apascentados, e os necessitados se deitarão seguros; mas farei morrer de fome a tua raiz, e serão destruídos os teus sobreviventes.
-31 Uiva, ó porta; grita, ó cidade; tu, ó Filístia toda, treme; porque do Norte vem fumaça, e ninguém há que se afaste das fileiras.
-32 Que se responderá, pois, aos mensageiros dos gentios? Que o Senhor fundou a Sião, e nela encontram refúgio os aflitos do seu povo.*
-1 Sentença contra Moabe. Certamente, numa noite foi assolada Ar de Moabe e ela está destruída; certamente, numa noite foi assolada Quir de Moabe e ela está destruída.
-2 Sobe-se ao templo e a Dibom, aos altos, para chorar; nos montes Nebo e Medeba, lamenta Moabe; todas as cabeças se tornam calvas, e toda barba é rapada.
-3 Cingem-se de panos de saco nas suas ruas; nos seus terraços e nas suas praças, andam todos uivando e choram abundantemente.
-4 Tanto Hesbom como Eleale andam gritando; até Jaza se ouve a sua voz; por isso, os armados de Moabe clamam; a sua alma treme dentro dele.
-5 O meu coração clama por causa de Moabe, cujos fugitivos vão até Zoar, novilha de três anos; vão chorando pela subida de Luíte e no caminho de Horonaim levantam grito de desespero;
-6 porque as águas de Ninrim desaparecem; seca-se o pasto, acaba-se a erva, e já não há verdura alguma,
-7 pelo que o que pouparam, o que ganharam e depositaram eles mesmos levam para além das torrentes dos salgueiros;
-8 porque o pranto rodeia os limites de Moabe; até Eglaim chega o seu clamor, e ainda até Beer-Elim, o seu lamento;
-9 porque as águas de Dimom estão cheias de sangue; pois ainda acrescentarei a Dimom: leões contra aqueles que escaparem de Moabe e contra os restantes da terra.*
-1 Enviai cordeiros ao dominador da terra, desde Sela, pelo deserto, até ao monte da filha de Sião.
-2 Como pássaro espantado, lançado fora do ninho, assim são as filhas de Moabe nos vaus do Arnom, que dizem:
-3 Dá conselhos, executa o juízo e faze a tua sombra no pino do meio-dia como a noite; esconde os desterrados e não descubras os fugitivos.
-4 Habitem entre ti os desterrados de Moabe, serve-lhes de esconderijo contra o destruidor. Quando o homem violento tiver fim, a destruição for desfeita e o opressor deixar a terra,
-5 então, um trono se firmará em benignidade, e sobre ele no tabernáculo de Davi se assentará com fidelidade um que julgue, busque o juízo e não tarde em fazer justiça.
-6 Temos ouvido da soberba de Moabe, soberbo em extremo; da sua arrogância, do seu orgulho e do seu furor; a sua jactância é vã.
-7 Portanto, uivará Moabe, cada um por Moabe; gemereis profundamente abatidos pelas pastas de uvas de Quir-Haresete.
-8 Porque os campos de Hesbom estão murchos; os senhores das nações talaram os melhores ramos da vinha de Sibma, que se estenderam até Jazer e se perderam no deserto, sarmentos que se estenderam e passaram além do mar.
-9 Pelo que prantearei, com o pranto de Jazer, a vinha de Sibma; regar-te-ei com as minhas lágrimas, ó Hesbom, ó Eleale; pois, sobre os teus frutos de verão e sobre a tua vindima, caiu já dos inimigos o eia, como o de pisadores.
-10 Fugiu a alegria e o regozijo do pomar; nas vinhas já não se canta, nem há júbilo algum; já não se pisarão as uvas nos lagares. Eu fiz cessar o eia dos pisadores.
-11 Pelo que por Moabe vibra como harpa o meu íntimo, e o meu coração, por Quir-Heres.
-12 Ver-se-á como Moabe se cansa nos altos, como entra no santuário a orar e nada alcança.
-13 Esta é a palavra que o Senhor há muito pronunciou contra Moabe.
-14 Agora, porém, o Senhor fala e diz: Dentro de três anos, tais como os de jornaleiros, será envilecida a glória de Moabe, com toda a sua grande multidão; e o restante será pouco, pequeno e débil.*
-1 Sentença contra Damasco. Eis que Damasco deixará de ser cidade e será um montão de ruínas.
-2 As cidades de Aroer serão abandonadas; hão de ser para os rebanhos, que aí se deitarão sem haver quem os espante.
-3 A fortaleza de Efraim desaparecerá, como também o reino de Damasco e o restante da Síria; serão como a glória dos filhos de Israel, diz o Senhor dos Exércitos.
-4 Naquele dia, a glória de Jacó será apoucada, e a gordura da sua carne desaparecerá.
-5 Será, quando o segador ajunta a cana do trigo e com o braço sega as espigas, como quem colhe espigas, como quem colhe espigas no vale dos Refains.
-6 Mas ainda ficarão alguns rabiscos, como no sacudir da oliveira; duas ou três azeitonas na ponta do ramo mais alto, e quatro ou cinco nos ramos mais exteriores de uma árvore frutífera, diz o Senhor, Deus de Israel.
-7 Naquele dia, olhará o homem para o seu Criador, e os seus olhos atentarão para o Santo de Israel.
-8 E não olhará para os altares, obra das suas mãos, nem atentará para o que fizeram seus dedos, nem para os postes-ídolos, nem para os altares do incenso.
-9 Naquele dia, serão as suas cidades fortes como os lugares abandonados no bosque ou sobre o cimo das montanhas, os quais outrora foram abandonados ante os filhos de Israel, e haverá assolação;
-10 porquanto te esqueceste do Deus da tua salvação e não te lembraste da Rocha da tua fortaleza. Ainda que faças plantações formosas e plantes mudas de fora,
-11 e, no dia em que as plantares, as fizeres crescer, e na manhã seguinte as fizeres florescer, ainda assim a colheita voará no dia da tribulação e das dores incuráveis.
-12 Ai do bramido dos grandes povos que bramam como bramam os mares, e do rugido das nações que rugem como rugem as impetuosas águas!
-13 Rugirão as nações, como rugem as muitas águas, mas Deus as repreenderá, e fugirão para longe; serão afugentadas como a palha dos montes diante do vento e como pó levado pelo tufão.
-14 Ao anoitecer, eis que há pavor, e, antes que amanheça o dia, já não existem. Este é o quinhão daqueles que nos despojam e a sorte daqueles que nos saqueiam.*
-1 Ai da terra onde há o roçar de muitas asas de insetos, que está além dos rios da Etiópia;
-2 que envia embaixadores por mar em navios de papiro sobre as águas, dizendo: Ide, mensageiros velozes, a uma nação de homens altos e de pele brunida, a um povo terrível, de perto e de longe; a uma nação poderosa e esmagadora, cuja terra os rios dividem.
-3 Vós, todos os habitantes do mundo, e vós, os moradores da terra, quando se arvorar a bandeira nos montes, olhai; e, quando se tocar a trombeta, escutai.
-4 Porque assim me disse o Senhor: Olhando da minha morada, estarei calmo como o ardor quieto do sol resplandecente, como a nuvem do orvalho no calor da sega.
-5 Porque antes da vindima, caída já a flor, e quando as uvas amadurecem, então, podará os sarmentos com a foice e cortará os ramos que se estendem.
-6 Serão deixados juntos às aves dos montes e aos animais da terra; sobre eles veranearão as aves de rapina, e todos os animais da terra passarão o inverno sobre eles.
-7 Naquele tempo, será levado um presente ao Senhor dos Exércitos por um povo de homens altos e de pele brunida, povo terrível, de perto e de longe; por uma nação poderosa e esmagadora, cuja terra os rios dividem, ao lugar do nome do Senhor dos Exércitos, ao monte Sião.*
-1 Sentença contra o Egito. Eis que o Senhor, cavalgando uma nuvem ligeira, vem ao Egito; os ídolos do Egito estremecerão diante dele, e o coração dos egípcios se derreterá dentro deles.
-2 Porque farei com que egípcios se levantem contra egípcios, e cada um pelejará contra o seu irmão e cada um contra seu próximo; cidade contra cidade, reino contra reino.
-3 O espírito dos egípcios se esvaecerá dentro deles, e anularei o seu conselho; eles consultarão os seus ídolos, e encantadores, e necromantes, e feiticeiros.
-4 Entregarei os egípcios nas mãos de um senhor duro, e um rei feroz os dominará, diz o Senhor, o Senhor dos Exércitos.
-5 Secarão as águas do Nilo, e o rio se tornará seco e árido.
-6 Os canais exalarão mau cheiro, e os braços do Nilo diminuirão e se esgotarão; as canas e os juncos se murcharão.
-7 A relva que está junto ao Nilo, junto às suas ribanceiras, e tudo o que foi semeado junto dele se secarão, serão levados pelo vento e não subsistirão.
-8 Os pescadores gemerão, suspirarão todos os que lançam anzol ao rio, e os que estendem rede sobre as águas desfalecerão.
-9 Consternar-se-ão os que trabalham em linho fino e os que tecem pano de algodão.
-10 Os seus grandes serão esmagados, e todos os jornaleiros andarão de alma entristecida.
-11 Na verdade, são néscios os príncipes de Zoã; os sábios conselheiros de Faraó dão conselhos estúpidos; como, pois, direis a Faraó: Sou filho de sábios, filho de antigos reis?
-12 Onde estão agora os teus sábios? Anunciem-te agora ou informem-te do que o Senhor dos Exércitos determinou contra o Egito.
-13 Loucos se tornaram os príncipes de Zoã, enganados estão os príncipes de Mênfis; fazem errar o Egito os que são a pedra de esquina das suas tribos.
-14 O Senhor derramou no coração deles um espírito estonteante; eles fizeram estontear o Egito em toda a sua obra, como o bêbado quando cambaleia no seu vômito.
-15 Não aproveitará ao Egito obra alguma que possa ser feita pela cabeça ou cauda, pela palma ou junco.
-16 Naquele dia, os egípcios serão como mulheres; tremerão e temerão ao levantar-se da mão do Senhor dos Exércitos, que ele agitará contra eles.
-17 A terra de Judá será espanto para o Egito; todo aquele que dela se lembrar encher-se-á de pavor por causa do propósito do Senhor dos Exércitos, do que determinou contra eles.
-18 Naquele dia, haverá cinco cidades na terra do Egito que falarão a língua de Canaã e farão juramento ao Senhor dos Exércitos; uma delas se chamará Cidade do Sol.
-19 Naquele dia, o Senhor terá um altar no meio da terra do Egito, e uma coluna se erigirá ao Senhor na sua fronteira.
-20 Servirá de sinal e de testemunho ao Senhor dos Exércitos na terra do Egito; ao Senhor clamarão por causa dos opressores, e ele lhes enviará um salvador e defensor que os há de livrar.
-21 O Senhor se dará a conhecer ao Egito, e os egípcios conhecerão o Senhor naquele dia; sim, eles o adorarão com sacrifícios e ofertas de manjares, e farão votos ao Senhor, e os cumprirão.
-22 Ferirá o Senhor os egípcios, ferirá, mas os curará; converter-se-ão ao Senhor, e ele lhes atenderá as orações e os curará.
-23 Naquele dia, haverá estrada do Egito até à Assíria, os assírios irão ao Egito, e os egípcios, à Assíria; e os egípcios adorarão com os assírios.
-24 Naquele dia, Israel será o terceiro com os egípcios e os assírios, uma bênção no meio da terra;
-25 porque o Senhor dos Exércitos os abençoará, dizendo: Bendito seja o Egito, meu povo, e a Assíria, obra de minhas mãos, e Israel, minha herança.*
-1 No ano em que Tartã, enviado por Sargão, rei da Assíria, veio a Asdode, e a guerreou, e a tomou,
-2 nesse mesmo tempo, falou o Senhor por intermédio de Isaías, filho de Amoz, dizendo: Vai, solta de teus lombos o pano grosseiro de profeta e tira dos pés o calçado. Assim ele o fez, indo despido e descalço.
-3 Então, disse o Senhor: Assim como Isaías, meu servo, andou três anos despido e descalço, por sinal e prodígio contra o Egito e contra a Etiópia,
-4 assim o rei da Assíria levará os presos do Egito e os exilados da Etiópia, tanto moços como velhos, despidos e descalços e com as nádegas descobertas, para vergonha do Egito.
-5 Então, se assombrarão os israelitas e se envergonharão por causa dos etíopes, sua esperança, e dos egípcios, sua glória.
-6 Os moradores desta região dirão naquele dia: Vede, foi isto que aconteceu àqueles em quem esperávamos e a quem fugimos por socorro, para livrar-nos do rei da Assíria! Como, pois, escaparemos nós?*
-1 Sentença contra o deserto do mar. Como os tufões vêm do Sul, ele virá do deserto, da horrível terra.
-2 Dura visão me foi anunciada: o pérfido procede perfidamente, e o destruidor anda destruindo. Sobe, ó Elão, sitia, ó Média; já fiz cessar todo gemer.
-3 Pelo que os meus lombos estão cheios de angústias; dores se apoderaram de mim como as de parturiente; contorço-me de dores e não posso ouvir, desfaleço-me e não posso ver.
-4 O meu coração cambaleia, o horror me apavora; a noite que eu desejava se me tornou em tremores.
-5 Põe-se a mesa, estendem-se tapetes, come-se e bebe-se. Levantai-vos, príncipes, untai o escudo.
-6 Pois assim me disse o Senhor: Vai, põe o atalaia, e ele que diga o que vir.
-7 Quando vir uma tropa de cavaleiros de dois a dois, uma tropa de jumentos e uma tropa de camelos, ele que escute diligentemente com grande atenção.
-8 Então, o atalaia gritou como um leão: Senhor, sobre a torre de vigia estou em pé continuamente durante o dia e de guarda me ponho noites inteiras.
-9 Eis agora vem uma tropa de homens, cavaleiros de dois a dois. Então, ergueu ele a voz e disse: Caiu, caiu Babilônia; e todas as imagens de escultura dos seus deuses jazem despedaçadas por terra.
-10 Oh! Povo meu, debulhado e batido como o trigo da minha eira! O que ouvi do Senhor dos Exércitos, Deus de Israel, isso vos anunciei.
-11 Sentença contra Dumá. Gritam-me de Seir: Guarda, a que hora estamos da noite? Guarda, a que horas?
-12 Respondeu o guarda: Vem a manhã, e também a noite; se quereis perguntar, perguntai; voltai, vinde.
-13 Sentença contra a Arábia. Nos bosques da Arábia, passareis a noite, ó caravanas de dedanitas.
-14 Traga-se água ao encontro dos sedentos; ó moradores da terra de Tema, levai pão aos fugitivos.
-15 Porque fogem de diante das espadas, de diante da espada nua, de diante do arco armado e de diante do furor da guerra.
-16 Porque assim me disse o Senhor: Dentro de um ano, tal como o de jornaleiro, toda a glória de Quedar desaparecerá.
-17 E o restante do número dos flecheiros, os valentes dos filhos de Quedar, será diminuto, porque assim o disse o Senhor, Deus de Israel.*
-1 Sentença contra o vale da Visão. Que tens agora, que todo o teu povo sobe aos telhados?
-2 Tu, cidade que estavas cheia de aclamações, cidade estrepitosa, cidade alegre! Os teus mortos não foram mortos à espada, nem morreram na guerra.
-3 Todos os teus príncipes fogem à uma e são presos sem que se use o arco; todos os teus que foram encontrados foram presos, sem embargo de já estarem longe na fuga.
-4 Portanto, digo: desviai de mim a vista e chorarei amargamente; não insistais por causa da ruína da filha do meu povo.
-5 Porque dia de alvoroço, de atropelamento e confusão é este da parte do Senhor, o Senhor dos Exércitos, no vale da Visão: um derribar de muros e clamor que vai até aos montes.
-6 Porque Elão tomou a aljava e vem com carros e cavaleiros; e Quir descobre os escudos.
-7 Os teus mais formosos vales se enchem de carros, e os cavaleiros se põem em ordem às portas.
-8 Tira-se a proteção de Judá. Naquele dia, olharás para as armas da Casa do Bosque.
-9 Notareis as brechas da Cidade de Davi, por serem muitas, e ajuntareis as águas do açude inferior.
-10 Também contareis as casas de Jerusalém e delas derribareis, para fortalecer os muros.
-11 Fareis também um reservatório entre os dois muros para as águas do açude velho, mas não cogitais de olhar para cima, para aquele que suscitou essas calamidades, nem considerais naquele que há muito as formou.
-12 O Senhor, o Senhor dos Exércitos, vos convida naquele dia para chorar, prantear, rapar a cabeça e cingir o cilício.
-13 Porém é só gozo e alegria que se veem; matam-se bois, degolam-se ovelhas, come-se carne, bebe-se vinho e se diz: Comamos e bebamos, que amanhã morreremos.
-14 Mas o Senhor dos Exércitos se declara aos meus ouvidos, dizendo: Certamente, esta maldade não será perdoada, até que morrais, diz o Senhor, o Senhor dos Exércitos.
-15 Assim diz o Senhor, o Senhor dos Exércitos: Anda, vai ter com esse administrador, com Sebna, o mordomo, e pergunta-lhe:
-16 Que é que tens aqui? Ou a quem tens tu aqui, para que abrisses aqui uma sepultura, lavrando em lugar alto a tua sepultura, cinzelando na rocha a tua própria morada?
-17 Eis que como homem forte o Senhor te arrojará violentamente; agarrar-te-á com firmeza,
-18 enrolar-te-á num invólucro e te fará rolar como uma bola para terra espaçosa; ali morrerás, e ali acabarão os carros da tua glória, ó tu, vergonha da casa do teu senhor.
-19 Eu te lançarei fora do teu posto, e serás derribado da tua posição.
-20 Naquele dia, chamarei a meu servo Eliaquim, filho de Hilquias,
-21 vesti-lo-ei da tua túnica, cingi-lo-ei com a tua faixa e lhe entregarei nas mãos o teu poder, e ele será como pai para os moradores de Jerusalém e para a casa de Judá.
-22 Porei sobre o seu ombro a chave da casa de Davi; ele abrirá, e ninguém fechará, fechará, e ninguém abrirá.
-23 Fincá-lo-ei como estaca em lugar firme, e ele será como um trono de honra para a casa de seu pai.
-24 Nele, pendurarão toda a responsabilidade da casa de seu pai, a prole e os descendentes, todos os utensílios menores, desde as taças até as garrafas.
-25 Naquele dia, diz o Senhor dos Exércitos, a estaca que fora fincada em lugar firme será tirada, será arrancada e cairá, e a carga que nela estava se desprenderá, porque o Senhor o disse.*
-1 Sentença contra Tiro. Uivai, navios de Társis, porque está assolada, a ponto de não haver nela casa nenhuma, nem ancoradouro. Da terra de Chipre lhes foi isto revelado.
-2 Calai-vos, moradores do litoral, vós a quem os mercadores de Sidom enriqueceram, navegando pelo mar.
-3 Através das vastas águas, vinha o cereal dos canais do Egito e a ceifa do Nilo, como a tua renda, Tiro, que vieste a ser a feira das nações.
-4 Envergonha-te, ó Sidom, porque o mar, a fortaleza do mar, fala, dizendo: Não tive dores de parto, não dei à luz, não criei rapazes, nem eduquei donzelas.
-5 Quando a notícia a respeito de Tiro chegar ao Egito, com ela se angustiarão os homens.
-6 Passai a Társis, uivai, moradores do litoral.
-7 É esta, acaso, a vossa cidade que andava exultante, cuja origem data de remotos dias, cujos pés a levaram até longe para estabelecer-se?
-8 Quem formou este desígnio contra Tiro, a cidade distribuidora de coroas, cujos mercadores são príncipes e cujos negociantes são os mais nobres da terra?
-9 O Senhor dos Exércitos formou este desígnio para denegrir a soberba de toda beleza e envilecer os mais nobres da terra.
-10 Percorre livremente como o Nilo a tua terra, ó filha de Társis; já não há quem te restrinja.
-11 O Senhor estendeu a mão sobre o mar e turbou os reinos; deu ordens contra Canaã, para que se destruíssem as suas fortalezas.
-12 E disse: Nunca mais exultarás, ó oprimida virgem filha de Sidom; levanta-te, passa a Chipre, mas ainda ali não terás descanso.
-13 Eis a terra dos caldeus, povo que até há pouco não era povo e que a Assíria destinara para os sátiros do deserto; povo que levantou suas torres, e arrasou os palácios de Tiro, e os converteu em ruínas.
-14 Uivai, navios de Társis, porque é destruída a que era a vossa fortaleza!
-15 Naquele dia, Tiro será posta em esquecimento por setenta anos, segundo os dias de um rei; mas no fim dos setenta anos dar-se-á com Tiro o que consta na canção da meretriz:
-16 Toma a harpa, rodeia a cidade, ó meretriz, entregue ao esquecimento; canta bem, toca, multiplica as tuas canções, para que se recordem de ti.
-17 Findos os setenta anos, o Senhor atentará para Tiro, e ela tornará ao salário da sua impureza e se prostituirá com todos os reinos da terra.
-18 O ganho e o salário de sua impureza serão dedicados ao Senhor; não serão entesourados, nem guardados, mas o seu ganho será para os que habitam perante o Senhor, para que tenham comida em abundância e vestes finas.*
-1 Eis que o Senhor vai devastar e desolar a terra, vai transtornar a sua superfície e lhe dispersar os moradores.
-2 O que suceder ao povo sucederá ao sacerdote; ao servo, como ao seu senhor; à serva, como à sua dona; ao comprador, como ao vendedor; ao que empresta, como ao que toma emprestado; ao credor, como ao devedor.
-3 A terra será de todo devastada e totalmente saqueada, porque o Senhor é quem proferiu esta palavra.
-4 A terra pranteia e se murcha; o mundo enfraquece e se murcha; enlanguescem os mais altos do povo da terra.
-5 Na verdade, a terra está contaminada por causa dos seus moradores, porquanto transgridem as leis, violam os estatutos e quebram a aliança eterna.
-6 Por isso, a maldição consome a terra, e os que habitam nela se tornam culpados; por isso, serão queimados os moradores da terra, e poucos homens restarão.
-7 Pranteia o vinho, enlanguesce a vide, e gemem todos os que estavam de coração alegre.
-8 Cessou o folguedo dos tamboris, acabou o ruído dos que exultam, e descansou a alegria da harpa.
-9 Já não se bebe vinho entre canções; a bebida forte é amarga para os que a bebem.
-10 Demolida está a cidade caótica, todas as casas estão fechadas, ninguém já pode entrar.
-11 Gritam por vinho nas ruas, fez-se noite para toda alegria, foi banido da terra o prazer.
-12 Na cidade, reina a desolação, e a porta está reduzida a ruínas.
-13 Porque será na terra, no meio destes povos, como o varejar da oliveira e como o rebuscar, quando está acabada a vindima.
-14 Eles levantam a voz e cantam com alegria; por causa da glória do Senhor, exultam desde o mar.
-15 Por isso, glorificai ao Senhor no Oriente e, nas terras do mar, ao nome do Senhor, Deus de Israel.
-16 Dos confins da terra ouvimos cantar: Glória ao Justo!
-Mas eu digo: definho, definho, ai de mim! Os pérfidos tratam perfidamente; sim, os pérfidos tratam mui perfidamente.
-17 Terror, cova e laço vêm sobre ti, ó morador da terra.
-18 E será que aquele que fugir da voz do terror cairá na cova, e, se sair da cova, o laço o prenderá; porque as represas do alto se abrem, e tremem os fundamentos da terra.
-19 A terra será de todo quebrantada, ela totalmente se romperá, a terra violentamente se moverá.
-20 A terra cambaleará como um bêbado e balanceará como rede de dormir; a sua transgressão pesa sobre ela, ela cairá e jamais se levantará.
-21 Naquele dia, o Senhor castigará, no céu, as hostes celestes, e os reis da terra, na terra.
-22 Serão ajuntados como presos em masmorra, e encerrados num cárcere, e castigados depois de muitos dias.
-23 A lua se envergonhará, e o sol se confundirá quando o Senhor dos Exércitos reinar no monte Sião e em Jerusalém; perante os seus anciãos haverá glória.*
-1 Ó Senhor, tu és o meu Deus; exaltar-te-ei a ti e louvarei o teu nome, porque tens feito maravilhas e tens executado os teus conselhos antigos, fiéis e verdadeiros.
-2 Porque da cidade fizeste um montão de pedras e da cidade forte, uma ruína; a fortaleza dos estranhos já não é cidade e jamais será reedificada.
-3 Pelo que povos fortes te glorificarão, e a cidade das nações opressoras te temerá.
-4 Porque foste a fortaleza do pobre e a fortaleza do necessitado na sua angústia; refúgio contra a tempestade e sombra contra o calor; porque dos tiranos o bufo é como a tempestade contra o muro,
-5 como o calor em lugar seco. Tu abaterás o ímpeto dos estranhos; como se abranda o calor pela sombra da espessa nuvem, assim o hino triunfal dos tiranos será aniquilado.
-6 O Senhor dos Exércitos dará neste monte a todos os povos um banquete de coisas gordurosas, uma festa com vinhos velhos, pratos gordurosos com tutanos e vinhos velhos bem-clarificados.
-7 Destruirá neste monte a coberta que envolve todos os povos e o véu que está posto sobre todas as nações.
-8 Tragará a morte para sempre, e, assim, enxugará o Senhor Deus as lágrimas de todos os rostos, e tirará de toda a terra o opróbrio do seu povo, porque o Senhor falou.
-9 Naquele dia, se dirá: Eis que este é o nosso Deus, em quem esperávamos, e ele nos salvará; este é o Senhor, a quem aguardávamos; na sua salvação exultaremos e nos alegraremos.
-10 Porque a mão do Senhor descansará neste monte; mas Moabe será trilhado no seu lugar, como se pisa a palha na água da cova da esterqueira;
-11 no meio disto estenderá ele as mãos, como as estende o nadador para nadar; mas o Senhor lhe abaterá a altivez, não obstante a perícia das suas mãos;
-12 e abaixará as altas fortalezas dos seus muros; abatê-las-á e derribá-las-á por terra, até ao pó.*
-1 Naquele dia, se entoará este cântico na terra de Judá: Temos uma cidade forte; Deus lhe põe a salvação por muros e baluartes.
-2 Abri vós as portas, para que entre a nação justa, que guarda a fidelidade.
-3 Tu, Senhor, conservarás em perfeita paz aquele cujo propósito é firme; porque ele confia em ti.
-4 Confiai no Senhor perpetuamente, porque o Senhor Deus é uma rocha eterna;
-5 porque ele abate os que habitam no alto, na cidade elevada; abate-a, humilha-a até à terra e até ao pó.
-6 O pé a pisará; os pés dos aflitos, e os passos dos pobres.
-7 A vereda do justo é plana; tu, que és justo, aplanas a vereda do justo.
-8 Também através dos teus juízos, Senhor, te esperamos; no teu nome e na tua memória está o desejo da nossa alma.
-9 Com minha alma suspiro de noite por ti e, com o meu espírito dentro de mim, eu te procuro diligentemente; porque, quando os teus juízos reinam na terra, os moradores do mundo aprendem justiça.
-10 Ainda que se mostre favor ao perverso, nem por isso aprende a justiça; até na terra da retidão ele comete a iniquidade e não atenta para a majestade do Senhor.
-11 Senhor, a tua mão está levantada, mas nem por isso a veem; porém verão o teu zelo pelo povo e se envergonharão; e o teu furor, por causa dos teus adversários, que os consuma.
-12 Senhor, concede-nos a paz, porque todas as nossas obras tu as fazes por nós.
-13 Ó Senhor, Deus nosso, outros senhores têm tido domínio sobre nós; mas graças a ti somente é que louvamos o teu nome.
-14 Mortos não tornarão a viver, sombras não ressuscitam; por isso, os castigaste, e destruíste, e lhes fizeste perecer toda a memória.
-15 Tu, Senhor, aumentaste o povo, aumentaste o povo e tens sido glorificado; a todos os confins da terra dilataste.
-16 Senhor, na angústia te buscaram; vindo sobre eles a tua correção, derramaram as suas orações.
-17 Como a mulher grávida, quando se lhe aproxima a hora de dar à luz, se contorce e dá gritos nas suas dores, assim fomos nós na tua presença, ó Senhor!
-18 Concebemos nós e nos contorcemos em dores de parto, mas o que demos à luz foi vento; não trouxemos à terra livramento algum, e não nasceram moradores do mundo.
-19 Os vossos mortos e também o meu cadáver viverão e ressuscitarão; despertai e exultai, os que habitais no pó, porque o teu orvalho, ó Deus, será como o orvalho de vida, e a terra dará à luz os seus mortos.
-20 Vai, pois, povo meu, entra nos teus quartos e fecha as tuas portas sobre ti; esconde-te só por um momento, até que passe a ira.
-21 Pois eis que o Senhor sai do seu lugar, para castigar a iniquidade dos moradores da terra; a terra descobrirá o sangue que embebeu e já não encobrirá aqueles que foram mortos.*
-1 Naquele dia, o Senhor castigará com a sua dura espada, grande e forte, o dragão, serpente veloz, e o dragão, serpente sinuosa, e matará o monstro que está no mar.
-2 Naquele dia, dirá o Senhor: Cantai a vinha deliciosa!
-3 Eu, o Senhor, a vigio e a cada momento a regarei; para que ninguém lhe faça dano, de noite e de dia eu cuidarei dela.
-4 Não há indignação em mim. Quem me dera espinheiros e abrolhos diante de mim! Em guerra, eu iria contra eles e juntamente os queimaria.
-5 Ou que homens se apoderem da minha força e façam paz comigo; sim, que façam paz comigo.
-6 Dias virão em que Jacó lançará raízes, florescerá e brotará Israel, e encherão de fruto o mundo.
-7 Porventura, feriu o Senhor a Israel como àqueles que o feriram? Ou o matou, assim como àqueles que o mataram?
-8 Com xô!, xô! e exílio o trataste; com forte sopro o expulsaste no dia do vento oriental.
-9 Portanto, com isto será expiada a culpa de Jacó, e este é todo o fruto do perdão do seu pecado: quando o Senhor fizer a todas as pedras do altar como pedras de cal feitas em pedaços, não ficarão em pé os postes-ídolos e os altares do incenso.
-10 Porque a cidade fortificada está solitária, habitação desamparada e abandonada como um deserto; ali pastam os bezerros, deitam-se e devoram os seus ramos.
-11 Quando os seus ramos se secam, são quebrados. Então, vêm as mulheres e lhes deitam fogo, porque este povo não é povo de entendimento; por isso, aquele que o fez não se compadecerá dele, e aquele que o formou não lhe perdoará.
-12 Naquele dia, em que o Senhor debulhará o seu cereal desde o Eufrates até ao ribeiro do Egito; e vós, ó filhos de Israel, sereis colhidos um a um.
-13 Naquele dia, se tocará uma grande trombeta, e os que andavam perdidos pela terra da Assíria e os que forem desterrados para a terra do Egito tornarão a vir e adorarão ao Senhor no monte santo em Jerusalém.*
-1 Ai da soberba coroa dos bêbados de Efraim e da flor caduca da sua gloriosa formosura que está sobre a parte alta do fertilíssimo vale dos vencidos do vinho!
-2 Eis que o Senhor tem certo homem valente e poderoso; este, como uma queda de saraiva, como uma tormenta de destruição e como uma tempestade de impetuosas águas que transbordam, com poder as derribará por terra.
-3 A soberba coroa dos bêbados de Efraim será pisada aos pés.
-4 A flor caduca da sua gloriosa formosura, que está sobre a parte alta do fertilíssimo vale, será como o figo prematuro, que amadurece antes do verão, o qual, em pondo nele alguém os olhos, mal o apanha, já o devora.
-5 Naquele dia, o Senhor dos Exércitos será a coroa de glória e o formoso diadema para os restantes de seu povo;
-6 será o espírito de justiça para o que se assenta a julgar e fortaleza para os que fazem recuar o assalto contra as portas.
-7 Mas também estes cambaleiam por causa do vinho e não podem ter-se em pé por causa da bebida forte; o sacerdote e o profeta cambaleiam por causa da bebida forte, são vencidos pelo vinho, não podem ter-se em pé por causa da bebida forte; erram na visão, tropeçam no juízo.
-8 Porque todas as mesas estão cheias de vômitos, e não há lugar sem imundícia.
-9 A quem, pois, se ensinaria o conhecimento? E a quem se daria a entender o que se ouviu? Acaso, aos desmamados e aos que foram afastados dos seios maternos?
-10 Porque é preceito sobre preceito, preceito e mais preceito; regra sobre regra, regra e mais regra; um pouco aqui, um pouco ali.
-11 Pelo que por lábios gaguejantes e por língua estranha falará o Senhor a este povo,
-12 ao qual ele disse: Este é o descanso, dai descanso ao cansado; e este é o refrigério; mas não quiseram ouvir.
-13 Assim, pois, a palavra do Senhor lhes será preceito sobre preceito, preceito e mais preceito; regra sobre regra, regra e mais regra; um pouco aqui, um pouco ali; para que vão, e caiam para trás, e se quebrantem, se enlacem, e sejam presos.
-14 Ouvi, pois, a palavra do Senhor, homens escarnecedores, que dominais este povo que está em Jerusalém.
-15 Porquanto dizeis: Fizemos aliança com a morte e com o além fizemos acordo; quando passar o dilúvio do açoite, não chegará a nós, porque, por nosso refúgio, temos a mentira e debaixo da falsidade nos temos escondido.
-16 Portanto, assim diz o Senhor Deus: Eis que eu assentei em Sião uma pedra, pedra já provada, pedra preciosa, angular, solidamente assentada; aquele que crer não foge.
-17 Farei do juízo a régua e da justiça, o prumo; a saraiva varrerá o refúgio da mentira, e as águas arrastarão o esconderijo.
-18 A vossa aliança com a morte será anulada, e o vosso acordo com o além não subsistirá; e, quando o dilúvio do açoite passar, sereis esmagados por ele.
-19 Todas as vezes que passar, vos arrebatará, porque passará manhã após manhã, e todos os dias, e todas as noites; e será puro terror o só ouvir tal notícia.
-20 Porque a cama será tão curta, que ninguém se poderá estender nela; e o cobertor, tão estreito, que ninguém se poderá cobrir com ele.
-21 Porque o Senhor se levantará, como no monte Perazim, e se irará, como no vale de Gibeão, para realizar a sua obra, a sua obra estranha, e para executar o seu ato, o seu ato inaudito.
-22 Agora, pois, não mais escarneçais, para que os vossos grilhões não se façam mais fortes; porque já do Senhor, o Senhor dos Exércitos, ouvi falar de uma destruição, e essa já está determinada sobre toda a terra.
-23 Inclinai os ouvidos e ouvi a minha voz; atendei bem e ouvi o meu discurso.
-24 Porventura, lavra todo dia o lavrador, para semear? Ou todo dia sulca a sua terra e a esterroa?
-25 Porventura, quando já tem nivelado a superfície, não lhe espalha o endro, não semeia o cominho, não lança nela o trigo em leiras, ou cevada, no devido lugar, ou a espelta, na margem?
-26 Pois o seu Deus assim o instrui devidamente e o ensina.
-27 Porque o endro não se trilha com instrumento de trilhar, nem sobre o cominho se passa roda de carro; mas com vara se sacode o endro, e o cominho, com pau.
-28 Acaso, é esmiuçado o cereal? Não; o lavrador nem sempre o está debulhando, nem sempre está fazendo passar por cima dele a roda do seu carro e os seus cavalos.
-29 Também isso procede do Senhor dos Exércitos; ele é maravilhoso em conselho e grande em sabedoria.*
-1 Ai da Lareira de Deus, cidade-lareira de Deus, em que Davi assentou o seu arraial! Acrescentai ano a ano, deixai as festas que completem o seu ciclo;
-2 então, porei a Lareira de Deus em aperto, e haverá pranto e lamentação; e ela será para mim verdadeira Lareira de Deus.
-3 Acamparei ao derredor de ti, cercar-te-ei com baluartes e levantarei tranqueiras contra ti.
-4 Então, lançada por terra, do chão falarás, e do pó sairá afogada a tua fala; subirá da terra a tua voz como a de um fantasma; como um cochicho, a tua fala, desde o pó.
-5 Mas a multidão dos teus inimigos será como o pó miúdo, e a multidão dos tiranos, como a palha que voa; dar-se-á isto, de repente, num instante.
-6 Do Senhor dos Exércitos vem o castigo com trovões, com terremotos, grande estrondo, tufão de vento, tempestade e chamas devoradoras.
-7 Como sonho e visão noturna será a multidão de todas as nações que hão de pelejar contra a Lareira de Deus, como também todos os que pelejarem contra ela e contra os seus baluartes e a puserem em aperto.
-8 Será também como o faminto que sonha que está a comer, mas, acordando, sente-se vazio; ou como o sequioso que sonha que está a beber, mas, acordando, sente-se desfalecido e sedento; assim será toda a multidão das nações que pelejarem contra o monte Sião.
-9 Estatelai-vos e ficai estatelados, cegai-vos e permanecei cegos; bêbados estão, mas não de vinho; andam cambaleando, mas não de bebida forte.
-10 Porque o Senhor derramou sobre vós o espírito de profundo sono, e fechou os vossos olhos, que são os profetas, e vendou a vossa cabeça, que são os videntes.
-11 Toda visão já se vos tornou como as palavras de um livro selado, que se dá ao que sabe ler, dizendo: Lê isto, peço-te; e ele responde: Não posso, porque está selado;
-12 e dá-se o livro ao que não sabe ler, dizendo: Lê isto, peço-te; e ele responde: Não sei ler.
-13 O Senhor disse: Visto que este povo se aproxima de mim e com a sua boca e com os seus lábios me honra, mas o seu coração está longe de mim, e o seu temor para comigo consiste só em mandamentos de homens, que maquinalmente aprendeu,
-14 continuarei a fazer obra maravilhosa no meio deste povo; sim, obra maravilhosa e um portento; de maneira que a sabedoria dos seus sábios perecerá, e a prudência dos seus prudentes se esconderá.
-15 Ai dos que escondem profundamente o seu propósito do Senhor, e as suas próprias obras fazem às escuras, e dizem: Quem nos vê? Quem nos conhece?
-16 Que perversidade a vossa! Como se o oleiro fosse igual ao barro, e a obra dissesse do seu artífice: Ele não me fez; e a coisa feita dissesse do seu oleiro: Ele nada sabe.
-17 Porventura, dentro em pouco não se converterá o Líbano em pomar, e o pomar não será tido por bosque?
-18 Naquele dia, os surdos ouvirão as palavras do livro, e os cegos, livres já da escuridão e das trevas, as verão.
-19 Os mansos terão regozijo sobre regozijo no Senhor, e os pobres entre os homens se alegrarão no Santo de Israel.
-20 Pois o tirano é reduzido a nada, o escarnecedor já não existe, e já se acham eliminados todos os que cogitam da iniquidade,
-21 os quais por causa de uma palavra condenam um homem, os que põem armadilhas ao que repreende na porta, e os que sem motivo negam ao justo o seu direito.
-22 Portanto, acerca da casa de Jacó, assim diz o Senhor, que remiu a Abraão: Jacó já não será envergonhado, nem mais se empalidecerá o seu rosto.
-23 Mas, quando ele e seus filhos virem a obra das minhas mãos no meio deles, santificarão o meu nome; sim, santificarão o Santo de Jacó e temerão o Deus de Israel.
-24 E os que erram de espírito virão a ter entendimento, e os murmuradores hão de aceitar instrução.*
-1 Ai dos filhos rebeldes, diz o Senhor, que executam planos que não procedem de mim e fazem aliança sem a minha aprovação, para acrescentarem pecado sobre pecado!
-2 Que descem ao Egito sem me consultar, buscando refúgio em Faraó e abrigo, à sombra do Egito!
-3 Mas o refúgio de Faraó se vos tornará em vergonha, e o abrigo na sombra do Egito, em confusão.
-4 Porque os príncipes de Judá já estão em Zoã, e os seus embaixadores já chegaram a Hanes.
-5 Todos se envergonharão de um povo que de nada lhes valerá, não servirá nem de ajuda nem de proveito, porém de vergonha e de opróbrio.
-6 Sentença contra a Besta do Sul. Através da terra da aflição e angústia de onde vêm a leoa, o leão, a víbora e a serpente volante, levam a lombos de jumento as suas riquezas e sobre as corcovas de camelos, os seus tesouros, a um povo que de nada lhes aproveitará.
-7 Pois, quanto ao Egito, vão e inútil é o seu auxílio; por isso, lhe chamei Gabarola que nada faz.
-8 Vai, pois, escreve isso numa tabuinha perante eles, escreve-o num livro, para que fique registrado para os dias vindouros, para sempre, perpetuamente.
-9 Porque povo rebelde é este, filhos mentirosos, filhos que não querem ouvir a lei do Senhor.
-10 Eles dizem aos videntes: Não tenhais visões; e aos profetas: Não profetizeis para nós o que é reto; dizei-nos coisas aprazíveis, profetizai-nos ilusões;
-11 desviai-vos do caminho, apartai-vos da vereda; não nos faleis mais do Santo de Israel.
-12 Pelo que assim diz o Santo de Israel: Visto que rejeitais esta palavra, confiais na opressão e na perversidade e sobre isso vos estribais,
-13 portanto, esta maldade vos será como a brecha de um muro alto, que, formando uma barriga, está prestes a cair, e cuja queda vem de repente, num momento.
-14 O Senhor o quebrará como se quebra o vaso do oleiro, despedaçando-o sem nada lhe poupar; não se achará entre os seus cacos um que sirva para tomar fogo da lareira ou tirar água da poça.
-15 Porque assim diz o Senhor Deus, o Santo de Israel: Em vos converterdes e em sossegardes, está a vossa salvação; na tranquilidade e na confiança, a vossa força, mas não o quisestes.
-16 Antes, dizeis: Não, sobre cavalos fugiremos; portanto, fugireis; e: Sobre cavalos ligeiros cavalgaremos; sim, ligeiros serão os vossos perseguidores.
-17 Mil homens fugirão pela ameaça de apenas um; pela ameaça de cinco, todos vós fugireis, até que sejais deixados como o mastro no cimo do monte e como o estandarte no outeiro.
-18 Por isso, o Senhor espera, para ter misericórdia de vós, e se detém, para se compadecer de vós, porque o Senhor é Deus de justiça; bem-aventurados todos os que nele esperam.
-19 Porque o povo habitará em Sião, em Jerusalém; tu não chorarás mais; certamente, se compadecerá de ti, à voz do teu clamor, e, ouvindo-a, te responderá.
-20 Embora o Senhor vos dê pão de angústia e água de aflição, contudo, não se esconderão mais os teus mestres; os teus olhos verão os teus mestres.
-21 Quando te desviares para a direita e quando te desviares para a esquerda, os teus ouvidos ouvirão atrás de ti uma palavra, dizendo: Este é o caminho, andai por ele.
-22 E terás por contaminados a prata que recobre as imagens esculpidas e o ouro que reveste as tuas imagens de fundição; lançá-las-ás fora como coisa imunda e a cada uma dirás: Fora daqui!
-23 Então, o Senhor te dará chuva sobre a tua semente, com que semeares a terra, como também pão como produto da terra, o qual será farto e nutritivo; naquele dia, o teu gado pastará em lugares espaçosos.
-24 Os bois e os jumentos que lavram a terra comerão forragem com sal, alimpada com pá e forquilha.
-25 Em todo monte alto e em todo outeiro elevado haverá ribeiros e correntes de águas, no dia da grande matança quando caírem as torres.
-26 A luz da lua será como a do sol, e a do sol, sete vezes maior, como a luz de sete dias, no dia em que o Senhor atar a ferida do seu povo e curar a chaga do golpe que ele deu.
-27 Eis o nome do Senhor vem de longe, ardendo na sua ira, no meio de espessas nuvens; os seus lábios estão cheios de indignação, e a sua língua é como fogo devorador.
-28 A sua respiração é como a torrente que transborda e chega até ao pescoço, para peneirar as nações com peneira de destruição; um freio de fazer errar estará nos queixos dos povos.
-29 Um cântico haverá entre vós, como na noite em que se celebra festa santa; e alegria de coração, como a daquele que sai ao som da flauta para ir ao monte do Senhor, à Rocha de Israel.
-30 O Senhor fará ouvir a sua voz majestosa e fará ver o golpe do seu braço, que desce com indignação de ira, no meio de chamas devoradoras, de chuvas torrenciais, de tempestades e de pedra de saraiva.
-31 Porque com a voz do Senhor será apavorada a Assíria, quando ele a fere com a vara.
-32 Cada pancada castigadora, com a vara, que o Senhor lhe der, será ao som de tamboris e harpas; e combaterá vibrando golpes contra eles.
-33 Porque há muito está preparada a fogueira, preparada para o rei; a pira é profunda e larga, com fogo e lenha em abundância; o assopro do Senhor, como torrente de enxofre, a acenderá.*
-1 Ai dos que descem ao Egito em busca de socorro e se estribam em cavalos; que confiam em carros, porque são muitos, e em cavaleiros, porque são mui fortes, mas não atentam para o Santo de Israel, nem buscam ao Senhor!
-2 Todavia, este é sábio, e faz vir o mal, e não retira as suas palavras; ele se levantará contra a casa dos malfeitores e contra a ajuda dos que praticam a iniquidade.
-3 Pois os egípcios são homens e não deuses; os seus cavalos, carne e não espírito. Quando o Senhor estender a mão, cairão por terra tanto o auxiliador como o ajudado, e ambos juntamente serão consumidos.
-4 Porque assim me disse o Senhor: Como o leão e o cachorro do leão rugem sobre a sua presa, ainda que se convoque contra eles grande número de pastores, e não se espantam das suas vozes, nem se abatem pela sua multidão, assim o Senhor dos Exércitos descerá, para pelejar sobre o monte Sião e sobre o seu outeiro.
-5 Como pairam as aves, assim o Senhor dos Exércitos amparará a Jerusalém; protegê-la-á e salvá-la-á, poupá-la-á e livrá-la-á.
-6 Convertei-vos, pois, ó filhos de Israel, àquele de quem tanto vos afastastes.
-7 Pois, naquele dia, cada um lançará fora os seus ídolos de prata e os seus ídolos de ouro, que as vossas mãos fabricaram para pecardes.
-8 Então, a Assíria cairá pela espada, não de homem; a espada, não de homem, a devorará; fugirá diante da espada, e os seus jovens serão sujeitos a trabalhos forçados.
-9 De medo não atinará com a sua rocha de refúgio; os seus príncipes, espavoridos, desertarão a bandeira, diz o Senhor, cujo fogo está em Sião e cuja fornalha, em Jerusalém.*
-1 Eis aí está que reinará um rei com justiça, e em retidão governarão príncipes.
-2 Cada um servirá de esconderijo contra o vento, de refúgio contra a tempestade, de torrentes de águas em lugares secos e de sombra de grande rocha em terra sedenta.
-3 Os olhos dos que veem não se ofuscarão, e os ouvidos dos que ouvem estarão atentos.
-4 O coração dos temerários saberá compreender, e a língua dos gagos falará pronta e distintamente.
-5 Ao louco nunca mais se chamará nobre, e do fraudulento jamais se dirá que é magnânimo.
-6 Porque o louco fala loucamente, e o seu coração obra o que é iníquo, para usar de impiedade e para proferir mentiras contra o Senhor, para deixar o faminto na ânsia da sua fome e fazer que o sedento venha a ter falta de bebida.
-7 Também as armas do fraudulento são más; ele maquina intrigas para arruinar os desvalidos, com palavras falsas, ainda quando a causa do pobre é justa.
-8 Mas o nobre projeta coisas nobres e na sua nobreza perseverará.
-9 Levantai-vos, mulheres que viveis despreocupadamente, e ouvi a minha voz; vós, filhas, que estais confiantes, inclinai os ouvidos às minhas palavras.
-10 Porque daqui a um ano e dias vireis a tremer, ó mulheres que estais confiantes, porque a vindima se acabará, e não haverá colheita.
-11 Tremei, mulheres que viveis despreocupadamente; turbai-vos, vós que estais confiantes. Despi-vos, e ponde-vos desnudas, e cingi com panos de saco os lombos.
-12 Batei no peito por causa dos campos aprazíveis e por causa das vinhas frutíferas.
-13 Sobre a terra do meu povo virão espinheiros e abrolhos, como também sobre todas as casas onde há alegria, na cidade que exulta.
-14 O palácio será abandonado, a cidade populosa ficará deserta; Ofel e a torre da guarda servirão de cavernas para sempre, folga para os jumentos selvagens e pastos para os rebanhos;
-15 até que se derrame sobre nós o Espírito lá do alto; então, o deserto se tornará em pomar, e o pomar será tido por bosque;
-16 o juízo habitará no deserto, e a justiça morará no pomar.
-17 O efeito da justiça será paz, e o fruto da justiça, repouso e segurança, para sempre.
-18 O meu povo habitará em moradas de paz, em moradas bem seguras e em lugares quietos e tranquilos,
-19 ainda que haja saraivada, caia o bosque e seja a cidade inteiramente abatida.
-20 Bem-aventurados vós, os que semeais junto a todas as águas e dais liberdade ao pé do boi e do jumento.*
-1 Ai de ti, destruidor que não foste destruído, que procedes perfidamente e não foste tratado com perfídia! Acabando tu de destruir, serás destruído, acabando de tratar perfidamente, serás tratado com perfídia.
-2 Senhor, tem misericórdia de nós; em ti temos esperado; sê tu o nosso braço manhã após manhã e a nossa salvação no tempo da angústia.
-3 Ao ruído do tumulto, fogem os povos; quando tu te ergues, as nações são dispersas.
-4 Então, ajuntar-se-á o vosso despojo como se ajuntam as lagartas; como os gafanhotos saltam, assim os homens saltarão sobre ele.
-5 O Senhor é sublime, pois habita nas alturas; encheu a Sião de direito e de justiça.
-6 Haverá, ó Sião, estabilidade nos teus tempos, abundância de salvação, sabedoria e conhecimento; o temor do Senhor será o teu tesouro.
-7 Eis que os heróis pranteiam de fora, e os mensageiros de paz estão chorando amargamente.
-8 As estradas estão desoladas, cessam os que passam por elas; rompem-se as alianças, as cidades são desprezadas, já não se faz caso do homem.
-9 A terra geme e desfalece; o Líbano se envergonha e se murcha; Sarom se torna como um deserto, Basã e Carmelo são despidos de suas folhas.
-10 Agora, me levantarei, diz o Senhor; levantar-me-ei a mim mesmo; agora, serei exaltado.
-11 Concebestes palha, dareis à luz restolho; o vosso bufo enfurecido é fogo que vos há de devorar.
-12 Os povos serão queimados como se queima a cal; como espinhos cortados, arderão no fogo.
-13 Ouvi vós, os que estais longe, o que tenho feito; e vós, os que estais perto, reconhecei o meu poder.
-14 Os pecadores em Sião se assombram, o tremor se apodera dos ímpios; e eles perguntam: Quem dentre nós habitará com o fogo devorador? Quem dentre nós habitará com chamas eternas?
-15 O que anda em justiça e fala o que é reto; o que despreza o ganho de opressão; o que, com um gesto de mãos, recusa aceitar suborno; o que tapa os ouvidos, para não ouvir falar de homicídios, e fecha os olhos, para não ver o mal,
-16 este habitará nas alturas; as fortalezas das rochas serão o seu alto refúgio, o seu pão lhe será dado, as suas águas serão certas.
-17 Os teus olhos verão o rei na sua formosura, verão a terra que se estende até longe.
-18 O teu coração se recordará dos terrores, dizendo: Onde está aquele que registrou, onde, o que pesou o tributo, onde, o que contou as torres?
-19 Já não verás aquele povo atrevido, povo de fala obscura, que não se pode entender, e de língua bárbara, ininteligível.
-20 Olha para Sião, a cidade das nossas solenidades; os teus olhos verão a Jerusalém, habitação tranquila, tenda que não será removida, cujas estacas nunca serão arrancadas, nem rebentada nenhuma de suas cordas.
-21 Mas o Senhor ali nos será grandioso, fará as vezes de rios e correntes largas; barco nenhum de remo passará por eles, navio grande por eles não navegará.
-22 Porque o Senhor é o nosso juiz, o Senhor é o nosso legislador, o Senhor é o nosso Rei; ele nos salvará.
-23 Agora, as tuas enxárcias estão frouxas; não podem ter firme o mastro, nem estender a vela. Então, se repartirá a presa de abundantes despojos; até os coxos participarão dela.
-24 Nenhum morador de Jerusalém dirá: Estou doente; porque ao povo que habita nela, perdoar-se-lhe-á a sua iniquidade.*
-1 Chegai-vos, nações, para ouvir, e vós, povos, escutai; ouça a terra e a sua plenitude, o mundo e tudo quanto produz.
-2 Porque a indignação do Senhor está contra todas as nações, e o seu furor, contra todo o exército delas; ele as destinou para a destruição e as entregou à matança.
-3 Os seus mortos serão lançados fora, dos seus cadáveres subirá o mau cheiro, e do sangue deles os montes se inundarão.
-4 Todo o exército dos céus se dissolverá, e os céus se enrolarão como um pergaminho; todo o seu exército cairá, como cai a folha da vide e a folha da figueira.
-5 Porque a minha espada se embriagou nos céus; eis que, para exercer juízo, desce sobre Edom e sobre o povo que destinei para a destruição.
-6 A espada do Senhor está cheia de sangue, engrossada da gordura e do sangue de cordeiros e de bodes, da gordura dos rins de carneiros; porque o Senhor tem sacrifício em Bozra e grande matança na terra de Edom.
-7 Os bois selvagens cairão com eles, e os novilhos, com os touros; a sua terra se embriagará de sangue, e o seu pó se tornará fértil com a gordura.
-8 Porque será o dia da vingança do Senhor, ano de retribuições pela causa de Sião.
-9 Os ribeiros de Edom se transformarão em piche, e o seu pó, em enxofre; a sua terra se tornará em piche ardente.
-10 Nem de noite nem de dia se apagará; subirá para sempre a sua fumaça; de geração em geração será assolada, e para todo o sempre ninguém passará por ela.
-11 Mas o pelicano e o ouriço a possuirão; o bufo e o corvo habitarão nela. Estender-se-á sobre ela o cordel de destruição e o prumo de ruína.
-12 Já não haverá nobres para proclamarem um rei; os seus príncipes já não existem.
-13 Nos seus palácios, crescerão espinhos, e urtigas e cardos, nas suas fortalezas; será uma habitação de chacais e morada de avestruzes.
-14 As feras do deserto se encontrarão com as hienas, e os sátiros clamarão uns para os outros; fantasmas ali pousarão e acharão para si lugar de repouso.
-15 Aninhar-se-á ali a coruja, e porá os seus ovos, e os chocará, e na sombra abrigará os seus filhotes; também ali os abutres se ajuntarão, um com o outro.
-16 Buscai no livro do Senhor e lede: Nenhuma destas criaturas falhará, nem uma nem outra faltará; porque a boca do Senhor o ordenou, e o seu Espírito mesmo as ajuntará.
-17 Porque ele lançou as sortes a favor delas, e a sua mão lhes repartiu a terra com o cordel; para sempre a possuirão, através de gerações habitarão nela.*
-1 O deserto e a terra se alegrarão; o ermo exultará e florescerá como o narciso.
-2 Florescerá abundantemente, jubilará de alegria e exultará; deu-se-lhes a glória do Líbano, o esplendor do Carmelo e de Sarom; eles verão a glória do Senhor, o esplendor do nosso Deus.
-3 Fortalecei as mãos frouxas e firmai os joelhos vacilantes.
-4 Dizei aos desalentados de coração: Sede fortes, não temais. Eis o vosso Deus. A vingança vem, a retribuição de Deus; ele vem e vos salvará.
-5 Então, se abrirão os olhos dos cegos, e se desimpedirão os ouvidos dos surdos;
-6 os coxos saltarão como cervos, e a língua dos mudos cantará; pois águas arrebentarão no deserto, e ribeiros, no ermo.
-7 A areia esbraseada se transformará em lagos, e a terra sedenta, em mananciais de águas; onde outrora viviam os chacais, crescerá a erva com canas e juncos.
-8 E ali haverá bom caminho, caminho que se chamará o Caminho Santo; o imundo não passará por ele, pois será somente para o seu povo; quem quer que por ele caminhe não errará, nem mesmo o louco.
-9 Ali não haverá leão, animal feroz não passará por ele, nem se achará nele; mas os remidos andarão por ele.
-10 Os resgatados do Senhor voltarão e virão a Sião com cânticos de júbilo; alegria eterna coroará a sua cabeça; gozo e alegria alcançarão, e deles fugirá a tristeza e o gemido.*
-1 No ano décimo quarto do rei Ezequias, subiu Senaqueribe, rei da Assíria, contra todas as cidades fortificadas de Judá e as tomou.
-2 O rei da Assíria enviou Rabsaqué, de Laquis a Jerusalém, ao rei Ezequias, com grande exército; parou ele na extremidade do aqueduto do açude superior, junto ao caminho do campo do lavadeiro.
-3 Então, saíram a encontrar-se com ele Eliaquim, filho de Hilquias, o mordomo, Sebna, o escrivão, e Joá, filho de Asafe, o cronista.
-4 Rabsaqué lhes disse: Dizei a Ezequias: Assim diz o sumo rei, o rei da Assíria: Que confiança é essa em que te estribas?
-5 Bem posso dizer-te que teu conselho e poder para a guerra não passam de vãs palavras; em quem, pois, agora confias, para que te rebeles contra mim?
-6 Confias no Egito, esse bordão de cana esmagada, o qual, se alguém nele apoiar-se, lhe entrará pela mão e a traspassará; assim é Faraó, rei do Egito, para com todos os que nele confiam.
-7 Mas, se me dizes: Confiamos no Senhor, nosso Deus, não é esse aquele cujos altos e altares Ezequias removeu e disse a Judá e a Jerusalém: Perante este altar adorareis?
-8 Ora, pois, empenha-te com meu senhor, rei da Assíria, e dar-te-ei dois mil cavalos, se de tua parte achares cavaleiros para os montar.
-9 Como, pois, se não podes afugentar um só capitão dos menores dos servos do meu senhor, confias no Egito por causa dos carros e cavaleiros?
-10 Acaso, subi eu agora sem o Senhor contra esta terra, para a destruir? Pois o Senhor mesmo me disse: Sobe contra a terra e destrói-a.
-11 Então, disseram Eliaquim, Sebna e Joá a Rabsaqué: Pedimos-te que fales em aramaico aos teus servos, porque o entendemos, e não nos fales em judaico, aos ouvidos do povo que está sobre os muros.
-12 Mas Rabsaqué lhes respondeu: Mandou-me, acaso, o meu senhor para dizer-te estas palavras a ti somente e a teu senhor? E não, antes, aos homens que estão assentados sobre os muros, para que comam convosco o seu próprio excremento e bebam a sua própria urina?
-13 Então, Rabsaqué se pôs em pé, e clamou em alta voz em judaico, e disse: Ouvi as palavras do sumo rei, do rei da Assíria.
-14 Assim diz o rei: Não vos engane Ezequias; porque não vos poderá livrar.
-15 Nem tampouco Ezequias vos faça confiar no Senhor, dizendo: O Senhor certamente nos livrará, e esta cidade não será entregue nas mãos do rei da Assíria.
-16 Não deis ouvidos a Ezequias; porque assim diz o rei da Assíria: Fazei as pazes comigo e vinde para mim; e comei, cada um da sua própria vide e da sua própria figueira, e bebei, cada um da água da sua própria cisterna;
-17 até que eu venha e vos leve para uma terra como a vossa; terra de cereal e de vinho, terra de pão e de vinhas.
-18 Não vos engane Ezequias, dizendo: O Senhor nos livrará. Acaso, os deuses das nações livraram cada um a sua terra das mãos do rei da Assíria?
-19 Onde estão os deuses de Hamate e de Arpade? Onde estão os deuses de Sefarvaim? Acaso, livraram eles a Samaria das minhas mãos?
-20 Quais são, dentre todos os deuses destes países, os que livraram a sua terra das minhas mãos, para que o Senhor livre a Jerusalém das minhas mãos?
-21 Eles, porém, se calaram e não lhe responderam palavra; porque assim lhes havia ordenado o rei, dizendo: Não lhe respondereis.
-22 Então, Eliaquim, filho de Hilquias, o mordomo, e Sebna, o escrivão, e Joá, filho de Asafe, o cronista, rasgaram suas vestes, vieram ter com Ezequias e lhe referiram as palavras de Rabsaqué.*
-1 Tendo o rei Ezequias ouvido isto, rasgou as suas vestes, cobriu-se de pano de saco e entrou na Casa do Senhor.
-2 Então, enviou a Eliaquim, o mordomo, a Sebna, o escrivão, e aos anciãos dos sacerdotes, com vestes de pano de saco, ao profeta Isaías, filho de Amoz,
-3 os quais lhe dissessem: Assim diz Ezequias: Este dia é dia de angústia, de castigo e de opróbrio; porque filhos são chegados à hora de nascer, e não há força para dá-los à luz.
-4 Porventura, o Senhor, teu Deus, terá ouvido as palavras de Rabsaqué, a quem o rei da Assíria, seu senhor, enviou para afrontar o Deus vivo, e repreenderá as palavras que o Senhor ouviu; faze, pois, tuas orações pelos que ainda subsistem.
-5 Foram, pois, os servos do rei Ezequias ter com Isaías;
-6 Isaías lhes disse: Dizei isto a vosso senhor: Assim diz o Senhor: Não temas por causa das palavras que ouviste, com as quais os servos do rei da Assíria blasfemaram contra mim.
-7 Eis que meterei nele um espírito, e ele, ao ouvir certo rumor, voltará para a sua terra; e nela eu o farei cair morto à espada.
-8 Voltou, pois, Rabsaqué e encontrou o rei da Assíria pelejando contra Libna; porque ouvira que o rei já se havia retirado de Laquis.
-9 O rei ouviu que, a respeito de Tiraca, rei da Etiópia, se dizia: Saiu para guerrear contra ti. Assim que ouviu isto, enviou mensageiros a Ezequias, dizendo:
-10 Assim falareis a Ezequias, rei de Judá: Não te engane o teu Deus, em quem confias, dizendo: Jerusalém não será entregue nas mãos do rei da Assíria.
-11 Já tens ouvido o que fizeram os reis da Assíria a todas as terras, como as destruíram totalmente; e crês tu que te livrarias?
-12 Porventura, os deuses das nações livraram os povos que meus pais destruíram: Gozã, Harã, Rezefe e os filhos de Éden, que estavam em Telassar?
-13 Onde está o rei de Hamate, e o rei de Arpade, e o rei da cidade de Sefarvaim, de Hena e de Iva?
-14 Tendo Ezequias recebido a carta das mãos dos mensageiros, leu-a; então, subiu à Casa do Senhor, estendeu-a perante o Senhor
-15 e orou ao Senhor, dizendo:
-16 Ó Senhor dos Exércitos, Deus de Israel, que estás entronizado acima dos querubins, tu somente és o Deus de todos os reinos da terra; tu fizeste os céus e a terra.
-17 Inclina, ó Senhor, os ouvidos e ouve; abre, Senhor, os olhos e vê; ouve todas as palavras de Senaqueribe, as quais ele enviou para afrontar o Deus vivo.
-18 Verdade é, Senhor, que os reis da Assíria assolaram todos os países e suas terras
-19 e lançaram no fogo os deuses deles, porque deuses não eram, senão obra de mãos de homens, madeira e pedra; por isso, os destruíram.
-20 Agora, pois, ó Senhor, nosso Deus, livra-nos das suas mãos, para que todos os reinos da terra saibam que só tu és o Senhor.
-21 Então, Isaías, filho de Amoz, mandou dizer a Ezequias: Assim diz o Senhor, o Deus de Israel: Visto que me pediste acerca de Senaqueribe, rei da Assíria,
-22 esta é a palavra que o Senhor falou a respeito dele: A virgem, filha de Sião, te despreza e zomba de ti; a filha de Jerusalém meneia a cabeça por detrás de ti.
-23 A quem afrontaste e de quem blasfemaste? E contra quem alçaste a voz e arrogantemente ergueste os olhos? Contra o Santo de Israel.
-24 Por meio dos teus servos, afrontaste o Senhor e disseste: Com a multidão dos meus carros, subi ao cimo dos montes, ao mais interior do Líbano; deitarei abaixo os seus altos cedros e os ciprestes escolhidos, chegarei ao seu mais alto cimo, ao seu denso e fértil pomar.
-25 Cavei e bebi as águas e com a planta de meus pés sequei todos os rios do Egito.
-26 Acaso, não ouviste que já há muito dispus eu estas coisas, já desde os dias remotos o tinha planejado? Agora, porém, as faço executar e eu quis que tu reduzisses a montões de ruínas as cidades fortificadas.
-27 Por isso, os seus moradores, debilitados, andaram cheios de temor e envergonhados; tornaram-se como a erva do campo, e a erva verde, e o capim dos telhados, e o cereal queimado antes de amadurecer.
-28 Mas eu conheço o teu assentar, e o teu sair, e o teu entrar, e o teu furor contra mim.
-29 Por causa do teu furor contra mim, e porque a tua arrogância subiu até aos meus ouvidos, eis que porei o meu anzol no teu nariz, e o meu freio, na tua boca, e te farei voltar pelo caminho por onde vieste.
-30 Isto te será por sinal: este ano se comerá o que espontaneamente nascer e no segundo ano o que daí proceder; no terceiro ano, porém, semeai e colhei, plantai vinhas e comei os seus frutos.
-31 O que escapou da casa de Judá e ficou de resto tornará a lançar raízes para baixo e dará fruto por cima;
-32 porque de Jerusalém sairá o restante, e do monte Sião, o que escapou. O zelo do Senhor dos Exércitos fará isto.
-33 Pelo que assim diz o Senhor acerca do rei da Assíria: Não entrará nesta cidade, nem lançará nela flecha alguma, não virá perante ela com escudo, nem há de levantar tranqueiras contra ela.
-34 Pelo caminho por onde vier, por esse voltará; mas nesta cidade não entrará, diz o Senhor.
-35 Porque eu defenderei esta cidade, para a livrar, por amor de mim e por amor do meu servo Davi.
-36 Então, saiu o Anjo do Senhor e feriu no arraial dos assírios a cento e oitenta e cinco mil; e, quando se levantaram os restantes pela manhã, eis que todos estes eram cadáveres.
-37 Retirou-se, pois, Senaqueribe, rei da Assíria, e se foi; voltou e ficou em Nínive.
-38 Sucedeu que, estando ele a adorar na casa de Nisroque, seu deus, Adrameleque e Sarezer, seus filhos, o feriram à espada e fugiram para a terra de Ararate; e Esar-Hadom, seu filho, reinou em seu lugar.*
-1 Naqueles dias, Ezequias adoeceu de uma enfermidade mortal; veio ter com ele o profeta Isaías, filho de Amoz, e lhe disse: Assim diz o Senhor: Põe em ordem a tua casa, porque morrerás e não viverás.
-2 Então, virou Ezequias o rosto para a parede e orou ao Senhor.
-3 E disse: Lembra-te, Senhor, peço-te, de que andei diante de ti com fidelidade, com inteireza de coração e fiz o que era reto aos teus olhos; e chorou muitíssimo.
-4 Então, veio a palavra do Senhor a Isaías, dizendo:
-5 Vai e dize a Ezequias: Assim diz o Senhor, o Deus de Davi, teu pai: Ouvi a tua oração e vi as tuas lágrimas; acrescentarei, pois, aos teus dias quinze anos.
-6 Livrar-te-ei das mãos do rei da Assíria, a ti e a esta cidade, e defenderei esta cidade.
-7 Ser-te-á isto da parte do Senhor como sinal de que o Senhor cumprirá esta palavra que falou:
-8 eis que farei retroceder dez graus a sombra lançada pelo sol declinante no relógio de Acaz. Assim, retrocedeu o sol os dez graus que já havia declinado.
-9 Cântico de Ezequias, rei de Judá, depois de ter estado doente e se ter restabelecido:
-10 Eu disse: Em pleno vigor de meus dias, hei de entrar nas portas do além; roubado estou do resto dos meus anos.
-11 Eu disse: já não verei o Senhor na terra dos viventes; jamais verei homem algum entre os moradores do mundo.
-12 A minha habitação foi arrancada e removida para longe de mim, como a tenda de um pastor; tu, como tecelão, me cortarás a vida da urdidura, do dia para a noite darás cabo de mim.
-13 Espero com paciência até à madrugada, mas ele, como leão, me quebrou todos os ossos; do dia para a noite darás cabo de mim.
-14 Como a andorinha ou o grou, assim eu chilreava e gemia como a pomba; os meus olhos se cansavam de olhar para cima. Ó Senhor, ando oprimido, responde tu por mim.
-15 Que direi? Como prometeu, assim me fez; passarei tranquilamente por todos os meus anos, depois desta amargura da minha alma.
-16 Senhor, por estas disposições tuas vivem os homens, e inteiramente delas depende o meu espírito; portanto, restaura-me a saúde e faze-me viver.
-17 Eis que foi para minha paz que tive eu grande amargura; tu, porém, amaste a minha alma e a livraste da cova da corrupção, porque lançaste para trás de ti todos os meus pecados.
-18 A sepultura não te pode louvar, nem a morte glorificar-te; não esperam em tua fidelidade os que descem à cova.
-19 Os vivos, somente os vivos, esses te louvam como hoje eu o faço; o pai fará notória aos filhos a tua fidelidade.
-20 O Senhor veio salvar-me; pelo que, tangendo os instrumentos de cordas, nós o louvaremos todos os dias de nossa vida, na Casa do Senhor.
-21 Ora, Isaías dissera: Tome-se uma pasta de figos e ponha-se como emplasto sobre a úlcera; e ele recuperará a saúde.
-22 Também dissera Ezequias: Qual será o sinal de que hei de subir à Casa do Senhor?*
-1 Nesse tempo, Merodaque-Baladã, filho de Baladã, rei da Babilônia, enviou cartas e um presente a Ezequias, porque soube que estivera doente e já tinha convalescido.
-2 Ezequias se agradou disso e mostrou aos mensageiros a casa do seu tesouro, a prata, o ouro, as especiarias, os óleos finos, todo o seu arsenal e tudo quanto se achava nos seus tesouros; nenhuma coisa houve, nem em sua casa, nem em todo o seu domínio, que Ezequias não lhes mostrasse.
-3 Então, Isaías, o profeta, veio ao rei Ezequias e lhe disse: Que foi que aqueles homens disseram e donde vieram a ti? Respondeu Ezequias: De uma terra longínqua vieram a mim, da Babilônia.
-4 Perguntou ele: Que viram em tua casa? Respondeu Ezequias: Viram tudo quanto há em minha casa; coisa nenhuma há nos meus tesouros que eu não lhes mostrasse.
-5 Então, disse Isaías a Ezequias: Ouve a palavra do Senhor dos Exércitos:
-6 Eis que virão dias em que tudo quanto houver em tua casa, com o que entesouraram teus pais até ao dia de hoje, será levado para a Babilônia; não ficará coisa alguma, disse o Senhor.
-7 Dos teus próprios filhos, que tu gerares, tomarão, para que sejam eunucos no palácio do rei da Babilônia.
-8 Então, disse Ezequias a Isaías: Boa é a palavra do Senhor que disseste. Pois pensava: Haverá paz e segurança em meus dias.*
-1 Consolai, consolai o meu povo, diz o vosso Deus.
-2 Falai ao coração de Jerusalém, bradai-lhe que já é findo o tempo da sua milícia, que a sua iniquidade está perdoada e que já recebeu em dobro das mãos do Senhor por todos os seus pecados.
-3 Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai no ermo vereda a nosso Deus.
-4 Todo vale será aterrado, e nivelados, todos os montes e outeiros; o que é tortuoso será retificado, e os lugares escabrosos, aplanados.
-5 A glória do Senhor se manifestará, e toda a carne a verá, pois a boca do Senhor o disse.
-6 Uma voz diz: Clama; e alguém pergunta: Que hei de clamar? Toda a carne é erva, e toda a sua glória, como a flor da erva;
-7 seca-se a erva, e caem as flores, soprando nelas o hálito do Senhor. Na verdade, o povo é erva;
-8 seca-se a erva, e cai a sua flor, mas a palavra de nosso Deus permanece eternamente.
-9 Tu, ó Sião, que anuncias boas-novas, sobe a um monte alto! Tu, que anuncias boas-novas a Jerusalém, ergue a tua voz fortemente; levanta-a, não temas e dize às cidades de Judá: Eis aí está o vosso Deus!
-10 Eis que o Senhor Deus virá com poder, e o seu braço dominará; eis que o seu galardão está com ele, e diante dele, a sua recompensa.
-11 Como pastor, apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos e os levará no seio; as que amamentam ele guiará mansamente.
-12 Quem na concha de sua mão mediu as águas e tomou a medida dos céus a palmos? Quem recolheu na terça parte de um efa o pó da terra e pesou os montes em romana e os outeiros em balança de precisão?
-13 Quem guiou o Espírito do Senhor? Ou, como seu conselheiro, o ensinou?
-14 Com quem tomou ele conselho, para que lhe desse compreensão? Quem o instruiu na vereda do juízo, e lhe ensinou sabedoria, e lhe mostrou o caminho de entendimento?
-15 Eis que as nações são consideradas por ele como um pingo que cai de um balde e como um grão de pó na balança; as ilhas são como pó fino que se levanta.
-16 Nem todo o Líbano basta para queimar, nem os seus animais, para um holocausto.
-17 Todas as nações são perante ele como coisa que não é nada; ele as considera menos do que nada, como um vácuo.
-18 Com quem comparareis a Deus? Ou que coisa semelhante confrontareis com ele?
-19 O artífice funde a imagem, e o ourives a cobre de ouro e cadeias de prata forja para ela.
-20 O sacerdote idólatra escolhe madeira que não se corrompe e busca um artífice perito para assentar uma imagem esculpida que não oscile.
-21 Acaso, não sabeis? Porventura, não ouvis? Não vos tem sido anunciado desde o princípio? Ou não atentastes para os fundamentos da terra?
-22 Ele é o que está assentado sobre a redondeza da terra, cujos moradores são como gafanhotos; é ele quem estende os céus como cortina e os desenrola como tenda para neles habitar;
-23 é ele quem reduz a nada os príncipes e torna em nulidade os juízes da terra.
-24 Mal foram plantados e semeados, mal se arraigou na terra o seu tronco, já se secam, quando um sopro passa por eles, e uma tempestade os leva como palha.
-25 A quem, pois, me comparareis para que eu lhe seja igual? — diz o Santo.
-26 Levantai ao alto os olhos e vede. Quem criou estas coisas? Aquele que faz sair o seu exército de estrelas, todas bem-contadas, as quais ele chama pelo nome; por ser ele grande em força e forte em poder, nem uma só vem a faltar.
-27 Por que, pois, dizes, ó Jacó, e falas, ó Israel: O meu caminho está encoberto ao Senhor, e o meu direito passa despercebido ao meu Deus?
-28 Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos fins da terra, nem se cansa, nem se fatiga? Não se pode esquadrinhar o seu entendimento.
-29 Faz forte ao cansado e multiplica as forças ao que não tem nenhum vigor.
-30 Os jovens se cansam e se fatigam, e os moços de exaustos caem,
-31 mas os que esperam no Senhor renovam as suas forças, sobem com asas como águias, correm e não se cansam, caminham e não se fatigam.*
-1 Calai-vos perante mim, ó ilhas, e os povos renovem as suas forças; cheguem-se e, então, falem; cheguemo-nos e pleiteemos juntos.
-2 Quem suscitou do Oriente aquele a cujos passos segue a vitória? Quem faz que as nações se lhe submetam, e que ele calque aos pés os reis, e com a sua espada os transforme em pó, e com o seu arco, em palha que o vento arrebata?
-3 Persegue-os e passa adiante em segurança, por uma vereda que seus pés jamais trilharam.
-4 Quem fez e executou tudo isso? Aquele que desde o princípio tem chamado as gerações à existência, eu, o Senhor, o primeiro, e com os últimos eu mesmo.
-5 Os países do mar viram isto e temeram, os fins da terra tremeram, aproximaram-se e vieram.
-6 Um ao outro ajudou e ao seu próximo disse: Sê forte.
-7 Assim, o artífice anima ao ourives, e o que alisa com o martelo, ao que bate na bigorna, dizendo da soldadura: Está bem-feita. Então, com pregos fixa o ídolo para que não oscile.
-8 Mas tu, ó Israel, servo meu, tu, Jacó, a quem elegi, descendente de Abraão, meu amigo,
-9 tu, a quem tomei das extremidades da terra, e chamei dos seus cantos mais remotos, e a quem disse: Tu és o meu servo, eu te escolhi e não te rejeitei,
-10 não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel.
-11 Eis que envergonhados e confundidos serão todos os que estão indignados contra ti; serão reduzidos a nada, e os que contendem contigo perecerão.
-12 Aos que pelejam contra ti, buscá-los-ás, porém não os acharás; serão reduzidos a nada e a coisa de nenhum valor os que fazem guerra contra ti.
-13 Porque eu, o Senhor, teu Deus, te tomo pela tua mão direita e te digo: Não temas, que eu te ajudo.
-14 Não temas, ó vermezinho de Jacó, povozinho de Israel; eu te ajudo, diz o Senhor, e o teu Redentor é o Santo de Israel.
-15 Eis que farei de ti um trilho cortante e novo, armado de lâminas duplas; os montes trilharás, e moerás, e os outeiros reduzirás a palha.
-16 Tu os padejarás, e o vento os levará, e redemoinho os espalhará; tu te alegrarás no Senhor e te gloriarás no Santo de Israel.
-17 Os aflitos e necessitados buscam águas, e não as há, e a sua língua se seca de sede; mas eu, o Senhor, os ouvirei, eu, o Deus de Israel, não os desampararei.
-18 Abrirei rios nos altos desnudos e fontes no meio dos vales; tornarei o deserto em açudes de águas e a terra seca, em mananciais.
-19 Plantarei no deserto o cedro, a acácia, a murta e a oliveira; conjuntamente, porei no ermo o cipreste, o olmeiro e o buxo,
-20 para que todos vejam e saibam, considerem e juntamente entendam que a mão do Senhor fez isso, e o Santo de Israel o criou.
-21 Apresentai a vossa demanda, diz o Senhor; alegai as vossas razões, diz o Rei de Jacó.
-22 Trazei e anunciai-nos as coisas que hão de acontecer; relatai-nos as profecias anteriores, para que atentemos para elas e saibamos se se cumpriram; ou fazei-nos ouvir as coisas futuras.
-23 Anunciai-nos as coisas que ainda hão de vir, para que saibamos que sois deuses; fazei bem ou fazei mal, para que nos assombremos, e juntamente o veremos.
-24 Eis que sois menos do que nada, e menos do que nada é o que fazeis; abominação é quem vos escolhe.
-25 Do Norte suscito a um, e ele vem, a um desde o nascimento do sol, e ele invocará o meu nome; pisará magistrados como lodo e como o oleiro pisa o barro.
-26 Quem anunciou isto desde o princípio, a fim que o possamos saber, antecipadamente, para que digamos: É isso mesmo? Mas não há quem anuncie, nem tampouco quem manifeste, nem ainda quem ouça as vossas palavras.
-27 Eu sou o que primeiro disse a Sião: Eis! Ei-los aí! E a Jerusalém dou um mensageiro de boas-novas.
-28 Quando eu olho, não há ninguém; nem mesmo entre eles há conselheiro a quem eu pergunte, e me responda.
-29 Eis que todos são nada; as suas obras são coisa nenhuma; as suas imagens de fundição, vento e vácuo.*
-1 Eis aqui o meu servo, a quem sustenho; o meu escolhido, em quem a minha alma se compraz; pus sobre ele o meu Espírito, e ele promulgará o direito para os gentios.
-2 Não clamará, nem gritará, nem fará ouvir a sua voz na praça.
-3 Não esmagará a cana quebrada, nem apagará a torcida que fumega; em verdade, promulgará o direito.
-4 Não desanimará, nem se quebrará até que ponha na terra o direito; e as terras do mar aguardarão a sua doutrina.
-5 Assim diz Deus, o Senhor, que criou os céus e os estendeu, formou a terra e a tudo quanto produz; que dá fôlego de vida ao povo que nela está e o espírito aos que andam nela.
-6 Eu, o Senhor, te chamei em justiça, tomar-te-ei pela mão, e te guardarei, e te farei mediador da aliança com o povo e luz para os gentios;
-7 para abrires os olhos aos cegos, para tirares da prisão o cativo e do cárcere, os que jazem em trevas.
-8 Eu sou o Senhor, este é o meu nome; a minha glória, pois, não a darei a outrem, nem a minha honra, às imagens de escultura.
-9 Eis que as primeiras predições já se cumpriram, e novas coisas eu vos anuncio; e, antes que sucedam, eu vo-las farei ouvir.
-10 Cantai ao Senhor um cântico novo e o seu louvor até às extremidades da terra, vós, os que navegais pelo mar e tudo quanto há nele, vós, terras do mar e seus moradores.
-11 Alcem a voz o deserto, as suas cidades e as aldeias habitadas por Quedar; exultem os que habitam nas rochas e clamem do cimo dos montes;
-12 deem honra ao Senhor e anunciem a sua glória nas terras do mar.
-13 O Senhor sairá como valente, despertará o seu zelo como homem de guerra; clamará, lançará forte grito de guerra e mostrará sua força contra os seus inimigos.
-14 Por muito tempo me calei, estive em silêncio e me contive; mas agora darei gritos como a parturiente, e ao mesmo tempo ofegarei, e estarei esbaforido.
-15 Os montes e outeiros devastarei e toda a sua erva farei secar; tornarei os rios em terra firme e secarei os lagos.
-16 Guiarei os cegos por um caminho que não conhecem, fá-los-ei andar por veredas desconhecidas; tornarei as trevas em luz perante eles e os caminhos escabrosos, planos. Estas coisas lhes farei e jamais os desampararei.
-17 Tornarão atrás e confundir-se-ão de vergonha os que confiam em imagens de escultura e às imagens de fundição dizem: Vós sois nossos deuses.
-18 Surdos, ouvi, e vós, cegos, olhai, para que possais ver.
-19 Quem é cego, como o meu servo, ou surdo, como o meu mensageiro, a quem envio? Quem é cego, como o meu amigo, e cego, como o servo do Senhor?
-20 Tu vês muitas coisas, mas não as observas; ainda que tens os ouvidos abertos, nada ouves.
-21 Foi do agrado do Senhor, por amor da sua própria justiça, engrandecer a lei e fazê-la gloriosa.
-22 Não obstante, é um povo roubado e saqueado; todos estão enlaçados em cavernas e escondidos em cárceres; são postos como presa, e ninguém há que os livre; por despojo, e ninguém diz: Restitui.
-23 Quem há entre vós que ouça isto? Que atenda e ouça o que há de ser depois?
-24 Quem entregou Jacó por despojo e Israel, aos roubadores? Acaso, não foi o Senhor, aquele contra quem pecaram e nos caminhos do qual não queriam andar, não dando ouvidos à sua lei?
-25 Pelo que derramou sobre eles o furor da sua ira e a violência da guerra; isto lhes ateou fogo ao redor, contudo, não o entenderam; e os queimou, mas não fizeram caso.*
-1 Mas agora, assim diz o Senhor, que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu.
-2 Quando passares pelas águas, eu serei contigo; quando, pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti.
-3 Porque eu sou o Senhor, teu Deus, o Santo de Israel, o teu Salvador; dei o Egito por teu resgate e a Etiópia e Sebá, por ti.
-4 Visto que foste precioso aos meus olhos, digno de honra, e eu te amei, darei homens por ti e os povos, pela tua vida.
-5 Não temas, pois, porque sou contigo; trarei a tua descendência desde o Oriente e a ajuntarei desde o Ocidente.
-6 Direi ao Norte: entrega! E ao Sul: não retenhas! Trazei meus filhos de longe e minhas filhas, das extremidades da terra,
-7 a todos os que são chamados pelo meu nome, e os que criei para minha glória, e que formei, e fiz.
-8 Traze o povo que, ainda que tem olhos, é cego e surdo, ainda que tem ouvidos.
-9 Todas as nações, congreguem-se; e, povos, reúnam-se; quem dentre eles pode anunciar isto e fazer-nos ouvir as predições antigas? Apresentem as suas testemunhas e por elas se justifiquem, para que se ouça e se diga: Verdade é!
-10 Vós sois as minhas testemunhas, diz o Senhor, o meu servo a quem escolhi; para que o saibais, e me creiais, e entendais que sou eu mesmo, e que antes de mim deus nenhum se formou, e depois de mim nenhum haverá.
-11 Eu, eu sou o Senhor, e fora de mim não há salvador.
-12 Eu anunciei salvação, realizei-a e a fiz ouvir; deus estranho não houve entre vós, pois vós sois as minhas testemunhas, diz o Senhor; eu sou Deus.
-13 Ainda antes que houvesse dia, eu era; e nenhum há que possa livrar alguém das minhas mãos; agindo eu, quem o impedirá?
-14 Assim diz o Senhor, o que vos redime, o Santo de Israel: Por amor de vós, enviarei inimigos contra a Babilônia e a todos os de lá farei embarcar como fugitivos, isto é, os caldeus, nos navios com os quais se vangloriavam.
-15 Eu sou o Senhor, o vosso Santo, o Criador de Israel, o vosso Rei.
-16 Assim diz o Senhor, o que outrora preparou um caminho no mar e nas águas impetuosas, uma vereda;
-17 o que fez sair o carro e o cavalo, o exército e a força — jazem juntamente lá e jamais se levantarão; estão extintos, apagados como uma torcida.
-18 Não vos lembreis das coisas passadas, nem considereis as antigas.
-19 Eis que faço coisa nova, que está saindo à luz; porventura, não o percebeis? Eis que porei um caminho no deserto e rios, no ermo.
-20 Os animais do campo me glorificarão, os chacais e os filhotes de avestruzes; porque porei águas no deserto e rios, no ermo, para dar de beber ao meu povo, ao meu escolhido,
-21 ao povo que formei para mim, para celebrar o meu louvor.
-22 Contudo, não me tens invocado, ó Jacó, e de mim te cansaste, ó Israel.
-23 Não me trouxeste o gado miúdo dos teus holocaustos, nem me honraste com os teus sacrifícios; não te dei trabalho com ofertas de manjares, nem te cansei com incenso.
-24 Não me compraste por dinheiro cana aromática, nem com a gordura dos teus sacrifícios me satisfizeste, mas me deste trabalho com os teus pecados e me cansaste com as tuas iniquidades.
-25 Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim e dos teus pecados não me lembro.
-26 Desperta-me a memória; entremos juntos em juízo; apresenta as tuas razões, para que possas justificar-te.
-27 Teu primeiro pai pecou, e os teus guias prevaricaram contra mim.
-28 Pelo que profanarei os príncipes do santuário; e entregarei Jacó à destruição e Israel, ao opróbrio.*
-1 Agora, pois, ouve, ó Jacó, servo meu, ó Israel, a quem escolhi.
-2 Assim diz o Senhor, que te criou, e te formou desde o ventre, e que te ajuda: Não temas, ó Jacó, servo meu, ó amado, a quem escolhi.
-3 Porque derramarei água sobre o sedento e torrentes, sobre a terra seca; derramarei o meu Espírito sobre a tua posteridade e a minha bênção, sobre os teus descendentes;
-4 e brotarão como a erva, como salgueiros junto às correntes das águas.
-5 Um dirá: Eu sou do Senhor; outro se chamará do nome de Jacó; o outro ainda escreverá na própria mão: Eu sou do Senhor, e por sobrenome tomará o nome de Israel.
-6 Assim diz o Senhor, Rei de Israel, seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro e eu sou o último, e além de mim não há Deus.
-7 Quem há, como eu, feito predições desde que estabeleci o mais antigo povo? Que o declare e o exponha perante mim! Que esse anuncie as coisas futuras, as coisas que hão de vir!
-8 Não vos assombreis, nem temais; acaso, desde aquele tempo não vo-lo fiz ouvir, não vo-lo anunciei? Vós sois as minhas testemunhas. Há outro Deus além de mim? Não, não há outra Rocha que eu conheça.
-9 Todos os artífices de imagens de escultura são nada, e as suas coisas preferidas são de nenhum préstimo; eles mesmos são testemunhas de que elas nada veem, nem entendem, para que eles sejam confundidos.
-10 Quem formaria um deus ou fundiria uma imagem de escultura, que é de nenhum préstimo?
-11 Eis que todos os seus seguidores ficariam confundidos, pois os mesmos artífices não passam de homens; ajuntem-se todos e se apresentem, espantem-se e sejam, à uma, envergonhados.
-12 O ferreiro faz o machado, trabalha nas brasas, forma um ídolo a martelo e forja-o com a força do seu braço; ele tem fome, e a sua força falta, não bebe água e desfalece.
-13 O artífice em madeira estende o cordel e, com o lápis, esboça uma imagem; alisa-a com plaina, marca com o compasso e faz à semelhança e beleza de um homem, que possa morar em uma casa.
-14 Um homem corta para si cedros, toma um cipreste ou um carvalho, fazendo escolha entre as árvores do bosque; planta um pinheiro, e a chuva o faz crescer.
-15 Tais árvores servem ao homem para queimar; com parte de sua madeira se aquenta e coze o pão; e também faz um deus e se prostra diante dele, esculpe uma imagem e se ajoelha diante dela.
-16 Metade queima no fogo e com ela coze a carne para comer; assa-a e farta-se; também se aquenta e diz: Ah! Já me aquento, contemplo a luz.
-17 Então, do resto faz um deus, uma imagem de escultura; ajoelha-se diante dela, prostra-se e lhe dirige a sua oração, dizendo: Livra-me, porque tu és o meu deus.
-18 Nada sabem, nem entendem; porque se lhes grudaram os olhos, para que não vejam, e o seu coração já não pode entender.
-19 Nenhum deles cai em si, já não há conhecimento nem compreensão para dizer: Metade queimei e cozi pão sobre as suas brasas, assei sobre elas carne e a comi; e faria eu do resto uma abominação? Ajoelhar-me-ia eu diante de um pedaço de árvore?
-20 Tal homem se apascenta de cinza; o seu coração enganado o iludiu, de maneira que não pode livrar a sua alma, nem dizer: Não é mentira aquilo em que confio?
-21 Lembra-te destas coisas, ó Jacó, ó Israel, porquanto és meu servo! Eu te formei, tu és meu servo, ó Israel; não me esquecerei de ti.
-22 Desfaço as tuas transgressões como a névoa e os teus pecados, como a nuvem; torna-te para mim, porque eu te remi.
-23 Regozijai-vos, ó céus, porque o Senhor fez isto; exultai, vós, ó profundezas da terra; retumbai com júbilo, vós, montes, vós, bosques e todas as suas árvores, porque o Senhor remiu a Jacó e se glorificou em Israel.
-24 Assim diz o Senhor, que te redime, o mesmo que te formou desde o ventre materno: Eu sou o Senhor, que faço todas as coisas, que sozinho estendi os céus e sozinho espraiei a terra;
-25 que desfaço os sinais dos profetizadores de mentiras e enlouqueço os adivinhos; que faço tornar atrás os sábios, cujo saber converto em loucuras;
-26 que confirmo a palavra do meu servo e cumpro o conselho dos meus mensageiros; que digo de Jerusalém: Ela será habitada; e das cidades de Judá: Elas serão edificadas; e quanto às suas ruínas: Eu as levantarei;
-27 que digo à profundeza das águas: Seca-te, e eu secarei os teus rios;
-28 que digo de Ciro: Ele é meu pastor e cumprirá tudo o que me apraz; que digo também de Jerusalém: Será edificada; e do templo: Será fundado.*
-1 Assim diz o Senhor ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações ante a sua face, e para descingir os lombos dos reis, e para abrir diante dele as portas, que não se fecharão.
-2 Eu irei adiante de ti, endireitarei os caminhos tortuosos, quebrarei as portas de bronze e despedaçarei as trancas de ferro;
-3 dar-te-ei os tesouros escondidos e as riquezas encobertas, para que saibas que eu sou o Senhor, o Deus de Israel, que te chama pelo teu nome.
-4 Por amor do meu servo Jacó e de Israel, meu escolhido, eu te chamei pelo teu nome e te pus o sobrenome, ainda que não me conheces.
-5 Eu sou o Senhor, e não há outro; além de mim não há Deus; eu te cingirei, ainda que não me conheces.
-6 Para que se saiba, até ao nascente do sol e até ao poente, que além de mim não há outro; eu sou o Senhor, e não há outro.
-7 Eu formo a luz e crio as trevas; faço a paz e crio o mal; eu, o Senhor, faço todas estas coisas.
-8 Destilai, ó céus, dessas alturas, e as nuvens chovam justiça; abra-se a terra e produza a salvação, e juntamente com ela brote a justiça; eu, o Senhor, as criei.
-9 Ai daquele que contende com o seu Criador! E não passa de um caco de barro entre outros cacos. Acaso, dirá o barro ao que lhe dá forma: Que fazes? Ou: A tua obra não tem alça.
-10 Ai daquele que diz ao pai: Por que geras? E à mulher: Por que dás à luz?
-11 Assim diz o Senhor, o Santo de Israel, aquele que o formou: Quereis, acaso, saber as coisas futuras? Quereis dar ordens acerca de meus filhos e acerca das obras de minhas mãos?
-12 Eu fiz a terra e criei nela o homem; as minhas mãos estenderam os céus, e a todos os seus exércitos dei as minhas ordens.
-13 Eu, na minha justiça, suscitei a Ciro e todos os seus caminhos endireitarei; ele edificará a minha cidade e libertará os meus exilados, não por preço nem por presentes, diz o Senhor dos Exércitos.
-14 Assim diz o Senhor: A riqueza do Egito, e as mercadorias da Etiópia, e os sabeus, homens de grande estatura, passarão ao teu poder e serão teus; seguir-te-ão, irão em grilhões, diante de ti se prostrarão e te farão as suas súplicas, dizendo: Só contigo está Deus, e não há outro que seja Deus.
-15 Verdadeiramente, tu és Deus misterioso, ó Deus de Israel, ó Salvador.
-16 Envergonhar-se-ão e serão confundidos todos eles; cairão, à uma, em ignomínia os que fabricam ídolos.
-17 Israel, porém, será salvo pelo Senhor com salvação eterna; não sereis envergonhados, nem confundidos em toda a eternidade.
-18 Porque assim diz o Senhor, que criou os céus, o Deus que formou a terra, que a fez e a estabeleceu; que não a criou para ser um caos, mas para ser habitada: Eu sou o Senhor, e não há outro.
-19 Não falei em segredo, nem em lugar algum de trevas da terra; não disse à descendência de Jacó: Buscai-me em vão; eu, o Senhor, falo a verdade e proclamo o que é direito.
-20 Congregai-vos e vinde; chegai-vos todos juntos, vós que escapastes das nações; nada sabem os que carregam o lenho das suas imagens de escultura e fazem súplicas a um deus que não pode salvar.
-21 Declarai e apresentai as vossas razões. Que tomem conselho uns com os outros. Quem fez ouvir isto desde a antiguidade? Quem desde aquele tempo o anunciou? Porventura, não o fiz eu, o Senhor? Pois não há outro Deus, senão eu, Deus justo e Salvador não há além de mim.
-22 Olhai para mim e sede salvos, vós, todos os limites da terra; porque eu sou Deus, e não há outro.
-23 Por mim mesmo tenho jurado; da minha boca saiu o que é justo, e a minha palavra não tornará atrás. Diante de mim se dobrará todo joelho, e jurará toda língua.
-24 De mim se dirá: Tão somente no Senhor há justiça e força; até ele virão e serão envergonhados todos os que se irritarem contra ele.
-25 Mas no Senhor será justificada toda a descendência de Israel e nele se gloriará.*
-1 Bel se encurva, Nebo se abaixa; os ídolos são postos sobre os animais, sobre as bestas; as cargas que costumáveis levar são canseira para as bestas já cansadas.
-2 Esses deuses juntamente se abaixam e se encurvam, não podem salvar a carga; eles mesmos entram em cativeiro.
-3 Ouvi-me, ó casa de Jacó e todo o restante da casa de Israel; vós, a quem desde o nascimento carrego e levo nos braços desde o ventre materno.
-4 Até à vossa velhice, eu serei o mesmo e, ainda até às cãs, eu vos carregarei; já o tenho feito; levar-vos-ei, pois, carregar-vos-ei e vos salvarei.
-5 A quem me comparareis para que eu lhe seja igual? E que coisa semelhante confrontareis comigo?
-6 Os que gastam o ouro da bolsa e pesam a prata nas balanças assalariam o ourives para que faça um deus e diante deste se prostram e se inclinam.
-7 Sobre os ombros o tomam, levam-no e o põem no seu lugar, e aí ele fica; do seu lugar não se move; recorrem a ele, mas nenhuma resposta ele dá e a ninguém livra da sua tribulação.
-8 Lembrai-vos disto e tende ânimo; tomai-o a sério, ó prevaricadores.
-9 Lembrai-vos das coisas passadas da antiguidade: que eu sou Deus, e não há outro, eu sou Deus, e não há outro semelhante a mim;
-10 que desde o princípio anuncio o que há de acontecer e desde a antiguidade, as coisas que ainda não sucederam; que digo: o meu conselho permanecerá de pé, farei toda a minha vontade;
-11 que chamo a ave de rapina desde o Oriente e de uma terra longínqua, o homem do meu conselho. Eu o disse, eu também o cumprirei; tomei este propósito, também o executarei.
-12 Ouvi-me vós, os que sois de obstinado coração, que estais longe da justiça.
-13 Faço chegar a minha justiça, e não está longe; a minha salvação não tardará; mas estabelecerei em Sião o livramento e em Israel, a minha glória.*
-1 Desce e assenta-te no pó, ó virgem filha de Babilônia; assenta-te no chão, pois já não há trono, ó filha dos caldeus, porque nunca mais te chamarás a mimosa e delicada.
-2 Toma a mó e mói a farinha; tira o teu véu, ergue a cauda da tua vestidura, desnuda as pernas e atravessa os rios.
-3 As tuas vergonhas serão descobertas, e se verá o teu opróbrio; tomarei vingança e não pouparei a homem algum.
-4 Quanto ao nosso Redentor, o Senhor dos Exércitos é seu nome, o Santo de Israel.
-5 Assenta-te calada e entra nas trevas, ó filha dos caldeus, porque nunca mais serás chamada senhora de reinos.
-6 Muito me agastei contra o meu povo, profanei a minha herança e a entreguei na tua mão, porém não usaste com ela de misericórdia e até sobre os velhos fizeste mui pesado o teu jugo.
-7 E disseste: Eu serei senhora para sempre! Até agora não tomaste a sério estas coisas, nem te lembraste do seu fim.
-8 Ouve isto, pois, tu que és dada a prazeres, que habitas segura, que dizes contigo mesma: Eu só, e além de mim não há outra; não ficarei viúva, nem conhecerei a perda de filhos.
-9 Mas ambas estas coisas virão sobre ti num momento, no mesmo dia, perda de filhos e viuvez; virão em cheio sobre ti, apesar da multidão das tuas feitiçarias e da abundância dos teus muitos encantamentos.
-10 Porque confiaste na tua maldade e disseste: Não há quem me veja. A tua sabedoria e a tua ciência, isso te fez desviar, e disseste contigo mesma: Eu só, e além de mim não há outra.
-11 Pelo que sobre ti virá o mal que por encantamentos não saberás conjurar; tal calamidade cairá sobre ti, da qual por expiação não te poderás livrar; porque sobre ti, de repente, virá tamanha desolação, como não imaginavas.
-12 Deixa-te estar com os teus encantamentos e com a multidão das tuas feitiçarias em que te fatigaste desde a tua mocidade; talvez possas tirar proveito, talvez, com isso, inspirar terror.
-13 Já estás cansada com a multidão das tuas consultas! Levantem-se, pois, agora, os que dissecam os céus e fitam os astros, os que em cada lua nova te predizem o que há de vir sobre ti.
-14 Eis que serão como restolho, o fogo os queimará; não poderão livrar-se do poder das chamas; nenhuma brasa restará para se aquentarem, nem fogo, para que diante dele se assentem.
-15 Assim serão para contigo aqueles com quem te fatigaste; aqueles com quem negociaste desde a tua mocidade; dispersar-se-ão, cambaleantes, cada qual pelo seu caminho; ninguém te salvará.*
-1 Ouvi isto, casa de Jacó, que vos chamais pelo nome de Israel e saístes da linhagem de Judá, que jurais pelo nome do Senhor e confessais o Deus de Israel, mas não em verdade nem em justiça.
-2 (Da santa cidade tomam o nome e se firmam sobre o Deus de Israel, cujo nome é Senhor dos Exércitos.)
-3 As primeiras coisas, desde a antiguidade, as anunciei; sim, pronunciou-as a minha boca, e eu as fiz ouvir; de repente agi, e elas se cumpriram.
-4 Porque eu sabia que eras obstinado, e a tua cerviz é um tendão de ferro, e tens a testa de bronze.
-5 Por isso, to anunciei desde aquele tempo e to dei a conhecer antes que acontecesse, para que não dissesses: O meu ídolo fez estas coisas; ou: A minha imagem de escultura e a fundição as ordenaram.
-6 Já o tens ouvido; olha para tudo isto; porventura, não o admites? Desde agora te faço ouvir coisas novas e ocultas, que não conhecias.
-7 Apareceram agora e não há muito, e antes deste dia delas não ouviste, para que não digas: Eis que já o sabia.
-8 Tu nem as ouviste, nem as conheceste, nem tampouco antecipadamente se te abriram os ouvidos, porque eu sabia que procederias mui perfidamente e eras chamado de transgressor desde o ventre materno.
-9 Por amor do meu nome, retardarei a minha ira e por causa da minha honra me conterei para contigo, para que te não venha a exterminar.
-10 Eis que te acrisolei, mas disso não resultou prata; provei-te na fornalha da aflição.
-11 Por amor de mim, por amor de mim, é que faço isto; porque como seria profanado o meu nome? A minha glória, não a dou a outrem.
-12 Dá-me ouvidos, ó Jacó, e tu, ó Israel, a quem chamei; eu sou o mesmo, sou o primeiro e também o último.
-13 Também a minha mão fundou a terra, e a minha destra estendeu os céus; quando eu os chamar, eles se apresentarão juntos.
-14 Ajuntai-vos, todos vós, e ouvi! Quem, dentre eles, tem anunciado estas coisas? O Senhor amou a Ciro e executará a sua vontade contra a Babilônia, e o seu braço será contra os caldeus.
-15 Eu, eu tenho falado; também já o chamei. Eu o trouxe e farei próspero o seu caminho.
-16 Chegai-vos a mim e ouvi isto: não falei em segredo desde o princípio; desde o tempo em que isso vem acontecendo, tenho estado lá. Agora, o Senhor Deus me enviou a mim e o seu Espírito.
-17 Assim diz o Senhor, o teu Redentor, o Santo de Israel: Eu sou o Senhor, o teu Deus, que te ensina o que é útil e te guia pelo caminho em que deves andar.
-18 Ah! Se tivesses dado ouvidos aos meus mandamentos! Então, seria a tua paz como um rio, e a tua justiça, como as ondas do mar.
-19 Também a tua posteridade seria como a areia, e os teus descendentes, como os grãos da areia; o seu nome nunca seria eliminado nem destruído de diante de mim.
-20 Saí da Babilônia, fugi de entre os caldeus e anunciai isto com voz de júbilo; proclamai-o e levai-o até ao fim da terra; dizei: O Senhor remiu a seu servo Jacó.
-21 Não padeceram sede, quando ele os levava pelos desertos; fez-lhes correr água da rocha; fendeu a pedra, e as águas correram.
-22 Para os perversos, todavia, não há paz, diz o Senhor.*
-1 Ouvi-me, terras do mar, e vós, povos de longe, escutai! O Senhor me chamou desde o meu nascimento, desde o ventre de minha mãe fez menção do meu nome;
-2 fez a minha boca como uma espada aguda, na sombra da sua mão me escondeu; fez-me como uma flecha polida, e me guardou na sua aljava,
-3 e me disse: Tu és o meu servo, és Israel, por quem hei de ser glorificado.
-4 Eu mesmo disse: debalde tenho trabalhado, inútil e vãmente gastei as minhas forças; todavia, o meu direito está perante o Senhor, a minha recompensa, perante o meu Deus.
-5 Mas agora diz o Senhor, que me formou desde o ventre para ser seu servo, para que torne a trazer Jacó e para reunir Israel a ele, porque eu sou glorificado perante o Senhor, e o meu Deus é a minha força.
-6 Sim, diz ele: Pouco é o seres meu servo, para restaurares as tribos de Jacó e tornares a trazer os remanescentes de Israel; também te dei como luz para os gentios, para seres a minha salvação até à extremidade da terra.
-7 Assim diz o Senhor, o Redentor e Santo de Israel, ao que é desprezado, ao aborrecido das nações, ao servo dos tiranos: Os reis o verão, e os príncipes se levantarão; e eles te adorarão por amor do Senhor, que é fiel, e do Santo de Israel, que te escolheu.
-8 Diz ainda o Senhor: No tempo aceitável, eu te ouvi e te socorri no dia da salvação; guardar-te-ei e te farei mediador da aliança do povo, para restaurares a terra e lhe repartires as herdades assoladas;
-9 para dizeres aos presos: Saí, e aos que estão em trevas: Aparecei. Eles pastarão nos caminhos e em todos os altos desnudos terão o seu pasto.
-10 Não terão fome nem sede, a calma nem o sol os afligirá; porque o que deles se compadece os guiará e os conduzirá aos mananciais das águas.
-11 Transformarei todos os meus montes em caminhos, e as minhas veredas serão alteadas.
-12 Eis que estes virão de longe, e eis que aqueles, do Norte e do Ocidente, e aqueles outros, da terra de Sinim.
-13 Cantai, ó céus, alegra-te, ó terra, e vós, montes, rompei em cânticos, porque o Senhor consolou o seu povo e dos seus aflitos se compadece.
-14 Mas Sião diz: O Senhor me desamparou, o Senhor se esqueceu de mim.
-15 Acaso, pode uma mulher esquecer-se do filho que ainda mama, de sorte que não se compadeça do filho do seu ventre? Mas ainda que esta viesse a se esquecer dele, eu, todavia, não me esquecerei de ti.
-16 Eis que nas palmas das minhas mãos te gravei; os teus muros estão continuamente perante mim.
-17 Os teus filhos virão apressadamente, ao passo que os teus destruidores e os teus assoladores se retiram do teu meio.
-18 Levanta os olhos ao redor e olha: todos estes que se ajuntam vêm a ti. Tão certo como eu vivo, diz o Senhor, de todos estes te vestirás como de um ornamento e deles te cingirás como noiva.
-19 Pois, quanto aos teus lugares desertos e desolados e à tua terra destruída, agora tu, ó Sião, certamente, serás estreita demais para os moradores; e os que te devoravam estarão longe de ti.
-20 Até mesmo os teus filhos, que de ti foram tirados, dirão aos teus ouvidos: Mui estreito é para mim este lugar; dá-me espaço em que eu habite.
-21 E dirás contigo mesma: Quem me gerou estes, pois eu estava desfilhada e estéril, em exílio e repelida? Quem, pois, me criou estes? Fui deixada sozinha; estes, onde estavam?
-22 Assim diz o Senhor Deus: Eis que levantarei a mão para as nações e ante os povos arvorarei a minha bandeira; eles trarão os teus filhos nos braços, e as tuas filhas serão levadas sobre os ombros.
-23 Reis serão os teus aios, e rainhas, as tuas amas; diante de ti se inclinarão com o rosto em terra e lamberão o pó dos teus pés; saberás que eu sou o Senhor e que os que esperam em mim não serão envergonhados.
-24 Tirar-se-ia a presa ao valente? Acaso, os presos poderiam fugir ao tirano?
-25 Mas assim diz o Senhor: Por certo que os presos se tirarão ao valente, e a presa do tirano fugirá, porque eu contenderei com os que contendem contigo e salvarei os teus filhos.
-26 Sustentarei os teus opressores com a sua própria carne, e com o seu próprio sangue se embriagarão, como com vinho novo. Todo homem saberá que eu sou o Senhor, o teu Salvador e o teu Redentor, o Poderoso de Jacó.*
-1 Assim diz o Senhor: Onde está a carta de divórcio de vossa mãe, pela qual eu a repudiei? Ou quem é o meu credor, a quem eu vos tenha vendido? Eis que por causa das vossas iniquidades é que fostes vendidos, e por causa das vossas transgressões vossa mãe foi repudiada.
-2 Por que razão, quando eu vim, ninguém apareceu? Quando chamei, ninguém respondeu? Acaso, se encolheu tanto a minha mão, que já não pode remir ou já não há força em mim para livrar? Eis que pela minha repreensão faço secar o mar e torno os rios um deserto, até que cheirem mal os seus peixes; pois, não havendo água, morrem de sede.
-3 Eu visto os céus de negridão e lhes ponho pano de saco por sua coberta.
-4 O Senhor Deus me deu língua de eruditos, para que eu saiba dizer boa palavra ao cansado. Ele me desperta todas as manhãs, desperta-me o ouvido para que eu ouça como os eruditos.
-5 O Senhor Deus me abriu os ouvidos, e eu não fui rebelde, não me retraí.
-6 Ofereci as costas aos que me feriam e as faces, aos que me arrancavam os cabelos; não escondi o rosto aos que me afrontavam e me cuspiam.
-7 Porque o Senhor Deus me ajudou, pelo que não me senti envergonhado; por isso, fiz o meu rosto como um seixo e sei que não serei envergonhado.
-8 Perto está o que me justifica; quem contenderá comigo? Apresentemo-nos juntamente; quem é o meu adversário? Chegue-se para mim.
-9 Eis que o Senhor Deus me ajuda; quem há que me condene? Eis que todos eles, como um vestido, serão consumidos; a traça os comerá.
-10 Quem há entre vós que tema ao Senhor e que ouça a voz do seu Servo? Aquele que andou em trevas, sem nenhuma luz, confie em o nome do Senhor e se firme sobre o seu Deus.
-11 Eia! Todos vós, que acendeis fogo e vos armais de setas incendiárias, andai entre as labaredas do vosso fogo e entre as setas que acendestes; de mim é que vos sobrevirá isto, e em tormentas vos deitareis.*
-1 Ouvi-me vós, os que procurais a justiça, os que buscais o Senhor; olhai para a rocha de que fostes cortados e para a caverna do poço de que fostes cavados.
-2 Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque era ele único, quando eu o chamei, o abençoei e o multipliquei.
-3 Porque o Senhor tem piedade de Sião; terá piedade de todos os lugares assolados dela, e fará o seu deserto como o Éden, e a sua solidão, como o jardim do Senhor; regozijo e alegria se acharão nela, ações de graças e som de música.
-4 Atendei-me, povo meu, e escutai-me, nação minha; porque de mim sairá a lei, e estabelecerei o meu direito como luz dos povos.
-5 Perto está a minha justiça, aparece a minha salvação, e os meus braços dominarão os povos; as terras do mar me aguardam e no meu braço esperam.
-6 Levantai os olhos para os céus e olhai para a terra embaixo, porque os céus desaparecerão como a fumaça, e a terra envelhecerá como um vestido, e os seus moradores morrerão como mosquitos, mas a minha salvação durará para sempre, e a minha justiça não será anulada.
-7 Ouvi-me, vós que conheceis a justiça, vós, povo em cujo coração está a minha lei; não temais o opróbrio dos homens, nem vos turbeis por causa das suas injúrias.
-8 Porque a traça os roerá como a um vestido, e o bicho os comerá como à lã; mas a minha justiça durará para sempre, e a minha salvação, para todas as gerações.
-9 Desperta, desperta, arma-te de força, braço do Senhor; desperta como nos dias passados, como nas gerações antigas; não és tu aquele que abateu o Egito e feriu o monstro marinho?
-10 Não és tu aquele que secou o mar, as águas do grande abismo? Aquele que fez o caminho no fundo do mar, para que passassem os remidos?
-11 Assim voltarão os resgatados do Senhor e virão a Sião com júbilo, e perpétua alegria lhes coroará a cabeça; o regozijo e a alegria os alcançarão, e deles fugirão a dor e o gemido.
-12 Eu, eu sou aquele que vos consola; quem, pois, és tu, para que temas o homem, que é mortal, ou o filho do homem, que não passa de erva?
-13 Quem és tu que te esqueces do Senhor, que te criou, que estendeu os céus e fundou a terra, e temes continuamente todo o dia o furor do tirano, que se prepara para destruir? Onde está o furor do tirano?
-14 O exilado cativo depressa será libertado, lá não morrerá, lá não descerá à sepultura; o seu pão não lhe faltará.
-15 Pois eu sou o Senhor, teu Deus, que agito o mar, de modo que bramem as suas ondas — o Senhor dos Exércitos é o meu nome.
-16 Ponho as minhas palavras na tua boca e te protejo com a sombra da minha mão, para que eu estenda novos céus, funde nova terra e diga a Sião: Tu és o meu povo.
-17 Desperta, desperta, levanta-te, ó Jerusalém, que da mão do Senhor bebeste o cálice da sua ira, o cálice de atordoamento, e o esgotaste.
-18 De todos os filhos que ela teve nenhum a guiou; de todos os filhos que criou nenhum a tomou pela mão.
-19 Estas duas coisas te aconteceram; quem teve compaixão de ti? A assolação e a ruína, a fome e a espada! Quem foi o teu consolador?
-20 Os teus filhos já desmaiaram, jazem nas estradas de todos os caminhos, como o antílope, na rede; estão cheios da ira do Senhor e da repreensão do teu Deus.
-21 Pelo que agora ouve isto, ó tu que estás aflita e embriagada, mas não de vinho.
-22 Assim diz o teu Senhor, o Senhor, teu Deus, que pleiteará a causa do seu povo: Eis que eu tomo da tua mão o cálice de atordoamento, o cálice da minha ira; jamais dele beberás;
-23 pô-lo-ei nas mãos dos que te atormentaram, que disseram à tua alma: Abaixa-te, para que passemos sobre ti; e tu puseste as costas como chão e como rua para os transeuntes.*
-1 Desperta, desperta, reveste-te da tua fortaleza, ó Sião; veste-te das tuas roupagens formosas, ó Jerusalém, cidade santa; porque não mais entrará em ti nem incircunciso nem imundo.
-2 Sacode-te do pó, levanta-te e toma assento, ó Jerusalém; solta-te das cadeias de teu pescoço, ó cativa filha de Sião.
-3 Porque assim diz o Senhor: Por nada fostes vendidos; e sem dinheiro sereis resgatados.
-4 Porque assim diz o Senhor Deus: O meu povo no princípio desceu ao Egito, para nele habitar, e a Assíria sem razão o oprimiu.
-5 Agora, que farei eu aqui, diz o Senhor, visto ter sido o meu povo levado sem preço? Os seus tiranos sobre ele dão uivos, diz o Senhor; e o meu nome é blasfemado incessantemente todo o dia.
-6 Por isso, o meu povo saberá o meu nome; portanto, naquele dia, saberá que sou eu quem fala: Eis-me aqui.
-7 Que formosos são sobre os montes os pés do que anuncia as boas-novas, que faz ouvir a paz, que anuncia coisas boas, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!
-8 Eis o grito dos teus atalaias! Eles erguem a voz, juntamente exultam; porque com seus próprios olhos distintamente veem o retorno do Senhor a Sião.
-9 Rompei em júbilo, exultai à uma, ó ruínas de Jerusalém; porque o Senhor consolou o seu povo, remiu a Jerusalém.
-10 O Senhor desnudou o seu santo braço à vista de todas as nações; e todos os confins da terra verão a salvação do nosso Deus.
-11 Retirai-vos, retirai-vos, saí de lá, não toqueis coisa imunda; saí do meio dela, purificai-vos, vós que levais os utensílios do Senhor.
-12 Porquanto não saireis apressadamente, nem vos ireis fugindo; porque o Senhor irá adiante de vós, e o Deus de Israel será a vossa retaguarda.
-13 Eis que o meu Servo procederá com prudência; será exaltado e elevado e será mui sublime.
-14 Como pasmaram muitos à vista dele (pois o seu aspecto estava mui desfigurado, mais do que o de outro qualquer, e a sua aparência, mais do que a dos outros filhos dos homens),
-15 assim causará admiração às nações, e os reis fecharão a sua boca por causa dele; porque aquilo que não lhes foi anunciado verão, e aquilo que não ouviram entenderão.*
-1 Quem creu em nossa pregação? E a quem foi revelado o braço do Senhor?
-2 Porque foi subindo como renovo perante ele e como raiz de uma terra seca; não tinha aparência nem formosura; olhamo-lo, mas nenhuma beleza havia que nos agradasse.
-3 Era desprezado e o mais rejeitado entre os homens; homem de dores e que sabe o que é padecer; e, como um de quem os homens escondem o rosto, era desprezado, e dele não fizemos caso.
-4 Certamente, ele tomou sobre si as nossas enfermidades e as nossas dores levou sobre si; e nós o reputávamos por aflito, ferido de Deus e oprimido.
-5 Mas ele foi traspassado pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados.
-6 Todos nós andávamos desgarrados como ovelhas; cada um se desviava pelo caminho, mas o Senhor fez cair sobre ele a iniquidade de nós todos.
-7 Ele foi oprimido e humilhado, mas não abriu a boca; como cordeiro foi levado ao matadouro; e, como ovelha muda perante os seus tosquiadores, ele não abriu a boca.
-8 Por juízo opressor foi arrebatado, e de sua linhagem, quem dela cogitou? Porquanto foi cortado da terra dos viventes; por causa da transgressão do meu povo, foi ele ferido.
-9 Designaram-lhe a sepultura com os perversos, mas com o rico esteve na sua morte, posto que nunca fez injustiça, nem dolo algum se achou em sua boca.
-10 Todavia, ao Senhor agradou moê-lo, fazendo-o enfermar; quando der ele a sua alma como oferta pelo pecado, verá a sua posteridade e prolongará os seus dias; e a vontade do Senhor prosperará nas suas mãos.
-11 Ele verá o fruto do penoso trabalho de sua alma e ficará satisfeito; o meu Servo, o Justo, com o seu conhecimento, justificará a muitos, porque as iniquidades deles levará sobre si.
-12 Por isso, eu lhe darei muitos como a sua parte, e com os poderosos repartirá ele o despojo, porquanto derramou a sua alma na morte; foi contado com os transgressores; contudo, levou sobre si o pecado de muitos e pelos transgressores intercedeu.*
-1 Canta alegremente, ó estéril, que não deste à luz; exulta com alegre canto e exclama, tu que não tiveste dores de parto; porque mais são os filhos da mulher solitária do que os filhos da casada, diz o Senhor.
-2 Alarga o espaço da tua tenda; estenda-se o toldo da tua habitação, e não o impeças; alonga as tuas cordas e firma bem as tuas estacas.
-3 Porque transbordarás para a direita e para a esquerda; a tua posteridade possuirá as nações e fará que se povoem as cidades assoladas.
-4 Não temas, porque não serás envergonhada; não te envergonhes, porque não sofrerás humilhação; pois te esquecerás da vergonha da tua mocidade e não mais te lembrarás do opróbrio da tua viuvez.
-5 Porque o teu Criador é o teu marido; o Senhor dos Exércitos é o seu nome; e o Santo de Israel é o teu Redentor; ele é chamado o Deus de toda a terra.
-6 Porque o Senhor te chamou como a mulher desamparada e de espírito abatido; como a mulher da mocidade, que fora repudiada, diz o teu Deus.
-7 Por breve momento te deixei, mas com grandes misericórdias torno a acolher-te;
-8 num ímpeto de indignação, escondi de ti a minha face por um momento; mas com misericórdia eterna me compadeço de ti, diz o Senhor, o teu Redentor.
-9 Porque isto é para mim como as águas de Noé; pois jurei que as águas de Noé não mais inundariam a terra, e assim jurei que não mais me iraria contra ti, nem te repreenderia.
-10 Porque os montes se retirarão, e os outeiros serão removidos; mas a minha misericórdia não se apartará de ti, e a aliança da minha paz não será removida, diz o Senhor, que se compadece de ti.
-11 Ó tu, aflita, arrojada com a tormenta e desconsolada! Eis que eu assentarei as tuas pedras com argamassa colorida e te fundarei sobre safiras.
-12 Farei os teus baluartes de rubis, as tuas portas, de carbúnculos e toda a tua muralha, de pedras preciosas.
-13 Todos os teus filhos serão ensinados do Senhor; e será grande a paz de teus filhos.
-14 Serás estabelecida em justiça, longe da opressão, porque já não temerás, e também do espanto, porque não chegará a ti.
-15 Eis que poderão suscitar contendas, mas não procederá de mim; quem conspira contra ti cairá diante de ti.
-16 Eis que eu criei o ferreiro, que assopra as brasas no fogo e que produz a arma para o seu devido fim; também criei o assolador, para destruir.
-17 Toda arma forjada contra ti não prosperará; toda língua que ousar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor e o seu direito que de mim procede, diz o Senhor.*
-1 Ah! Todos vós, os que tendes sede, vinde às águas; e vós, os que não tendes dinheiro, vinde, comprai e comei; sim, vinde e comprai, sem dinheiro e sem preço, vinho e leite.
-2 Por que gastais o dinheiro naquilo que não é pão, e o vosso suor, naquilo que não satisfaz? Ouvi-me atentamente, comei o que é bom e vos deleitareis com finos manjares.
-3 Inclinai os ouvidos e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei uma aliança perpétua, que consiste nas fiéis misericórdias prometidas a Davi.
-4 Eis que eu o dei por testemunho aos povos, como príncipe e governador dos povos.
-5 Eis que chamarás a uma nação que não conheces, e uma nação que nunca te conheceu correrá para junto de ti, por amor do Senhor, teu Deus, e do Santo de Israel, porque este te glorificou.
-6 Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto.
-7 Deixe o perverso o seu caminho, o iníquo, os seus pensamentos; converta-se ao Senhor, que se compadecerá dele, e volte-se para o nosso Deus, porque é rico em perdoar.
-8 Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos, os meus caminhos, diz o Senhor,
-9 porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos, mais altos do que os vossos pensamentos.
-10 Porque, assim como descem a chuva e a neve dos céus e para lá não tornam, sem que primeiro reguem a terra, e a fecundem, e a façam brotar, para dar semente ao semeador e pão ao que come,
-11 assim será a palavra que sair da minha boca: não voltará para mim vazia, mas fará o que me apraz e prosperará naquilo para que a designei.
-12 Saireis com alegria e em paz sereis guiados; os montes e os outeiros romperão em cânticos diante de vós, e todas as árvores do campo baterão palmas.
-13 Em lugar do espinheiro, crescerá o cipreste, e em lugar da sarça crescerá a murta; e será isto glória para o Senhor e memorial eterno, que jamais será extinto.*
-1 Assim diz o Senhor: Mantende o juízo e fazei justiça, porque a minha salvação está prestes a vir, e a minha justiça, prestes a manifestar-se.
-2 Bem-aventurado o homem que faz isto, e o filho do homem que nisto se firma, que se guarda de profanar o sábado e guarda a sua mão de cometer algum mal.
-3 Não fale o estrangeiro que se houver chegado ao Senhor, dizendo: O Senhor, com efeito, me separará do seu povo; nem tampouco diga o eunuco: Eis que eu sou uma árvore seca.
-4 Porque assim diz o Senhor: Aos eunucos que guardam os meus sábados, escolhem aquilo que me agrada e abraçam a minha aliança,
-5 darei na minha casa e dentro dos meus muros, um memorial e um nome melhor do que filhos e filhas; um nome eterno darei a cada um deles, que nunca se apagará.
-6 Aos estrangeiros que se chegam ao Senhor, para o servirem e para amarem o nome do Senhor, sendo deste modo servos seus, sim, todos os que guardam o sábado, não o profanando, e abraçam a minha aliança,
-7 também os levarei ao meu santo monte e os alegrarei na minha Casa de Oração; os seus holocaustos e os seus sacrifícios serão aceitos no meu altar, porque a minha casa será chamada Casa de Oração para todos os povos.
-8 Assim diz o Senhor Deus, que congrega os dispersos de Israel: Ainda congregarei outros aos que já se acham reunidos.
-9 Vós, todos os animais do campo, todas as feras dos bosques, vinde comer.
-10 Os seus atalaias são cegos, nada sabem; todos são cães mudos, não podem ladrar; sonhadores preguiçosos, gostam de dormir.
-11 Tais cães são gulosos, nunca se fartam; são pastores que nada compreendem, e todos se tornam para o seu caminho, cada um para a sua ganância, todos sem exceção.
-12 Vinde, dizem eles, trarei vinho, e nos encharcaremos de bebida forte; o dia de amanhã será como este e ainda maior e mais famoso.*
-1 Perece o justo, e não há quem se impressione com isso; e os homens piedosos são arrebatados sem que alguém considere nesse fato; pois o justo é levado antes que venha o mal
-2 e entra na paz; descansam no seu leito os que andam em retidão.
-3 Mas chegai-vos para aqui, vós, os filhos da agoureira, descendência da adúltera e da prostituta.
-4 De quem chasqueais? Contra quem escancarais a boca e deitais para fora a língua? Porventura, não sois filhos da transgressão, descendência da falsidade,
-5 que vos abrasais na concupiscência junto aos terebintos, debaixo de toda árvore frondosa, e sacrificais os filhos nos vales e nas fendas dos penhascos?
-6 Por entre as pedras lisas dos ribeiros está a tua parte; estas, estas te cairão em sorte; sobre elas também derramas a tua libação e lhes apresentas ofertas de manjares. Contentar-me-ia eu com estas coisas?
-7 Sobre monte alto e elevado pões o teu leito; para lá sobes para oferecer sacrifícios.
-8 Detrás das portas e das ombreiras pões os teus símbolos eróticos, puxas as cobertas, sobes ao leito e o alargas para os adúlteros; dizes-lhes as tuas exigências, amas-lhes a coabitação e lhes miras a nudez.
-9 Vais ao rei com óleo e multiplicas os teus perfumes; envias os teus embaixadores para longe, até à profundidade do sepulcro.
-10 Na tua longa viagem te cansas, mas não dizes: É em vão; achas o que buscas; por isso, não desfaleces.
-11 Mas de quem tiveste receio ou temor, para que mentisses e não te lembrasses de mim, nem de mim te importasses? Não é, acaso, porque me calo, e isso desde muito tempo, e não me temes?
-12 Eu publicarei essa justiça tua; e, quanto às tuas obras, elas não te aproveitarão.
-13 Quando clamares, a tua coleção de ídolos que te livre! Levá-los-á o vento; um assopro os arrebatará a todos, mas o que confia em mim herdará a terra e possuirá o meu santo monte.
-14 Dir-se-á: Aterrai, aterrai, preparai o caminho, tirai os tropeços do caminho do meu povo.
-15 Porque assim diz o Alto, o Sublime, que habita a eternidade, o qual tem o nome de Santo: Habito no alto e santo lugar, mas habito também com o contrito e abatido de espírito, para vivificar o espírito dos abatidos e vivificar o coração dos contritos.
-16 Pois não contenderei para sempre, nem me indignarei continuamente; porque, do contrário, o espírito definharia diante de mim, e o fôlego da vida, que eu criei.
-17 Por causa da indignidade da sua cobiça, eu me indignei e feri o povo; escondi a face e indignei-me, mas, rebelde, seguiu ele o caminho da sua escolha.
-18 Tenho visto os seus caminhos e o sararei; também o guiarei e lhe tornarei a dar consolação, a saber, aos que dele choram.
-19 Como fruto dos seus lábios criei a paz, paz para os que estão longe e para os que estão perto, diz o Senhor, e eu o sararei.
-20 Mas os perversos são como o mar agitado, que não se pode aquietar, cujas águas lançam de si lama e lodo.
-21 Para os perversos, diz o meu Deus, não há paz.*
-1 Clama a plenos pulmões, não te detenhas, ergue a voz como a trombeta e anuncia ao meu povo a sua transgressão e à casa de Jacó, os seus pecados.
-2 Mesmo neste estado, ainda me procuram dia a dia, têm prazer em saber os meus caminhos; como povo que pratica a justiça e não deixa o direito do seu Deus, perguntam-me pelos direitos da justiça, têm prazer em se chegar a Deus,
-3 dizendo: Por que jejuamos nós, e tu não atentas para isso? Por que afligimos a nossa alma, e tu não o levas em conta? Eis que, no dia em que jejuais, cuidais dos vossos próprios interesses e exigis que se faça todo o vosso trabalho.
-4 Eis que jejuais para contendas e rixas e para ferirdes com punho iníquo; jejuando assim como hoje, não se fará ouvir a vossa voz no alto.
-5 Seria este o jejum que escolhi, que o homem um dia aflija a sua alma, incline a sua cabeça como o junco e estenda debaixo de si pano de saco e cinza? Chamarias tu a isto jejum e dia aceitável ao Senhor?
-6 Porventura, não é este o jejum que escolhi: que soltes as ligaduras da impiedade, desfaças as ataduras da servidão, deixes livres os oprimidos e despedaces todo jugo?
-7 Porventura, não é também que repartas o teu pão com o faminto, e recolhas em casa os pobres desabrigados, e, se vires o nu, o cubras, e não te escondas do teu semelhante?
-8 Então, romperá a tua luz como a alva, a tua cura brotará sem detença, a tua justiça irá adiante de ti, e a glória do Senhor será a tua retaguarda;
-9 então, clamarás, e o Senhor te responderá; gritarás por socorro, e ele dirá: Eis-me aqui. Se tirares do meio de ti o jugo, o dedo que ameaça, o falar injurioso;
-10 se abrires a tua alma ao faminto e fartares a alma aflita, então, a tua luz nascerá nas trevas, e a tua escuridão será como o meio-dia.
-11 O Senhor te guiará continuamente, fartará a tua alma até em lugares áridos e fortificará os teus ossos; serás como um jardim regado e como um manancial cujas águas jamais faltam.
-12 Os teus filhos edificarão as antigas ruínas; levantarás os fundamentos de muitas gerações e serás chamado reparador de brechas e restaurador de veredas para que o país se torne habitável.
-13 Se desviares o pé de profanar o sábado e de cuidar dos teus próprios interesses no meu santo dia; se chamares ao sábado deleitoso e santo dia do Senhor, digno de honra, e o honrares não seguindo os teus caminhos, não pretendendo fazer a tua própria vontade, nem falando palavras vãs,
-14 então, te deleitarás no Senhor. Eu te farei cavalgar sobre os altos da terra e te sustentarei com a herança de Jacó, teu pai, porque a boca do Senhor o disse.*
-1 Eis que a mão do Senhor não está encolhida, para que não possa salvar; nem surdo o seu ouvido, para não poder ouvir.
-2 Mas as vossas iniquidades fazem separação entre vós e o vosso Deus; e os vossos pecados encobrem o seu rosto de vós, para que vos não ouça.
-3 Porque as vossas mãos estão contaminadas de sangue, e os vossos dedos, de iniquidade; os vossos lábios falam mentiras, e a vossa língua profere maldade.
-4 Ninguém há que clame pela justiça, ninguém que compareça em juízo pela verdade; confiam no que é nulo e andam falando mentiras; concebem o mal e dão à luz a iniquidade.
-5 Chocam ovos de áspide e tecem teias de aranha; o que comer os ovos dela morrerá; se um dos ovos é pisado, sai-lhe uma víbora.
-6 As suas teias não se prestam para vestes, os homens não poderão cobrir-se com o que eles fazem, as obras deles são obras de iniquidade, obra de violência há nas suas mãos.
-7 Os seus pés correm para o mal, são velozes para derramar o sangue inocente; os seus pensamentos são pensamentos de iniquidade; nos seus caminhos há desolação e abatimento.
-8 Desconhecem o caminho da paz, nem há justiça nos seus passos; fizeram para si veredas tortuosas; quem anda por elas não conhece a paz.
-9 Por isso, está longe de nós o juízo, e a justiça não nos alcança; esperamos pela luz, e eis que há só trevas; pelo resplendor, mas andamos na escuridão.
-10 Apalpamos as paredes como cegos, sim, como os que não têm olhos, andamos apalpando; tropeçamos ao meio-dia como nas trevas e entre os robustos somos como mortos.
-11 Todos nós bramamos como ursos e gememos como pombas; esperamos o juízo, e não o há; a salvação, e ela está longe de nós.
-12 Porque as nossas transgressões se multiplicam perante ti, e os nossos pecados testificam contra nós; porque as nossas transgressões estão conosco, e conhecemos as nossas iniquidades,
-13 como o prevaricar, o mentir contra o Senhor, o retirarmo-nos do nosso Deus, o pregar opressão e rebeldia, o conceber e proferir do coração palavras de falsidade.
-14 Pelo que o direito se retirou, e a justiça se pôs de longe; porque a verdade anda tropeçando pelas praças, e a retidão não pode entrar.
-15 Sim, a verdade sumiu, e quem se desvia do mal é tratado como presa. O Senhor viu isso e desaprovou o não haver justiça.
-16 Viu que não havia ajudador algum e maravilhou-se de que não houvesse um intercessor; pelo que o seu próprio braço lhe trouxe a salvação, e a sua própria justiça o susteve.
-17 Vestiu-se de justiça, como de uma couraça, e pôs o capacete da salvação na cabeça; pôs sobre si a vestidura da vingança e se cobriu de zelo, como de um manto.
-18 Segundo as obras deles, assim retribuirá; furor aos seus adversários e o devido aos seus inimigos; às terras do mar, dar-lhes-á a paga.
-19 Temerão, pois, o nome do Senhor desde o poente e a sua glória, desde o nascente do sol; pois virá como torrente impetuosa, impelida pelo Espírito do Senhor.
-20 Virá o Redentor a Sião e aos de Jacó que se converterem, diz o Senhor.
-21 Quanto a mim, esta é a minha aliança com eles, diz o Senhor: o meu Espírito, que está sobre ti, e as minhas palavras, que pus na tua boca, não se apartarão dela, nem da de teus filhos, nem da dos filhos de teus filhos, não se apartarão desde agora e para todo o sempre, diz o Senhor.*
-1 Dispõe-te, resplandece, porque vem a tua luz, e a glória do Senhor nasce sobre ti.
-2 Porque eis que as trevas cobrem a terra, e a escuridão, os povos; mas sobre ti aparece resplendente o Senhor, e a sua glória se vê sobre ti.
-3 As nações se encaminham para a tua luz, e os reis, para o resplendor que te nasceu.
-4 Levanta em redor os olhos e vê; todos estes se ajuntam e vêm ter contigo; teus filhos chegam de longe, e tuas filhas são trazidas nos braços.
-5 Então, o verás e serás radiante de alegria; o teu coração estremecerá e se dilatará de júbilo, porque a abundância do mar se tornará a ti, e as riquezas das nações virão a ter contigo.
-6 A multidão de camelos te cobrirá, os dromedários de Midiã e de Efa; todos virão de Sabá; trarão ouro e incenso e publicarão os louvores do Senhor.
-7 Todas as ovelhas de Quedar se reunirão junto de ti; servir-te-ão os carneiros de Nebaiote; para o meu agrado subirão ao meu altar, e eu tornarei mais gloriosa a casa da minha glória.
-8 Quem são estes que vêm voando como nuvens e como pombas, ao seu pombal?
-9 Certamente, as terras do mar me aguardarão; virão primeiro os navios de Társis para trazerem teus filhos de longe e, com eles, a sua prata e o seu ouro, para a santificação do nome do Senhor, teu Deus, e do Santo de Israel, porque ele te glorificou.
-10 Estrangeiros edificarão os teus muros, e os seus reis te servirão; porque no meu furor te castiguei, mas na minha graça tive misericórdia de ti.
-11 As tuas portas estarão abertas de contínuo; nem de dia nem de noite se fecharão, para que te sejam trazidas riquezas das nações, e, conduzidos com elas, os seus reis.
-12 Porque a nação e o reino que não te servirem perecerão; sim, essas nações serão de todo assoladas.
-13 A glória do Líbano virá a ti; o cipreste, o olmeiro e o buxo, conjuntamente, para adornarem o lugar do meu santuário; e farei glorioso o lugar dos meus pés.
-14 Também virão a ti, inclinando-se, os filhos dos que te oprimiram; prostrar-se-ão até às plantas dos teus pés todos os que te desdenharam e chamar-te-ão Cidade do Senhor, a Sião do Santo de Israel.
-15 De abandonada e odiada que eras, de modo que ninguém passava por ti, eu te constituirei glória eterna, regozijo, de geração em geração.
-16 Mamarás o leite das nações e te alimentarás ao peito dos reis; saberás que eu sou o Senhor, o teu Salvador, o teu Redentor, o Poderoso de Jacó.
-17 Por bronze trarei ouro, por ferro trarei prata, por madeira, bronze e por pedras, ferro; farei da paz os teus inspetores e da justiça, os teus exatores.
-18 Nunca mais se ouvirá de violência na tua terra, de desolação ou ruínas, nos teus limites; mas aos teus muros chamarás Salvação, e às tuas portas, Louvor.
-19 Nunca mais te servirá o sol para luz do dia, nem com o seu resplendor a lua te alumiará; mas o Senhor será a tua luz perpétua, e o teu Deus, a tua glória.
-20 Nunca mais se porá o teu sol, nem a tua lua minguará, porque o Senhor será a tua luz perpétua, e os dias do teu luto findarão.
-21 Todos os do teu povo serão justos, para sempre herdarão a terra; serão renovos por mim plantados, obra das minhas mãos, para que eu seja glorificado.
-22 O menor virá a ser mil, e o mínimo, uma nação forte; eu, o Senhor, a seu tempo farei isso prontamente.*
-1 O Espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu para pregar boas-novas aos quebrantados, enviou-me a curar os quebrantados de coração, a proclamar libertação aos cativos e a pôr em liberdade os algemados;
-2 a apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus; a consolar todos os que choram
-3 e a pôr sobre os que em Sião estão de luto uma coroa em vez de cinzas, óleo de alegria, em vez de pranto, veste de louvor, em vez de espírito angustiado; a fim de que se chamem carvalhos de justiça, plantados pelo Senhor para a sua glória.
-4 Edificarão os lugares antigamente assolados, restaurarão os de antes destruídos e renovarão as cidades arruinadas, destruídas de geração em geração.
-5 Estranhos se apresentarão e apascentarão os vossos rebanhos; estrangeiros serão os vossos lavradores e os vossos vinhateiros.
-6 Mas vós sereis chamados sacerdotes do Senhor, e vos chamarão ministros de nosso Deus; comereis as riquezas das nações e na sua glória vos gloriareis.
-7 Em lugar da vossa vergonha, tereis dupla honra; em lugar da afronta, exultareis na vossa herança; por isso, na vossa terra possuireis o dobro e tereis perpétua alegria.
-8 Porque eu, o Senhor, amo o juízo e odeio a iniquidade do roubo; dar-lhes-ei fielmente a sua recompensa e com eles farei aliança eterna.
-9 A sua posteridade será conhecida entre as nações, os seus descendentes, no meio dos povos; todos quantos os virem os reconhecerão como família bendita do Senhor.
-10 Regozijar-me-ei muito no Senhor, a minha alma se alegra no meu Deus; porque me cobriu de vestes de salvação e me envolveu com o manto de justiça, como noivo que se adorna de turbante, como noiva que se enfeita com as suas joias.
-11 Porque, como a terra produz os seus renovos, e como o jardim faz brotar o que nele se semeia, assim o Senhor Deus fará brotar a justiça e o louvor perante todas as nações.*
-1 Por amor de Sião, me não calarei e, por amor de Jerusalém, não me aquietarei, até que saia a sua justiça como um resplendor, e a sua salvação, como uma tocha acesa.
-2 As nações verão a tua justiça, e todos os reis, a tua glória; e serás chamada por um nome novo, que a boca do Senhor designará.
-3 Serás uma coroa de glória na mão do Senhor, um diadema real na mão do teu Deus.
-4 Nunca mais te chamarão Desamparada, nem a tua terra se denominará jamais Desolada; mas chamar-te-ão Minha-Delícia; e à tua terra, Desposada; porque o Senhor se delicia em ti; e a tua terra se desposará.
-5 Porque, como o jovem desposa a donzela, assim teus filhos te desposarão a ti; como o noivo se alegra da noiva, assim de ti se alegrará o teu Deus.
-6 Sobre os teus muros, ó Jerusalém, pus guardas, que todo o dia e toda a noite jamais se calarão; vós, os que fareis lembrado o Senhor, não descanseis,
-7 nem deis a ele descanso até que restabeleça Jerusalém e a ponha por objeto de louvor na terra.
-8 Jurou o Senhor pela sua mão direita e pelo seu braço poderoso: Nunca mais darei o teu cereal por sustento aos teus inimigos, nem os estrangeiros beberão o teu vinho, fruto de tuas fadigas.
-9 Mas os que o ajuntarem o comerão e louvarão ao Senhor; e os que o recolherem beberão nos átrios do meu santuário.
-10 Passai, passai pelas portas; preparai o caminho ao povo; aterrai, aterrai a estrada, limpai-a das pedras; arvorai bandeira aos povos.
-11 Eis que o Senhor fez ouvir até às extremidades da terra estas palavras: Dizei à filha de Sião: Eis que vem o teu Salvador; vem com ele a sua recompensa, e diante dele, o seu galardão.
-12 Chamar-vos-ão Povo Santo, Remidos-Do-Senhor; e tu, Sião, serás chamada Procurada, Cidade-Não-Deserta.*
-1 Quem é este que vem de Edom, de Bozra, com vestes de vivas cores, que é glorioso em sua vestidura, que marcha na plenitude da sua força? Sou eu que falo em justiça, poderoso para salvar.
-2 Por que está vermelho o traje, e as tuas vestes, como as daquele que pisa uvas no lagar?
-3 O lagar, eu o pisei sozinho, e dos povos nenhum homem se achava comigo; pisei as uvas na minha ira; no meu furor, as esmaguei, e o seu sangue me salpicou as vestes e me manchou o traje todo.
-4 Porque o dia da vingança me estava no coração, e o ano dos meus redimidos é chegado.
-5 Olhei, e não havia quem me ajudasse, e admirei-me de não haver quem me sustivesse; pelo que o meu próprio braço me trouxe a salvação, e o meu furor me susteve.
-6 Na minha ira, pisei os povos, no meu furor, embriaguei-os, derramando por terra o seu sangue.
-7 Celebrarei as benignidades do Senhor e os seus atos gloriosos, segundo tudo o que o Senhor nos concedeu e segundo a grande bondade para com a casa de Israel, bondade que usou para com eles, segundo as suas misericórdias e segundo a multidão das suas benignidades.
-8 Porque ele dizia: Certamente, eles são meu povo, filhos que não mentirão; e se lhes tornou o seu Salvador.
-9 Em toda a angústia deles, foi ele angustiado, e o Anjo da sua presença os salvou; pelo seu amor e pela sua compaixão, ele os remiu, os tomou e os conduziu todos os dias da antiguidade.
-10 Mas eles foram rebeldes e contristaram o seu Espírito Santo, pelo que se lhes tornou em inimigo e ele mesmo pelejou contra eles.
-11 Então, o povo se lembrou dos dias antigos, de Moisés, e disse: Onde está aquele que fez subir do mar o pastor do seu rebanho? Onde está o que pôs nele o seu Espírito Santo?
-12 Aquele cujo braço glorioso ele fez andar à mão direita de Moisés? Que fendeu as águas diante deles, criando para si um nome eterno?
-13 Aquele que os guiou pelos abismos, como o cavalo no deserto, de modo que nunca tropeçaram?
-14 Como o animal que desce aos vales, o Espírito do Senhor lhes deu descanso. Assim, guiaste o teu povo, para te criares um nome glorioso.
-15 Atenta do céu e olha da tua santa e gloriosa habitação. Onde estão o teu zelo e as tuas obras poderosas? A ternura do teu coração e as tuas misericórdias se detêm para comigo!
-16 Mas tu és nosso Pai, ainda que Abraão não nos conhece, e Israel não nos reconhece; tu, ó Senhor, és nosso Pai; nosso Redentor é o teu nome desde a antiguidade.
-17 Ó Senhor, por que nos fazes desviar dos teus caminhos? Por que endureces o nosso coração, para que te não temamos? Volta, por amor dos teus servos e das tribos da tua herança.
-18 Só por breve tempo foi o país possuído pelo teu santo povo; nossos adversários pisaram o teu santuário.
-19 Tornamo-nos como aqueles sobre quem tu nunca dominaste e como os que nunca se chamaram pelo teu nome.*
-1 Oh! Se fendesses os céus e descesses! Se os montes tremessem na tua presença,
-2 como quando o fogo inflama os gravetos, como quando faz ferver as águas, para fazeres notório o teu nome aos teus adversários, de sorte que as nações tremessem da tua presença!
-3 Quando fizeste coisas terríveis, que não esperávamos, desceste, e os montes tremeram à tua presença.
-4 Porque desde a antiguidade não se ouviu, nem com ouvidos se percebeu, nem com os olhos se viu Deus além de ti, que trabalha para aquele que nele espera.
-5 Sais ao encontro daquele que com alegria pratica justiça, daqueles que se lembram de ti nos teus caminhos; eis que te iraste, porque pecamos; por muito tempo temos pecado e havemos de ser salvos?
-6 Mas todos nós somos como o imundo, e todas as nossas justiças, como trapo da imundícia; todos nós murchamos como a folha, e as nossas iniquidades, como um vento, nos arrebatam.
-7 Já ninguém há que invoque o teu nome, que se desperte e te detenha; porque escondes de nós o rosto e nos consomes por causa das nossas iniquidades.
-8 Mas agora, ó Senhor, tu és nosso Pai, nós somos o barro, e tu, o nosso oleiro; e todos nós, obra das tuas mãos.
-9 Não te enfureças tanto, ó Senhor, nem perpetuamente te lembres da nossa iniquidade; olha, pois, nós te pedimos: todos nós somos o teu povo.
-10 As tuas santas cidades tornaram-se em deserto, Sião, em ermo; Jerusalém está assolada.
-11 O nosso templo santo e glorioso, em que nossos pais te louvavam, foi queimado; todas as nossas coisas preciosas se tornaram em ruínas.
-12 Conter-te-ias tu ainda, ó Senhor, sobre estas calamidades? Ficarias calado e nos afligirias sobremaneira?*
-1 Fui buscado pelos que não perguntavam por mim; fui achado por aqueles que não me buscavam; a um povo que não se chamava do meu nome, eu disse: Eis-me aqui, eis-me aqui.
-2 Estendi as mãos todo dia a um povo rebelde, que anda por caminho que não é bom, seguindo os seus próprios pensamentos;
-3 povo que de contínuo me irrita abertamente, sacrificando em jardins e queimando incenso sobre altares de tijolos;
-4 que mora entre as sepulturas e passa as noites em lugares misteriosos; come carne de porco e tem no seu prato ensopado de carne abominável;
-5 povo que diz: Fica onde estás, não te chegues a mim, porque sou mais santo do que tu. És no meu nariz como fumaça de fogo que arde o dia todo.
-6 Eis que está escrito diante de mim, e não me calarei; mas eu pagarei, vingar-me-ei, totalmente,
-7 das vossas iniquidades e, juntamente, das iniquidades de vossos pais, diz o Senhor, os quais queimaram incenso nos montes e me afrontaram nos outeiros; pelo que eu vos medirei totalmente a paga devida às suas obras antigas.
-8 Assim diz o Senhor: Como quando se acha vinho num cacho de uvas, dizem: Não o desperdices, pois há bênção nele, assim farei por amor de meus servos e não os destruirei a todos.
-9 Farei sair de Jacó descendência e de Judá, um herdeiro que possua os meus montes; e os meus eleitos herdarão a terra e os meus servos habitarão nela.
-10 Sarom servirá de campo de pasto de ovelhas, e o vale de Acor, de lugar de repouso de gado, para o meu povo que me buscar.
-11 Mas a vós outros, os que vos apartais do Senhor, os que vos esqueceis do meu santo monte, os que preparais mesa para a deusa Fortuna e misturais vinho para o deus Destino,
-12 também vos destinarei à espada, e todos vos encurvareis à matança; porquanto chamei, e não respondestes, falei, e não atendestes; mas fizestes o que é mau perante mim e escolhestes aquilo em que eu não tinha prazer.
-13 Pelo que assim diz o Senhor Deus: Eis que os meus servos comerão, mas vós padecereis fome; os meus servos beberão, mas vós tereis sede; os meus servos se alegrarão, mas vós vos envergonhareis;
-14 os meus servos cantarão por terem o coração alegre, mas vós gritareis pela tristeza do vosso coração e uivareis pela angústia de espírito.
-15 Deixareis o vosso nome aos meus eleitos por maldição, o Senhor Deus vos matará e a seus servos chamará por outro nome,
-16 de sorte que aquele que se abençoar na terra, pelo Deus da verdade é que se abençoará; e aquele que jurar na terra, pelo Deus da verdade é que jurará; porque já estão esquecidas as angústias passadas e estão escondidas dos meus olhos.
-17 Pois eis que eu crio novos céus e nova terra; e não haverá lembrança das coisas passadas, jamais haverá memória delas.
-18 Mas vós folgareis e exultareis perpetuamente no que eu crio; porque eis que crio para Jerusalém alegria e para o seu povo, regozijo.
-19 E exultarei por causa de Jerusalém e me alegrarei no meu povo, e nunca mais se ouvirá nela nem voz de choro nem de clamor.
-20 Não haverá mais nela criança para viver poucos dias, nem velho que não cumpra os seus; porque morrer aos cem anos é morrer ainda jovem, e quem pecar só aos cem anos será amaldiçoado.
-21 Eles edificarão casas e nelas habitarão; plantarão vinhas e comerão o seu fruto.
-22 Não edificarão para que outros habitem; não plantarão para que outros comam; porque a longevidade do meu povo será como a da árvore, e os meus eleitos desfrutarão de todo as obras das suas próprias mãos.
-23 Não trabalharão debalde, nem terão filhos para a calamidade, porque são a posteridade bendita do Senhor, e os seus filhos estarão com eles.
-24 E será que, antes que clamem, eu responderei; estando eles ainda falando, eu os ouvirei.
-25 O lobo e o cordeiro pastarão juntos, e o leão comerá palha como o boi; pó será a comida da serpente. Não se fará mal nem dano algum em todo o meu santo monte, diz o Senhor.*
-1 Assim diz o Senhor: O céu é o meu trono, e a terra, o estrado dos meus pés; que casa me edificareis vós? E qual é o lugar do meu repouso?
-2 Porque a minha mão fez todas estas coisas, e todas vieram a existir, diz o Senhor, mas o homem para quem olharei é este: o aflito e abatido de espírito e que treme da minha palavra.
-3 O que imola um boi é como o que comete homicídio; o que sacrifica um cordeiro, como o que quebra o pescoço a um cão; o que oferece uma oblação, como o que oferece sangue de porco; o que queima incenso, como o que bendiz a um ídolo. Como estes escolheram os seus próprios caminhos, e a sua alma se deleita nas suas abominações,
-4 assim eu lhes escolherei o infortúnio e farei vir sobre eles o que eles temem; porque clamei, e ninguém respondeu, falei, e não escutaram; mas fizeram o que era mau perante mim e escolheram aquilo em que eu não tinha prazer.
-5 Ouvi a palavra do Senhor, vós, os que a temeis: Vossos irmãos, que vos aborrecem e que para longe vos lançam por causa do vosso amor ao meu nome e que dizem: Mostre o Senhor a sua glória, para que vejamos a vossa alegria, esses serão confundidos.
-6 Voz de grande tumulto virá da cidade, voz do templo, voz do Senhor, que dá o pago aos seus inimigos.
-7 Antes que estivesse de parto, deu à luz; antes que lhe viessem as dores, nasceu-lhe um menino.
-8 Quem jamais ouviu tal coisa? Quem viu coisa semelhante? Pode, acaso, nascer uma terra num só dia? Ou nasce uma nação de uma só vez? Pois Sião, antes que lhe viessem as dores, deu à luz seus filhos.
-9 Acaso, farei eu abrir a madre e não farei nascer? — diz o Senhor; acaso, eu que faço nascer fecharei a madre? — diz o teu Deus.
-10 Regozijai-vos juntamente com Jerusalém e alegrai-vos por ela, vós todos os que a amais; exultai com ela, todos os que por ela pranteastes,
-11 para que mameis e vos farteis dos peitos das suas consolações; para que sugueis e vos deleiteis com a abundância da sua glória.
-12 Porque assim diz o Senhor: Eis que estenderei sobre ela a paz como um rio, e a glória das nações, como uma torrente que transborda; então, mamareis, nos braços vos trarão e sobre os joelhos vos acalentarão.
-13 Como alguém a quem sua mãe consola, assim eu vos consolarei; e em Jerusalém vós sereis consolados.
-14 Vós o vereis, e o vosso coração se regozijará, e os vossos ossos revigorarão como a erva tenra; então, o poder do Senhor será notório aos seus servos, e ele se indignará contra os seus inimigos.
-15 Porque eis que o Senhor virá em fogo, e os seus carros, como um torvelinho, para tornar a sua ira em furor e a sua repreensão, em chamas de fogo,
-16 porque com fogo e com a sua espada entrará o Senhor em juízo com toda a carne; e serão muitos os mortos da parte do Senhor.
-17 Os que se santificam e se purificam para entrarem nos jardins após a deusa que está no meio, que comem carne de porco, coisas abomináveis e rato serão consumidos, diz o Senhor.
-18 Porque conheço as suas obras e os seus pensamentos e venho para ajuntar todas as nações e línguas; elas virão e contemplarão a minha glória.
-19 Porei entre elas um sinal e alguns dos que foram salvos enviarei às nações, a Társis, Pul e Lude, que atiram com o arco, a Tubal e Javã, até às terras do mar mais remotas, que jamais ouviram falar de mim, nem viram a minha glória; eles anunciarão entre as nações a minha glória.
-20 Trarão todos os vossos irmãos, dentre todas as nações, por oferta ao Senhor, sobre cavalos, em liteiras e sobre mulas e dromedários, ao meu santo monte, a Jerusalém, diz o Senhor, como quando os filhos de Israel trazem as suas ofertas de manjares, em vasos puros à Casa do Senhor.
-21 Também deles tomarei a alguns para sacerdotes e para levitas, diz o Senhor.
-22 Porque, como os novos céus e a nova terra, que hei de fazer, estarão diante de mim, diz o Senhor, assim há de estar a vossa posteridade e o vosso nome.
-23 E será que, de uma Festa da Lua Nova à outra e de um sábado a outro, virá toda a carne a adorar perante mim, diz o Senhor.
-24 Eles sairão e verão os cadáveres dos homens que prevaricaram contra mim; porque o seu verme nunca morrerá, nem o seu fogo se apagará; e eles serão um horror para toda a carne.
+1 Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que estavam em Anatote, na terra de Benjamim;
+2 a ele veio a palavra do Senhor, nos dias de Josias, filho de Amom e rei de Judá, no décimo terceiro ano do seu reinado;
+3 e também nos dias de Jeoaquim, filho de Josias, rei de Judá, até ao fim do ano undécimo de Zedequias, filho de Josias, rei de Judá, e ainda até ao quinto mês do exílio de Jerusalém.
+4 A mim me veio, pois, a palavra do Senhor, dizendo:
+5 Antes que eu te formasse no ventre materno, eu te conheci, e, antes que saísses da madre, te consagrei, e te constituí profeta às nações.
+6 Então, lhe disse eu: ah! Senhor Deus! Eis que não sei falar, porque não passo de uma criança.
+7 Mas o Senhor me disse: Não digas: Não passo de uma criança; porque a todos a quem eu te enviar irás; e tudo quanto eu te mandar falarás.
+8 Não temas diante deles, porque eu sou contigo para te livrar, diz o Senhor.
+9 Depois, estendeu o Senhor a mão, tocou-me na boca e o Senhor me disse: Eis que ponho na tua boca as minhas palavras.
+10 Olha que hoje te constituo sobre as nações e sobre os reinos, para arrancares e derribares, para destruíres e arruinares e também para edificares e para plantares.
+11 Veio ainda a palavra do Senhor, dizendo: Que vês tu, Jeremias? Respondi: vejo uma vara de amendoeira.
+12 Disse-me o Senhor: Viste bem, porque eu velo sobre a minha palavra para a cumprir.
+13 Outra vez, me veio a palavra do Senhor, dizendo: Que vês? Eu respondi: vejo uma panela ao fogo, cuja boca se inclina do Norte.
+14 Disse-me o Senhor: Do Norte se derramará o mal sobre todos os habitantes da terra.
+15 Pois eis que convoco todas as tribos dos reinos do Norte, diz o Senhor; e virão, e cada reino porá o seu trono à entrada das portas de Jerusalém e contra todos os seus muros em redor e contra todas as cidades de Judá.
+16 Pronunciarei contra os moradores destas as minhas sentenças, por causa de toda a malícia deles; pois me deixaram a mim, e queimaram incenso a deuses estranhos, e adoraram as obras das suas próprias mãos.
+17 Tu, pois, cinge os lombos, dispõe-te e dize-lhes tudo quanto eu te mandar; não te espantes diante deles, para que eu não te infunda espanto na sua presença.
+18 Eis que hoje te ponho por cidade fortificada, por coluna de ferro e por muros de bronze, contra todo o país, contra os reis de Judá, contra os seus príncipes, contra os seus sacerdotes e contra o seu povo.
+19 Pelejarão contra ti, mas não prevalecerão; porque eu sou contigo, diz o Senhor, para te livrar.*
+1 A mim me veio a palavra do Senhor, dizendo:
+2 Vai e clama aos ouvidos de Jerusalém: Assim diz o Senhor: Lembro-me de ti, da tua afeição quando eras jovem, e do teu amor quando noiva, e de como me seguias no deserto, numa terra em que se não semeia.
+3 Então, Israel era consagrado ao Senhor e era as primícias da sua colheita; todos os que o devoraram se faziam culpados; o mal vinha sobre eles, diz o Senhor.
+4 Ouvi a palavra do Senhor, ó casa de Jacó e todas as famílias da casa de Israel.
+5 Assim diz o Senhor: Que injustiça acharam vossos pais em mim, para de mim se afastarem, indo após a nulidade dos ídolos e se tornando nulos eles mesmos,
+6 e sem perguntarem: Onde está o Senhor, que nos fez subir da terra do Egito? Que nos guiou através do deserto, por uma terra de ermos e de covas, por uma terra de sequidão e sombra de morte, por uma terra em que ninguém transitava e na qual não morava homem algum?
+7 Eu vos introduzi numa terra fértil, para que comêsseis o seu fruto e o seu bem; mas, depois de terdes entrado nela, vós a contaminastes e da minha herança fizestes abominação.
+8 Os sacerdotes não disseram: Onde está o Senhor? E os que tratavam da lei não me conheceram, os pastores prevaricaram contra mim, os profetas profetizaram por Baal e andaram atrás de coisas de nenhum proveito.
+9 Portanto, ainda pleitearei convosco, diz o Senhor, e até com os filhos de vossos filhos pleitearei.
+10 Passai às terras do mar de Chipre e vede; mandai mensageiros a Quedar, e atentai bem, e vede se jamais sucedeu coisa semelhante.
+11 Houve alguma nação que trocasse os seus deuses, posto que não eram deuses? Todavia, o meu povo trocou a sua Glória por aquilo que é de nenhum proveito.
+12 Espantai-vos disto, ó céus, e horrorizai-vos! Ficai estupefatos, diz o Senhor.
+13 Porque dois males cometeu o meu povo: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm as águas.
+14 Acaso, é Israel escravo ou servo nascido em casa? Por que, pois, veio a ser presa?
+15 Os leões novos rugiram contra ele, levantaram a voz; da terra dele fizeram uma desolação; as suas cidades estão queimadas, e não há quem nelas habite.
+16 Até os filhos de Mênfis e de Tafnes te pastaram o alto da cabeça.
+17 Acaso, tudo isto não te sucedeu por haveres deixado o Senhor, teu Deus, quando te guiava pelo caminho?
+18 Agora, pois, que lucro terás indo ao Egito para beberes as águas do Nilo; ou indo à Assíria para beberes as águas do Eufrates?
+19 A tua malícia te castigará, e as tuas infidelidades te repreenderão; sabe, pois, e vê que mau e quão amargo é deixares o Senhor, teu Deus, e não teres temor de mim, diz o Senhor, o Senhor dos Exércitos.
+20 Ainda que há muito quebrava eu o teu jugo e rompia as tuas ataduras, dizias tu: Não quero servir-te. Pois, em todo outeiro alto e debaixo de toda árvore frondosa, te deitavas e te prostituías.
+21 Eu mesmo te plantei como vide excelente, da semente mais pura; como, pois, te tornaste para mim uma planta degenerada, como de vide brava?
+22 Pelo que ainda que te laves com salitre e amontoes potassa, continua a mácula da tua iniquidade perante mim, diz o Senhor Deus.
+23 Como podes dizer: Não estou maculada, não andei após os baalins? Vê o teu rasto no vale, reconhece o que fizeste, dromedária nova de ligeiros pés, que andas ziguezagueando pelo caminho;
+24 jumenta selvagem, acostumada ao deserto e que, no ardor do cio, sorve o vento. Quem a impediria de satisfazer ao seu desejo? Os que a procuram não têm de fatigar-se; no mês dela a acharão.
+25 Guarda-te de que os teus pés andem desnudos e a tua garganta tenha sede. Mas tu dizes: Não, é inútil; porque amo os estranhos e após eles irei.
+26 Como se envergonha o ladrão quando o apanham, assim se envergonham os da casa de Israel; eles, os seus reis, os seus príncipes, os seus sacerdotes e os seus profetas,
+27 que dizem a um pedaço de madeira: Tu és meu pai; e à pedra: Tu me geraste. Pois me viraram as costas e não o rosto; mas, em vindo a angústia, dizem: Levanta-te e livra-nos.
+28 Onde, pois, estão os teus deuses, que para ti mesmo fizeste? Eles que se levantem se te podem livrar no tempo da tua angústia; porque os teus deuses, ó Judá, são tantos como as tuas cidades.
+29 Por que contendeis comigo? Todos vós transgredistes contra mim, diz o Senhor.
+30 Em vão castiguei os vossos filhos; eles não aceitaram a minha disciplina; a vossa espada devorou os vossos profetas como leão destruidor.
+31 Oh! Que geração! Considerai vós a palavra do Senhor. Porventura, tenho eu sido para Israel um deserto? Ou uma terra da mais espessa escuridão? Por que, pois, diz o meu povo: Somos livres! Jamais tornaremos a ti?
+32 Acaso, se esquece a virgem dos seus adornos ou a noiva do seu cinto? Todavia, o meu povo se esqueceu de mim por dias sem conta.
+33 Como dispões bem os teus caminhos, para buscares o amor! Pois até às mulheres perdidas os ensinaste.
+34 Nas orlas dos teus vestidos se achou também o sangue de pobres e inocentes, não surpreendidos no ato de roubar. Apesar de todas estas coisas,
+35 ainda dizes: Estou inocente; certamente, a sua ira se desviou de mim. Eis que entrarei em juízo contigo, porquanto dizes: Não pequei.
+36 Que mudar leviano é esse dos teus caminhos? Também do Egito serás envergonhada, como foste envergonhada da Assíria.
+37 Também daquele sairás de mãos na cabeça; porque o Senhor rejeitou aqueles em quem confiaste, e não terás sorte por meio deles.*1 Se um homem repudiar sua mulher, e ela o deixar e tomar outro marido, porventura, aquele tornará a ela? Não se poluiria com isso de todo aquela terra? Ora, tu te prostituíste com muitos amantes; mas, ainda assim, torna para mim, diz o Senhor.
+2 Levanta os olhos aos altos desnudos e vê; onde não te prostituíste? Nos caminhos te assentavas à espera deles como o arábio no deserto; assim, poluíste a terra com as tuas devassidões e com a tua malícia.
+3 Pelo que foram retiradas as chuvas, e não houve chuva serôdia; mas tu tens a fronte de prostituta e não queres ter vergonha.
+4 Não é fato que agora mesmo tu me invocas, dizendo: Pai meu, tu és o amigo da minha mocidade?
+5 Conservarás para sempre a tua ira? Ou a reterás até ao fim? Sim, assim me falas, mas cometes maldade a mais não poder.
+6 Disse mais o Senhor nos dias do rei Josias: Viste o que fez a pérfida Israel? Foi a todo monte alto e debaixo de toda árvore frondosa e se deu ali a toda prostituição.
+7 E, depois de ela ter feito tudo isso, eu pensei que ela voltaria para mim, mas não voltou. A sua pérfida irmã Judá viu isto.
+8 Quando, por causa de tudo isto, por ter cometido adultério, eu despedi a pérfida Israel e lhe dei carta de divórcio, vi que a falsa Judá, sua irmã, não temeu; mas ela mesma se foi e se deu à prostituição.
+9 Sucedeu que, pelo ruidoso da sua prostituição, poluiu ela a terra; porque adulterou, adorando pedras e árvores.
+10 Apesar de tudo isso, não voltou de todo o coração para mim a sua falsa irmã Judá, mas fingidamente, diz o Senhor.
+11 Disse-me o Senhor: Já a pérfida Israel se mostrou mais justa do que a falsa Judá.
+12 Vai, pois, e apregoa estas palavras para o lado do Norte e dize: Volta, ó pérfida Israel, diz o Senhor, e não farei cair a minha ira sobre ti, porque eu sou compassivo, diz o Senhor, e não manterei para sempre a minha ira.
+13 Tão somente reconhece a tua iniquidade, reconhece que transgrediste contra o Senhor, teu Deus, e te prostituíste com os estranhos debaixo de toda árvore frondosa e não deste ouvidos à minha voz, diz o Senhor.
+14 Convertei-vos, ó filhos rebeldes, diz o Senhor; porque eu sou o vosso esposo e vos tomarei, um de cada cidade e dois de cada família, e vos levarei a Sião.
+15 Dar-vos-ei pastores segundo o meu coração, que vos apascentem com conhecimento e com inteligência.
+16 Sucederá que, quando vos multiplicardes e vos tornardes fecundos na terra, então, diz o Senhor, nunca mais se exclamará: A arca da Aliança do Senhor! Ela não lhes virá à mente, não se lembrarão dela nem dela sentirão falta; e não se fará outra.
+17 Naquele tempo, chamarão a Jerusalém de Trono do Senhor; nela se reunirão todas as nações em nome do Senhor e já não andarão segundo a dureza do seu coração maligno.
+18 Naqueles dias, andará a casa de Judá com a casa de Israel, e virão juntas da terra do Norte para a terra que dei em herança a vossos pais.
+19 Mas eu a mim me perguntava: como te porei entre os filhos e te darei a terra desejável, a mais formosa herança das nações? E respondi: Pai me chamarás e de mim não te desviarás.
+20 Deveras, como a mulher se aparta perfidamente do seu marido, assim com perfídia te houveste comigo, ó casa de Israel, diz o Senhor.
+21 Nos lugares altos, se ouviu uma voz, pranto e súplicas dos filhos de Israel; porquanto perverteram o seu caminho e se esqueceram do Senhor, seu Deus.
+22 Voltai, ó filhos rebeldes, eu curarei as vossas rebeliões. Eis-nos aqui, vimos ter contigo; porque tu és o Senhor, nosso Deus.
+23 Na verdade, os outeiros não passam de ilusão, nem as orgias das montanhas; com efeito, no Senhor, nosso Deus, está a salvação de Israel.
+24 Mas a coisa vergonhosa devorou o labor de nossos pais, desde a nossa mocidade: as suas ovelhas e o seu gado, os seus filhos e as suas filhas.
+25 Deitemo-nos em nossa vergonha, e cubra-nos a nossa ignomínia, porque temos pecado contra o Senhor, nosso Deus, nós e nossos pais, desde a nossa mocidade até ao dia de hoje; e não demos ouvidos à voz do Senhor, nosso Deus.*
+1 Se voltares, ó Israel, diz o Senhor, volta para mim; se removeres as tuas abominações de diante de mim, não mais andarás vagueando;
+2 se jurares pela vida do Senhor, em verdade, em juízo e em justiça, então, nele serão benditas as nações e nele se glorificarão.
+3 Porque assim diz o Senhor aos homens de Judá e Jerusalém: Lavrai para vós outros campo novo e não semeeis entre espinhos.
+4 Circuncidai-vos para o Senhor, circuncidai o vosso coração, ó homens de Judá e moradores de Jerusalém, para que o meu furor não saia como fogo e arda, e não haja quem o apague, por causa da malícia das vossas obras.
+5 Anunciai em Judá, fazei ouvir em Jerusalém e dizei: Tocai a trombeta na terra! Gritai em alta voz, dizendo: Ajuntai-vos, e entremos nas cidades fortificadas!
+6 Arvorai a bandeira rumo a Sião, fugi e não vos detenhais; porque eu faço vir do Norte um mal, uma grande destruição.
+7 Já um leão subiu da sua ramada, um destruidor das nações; ele já partiu, já deixou o seu lugar para fazer da tua terra uma desolação, a fim de que as tuas cidades sejam destruídas, e ninguém as habite.
+8 Cingi-vos, pois, de cilício, lamentai e uivai; porque a ira ardente do Senhor não se desviou de nós.
+9 Sucederá naquele dia, diz o Senhor, que o rei e os príncipes perderão a coragem, os sacerdotes ficarão pasmados, e os profetas, estupefatos.
+10 Então, disse eu: Ah! Senhor Deus! Verdadeiramente, enganaste a este povo e a Jerusalém, dizendo: Tereis paz; e eis que a espada lhe penetra até à alma.
+11 Naquele tempo, se dirá a este povo e a Jerusalém: Vento abrasador dos altos desnudos do ermo assopra diretamente à filha do meu povo, não para padejar nem para alimpar.
+12 Vento mais forte do que este virá ainda de minha parte, e, então, também eu pronunciarei a sentença contra eles.
+13 Eis aí que sobe o destruidor como nuvens; os seus carros, como tempestade; os seus cavalos são mais ligeiros do que as águias. Ai de nós! Estamos arruinados!
+14 Lava o teu coração da malícia, ó Jerusalém, para que sejas salva! Até quando hospedarás contigo os teus maus pensamentos?
+15 Uma voz se faz ouvir desde Dã e anuncia a calamidade desde a região montanhosa de Efraim!
+16 Proclamai isto às nações, fazei-o ouvir contra Jerusalém: De uma terra longínqua vêm sitiadores e levantam a voz contra as cidades de Judá.
+17 Como os guardas de um campo, eles cercam Jerusalém, porque ela se rebelou contra mim, diz o Senhor.
+18 O teu proceder e as tuas obras fizeram vir sobre ti estas coisas; a tua calamidade, que é amarga, atinge até o próprio coração.
+19 Ah! Meu coração! Meu coração! Eu me contorço em dores. Oh! As paredes do meu coração! Meu coração se agita! Não posso calar-me, porque ouves, ó minha alma, o som da trombeta, o alarido de guerra.
+20 Golpe sobre golpe se anuncia, pois a terra toda já está destruída; de súbito, foram destruídas as minhas tendas; num momento, as suas lonas.
+21 Até quando terei de ver a bandeira, terei de ouvir a voz da trombeta?
+22 Deveras, o meu povo está louco, já não me conhece; são filhos néscios e não inteligentes; são sábios para o mal e não sabem fazer o bem.
+23 Olhei para a terra, e ei-la sem forma e vazia; para os céus, e não tinham luz.
+24 Olhei para os montes, e eis que tremiam, e todos os outeiros estremeciam.
+25 Olhei, e eis que não havia homem nenhum, e todas as aves dos céus haviam fugido.
+26 Olhei ainda, e eis que a terra fértil era um deserto, e todas as suas cidades estavam derribadas diante do Senhor, diante do furor da sua ira.
+27 Pois assim diz o Senhor: Toda a terra será assolada; porém não a consumirei de todo.
+28 Por isso, a terra pranteará, e os céus acima se enegrecerão; porque falei, resolvi e não me arrependo, nem me retrato.
+29 Ao clamor dos cavaleiros e dos flecheiros, fogem todas as cidades, entram pelas selvas e sobem pelos penhascos; todas as cidades ficam desamparadas, e já ninguém habita nelas.
+30 Agora, pois, ó assolada, por que fazes assim, e te vestes de escarlata, e te adornas com enfeites de ouro, e alargas os olhos com pinturas, se debalde te fazes bela? Os amantes te desprezam e procuram tirar-te a vida.
+31 Pois ouço uma voz, como de parturiente, uma angústia como da primípara em suas dores; a voz da filha de Sião, ofegante, que estende as mãos, dizendo: Ai de mim agora! Porque a minha alma desfalece por causa dos assassinos.*
+1 Dai voltas às ruas de Jerusalém; vede agora, procurai saber, buscai pelas suas praças a ver se achais alguém, se há um homem que pratique a justiça ou busque a verdade; e eu lhe perdoarei a ela.
+2 Embora digam: Tão certo como vive o Senhor, certamente, juram falso.
+3 Ah! Senhor, não é para a fidelidade que atentam os teus olhos? Tu os feriste, e não lhes doeu; consumiste-os, e não quiseram receber a disciplina; endureceram o rosto mais do que uma rocha; não quiseram voltar.
+4 Mas eu pensei: são apenas os pobres que são insensatos, pois não sabem o caminho do Senhor, o direito do seu Deus.
+5 Irei aos grandes e falarei com eles; porque eles sabem o caminho do Senhor, o direito do seu Deus; mas estes, de comum acordo, quebraram o jugo e romperam as algemas.
+6 Por isso, um leão do bosque os matará, um lobo dos desertos os assolará, um leopardo estará à espreita das suas cidades; qualquer que sair delas será despedaçado; porque as suas transgressões se multiplicaram, multiplicaram-se as suas perfídias.
+7 Como, vendo isto, te perdoaria? Teus filhos me deixam a mim e juram pelos que não são deuses; depois de eu os ter fartado, adulteraram e em casa de meretrizes se ajuntaram em bandos;
+8 como garanhões bem fartos, correm de um lado para outro, cada um rinchando à mulher do seu companheiro.
+9 Deixaria eu de castigar estas coisas, diz o Senhor, ou não me vingaria de nação como esta?
+10 Subi vós aos terraços da vinha, destruí-a, porém não de todo; tirai-lhe as gavinhas, porque não são do Senhor.
+11 Porque perfidamente se houveram contra mim, a casa de Israel e a casa de Judá, diz o Senhor.
+12 Negaram ao Senhor e disseram: Não é ele; e: Nenhum mal nos sobrevirá; não veremos espada nem fome.
+13 Até os profetas não passam de vento, porque a palavra não está com eles, as suas ameaças se cumprirão contra eles mesmos.
+14 Portanto, assim diz o Senhor, o Deus dos Exércitos: Visto que proferiram eles tais palavras, eis que converterei em fogo as minhas palavras na tua boca e a este povo, em lenha, e eles serão consumidos.
+15 Eis que trago sobre ti uma nação de longe, ó casa de Israel, diz o Senhor; nação robusta, nação antiga, nação cuja língua ignoras; e não entendes o que ela fala.
+16 A sua aljava é como uma sepultura aberta; todos os seus homens são valentes.
+17 Comerão a tua sega e o teu pão, os teus filhos e as tuas filhas; comerão as tuas ovelhas e o teu gado; comerão a tua vide e a tua figueira; e com a espada derribarão as tuas cidades fortificadas, em que confias.
+18 Contudo, ainda naqueles dias, diz o Senhor, não vos destruirei de todo.
+19 Quando disserem: Por que nos fez o Senhor, nosso Deus, todas estas coisas? Então, lhes responderás: Como vós me deixastes e servistes a deuses estranhos na vossa terra, assim servireis a estrangeiros, em terra que não é vossa.
+20 Anunciai isto na casa de Jacó e fazei-o ouvir em Judá, dizendo:
+21 Ouvi agora isto, ó povo insensato e sem entendimento, que tendes olhos e não vedes, tendes ouvidos e não ouvis.
+22 Não temereis a mim? — diz o Senhor; não tremereis diante de mim, que pus a areia para limite do mar, limite perpétuo, que ele não traspassará? Ainda que se levantem as suas ondas, não prevalecerão; ainda que bramem, não o traspassarão.
+23 Mas este povo é de coração rebelde e contumaz; rebelaram-se e foram-se.
+24 Não dizem a eles mesmos: Temamos agora ao Senhor, nosso Deus, que nos dá a seu tempo a chuva, a primeira e a última, que nos conserva as semanas determinadas da sega.
+25 As vossas iniquidades desviam estas coisas, e os vossos pecados afastam de vós o bem.
+26 Porque entre o meu povo se acham perversos; cada um anda espiando, como espreitam os passarinheiros; como eles, dispõem armadilhas e prendem os homens.
+27 Como a gaiola cheia de pássaros, são as suas casas cheias de fraude; por isso, se tornaram poderosos e enriqueceram.
+28 Engordam, tornam-se nédios e ultrapassam até os feitos dos malignos; não defendem a causa, a causa dos órfãos, para que prospere; nem julgam o direito dos necessitados.
+29 Não castigaria eu estas coisas? — diz o Senhor; não me vingaria eu de nação como esta?
+30 Coisa espantosa e horrenda se anda fazendo na terra:
+31 os profetas profetizam falsamente, e os sacerdotes dominam de mãos dadas com eles; e é o que deseja o meu povo. Porém que fareis quando estas coisas chegarem ao seu fim?*
+1 Fugi, filhos de Benjamim, do meio de Jerusalém; tocai a trombeta em Tecoa e levantai o facho sobre Bete-Haquerém, porque do lado do Norte surge um grande mal, uma grande calamidade.
+2 A formosa e delicada, a filha de Sião, eu deixarei em ruínas.
+3 Contra ela virão pastores com os seus rebanhos; levantarão suas tendas em redor, e cada um apascentará no seu devido lugar.
+4 Preparai a guerra contra ela, disponde-vos, e subamos ao meio-dia. Ai de nós, que já declina o dia, já se vão estendendo as sombras da tarde!
+5 Disponde-vos, e subamos de noite e destruamos os seus castelos.
+6 Porque assim diz o Senhor dos Exércitos: Cortai árvores e levantai tranqueiras contra Jerusalém. Esta é a cidade que há de ser punida; só opressão há no meio dela.
+7 Como o poço conserva frescas as suas águas, assim ela, a sua malícia; violência e estrago se ouvem nela; enfermidade e feridas há diante de mim continuamente.
+8 Aceita a disciplina, ó Jerusalém, para que eu não me aparte de ti; para que eu não te torne em assolação e terra não habitada.
+9 Assim diz o Senhor dos Exércitos: Diligentemente se rebuscarão os resíduos de Israel como uma vinha; vai metendo a mão, como o vindimador, por entre os sarmentos.
+10 A quem falarei e testemunharei, para que ouçam? Eis que os seus ouvidos estão incircuncisos e não podem ouvir; eis que a palavra do Senhor é para eles coisa vergonhosa; não gostam dela.
+11 Pelo que estou cheio da ira do Senhor; estou cansado de a conter. Derramá-la-ei sobre as crianças pelas ruas e nas reuniões de todos os jovens; porque até o marido com a mulher serão presos, e o velho, com o decrépito.
+12 As suas casas passarão a outrem, os campos e também as mulheres, porque estenderei a mão contra os habitantes desta terra, diz o Senhor,
+13 porque desde o menor deles até ao maior, cada um se dá à ganância, e tanto o profeta como o sacerdote usam de falsidade.
+14 Curam superficialmente a ferida do meu povo, dizendo: Paz, paz; quando não há paz.
+15 Serão envergonhados, porque cometem abominação sem sentir por isso vergonha; nem sabem que coisa é envergonhar-se. Portanto, cairão com os que caem; quando eu os castigar, tropeçarão, diz o Senhor.
+16 Assim diz o Senhor: Ponde-vos à margem no caminho e vede, perguntai pelas veredas antigas, qual é o bom caminho; andai por ele e achareis descanso para a vossa alma; mas eles dizem: Não andaremos.
+17 Também pus atalaias sobre vós, dizendo: Estai atentos ao som da trombeta; mas eles dizem: Não escutaremos.
+18 Portanto, ouvi, ó nações, e informa-te, ó congregação, do que se fará entre eles!
+19 Ouve tu, ó terra! Eis que eu trarei mal sobre este povo, o próprio fruto dos seus pensamentos; porque não estão atentos às minhas palavras e rejeitam a minha lei.
+20 Para que, pois, me vem o incenso de Sabá e a melhor cana aromática de terras longínquas? Os vossos holocaustos não me são aprazíveis, e os vossos sacrifícios não me agradam.
+21 Portanto, assim diz o Senhor: Eis que ponho tropeços a este povo; neles cairão pais e filhos juntamente; o vizinho e o seu companheiro perecerão.
+22 Assim diz o Senhor: Eis que um povo vem da terra do Norte, e uma grande nação se levanta dos confins da terra.
+23 Trazem arco e dardo; eles são cruéis e não usam de misericórdia; a sua voz ruge como o mar, e em cavalos vêm montados, como guerreiros em ordem de batalha contra ti, ó filha de Sião.
+24 Ao ouvirmos a sua fama, afrouxam-se as nossas mãos, angústia nos toma e dores como de parturiente.
+25 Não saias ao campo, nem andes pelo caminho, porque o inimigo tem espada, e há terror por todos os lados.
+26 Ó filha do meu povo, cinge-te de cilício e revolve-te na cinza; pranteia como por filho único, pranto de amarguras; porque, de súbito, virá o destruidor sobre nós.
+27 Qual acrisolador te estabeleci entre o meu povo, qual fortaleza, para que venhas a conhecer o seu caminho e o examines.
+28 Todos eles são os mais rebeldes e andam espalhando calúnias; são bronze e ferro, são todos corruptores.
+29 O fole bufa, só chumbo resulta do seu fogo; em vão continua o depurador, porque os iníquos não são separados.
+30 Prata de refugo lhes chamarão, porque o Senhor os refugou.*
+1 Palavra que da parte do Senhor foi dita a Jeremias:
+2 Põe-te à porta da Casa do Senhor, e proclama ali esta palavra, e dize: Ouvi a palavra do Senhor, todos de Judá, vós, os que entrais por estas portas, para adorardes ao Senhor.
+3 Assim diz o Senhor dos Exércitos, o Deus de Israel: Emendai os vossos caminhos e as vossas obras, e eu vos farei habitar neste lugar.
+4 Não confieis em palavras falsas, dizendo: Templo do Senhor, templo do Senhor, templo do Senhor é este.
+5 Mas, se deveras emendardes os vossos caminhos e as vossas obras, se deveras praticardes a justiça, cada um com o seu próximo;
+6 se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal,
+7 eu vos farei habitar neste lugar, na terra que dei a vossos pais, desde os tempos antigos e para sempre.
+8 Eis que vós confiais em palavras falsas, que para nada vos aproveitam.
+9 Que é isso? Furtais e matais, cometeis adultério e jurais falsamente, queimais incenso a Baal e andais após outros deuses que não conheceis,
+10 e depois vindes, e vos pondes diante de mim nesta casa que se chama pelo meu nome, e dizeis: Estamos salvos; sim, só para continuardes a praticar estas abominações!
+11 Será esta casa que se chama pelo meu nome um covil de salteadores aos vossos olhos? Eis que eu, eu mesmo, vi isto, diz o Senhor.
+12 Mas ide agora ao meu lugar que estava em Siló, onde, no princípio, fiz habitar o meu nome, e vede o que lhe fiz, por causa da maldade do meu povo de Israel.
+13 Agora, pois, visto que fazeis todas estas obras, diz o Senhor, e eu vos falei, começando de madrugada, e não me ouvistes, chamei-vos, e não me respondestes,
+14 farei também a esta casa que se chama pelo meu nome, na qual confiais, e a este lugar, que vos dei a vós outros e a vossos pais, como fiz a Siló.
+15 Lançar-vos-ei da minha presença, como arrojei a todos os vossos irmãos, a toda a posteridade de Efraim.
+16 Tu, pois, não intercedas por este povo, nem levantes por ele clamor ou oração, nem me importunes, porque eu não te ouvirei.
+17 Acaso, não vês tu o que andam fazendo nas cidades de Judá e nas ruas de Jerusalém?
+18 Os filhos apanham a lenha, os pais acendem o fogo, e as mulheres amassam a farinha, para se fazerem bolos à Rainha dos Céus; e oferecem libações a outros deuses, para me provocarem à ira.
+19 Acaso, é a mim que eles provocam à ira, diz o Senhor, e não, antes, a si mesmos, para a sua própria vergonha?
+20 Portanto, assim diz o Senhor Deus: Eis que a minha ira e o meu furor se derramarão sobre este lugar, sobre os homens e sobre os animais, sobre as árvores do campo e sobre os frutos da terra; arderá e não se apagará.
+21 Assim diz o Senhor dos Exércitos, o Deus de Israel: Ajuntai os vossos holocaustos aos vossos sacrifícios e comei carne.
+22 Porque nada falei a vossos pais, no dia em que os tirei da terra do Egito, nem lhes ordenei coisa alguma acerca de holocaustos ou sacrifícios.
+23 Mas isto lhes ordenei, dizendo: Dai ouvidos à minha voz, e eu serei o vosso Deus, e vós sereis o meu povo; andai em todo o caminho que eu vos ordeno, para que vos vá bem.
+24 Mas não deram ouvidos, nem atenderam, porém andaram nos seus próprios conselhos e na dureza do seu coração maligno; andaram para trás e não para diante.
+25 Desde o dia em que vossos pais saíram da terra do Egito até hoje, enviei-vos todos os meus servos, os profetas, todos os dias; começando de madrugada, eu os enviei.
+26 Mas não me destes ouvidos, nem me atendestes; endurecestes a cerviz e fizestes pior do que vossos pais.
+27 Dir-lhes-ás, pois, todas estas palavras, mas não te darão ouvidos; chamá-los-ás, mas não te responderão.
+28 Dir-lhes-ás: Esta é a nação que não atende à voz do Senhor, seu Deus, e não aceita a disciplina; já pereceu, a verdade foi eliminada da sua boca.
+29 Corta os teus cabelos consagrados, ó Jerusalém, e põe-te a prantear sobre os altos desnudos; porque já o Senhor rejeitou e desamparou a geração objeto do seu furor;
+30 porque os filhos de Judá fizeram o que era mau perante mim, diz o Senhor; puseram os seus ídolos abomináveis na casa que se chama pelo meu nome, para a contaminarem.
+31 Edificaram os altos de Tofete, que está no vale do filho de Hinom, para queimarem a seus filhos e a suas filhas; o que nunca ordenei, nem me passou pela mente.
+32 Portanto, eis que virão dias, diz o Senhor, em que já não se chamará Tofete, nem vale do filho de Hinom, mas o vale da Matança; os mortos serão enterrados em Tofete por não haver outro lugar.
+33 Os cadáveres deste povo servirão de pasto às aves dos céus e aos animais da terra; e ninguém haverá que os espante.
+34 Farei cessar nas cidades de Judá e nas ruas de Jerusalém a voz de folguedo e a de alegria, a voz de noivo e a de noiva; porque a terra se tornará em desolação.*
+1 Naquele tempo, diz o Senhor, lançarão para fora das suas sepulturas os ossos dos reis e dos príncipes de Judá, os ossos dos sacerdotes e dos profetas e os ossos dos habitantes de Jerusalém;
+2 espalhá-los-ão ao sol, e à lua, e a todo o exército do céu, a quem tinham amado, e a quem serviram, e após quem tinham ido, e a quem procuraram, e diante de quem se tinham prostrado; não serão recolhidos, nem sepultados; serão como esterco sobre a terra.
+3 Escolherão antes a morte do que a vida todos os que restarem desta raça malvada que ficar nos lugares para onde os dispersei, diz o Senhor dos Exércitos.
+4 Dize-lhes mais: Assim diz o Senhor: Quando caem os homens, não se tornam a levantar? Quando alguém se desvia do caminho, não torna a voltar?
+5 Por que, pois, este povo de Jerusalém se desvia, apostatando continuamente? Persiste no engano e não quer voltar.
+6 Eu escutei e ouvi; não falam o que é reto, ninguém há que se arrependa da sua maldade, dizendo: Que fiz eu? Cada um corre a sua carreira como um cavalo que arremete com ímpeto na batalha.
+7 Até a cegonha no céu conhece as suas estações; a rola, a andorinha e o grou observam o tempo da sua arribação; mas o meu povo não conhece o juízo do Senhor.
+8 Como, pois, dizeis: Somos sábios, e a lei do Senhor está conosco? Pois, com efeito, a falsa pena dos escribas a converteu em mentira.
+9 Os sábios serão envergonhados, aterrorizados e presos; eis que rejeitaram a palavra do Senhor; que sabedoria é essa que eles têm?
+10 Portanto, darei suas mulheres a outros, e os seus campos, a novos possuidores; porque, desde o menor deles até ao maior, cada um se dá à ganância, e tanto o profeta como o sacerdote usam de falsidade.
+11 Curam superficialmente a ferida do meu povo, dizendo: Paz, paz; quando não há paz.
+12 Serão envergonhados, porque cometem abominação sem sentir por isso vergonha; nem sabem que coisa é envergonhar-se. Portanto, cairão com os que caem; quando eu os castigar, tropeçarão, diz o Senhor.
+13 Eu os consumirei de todo, diz o Senhor; não haverá uvas na vide, nem figos na figueira, e a folha já está murcha; e já lhes designei os que passarão sobre eles.
+14 Por que estamos ainda assentados aqui? Reuni-vos, e entremos nas cidades fortificadas e ali pereçamos; pois o Senhor já nos decretou o perecimento e nos deu a beber água venenosa, porquanto pecamos contra o Senhor.
+15 Espera-se a paz, e nada há de bom; o tempo da cura, e eis o terror.
+16 Desde Dã se ouve o resfolegar dos seus cavalos; toda a terra treme à voz dos rinchos dos seus garanhões; e vêm e devoram a terra e a sua abundância, a cidade e os que habitam nela.
+17 Porque eis que envio para entre vós serpentes, áspides contra as quais não há encantamento, e vos morderão, diz o Senhor.
+sa da ruína do povo
+18 Oh! Se eu pudesse consolar-me na minha tristeza! O meu coração desfalece dentro de mim.
+19 Eis a voz do clamor da filha do meu povo de terra mui remota: Não está o Senhor em Sião? Não está nela o seu Rei? Por que me provocaram à ira com as suas imagens de escultura, com os ídolos dos estrangeiros?
+20 Passou a sega, findou o verão, e nós não estamos salvos.
+21 Estou quebrantado pela ferida da filha do meu povo; estou de luto; o espanto se apoderou de mim.
+22 Acaso, não há bálsamo em Gileade? Ou não há lá médico? Por que, pois, não se realizou a cura da filha do meu povo?*
+1 Prouvera a Deus a minha cabeça se tornasse em águas, e os meus olhos, em fonte de lágrimas! Então, choraria de dia e de noite os mortos da filha do meu povo.
+2 Prouvera a Deus eu tivesse no deserto uma estalagem de caminhantes! Então, deixaria o meu povo e me apartaria dele, porque todos eles são adúlteros, são um bando de traidores;
+3 curvam a língua, como se fosse o seu arco, para a mentira; fortalecem-se na terra, mas não para a verdade, porque avançam de malícia em malícia e não me conhecem, diz o Senhor.
+4 Guardai-vos cada um do seu amigo e de irmão nenhum vos fieis; porque todo irmão não faz mais do que enganar, e todo amigo anda caluniando.
+5 Cada um zomba do seu próximo, e não falam a verdade; ensinam a sua língua a proferir mentiras; cansam-se de praticar a iniquidade.
+6 Vivem no meio da falsidade; pela falsidade recusam conhecer-me, diz o Senhor.
+7 Portanto, assim diz o Senhor dos Exércitos: Eis que eu os acrisolarei e os provarei; porque de que outra maneira procederia eu com a filha do meu povo?
+8 Flecha mortífera é a língua deles; falam engano; com a boca fala cada um de paz com o seu companheiro, mas no seu interior lhe arma ciladas.
+9 Acaso, por estas coisas não os castigaria? — diz o Senhor; ou não me vingaria eu de nação tal como esta?
+10 Pelos montes levantarei choro e pranto e pelas pastagens do deserto, lamentação; porque já estão queimadas, e ninguém passa por elas; já não se ouve ali o mugido de gado; tanto as aves dos céus como os animais fugiram e se foram.
+11 Farei de Jerusalém montões de ruínas, morada de chacais; e das cidades de Judá farei uma assolação, de sorte que fiquem desabitadas.
+12 Quem é o homem sábio, que entenda isto, e a quem falou a boca do Senhor, homem que possa explicar por que razão pereceu a terra e se queimou como deserto, de sorte que ninguém passa por ela?
+13 Respondeu o Senhor: Porque deixaram a minha lei, que pus perante eles, e não deram ouvidos ao que eu disse, nem andaram nela.
+14 Antes, andaram na dureza do seu coração e seguiram os baalins, como lhes ensinaram os seus pais.
+15 Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que alimentarei este povo com absinto e lhe darei a beber água venenosa.
+16 Espalhá-los-ei entre nações que nem eles nem seus pais conheceram; e enviarei a espada após eles, até que eu venha a consumi-los.
+17 Assim diz o Senhor dos Exércitos: Considerai e chamai carpideiras, para que venham; mandai procurar mulheres hábeis, para que venham.
+18 Apressem-se e levantem sobre nós o seu lamento, para que os nossos olhos se desfaçam em lágrimas, e as nossas pálpebras destilem água.
+19 Porque uma voz de pranto se ouve de Sião: Como estamos arruinados! Estamos sobremodo envergonhados, porque deixamos a terra, e eles transtornaram as nossas moradas.
+20 Ouvi, pois, vós, mulheres, a palavra do Senhor, e os vossos ouvidos recebam a palavra da sua boca; ensinai o pranto a vossas filhas; e, cada uma à sua companheira, a lamentação.
+21 Porque a morte subiu pelas nossas janelas e entrou em nossos palácios; exterminou das ruas as crianças e os jovens, das praças.
+22 Fala: Assim diz o Senhor: Os cadáveres dos homens jazerão como esterco sobre o campo e cairão como gavela atrás do segador, e não há quem a recolha.
+23 Assim diz o Senhor: Não se glorie o sábio na sua sabedoria, nem o forte, na sua força, nem o rico, nas suas riquezas;
+24 mas o que se gloriar, glorie-se nisto: em me conhecer e saber que eu sou o Senhor e faço misericórdia, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor.
+25 Eis que vêm dias, diz o Senhor, em que castigarei a todos os circuncidados juntamente com os incircuncisos:
+26 ao Egito, e a Judá, e a Edom, e aos filhos de Amom, e a Moabe, e a todos os que cortam os cabelos nas têmporas e habitam no deserto; porque todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração.*
+1 Ouvi a palavra que o Senhor vos fala a vós outros, ó casa de Israel.
+2 Assim diz o Senhor: Não aprendais o caminho dos gentios, nem vos espanteis com os sinais dos céus, porque com eles os gentios se atemorizam.
+3 Porque os costumes dos povos são vaidade; pois cortam do bosque um madeiro, obra das mãos do artífice, com machado;
+4 com prata e ouro o enfeitam, com pregos e martelos o fixam, para que não oscile.
+5 Os ídolos são como um espantalho em pepinal e não podem falar; necessitam de quem os leve, porquanto não podem andar. Não tenhais receio deles, pois não podem fazer mal, e não está neles o fazer o bem.
+6 Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande é o poder do teu nome.
+7 Quem te não temeria a ti, ó Rei das nações? Pois isto é a ti devido; porquanto, entre todos os sábios das nações e em todo o seu reino, ninguém há semelhante a ti.
+8 Mas eles todos se tornaram estúpidos e loucos; seu ensino é vão e morto como um pedaço de madeira.
+9 Traz-se prata batida de Társis e ouro de Ufaz; os ídolos são obra de artífice e de mãos de ourives; azuis e púrpuras são as suas vestes; todos eles são obra de homens hábeis.
+10 Mas o Senhor é verdadeiramente Deus; ele é o Deus vivo e o Rei eterno; do seu furor treme a terra, e as nações não podem suportar a sua indignação.
+11 Assim lhes direis: Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo destes céus.
+12 O Senhor fez a terra pelo seu poder; estabeleceu o mundo por sua sabedoria e com a sua inteligência estendeu os céus.
+13 Fazendo ele ribombar o trovão, logo há tumulto de águas no céu, e sobem os vapores das extremidades da terra; ele cria os relâmpagos para a chuva e dos seus depósitos faz sair o vento.
+14 Todo homem se tornou estúpido e não tem saber; todo ourives é envergonhado pela imagem que ele mesmo esculpiu; pois as suas imagens são mentira, e nelas não há fôlego.
+15 Vaidade são, obra ridícula; no tempo do seu castigo, virão a perecer.
+16 Não é semelhante a estas Aquele que é a Porção de Jacó; porque ele é o Criador de todas as coisas, e Israel é a tribo da sua herança; Senhor dos Exércitos é o seu nome.
+17 Tira do chão a tua trouxa, ó filha de Sião, que moras em lugar sitiado.
+18 Porque assim diz o Senhor: Eis que desta vez arrojarei para fora os moradores da terra e os angustiarei, para que venham a senti-lo.
+19 Ai de mim, por causa da minha ruína! É mui grave a minha ferida; então, eu disse: com efeito, é isto o meu sofrimento, e tenho de suportá-lo.
+20 A minha tenda foi destruída, todas as cordas se romperam; os meus filhos se foram e já não existem; ninguém há que levante a minha tenda e lhe erga as lonas.
+21 Porque os pastores se tornaram estúpidos e não buscaram ao Senhor; por isso, não prosperaram, e todos os seus rebanhos se acham dispersos.
+22 Eis aí um rumor! Eis que vem grande tumulto da terra do Norte, para fazer das cidades de Judá uma assolação, morada de chacais.
+23 Eu sei, ó Senhor, que não cabe ao homem determinar o seu caminho, nem ao que caminha o dirigir os seus passos.
+24 Castiga-me, ó Senhor, mas em justa medida, não na tua ira, para que não me reduzas a nada.
+25 Derrama a tua indignação sobre as nações que não te conhecem e sobre os povos que não invocam o teu nome; porque devoraram a Jacó, devoraram-no, consumiram-no e assolaram a sua morada.*
+1 Palavra que veio a Jeremias, da parte do Senhor, dizendo:
+2 Ouve as palavras desta aliança e fala aos homens de Judá e aos habitantes de Jerusalém;
+3 dize-lhes: Assim diz o Senhor, o Deus de Israel: Maldito o homem que não atentar para as palavras desta aliança,
+4 que ordenei a vossos pais, no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: dai ouvidos à minha voz e fazei tudo segundo o que vos mando; assim, vós me sereis a mim por povo, e eu vos serei a vós outros por Deus;
+5 para que confirme o juramento que fiz a vossos pais de lhes dar uma terra que manasse leite e mel, como se vê neste dia. Então, eu respondi e disse: amém, ó Senhor!
+6 Tornou-me o Senhor: Apregoa todas estas palavras nas cidades de Judá e nas ruas de Jerusalém, dizendo: Ouvi as palavras desta aliança e cumpri-as.
+7 Porque, deveras, adverti a vossos pais, no dia em que os tirei da terra do Egito, até ao dia de hoje, testemunhando desde cedo cada dia, dizendo: dai ouvidos à minha voz.
+8 Mas não atenderam, nem inclinaram o seu ouvido; antes, andaram, cada um, segundo a dureza do seu coração maligno; pelo que fiz cair sobre eles todas as ameaças desta aliança, a qual lhes ordenei que cumprissem, mas não cumpriram.
+9 Disse-me ainda o Senhor: Uma conspiração se achou entre os homens de Judá, entre os habitantes de Jerusalém.
+10 Tornaram às maldades de seus primeiros pais, que recusaram ouvir as minhas palavras; andaram eles após outros deuses para os servir; a casa de Israel e a casa de Judá violaram a minha aliança, que eu fizera com seus pais.
+11 Portanto, assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar; clamarão a mim, porém não os ouvirei.
+12 Então, as cidades de Judá e os habitantes de Jerusalém irão aos deuses a quem eles queimaram incenso e a eles clamarão; porém estes, de nenhuma sorte, os livrarão do tempo do seu mal.
+13 Porque, ó Judá, segundo o número das tuas cidades, são os teus deuses; segundo o número das ruas de Jerusalém, levantaste altares para vergonhosa coisa, isto é, para queimares incenso a Baal.
+14 Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque não os ouvirei quando eles clamarem a mim, por causa do seu mal.
+15 Que direito tem na minha casa a minha amada, ela que cometeu vilezas? Acaso, ó amada, votos e carnes sacrificadas poderão afastar de ti o mal? Então, saltarias de prazer.
+16 O Senhor te chamou de oliveira verde, formosa por seus deliciosos frutos; mas agora, à voz de grande tumulto, acendeu fogo ao redor dela e consumiu os seus ramos.
+17 Porque o Senhor dos Exércitos, que te plantou, pronunciou contra ti o mal, pela maldade que a casa de Israel e a casa de Judá para si mesmas fizeram, pois me provocaram à ira, queimando incenso a Baal.
+18 O Senhor mo fez saber, e eu o soube; então, me fizeste ver as suas maquinações.
+19 Eu era como manso cordeiro, que é levado ao matadouro; porque eu não sabia que tramavam projetos contra mim, dizendo: Destruamos a árvore com seu fruto; a ele cortemo-lo da terra dos viventes, e não haja mais memória do seu nome.
+20 Mas, ó Senhor dos Exércitos, justo Juiz, que provas o mais íntimo do coração, veja eu a tua vingança sobre eles; pois a ti revelei a minha causa.
+21 Portanto, assim diz o Senhor acerca dos homens de Anatote que procuram a tua morte e dizem: Não profetizes em o nome do Senhor, para que não morras às nossas mãos.
+22 Sim, assim diz o Senhor dos Exércitos: Eis que eu os punirei; os jovens morrerão à espada, os seus filhos e as suas filhas morrerão de fome.
+23 E não haverá deles resto nenhum, porque farei vir o mal sobre os homens de Anatote, no ano da sua punição.*
+1 Justo és, ó Senhor, quando entro contigo num pleito; contudo, falarei contigo dos teus juízos. Por que prospera o caminho dos perversos, e vivem em paz todos os que procedem perfidamente?
+2 Plantaste-os, e eles deitaram raízes; crescem, dão fruto; têm-te nos lábios, mas longe do coração.
+3 Mas tu, ó Senhor, me conheces, tu me vês e provas o que sente o meu coração para contigo. Arranca-os como as ovelhas para o matadouro e destina-os para o dia da matança.
+4 Até quando estará de luto a terra, e se secará a erva de todo o campo? Por causa da maldade dos que habitam nela, perecem os animais e as aves; porquanto dizem: Ele não verá o nosso fim.
+5 Se te fatigas correndo com homens que vão a pé, como poderás competir com os que vão a cavalo? Se em terra de paz não te sentes seguro, que farás na floresta do Jordão?
+6 Porque até os teus irmãos e a casa de teu pai, eles próprios procedem perfidamente contigo; eles mesmos te perseguem com fortes gritos. Não te fies deles ainda que te digam coisas boas.
+7 Desamparei a minha casa, abandonei a minha herança; a que mais eu amava entreguei na mão de seus inimigos.
+8 A minha herança tornou-se-me como leão numa floresta; levantou a voz contra mim; por isso, eu a aborreci.
+9 Acaso, é para mim a minha herança ave de rapina de várias cores contra a qual se ajuntam outras aves de rapina? Ide, pois, ajuntai todos os animais do campo, trazei-os para a devorarem.
+10 Muitos pastores destruíram a minha vinha e pisaram o meu quinhão; a porção que era o meu prazer, tornaram-na em deserto.
+11 Em assolação a tornaram, e a mim clama no seu abandono; toda a terra está devastada, porque ninguém há que tome isso a peito.
+12 Sobre todos os altos desnudos do deserto vieram destruidores; porque a espada do Senhor devora de um a outro extremo da terra; não há paz para ninguém.
+13 Semearam trigo e segaram espinhos; cansaram-se, mas sem proveito algum. Envergonhados sereis dos vossos frutos, por causa do brasume da ira do Senhor.
+14 Assim diz o Senhor acerca de todos os meus maus vizinhos, que se apoderam da minha herança, que deixei ao meu povo de Israel: Eis que os arrancarei da sua terra e a casa de Judá arrancarei do meio deles.
+15 E será que, depois de os haver arrancado, tornarei a compadecer-me deles e os farei voltar, cada um à sua herança, cada um à sua terra.
+16 Se diligentemente aprenderem os caminhos do meu povo, jurando pelo meu nome: Tão certo como vive o Senhor, como ensinaram o meu povo a jurar por Baal, então, serão edificados no meio do meu povo.
+17 Mas, se não quiserem ouvir, arrancarei tal nação, arrancá-la-ei e a farei perecer, diz o Senhor.*
+1 Assim me disse o Senhor: Vai, compra um cinto de linho e põe-no sobre os lombos, mas não o metas na água.
+2 Comprei o cinto, segundo a palavra do Senhor, e o pus sobre os lombos.
+3 Então, pela segunda vez me veio a palavra do Senhor, dizendo:
+4 Toma o cinto que compraste e que tens sobre os lombos; dispõe-te, vai ao Eufrates e esconde-o ali na fenda de uma rocha.
+5 Fui e escondi-o junto ao Eufrates, como o Senhor me havia ordenado.
+6 Passados muitos dias, disse-me o Senhor: Dispõe-te, vai ao Eufrates e toma o cinto que te ordenei escondesses ali.
+7 Fui ao Eufrates, cavei e tomei o cinto do lugar onde o escondera; eis que o cinto se tinha apodrecido e para nada prestava.
+8 Então, me veio a palavra do Senhor, dizendo:
+9 Assim diz o Senhor: Deste modo farei também apodrecer a soberba de Judá e a muita soberba de Jerusalém.
+10 Este povo maligno, que se recusa a ouvir as minhas palavras, que caminha segundo a dureza do seu coração e anda após outros deuses para os servir e adorar, será tal como este cinto, que para nada presta.
+11 Porque, como o cinto se apega aos lombos do homem, assim eu fiz apegar-se a mim toda a casa de Israel e toda a casa de Judá, diz o Senhor, para me serem por povo, e nome, e louvor, e glória; mas não deram ouvidos.
+12 Pelo que dize-lhes esta palavra: Assim diz o Senhor, Deus de Israel: Todo jarro se encherá de vinho; e dir-te-ão: Não sabemos nós muito bem que todo jarro se encherá de vinho?
+13 Mas tu dize-lhes: Assim diz o Senhor: Eis que eu encherei de embriaguez a todos os habitantes desta terra, e aos reis que se assentam no trono de Davi, e aos sacerdotes, e aos profetas, e a todos os habitantes de Jerusalém.
+14 Fá-los-ei em pedaços, atirando uns contra os outros, tanto os pais como os filhos, diz o Senhor; não pouparei, não terei pena, nem terei deles compaixão, para que os não destrua.
+15 Ouvi e atentai: não vos ensoberbeçais; porque o Senhor falou.
+16 Dai glória ao Senhor, vosso Deus, antes que ele faça vir as trevas, e antes que tropecem vossos pés nos montes tenebrosos; antes que, esperando vós luz, ele a mude em sombra de morte e a reduza à escuridão.
+17 Mas, se isto não ouvirdes, a minha alma chorará em segredo por causa da vossa soberba; chorarão os meus olhos amargamente e se desfarão em lágrimas, porquanto o rebanho do Senhor foi levado cativo.
+18 Dize ao rei e à rainha-mãe: Humilhai-vos, assentai-vos no chão; porque caiu da vossa cabeça a coroa da vossa glória.
+19 As cidades do Sul estão fechadas, e ninguém há que as abra; todo o Judá foi levado para o exílio, todos cativos.
+20 Levantai os olhos e vede os que vêm do Norte; onde está o rebanho que te foi confiado, o teu lindo rebanho?
+21 Que dirás, quando ele puser por cabeça contra ti aqueles a quem ensinaste a ser amigos? Acaso, não se apoderarão de ti as dores, como à mulher que está de parto?
+22 Quando disseres contigo mesmo: Por que me sobrevieram estas coisas? Então, sabe que pela multidão das tuas maldades se levantaram as tuas fraldas, e os teus calcanhares sofrem violência.
+23 Pode, acaso, o etíope mudar a sua pele ou o leopardo, as suas manchas? Então, poderíeis fazer o bem, estando acostumados a fazer o mal.
+24 Pelo que os espalharei como o restolho, restolho que é arrebatado pelo vento do deserto.
+25 Esta será a tua sorte, a porção que te será medida por mim, diz o Senhor; pois te esqueceste de mim e confiaste em mentiras.
+26 Assim, também levantarei as tuas fraldas sobre o teu rosto; e aparecerão as tuas vergonhas.
+27 Tenho visto as tuas abominações sobre os outeiros e no campo, a saber, os teus adultérios, os teus rinchos e a luxúria da tua prostituição. Ai de ti, Jerusalém! Até quando ainda não te purificarás?*
+1 Palavra do Senhor que veio a Jeremias a respeito da grande seca.
+2 Anda chorando Judá, as suas portas estão abandonadas e, de luto, se curvam até ao chão; e o clamor de Jerusalém vai subindo.
+3 Os seus poderosos enviam os criados a buscar água; estes vão às cisternas e não acham água; voltam com seus cântaros vazios e, decepcionados e confusos, cobrem a cabeça.
+4 Por não ter havido chuva sobre a terra, esta se acha deprimida; e, por isso, os lavradores, decepcionados, cobrem a cabeça.
+5 Até as cervas no campo têm as suas crias e as abandonam, porquanto não há erva.
+6 Os jumentos selvagens se põem nos desnudos altos e, ofegantes, sorvem o ar como chacais; os seus olhos desfalecem, porque não há erva.
+7 Posto que as nossas maldades testificam contra nós, ó Senhor, age por amor do teu nome; porque as nossas rebeldias se multiplicaram; contra ti pecamos.
+8 Ó Esperança de Israel e Redentor seu no tempo da angústia, por que serias como estrangeiro na terra e como viandante que se desvia para passar a noite?
+9 Por que serias como homem surpreendido, como valente que não pode salvar? Mas tu, ó Senhor, estás em nosso meio, e somos chamados pelo teu nome; não nos desampares.
+10 Assim diz o Senhor sobre este povo: Gostam de andar errantes e não detêm os pés; por isso, o Senhor não se agrada deles, mas se lembrará da maldade deles e lhes punirá o pecado.
+11 Disse-me ainda o Senhor: Não rogues por este povo para o bem dele.
+12 Quando jejuarem, não ouvirei o seu clamor e, quando trouxerem holocaustos e ofertas de manjares, não me agradarei deles; antes, eu os consumirei pela espada, pela fome e pela peste.
+13 Então, disse eu: Ah! Senhor Deus, eis que os profetas lhes dizem: Não vereis espada, nem tereis fome; mas vos darei verdadeira paz neste lugar.
+14 Disse-me o Senhor: Os profetas profetizam mentiras em meu nome, nunca os enviei, nem lhes dei ordem, nem lhes falei; visão falsa, adivinhação, vaidade e o engano do seu íntimo são o que eles vos profetizam.
+15 Portanto, assim diz o Senhor acerca dos profetas que, profetizando em meu nome, sem que eu os tenha mandado, dizem que nem espada, nem fome haverá nesta terra: À espada e à fome serão consumidos esses profetas.
+16 O povo a quem eles profetizam será lançado nas ruas de Jerusalém, por causa da fome e da espada; não haverá quem os sepulte, a ele, a suas mulheres, a seus filhos e a suas filhas; porque derramarei sobre eles a sua maldade.
+17 Portanto, lhes dirás esta palavra: Os meus olhos derramem lágrimas, de noite e de dia, e não cessem; porque a virgem, filha do meu povo, está profundamente golpeada, de ferida mui dolorosa.
+18 Se eu saio ao campo, eis aí os mortos à espada; se entro na cidade, estão ali os debilitados pela fome; até os profetas e os sacerdotes vagueiam pela terra e não sabem para onde vão.
+19 Acaso, já de todo rejeitaste a Judá? Ou aborrece a tua alma a Sião? Por que nos feriste, e não há cura para nós? Aguardamos a paz, e nada há de bom; o tempo da cura, e eis o terror.
+20 Conhecemos, ó Senhor, a nossa maldade e a iniquidade de nossos pais; porque temos pecado contra ti.
+21 Não nos rejeites, por amor do teu nome; não cubras de opróbrio o trono da tua glória; lembra-te e não anules a tua aliança conosco.
+22 Acaso, haverá entre os ídolos dos gentios algum que faça chover? Ou podem os céus de si mesmos dar chuvas? Não és tu somente, ó Senhor, nosso Deus, o que fazes isto? Portanto, em ti esperamos, pois tu fazes todas estas coisas.*
+1 Disse-me, porém, o Senhor: Ainda que Moisés e Samuel se pusessem diante de mim, meu coração não se inclinaria para este povo; lança-os de diante de mim, e saiam.
+2 Quando te perguntarem: Para onde iremos? Dir-lhes-ás: Assim diz o Senhor: O que é para a morte, para a morte; o que é para a espada, para a espada; o que é para a fome, para a fome; e o que é para o cativeiro, para o cativeiro.
+3 Porque os punirei com quatro sortes de castigos, diz o Senhor: com espada para matar, com cães para os arrastarem e com as aves dos céus e as feras do campo para os devorarem e destruírem.
+4 Entregá-los-ei para que sejam um espetáculo horrendo para todos os reinos da terra; por causa de Manassés, filho de Ezequias, rei de Judá, por tudo quanto fez em Jerusalém.
+5 Pois quem se compadeceria de ti, ó Jerusalém? Ou quem se entristeceria por ti? Ou quem se desviaria a perguntar pelo teu bem-estar?
+6 Tu me rejeitaste, diz o Senhor, voltaste para trás; por isso, levantarei a mão contra ti e te destruirei; estou cansado de ter compaixão.
+7 Cirandei-os com a pá nas portas da terra; desfilhei e destruí o meu povo, mas não deixaram os seus caminhos.
+8 As suas viúvas se multiplicaram mais do que as areias dos mares; eu trouxe ao meio-dia um destruidor sobre a mãe de jovens; fiz cair de repente sobre ela angústia e pavor.
+9 Aquela que tinha sete filhos desmaiou como para expirar a alma; pôs-se-lhe o sol quando ainda era dia; ela ficou envergonhada e confundida, e os que ficaram dela, eu os entregarei à espada, diante dos seus inimigos, diz o Senhor.
+10 Ai de mim, minha mãe! Pois me deste à luz homem de rixa e homem de contendas para toda a terra! Nunca lhes emprestei com usura, nem eles me emprestaram a mim com usura; todavia, cada um deles me amaldiçoa.
+11 Disse o Senhor: Na verdade, eu te fortalecerei para o bem e farei que o inimigo te dirija súplicas no tempo da calamidade e no tempo da aflição.
+12 Pode alguém quebrar o ferro, o ferro do Norte, ou o bronze?
+13 Os teus bens e os teus tesouros entregarei gratuitamente ao saque, por todos os teus pecados e em todos os teus territórios.
+14 Levar-te-ei com os teus inimigos para a terra que não conheces; porque o fogo se acendeu em minha ira e sobre vós arderá.
+15 Tu, ó Senhor, o sabes; lembra-te de mim, ampara-me e vinga-me dos meus perseguidores; não me deixes ser arrebatado, por causa da tua longanimidade; sabe que por amor de ti tenho sofrido afrontas.
+16 Achadas as tuas palavras, logo as comi; as tuas palavras me foram gozo e alegria para o coração, pois pelo teu nome sou chamado, ó Senhor, Deus dos Exércitos.
+17 Nunca me assentei na roda dos que se alegram, nem me regozijei; oprimido por tua mão, eu me assentei solitário, pois já estou de posse das tuas ameaças.
+18 Por que dura a minha dor continuamente, e a minha ferida me dói e não admite cura? Serias tu para mim como ilusório ribeiro, como águas que enganam?
+19 Portanto, assim diz o Senhor: Se tu te arrependeres, eu te farei voltar e estarás diante de mim; se apartares o precioso do vil, serás a minha boca; e eles se tornarão a ti, mas tu não passarás para o lado deles.
+20 Eu te porei contra este povo como forte muro de bronze; eles pelejarão contra ti, mas não prevalecerão contra ti; porque eu sou contigo para te salvar, para te livrar deles, diz o Senhor;
+21 arrebatar-te-ei das mãos dos iníquos, livrar-te-ei das garras dos violentos.*
+1 Veio a mim a palavra do Senhor, dizendo:
+2 Não tomarás mulher, não terás filhos nem filhas neste lugar.
+3 Porque assim diz o Senhor acerca dos filhos e das filhas que nascerem neste lugar, acerca das mães que os tiverem e dos pais que os gerarem nesta terra:
+4 Morrerão vitimados de enfermidades e não serão pranteados, nem sepultados; servirão de esterco para a terra. A espada e a fome os consumirão, e o seu cadáver servirá de pasto às aves do céu e aos animais da terra.
+5 Porque assim diz o Senhor: Não entres na casa do luto, não vás a lamentá-los, nem te compadeças deles; porque deste povo retirei a minha paz, diz o Senhor, a benignidade e a misericórdia.
+6 Nesta terra, morrerão grandes e pequenos e não serão sepultados; não os prantearão, nem se farão por eles incisões, nem por eles se raparão as cabeças.
+7 Não se dará pão a quem estiver de luto, para consolá-lo por causa de morte; nem lhe darão a beber do copo de consolação, pelo pai ou pela mãe.
+8 Nem entres na casa do banquete, para te assentares com eles a comer e a beber.
+9 Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que farei cessar neste lugar, perante vós e em vossos dias, a voz de regozijo e a voz de alegria, o canto do noivo e o da noiva.
+10 Quando anunciares a este povo todas estas palavras e eles te disserem: Por que nos ameaça o Senhor com todo este grande mal? Qual é a nossa iniquidade, qual é o nosso pecado, que cometemos contra o Senhor, nosso Deus?
+11 Então, lhes responderás: Porque vossos pais me deixaram, diz o Senhor, e se foram após outros deuses, e os serviram, e os adoraram, mas a mim me deixaram e a minha lei não guardaram.
+12 Vós fizestes pior do que vossos pais; pois eis que cada um de vós anda segundo a dureza do seu coração maligno, para não me dar ouvidos a mim.
+13 Portanto, lançar-vos-ei fora desta terra, para uma terra que não conhecestes, nem vós nem vossos pais, onde servireis a outros deuses, de dia e de noite, porque não usarei de misericórdia para convosco.
+14 Portanto, eis que vêm dias, diz o Senhor, em que nunca mais se dirá: Tão certo como vive o Senhor, que fez subir os filhos de Israel do Egito;
+15 mas: Tão certo como vive o Senhor, que fez subir os filhos de Israel da terra do Norte e de todas as terras para onde os tinha lançado. Pois eu os farei voltar para a sua terra, que dei a seus pais.
+16 Eis que mandarei muitos pescadores, diz o Senhor, os quais os pescarão; depois, enviarei muitos caçadores, os quais os caçarão de sobre todos os montes, de sobre todos os outeiros e até nas fendas das rochas.
+17 Porque os meus olhos estão sobre todos os seus caminhos; ninguém se esconde diante de mim, nem se encobre a sua iniquidade aos meus olhos.
+18 Primeiramente, pagarei em dobro a sua iniquidade e o seu pecado, porque profanaram a minha terra com os cadáveres dos seus ídolos detestáveis e encheram a minha herança com as suas abominações.
+19 Ó Senhor, força minha, e fortaleza minha, e refúgio meu no dia da angústia, a ti virão as nações desde os fins da terra e dirão: Nossos pais herdaram só mentiras e coisas vãs, em que não há proveito.
+20 Acaso, fará o homem para si deuses que, de fato, não são deuses?
+21 Portanto, eis que lhes farei conhecer, desta vez lhes farei conhecer a minha força e o meu poder; e saberão que o meu nome é Senhor.*
+1 O pecado de Judá está escrito com um ponteiro de ferro e com diamante pontiagudo, gravado na tábua do seu coração e nas pontas dos seus altares.
+2 Seus filhos se lembram dos seus altares e dos seus postes-ídolos junto às árvores frondosas, sobre os altos outeiros.
+3 Ó monte do campo, os teus bens e todos os teus tesouros darei por presa, como também os teus altos por causa do pecado, em todos os teus territórios!
+4 Assim, por ti mesmo te privarás da tua herança que te dei, e far-te-ei servir os teus inimigos, na terra que não conheces; porque o fogo que acendeste na minha ira arderá para sempre.
+5 Assim diz o Senhor: Maldito o homem que confia no homem, faz da carne mortal o seu braço e aparta o seu coração do Senhor!
+6 Porque será como o arbusto solitário no deserto e não verá quando vier o bem; antes, morará nos lugares secos do deserto, na terra salgada e inabitável.
+7 Bendito o homem que confia no Senhor e cuja esperança é o Senhor.
+8 Porque ele é como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro e não receia quando vem o calor, mas a sua folha fica verde; e, no ano de sequidão, não se perturba, nem deixa de dar fruto.
+9 Enganoso é o coração, mais do que todas as coisas, e desesperadamente corrupto; quem o conhecerá?
+10 Eu, o Senhor, esquadrinho o coração, eu provo os pensamentos; e isto para dar a cada um segundo o seu proceder, segundo o fruto das suas ações.
+11 Como a perdiz que choca ovos que não pôs, assim é aquele que ajunta riquezas, mas não retamente; no meio de seus dias, as deixará e no seu fim será insensato.
+12 Trono de glória enaltecido desde o princípio é o lugar do nosso santuário.
+13 Ó Senhor, Esperança de Israel! Todos aqueles que te deixam serão envergonhados; o nome dos que se apartam de mim será escrito no chão; porque abandonam o Senhor, a fonte das águas vivas.
+14 Cura-me, Senhor, e serei curado, salva-me, e serei salvo; porque tu és o meu louvor.
+15 Eis que eles me dizem: Onde está a palavra do Senhor? Que se cumpra!
+16 Mas eu não me recusei a ser pastor, seguindo-te; nem tampouco desejei o dia da aflição, tu o sabes; o que saiu dos meus lábios está no teu conhecimento.
+17 Não me sejas motivo de terror; meu refúgio és tu no dia do mal.
+18 Sejam envergonhados os que me perseguem, e não seja eu envergonhado; assombrem-se eles, e não me assombre eu; traze sobre eles o dia do mal e destrói-os com dobrada destruição.
+19 Assim me disse o Senhor: Vai, põe-te à porta dos filhos do povo, pela qual entram e saem os reis de Judá, como também a todas as portas de Jerusalém,
+20 e dize-lhes: Ouvi a palavra do Senhor, vós, reis de Judá, e todo o Judá, e todos os moradores de Jerusalém que entrais por estas portas.
+21 Assim diz o Senhor: Guardai-vos por amor da vossa alma, não carregueis cargas no dia de sábado, nem as introduzais pelas portas de Jerusalém;
+22 não tireis cargas de vossa casa no dia de sábado, nem façais obra alguma; antes, santificai o dia de sábado, como ordenei a vossos pais.
+23 Mas não atenderam, não inclinaram os ouvidos; antes, endureceram a cerviz, para não me ouvirem, para não receberem disciplina.
+24 Se, deveras, me ouvirdes, diz o Senhor, não introduzindo cargas pelas portas desta cidade no dia de sábado, e santificardes o dia de sábado, não fazendo nele obra alguma,
+25 então, pelas portas desta cidade entrarão reis e príncipes, que se assentarão no trono de Davi, andando em carros e montados em cavalos, eles e seus príncipes, os homens de Judá e os moradores de Jerusalém; e esta cidade será para sempre habitada.
+26 Virão das cidades de Judá e dos contornos de Jerusalém, da terra de Benjamim, das planícies, das montanhas e do Sul, trazendo holocaustos, sacrifícios, ofertas de manjares e incenso, oferecendo igualmente sacrifícios de ações de graças na Casa do Senhor.
+27 Mas, se não me ouvirdes, e, por isso, não santificardes o dia de sábado, e carregardes alguma carga, quando entrardes pelas portas de Jerusalém no dia de sábado, então, acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém e não se apagará.*
+1 Palavra do Senhor que veio a Jeremias, dizendo:
+2 Dispõe-te, e desce à casa do oleiro, e lá ouvirás as minhas palavras.
+3 Desci à casa do oleiro, e eis que ele estava entregue à sua obra sobre as rodas.
+4 Como o vaso que o oleiro fazia de barro se lhe estragou na mão, tornou a fazer dele outro vaso, segundo bem lhe pareceu.
+5 Então, veio a mim a palavra do Senhor:
+6 Não poderei eu fazer de vós como fez este oleiro, ó casa de Israel? — diz o Senhor; eis que, como o barro na mão do oleiro, assim sois vós na minha mão, ó casa de Israel.
+7 No momento em que eu falar acerca de uma nação ou de um reino para o arrancar, derribar e destruir,
+8 se a tal nação se converter da maldade contra a qual eu falei, também eu me arrependerei do mal que pensava fazer-lhe.
+9 E, no momento em que eu falar acerca de uma nação ou de um reino, para o edificar e plantar,
+10 se ele fizer o que é mau perante mim e não der ouvidos à minha voz, então, me arrependerei do bem que houvera dito lhe faria.
+11 Ora, pois, fala agora aos homens de Judá e aos moradores de Jerusalém, dizendo: Assim diz o Senhor: Eis que estou forjando mal e formo um plano contra vós outros; convertei-vos, pois, agora, cada um do seu mau proceder e emendai os vossos caminhos e as vossas ações.
+12 Mas eles dizem: Não há esperança, porque andaremos consoante os nossos projetos, e cada um fará segundo a dureza do seu coração maligno.
+13 Portanto, assim diz o Senhor: Perguntai agora entre os gentios sobre quem ouviu tal coisa. Coisa sobremaneira horrenda cometeu a virgem de Israel!
+14 Acaso, a neve deixará o Líbano, a rocha que se ergue na planície? Ou faltarão as águas que vêm de longe, frias e correntes?
+15 Contudo, todos os do meu povo se têm esquecido de mim, queimando incenso aos ídolos, que os fizeram tropeçar nos seus caminhos e nas veredas antigas, para que andassem por veredas não aterradas;
+16 para fazerem da sua terra um espanto e objeto de perpétuo assobio; todo aquele que passar por ela se espantará e meneará a cabeça.
+17 Com vento oriental os espalharei diante do inimigo; mostrar-lhes-ei as costas e não o rosto, no dia da sua calamidade.
+18 Então, disseram: Vinde, e forjemos projetos contra Jeremias; porquanto não há de faltar a lei ao sacerdote, nem o conselho ao sábio, nem a palavra ao profeta; vinde, firamo-lo com a língua e não atendamos a nenhuma das suas palavras.
+19 Olha para mim, Senhor, e ouve a voz dos que contendem comigo.
+20 Acaso, pagar-se-á mal por bem? Pois abriram uma cova para a minha alma. Lembra-te de que eu compareci à tua presença, para interceder pelo seu bem-estar, para desviar deles a tua indignação.
+21 Portanto, entrega seus filhos à fome e ao poder da espada; sejam suas mulheres roubadas dos filhos e fiquem viúvas; seus maridos sejam mortos de peste, e os seus jovens, feridos à espada na peleja.
+22 Ouça-se o clamor de suas casas, quando trouxeres bandos sobre eles de repente. Porquanto abriram cova para prender-me e puseram armadilha aos meus pés.
+23 Mas tu, ó Senhor, sabes todo o seu conselho contra mim para matar-me; não lhes perdoes a iniquidade, nem lhes apagues o pecado de diante da tua face; mas sejam derribados diante de ti; age contra eles no tempo da tua ira.*
+1 Assim diz o Senhor: Vai, compra uma botija de oleiro e leva contigo alguns dos anciãos do povo e dos anciãos dos sacerdotes;
+2 sai ao vale do filho de Hinom, que está à entrada da Porta do Oleiro, e apregoa ali as palavras que eu te disser;
+3 e dize: Ouvi a palavra do Senhor, ó reis de Judá e moradores de Jerusalém. Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei mal sobre este lugar, e quem quer que dele ouvir retinir-lhe-ão os ouvidos.
+4 Porquanto me deixaram e profanaram este lugar, queimando nele incenso a outros deuses, que nunca conheceram, nem eles, nem seus pais, nem os reis de Judá; e encheram este lugar de sangue de inocentes;
+5 e edificaram os altos de Baal, para queimarem os seus filhos no fogo em holocaustos a Baal, o que nunca lhes ordenei, nem falei, nem me passou pela mente.
+6 Por isso, eis que vêm dias, diz o Senhor, em que este lugar já não se chamará Tofete, nem vale do filho de Hinom, mas o vale da Matança.
+7 Porque dissiparei o conselho de Judá e de Jerusalém neste lugar e os farei cair à espada diante de seus inimigos e pela mão dos que procuram tirar-lhes a vida; e darei o seu cadáver por pasto às aves dos céus e aos animais da terra.
+8 Porei esta cidade por espanto e objeto de assobios; todo aquele que passar por ela se espantará e assobiará, por causa de todas as suas pragas.
+9 Fá-los-ei comer as carnes de seus filhos e as carnes de suas filhas, e cada um comerá a carne do seu próximo, no cerco e na angústia em que os apertarão os seus inimigos e os que buscam tirar-lhes a vida.
+10 Então, quebrarás a botija à vista dos homens que foram contigo
+11 e lhes dirás: Assim diz o Senhor dos Exércitos: Deste modo quebrarei eu este povo e esta cidade, como se quebra o vaso do oleiro, que não pode mais refazer-se, e os enterrarão em Tofete, porque não haverá outro lugar para os enterrar.
+12 Assim farei a este lugar, diz o Senhor, e aos seus moradores; e farei desta cidade um Tofete.
+13 As casas de Jerusalém e as casas dos reis de Judá serão imundas como o lugar de Tofete; também todas as casas sobre cujos terraços queimaram incenso a todo o exército dos céus e ofereceram libações a outros deuses.
+14 Voltando, pois, Jeremias de Tofete, lugar para onde o enviara o Senhor a profetizar, se pôs em pé no átrio da Casa do Senhor e disse a todo o povo:
+15 Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei sobre esta cidade e sobre todas as suas vilas todo o mal que pronunciei contra ela, porque endureceram a cerviz, para não ouvirem as minhas palavras.*
+1 Pasur, filho do sacerdote Imer, que era presidente na Casa do Senhor, ouviu a Jeremias profetizando estas coisas.
+2 Então, feriu Pasur ao profeta Jeremias e o meteu no tronco que estava na porta superior de Benjamim, na Casa do Senhor. No dia seguinte, Pasur tirou a Jeremias do tronco.
+3 Então, lhe disse Jeremias: O Senhor já não te chama Pasur, e sim Terror-Por-Todos-Os-Lados.
+4 Pois assim diz o Senhor: Eis que te farei ser terror para ti mesmo e para todos os teus amigos; estes cairão à espada de seus inimigos, e teus olhos o verão; todo o Judá entregarei nas mãos do rei da Babilônia; este os levará presos à Babilônia e feri-los-á à espada.
+5 Também entregarei toda a riqueza desta cidade, todo o fruto do seu trabalho e todas as suas coisas preciosas; sim, todos os tesouros dos reis de Judá entregarei nas mãos de seus inimigos, os quais hão de saqueá-los, tomá-los e levá-los à Babilônia.
+6 E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; irás à Babilônia, onde morrerás e serás sepultado, tu e todos os teus amigos, aos quais profetizaste falsamente.
+ 7 Persuadiste-me, ó Senhor, e persuadido fiquei; mais forte foste do que eu e prevaleceste; sirvo de escárnio todo o dia; cada um deles zomba de mim.
+8 Porque, sempre que falo, tenho de gritar e clamar: Violência e destruição! Porque a palavra do Senhor se me tornou um opróbrio e ludíbrio todo o dia.
+9 Quando pensei: não me lembrarei dele e já não falarei no seu nome, então, isso me foi no coração como fogo ardente, encerrado nos meus ossos; já desfaleço de sofrer e não posso mais.
+10 Porque ouvi a murmuração de muitos: Há terror por todos os lados! Denunciai, e o denunciaremos! Todos os meus íntimos amigos que aguardam de mim que eu tropece dizem: Bem pode ser que se deixe persuadir; então, prevaleceremos contra ele e dele nos vingaremos.
+11 Mas o Senhor está comigo como um poderoso guerreiro; por isso, tropeçarão os meus perseguidores e não prevalecerão; serão sobremodo envergonhados; e, porque não se houveram sabiamente, sofrerão afronta perpétua, que jamais se esquecerá.
+12 Tu, pois, ó Senhor dos Exércitos, que provas o justo e esquadrinhas os afetos e o coração, permite veja eu a tua vingança contra eles, pois te confiei a minha causa.
+13 Cantai ao Senhor, louvai ao Senhor; pois livrou a alma do necessitado das mãos dos malfeitores.
+14 Maldito o dia em que nasci! Não seja bendito o dia em que me deu à luz minha mãe!
+15 Maldito o homem que deu as novas a meu pai, dizendo: Nasceu-te um filho!, alegrando-o com isso grandemente.
+16 Seja esse homem como as cidades que o Senhor, sem ter compaixão, destruiu; ouça ele clamor pela manhã e ao meio-dia, alarido.
+17 Por que não me matou Deus no ventre materno? Por que minha mãe não foi minha sepultura? Ou não permaneceu grávida perpetuamente?
+18 Por que saí do ventre materno tão somente para ver trabalho e tristeza e para que se consumam de vergonha os meus dias?*
+1 Palavra que veio a Jeremias da parte do Senhor, quando o rei Zedequias lhe enviou Pasur, filho de Malquias, e o sacerdote Sofonias, filho de Maaseias, dizendo:
+2 Pergunta agora por nós ao Senhor, por que Nabucodonosor, rei da Babilônia, guerreia contra nós; bem pode ser que o Senhor nos trate segundo todas as suas maravilhas e o faça retirar-se de nós.
+3 Então, Jeremias lhes disse: Assim direis a Zedequias:
+4 Assim diz o Senhor, o Deus de Israel: Eis que farei retroceder as armas de guerra que estão nas vossas mãos, com que vós pelejais fora dos muros contra o rei da Babilônia e contra os caldeus, que vos oprimem; tais armas, eu as ajuntarei no meio desta cidade.
+5 Pelejarei eu mesmo contra vós outros com braço estendido e mão poderosa, com ira, com indignação e grande furor.
+6 Ferirei os habitantes desta cidade, tanto os homens como os animais; de grande pestilência morrerão.
+7 Depois disto, diz o Senhor, entregarei Zedequias, rei de Judá, e seus servos, e o povo, e quantos desta cidade restarem da pestilência, da espada e da fome na mão de Nabucodonosor, rei da Babilônia, na de seus inimigos e na dos que procuram tirar-lhes a vida; feri-los-á a fio de espada; não os poupará, não se compadecerá, nem terá misericórdia.
+8 A este povo dirás: Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte.
+9 O que ficar nesta cidade há de morrer à espada, ou à fome, ou de peste; mas o que sair e render-se aos caldeus, que vos cercam, viverá, e a vida lhe será como despojo.
+10 Pois voltei o rosto contra esta cidade, para mal e não para bem, diz o Senhor; ela será entregue nas mãos do rei da Babilônia, e este a queimará.
+11 À casa do rei de Judá dirás: Ouvi a palavra do Senhor!
+12 Ó casa de Davi, assim diz o Senhor: Julgai pela manhã justamente e livrai o oprimido das mãos do opressor; para que não seja o meu furor como fogo e se acenda, sem que haja quem o apague, por causa da maldade das vossas ações.
+13 Eis que eu sou contra ti, ó Moradora do vale, ó Rocha da campina, diz o Senhor; contra vós outros que dizeis: Quem descerá contra nós? Ou: Quem entrará nas nossas moradas?
+14 Castigar-vos-ei segundo o fruto das vossas ações, diz o Senhor; acenderei fogo na cidade, qual bosque, o qual devorará todos os seus arredores.*
+1 Assim diz o Senhor: Desce à casa do rei de Judá, e anuncia ali esta palavra,
+2 e dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas no trono de Davi, tu, os teus servos e o teu povo, que entrais por estas portas.
+3 Assim diz o Senhor: Executai o direito e a justiça e livrai o oprimido das mãos do opressor; não oprimais ao estrangeiro, nem ao órfão, nem à viúva; não façais violência, nem derrameis sangue inocente neste lugar.
+4 Porque, se, deveras, cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão no trono de Davi, em carros e montados em cavalos, eles, os seus servos e o seu povo.
+5 Mas, se não derdes ouvidos a estas palavras, juro por mim mesmo, diz o Senhor, que esta casa se tornará em desolação.
+6 Porque assim diz o Senhor acerca da casa do rei de Judá: Tu és para mim Gileade e a cabeça do Líbano; mas certamente farei de ti um deserto e cidades desabitadas.
+7 Designarei contra ti destruidores, cada um com as suas armas; cortarão os teus cedros escolhidos e lançá-los-ão no fogo.
+8 Muitas nações passarão por esta cidade, e dirá cada um ao seu companheiro: Por que procedeu o Senhor assim com esta grande cidade?
+9 Então, se lhes responderá: Porque deixaram a aliança do Senhor, seu Deus, e adoraram a outros deuses, e os serviram.
+10 Não choreis o morto, nem o lastimeis; chorai amargamente aquele que sai; porque nunca mais tornará, nem verá a terra onde nasceu.
+11 Porque assim diz o Senhor acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Jamais tornará para ali.
+12 Mas no lugar para onde o levaram cativo morrerá e nunca mais verá esta terra.
+13 Ai daquele que edifica a sua casa com injustiça e os seus aposentos, sem direito! Que se vale do serviço do seu próximo, sem paga, e não lhe dá o salário;
+14 que diz: Edificarei para mim casa espaçosa e largos aposentos, e lhe abre janelas, e forra-a de cedros, e a pinta de vermelhão.
+15 Reinarás tu, só porque rivalizas com outro em cedro? Acaso, teu pai não comeu, e bebeu, e não exercitou o juízo e a justiça? Por isso, tudo lhe sucedeu bem.
+16 Julgou a causa do aflito e do necessitado; por isso, tudo lhe ia bem. Porventura, não é isso conhecer-me? — diz o Senhor.
+17 Mas os teus olhos e o teu coração não atentam senão para a tua ganância, e para derramar o sangue inocente, e para levar a efeito a violência e a extorsão.
+18 Portanto, assim diz o Senhor acerca de Jeoaquim, filho de Josias, rei de Judá: Não o lamentarão, dizendo: Ai, meu irmão! Ou: Ai, minha irmã! Nem o lamentarão, dizendo: Ai, senhor! Ou: Ai, sua glória!
+19 Como se sepulta um jumento, assim o sepultarão; arrastá-lo-ão e o lançarão para bem longe, para fora das portas de Jerusalém.
+20 Sobe ao Líbano, ó Jerusalém, e clama; ergue a voz em Basã e clama desde Abarim, porque estão esmagados todos os teus amantes.
+21 Falei contigo na tua prosperidade, mas tu disseste: Não ouvirei. Tem sido este o teu caminho, desde a tua mocidade, pois nunca deste ouvidos à minha voz.
+22 O vento apascentará todos os teus pastores, e os teus amantes irão para o cativeiro; então, certamente ficarás envergonhada e confundida, por causa de toda a tua maldade.
+23 Ó tu que habitas no Líbano e fazes o teu ninho nos cedros! Como gemerás quando te vierem as dores e as angústias como da que está de parto!
+24 Tão certo como eu vivo, diz o Senhor, ainda que Jeconias, filho de Jeoaquim, rei de Judá, fosse o anel do selo da minha mão direita, eu dali o arrancaria.
+25 Entregar-te-ei, ó rei, nas mãos dos que procuram tirar-te a vida e nas mãos daqueles a quem temes, a saber, nas mãos de Nabucodonosor, rei da Babilônia, e nas mãos dos caldeus.
+26 Lançar-te-ei a ti e a tua mãe, que te deu à luz, para outra terra, em que não nasceste; e ali morrereis.
+27 Mas à terra da qual eles têm saudades, a ela não tornarão.
+28 Acaso, é este Jeconias homem vil, coisa quebrada ou objeto de que ninguém se agrada? Por que foram lançados fora, ele e os seus filhos, e arrojados para a terra que não conhecem?
+29 Ó terra, terra, terra! Ouve a palavra do Senhor!
+30 Assim diz o Senhor: Registrai este como se não tivera filhos; homem que não prosperará nos seus dias, e nenhum dos seus filhos prosperará, para se assentar no trono de Davi e ainda reinar em Judá.*
+1 Ai dos pastores que destroem e dispersam as ovelhas do meu pasto! — diz o Senhor.
+2 Portanto, assim diz o Senhor, o Deus de Israel, contra os pastores que apascentam o meu povo: Vós dispersastes as minhas ovelhas, e as afugentastes, e delas não cuidastes; mas eu cuidarei em vos castigar a maldade das vossas ações, diz o Senhor.
+3 Eu mesmo recolherei o restante das minhas ovelhas, de todas as terras para onde as tiver afugentado, e as farei voltar aos seus apriscos; serão fecundas e se multiplicarão.
+4 Levantarei sobre elas pastores que as apascentem, e elas jamais temerão, nem se espantarão; nem uma delas faltará, diz o Senhor.
+5 Eis que vêm dias, diz o Senhor, em que levantarei a Davi um Renovo justo; e, rei que é, reinará, e agirá sabiamente, e executará o juízo e a justiça na terra.
+6 Nos seus dias, Judá será salvo, e Israel habitará seguro; será este o seu nome, com que será chamado: Senhor, Justiça Nossa.
+7 Portanto, eis que vêm dias, diz o Senhor, em que nunca mais dirão: Tão certo como vive o Senhor, que fez subir os filhos de Israel da terra do Egito;
+8 mas: Tão certo como vive o Senhor, que fez subir, que trouxe a descendência da casa de Israel da terra do Norte e de todas as terras para onde os tinha arrojado; e habitarão na sua terra.
+9 Acerca dos profetas. O meu coração está quebrantado dentro de mim; todos os meus ossos estremecem; sou como homem embriagado e como homem vencido pelo vinho, por causa do Senhor e por causa das suas santas palavras.
+10 Porque a terra está cheia de adúlteros e chora por causa da maldição divina; os pastos do deserto se secam; pois a carreira dos adúlteros é má, e a sua força não é reta.
+11 Pois estão contaminados, tanto o profeta como o sacerdote; até na minha casa achei a sua maldade, diz o Senhor.
+12 Portanto, o caminho deles será como lugares escorregadios na escuridão; serão empurrados e cairão nele; porque trarei sobre eles calamidade, o ano mesmo em que os castigarei, diz o Senhor.
+13 Nos profetas de Samaria bem vi eu loucura; profetizavam da parte de Baal e faziam errar o meu povo de Israel.
+14 Mas nos profetas de Jerusalém vejo coisa horrenda; cometem adultérios, andam com falsidade e fortalecem as mãos dos malfeitores, para que não se convertam cada um da sua maldade; todos eles se tornaram para mim como Sodoma, e os moradores de Jerusalém, como Gomorra.
+15 Portanto, assim diz o Senhor dos Exércitos acerca dos profetas: Eis que os alimentarei com absinto e lhes darei a beber água venenosa; porque dos profetas de Jerusalém se derramou a impiedade sobre toda a terra.
+16 Assim diz o Senhor dos Exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam e vos enchem de vãs esperanças; falam as visões do seu coração, não o que vem da boca do Senhor.
+17 Dizem continuamente aos que me desprezam: O Senhor disse: Paz tereis; e a qualquer que anda segundo a dureza do seu coração dizem: Não virá mal sobre vós.
+18 Porque quem esteve no conselho do Senhor, e viu, e ouviu a sua palavra? Quem esteve atento à sua palavra e a ela atendeu?
+19 Eis a tempestade do Senhor! O furor saiu, e um redemoinho tempestuou sobre a cabeça dos perversos.
+20 Não se desviará a ira do Senhor, até que ele execute e cumpra os desígnios do seu coração; nos últimos dias, entendereis isso claramente.
+21 Não mandei esses profetas; todavia, eles foram correndo; não lhes falei a eles; contudo, profetizaram.
+22 Mas, se tivessem estado no meu conselho, então, teriam feito ouvir as minhas palavras ao meu povo e o teriam feito voltar do seu mau caminho e da maldade das suas ações.
+23 Acaso, sou Deus apenas de perto, diz o Senhor, e não também de longe?
+24 Ocultar-se-ia alguém em esconderijos, de modo que eu não o veja? — diz o Senhor; porventura, não encho eu os céus e a terra? — diz o Senhor.
+25 Tenho ouvido o que dizem aqueles profetas, proclamando mentiras em meu nome, dizendo: Sonhei, sonhei.
+26 Até quando sucederá isso no coração dos profetas que proclamam mentiras, que proclamam só o engano do próprio coração?
+27 Os quais cuidam em fazer que o meu povo se esqueça do meu nome pelos seus sonhos que cada um conta ao seu companheiro, assim como seus pais se esqueceram do meu nome, por causa de Baal.
+28 O profeta que tem sonho conte-o como apenas sonho; mas aquele em quem está a minha palavra fale a minha palavra com verdade. Que tem a palha com o trigo? — diz o Senhor.
+29 Não é a minha palavra fogo, diz o Senhor, e martelo que esmiúça a penha?
+30 Portanto, eis que eu sou contra esses profetas, diz o Senhor, que furtam as minhas palavras, cada um ao seu companheiro.
+31 Eis que eu sou contra esses profetas, diz o Senhor, que pregam a sua própria palavra e afirmam: Ele disse.
+32 Eis que eu sou contra os que profetizam sonhos mentirosos, diz o Senhor, e os contam, e com as suas mentiras e leviandades fazem errar o meu povo; pois eu não os enviei, nem lhes dei ordem; e também proveito nenhum trouxeram a este povo, diz o Senhor.
+33 Quando, pois, este povo te perguntar, ou qualquer profeta, ou sacerdote, dizendo: Qual é a sentença pesada do Senhor? Então, lhe dirás: Vós sois o peso, e eu vos arrojarei, diz o Senhor.
+34 Quanto ao profeta, e ao sacerdote, e ao povo que disser: Sentença pesada do Senhor, a esse homem eu castigarei e a sua casa.
+35 Antes, direis, cada um ao seu companheiro e cada um ao seu irmão: Que respondeu o Senhor? Que falou o Senhor?
+36 Mas nunca mais fareis menção da sentença pesada do Senhor; porque a cada um lhe servirá de sentença pesada a sua própria palavra; pois torceis as palavras do Deus vivo, do Senhor dos Exércitos, o nosso Deus.
+37 Assim dirás ao profeta: Que te respondeu o Senhor? Que falou o Senhor?
+38 Mas, porque dizeis: Sentença pesada do Senhor, assim o diz o Senhor: Porque dizeis esta palavra: Sentença pesada do Senhor (havendo-vos eu proibido de dizerdes esta palavra: Sentença pesada do Senhor),
+39 por isso, levantar-vos-ei e vos arrojarei da minha presença, a vós outros e à cidade que vos dei e a vossos pais.
+40 Porei sobre vós perpétuo opróbrio e eterna vergonha, que jamais será esquecida.*
+1 Fez-me ver o Senhor, e vi dois cestos de figos postos diante do templo do Senhor, depois que Nabucodonosor, rei da Babilônia, levou em cativeiro a Jeconias, filho de Jeoaquim, rei de Judá, e os príncipes de Judá, e os artífices, e os ferreiros de Jerusalém e os trouxe à Babilônia.
+2 Tinha um cesto figos muito bons, como os figos temporãos; mas o outro, ruins, que, de ruins que eram, não se podiam comer.
+3 Então, me perguntou o Senhor: Que vês tu, Jeremias? Respondi: Figos; os figos muito bons e os muito ruins, que, de ruins que são, não se podem comer.
+4 A mim me veio a palavra do Senhor, dizendo:
+5 Assim diz o Senhor, o Deus de Israel: Do modo por que vejo estes bons figos, assim favorecerei os exilados de Judá, que eu enviei deste lugar para a terra dos caldeus.
+6 Porei sobre eles favoravelmente os olhos e os farei voltar para esta terra; edificá-los-ei e não os destruirei, plantá-los-ei e não os arrancarei.
+7 Dar-lhes-ei coração para que me conheçam que eu sou o Senhor; eles serão o meu povo, e eu serei o seu Deus; porque se voltarão para mim de todo o seu coração.
+8 Como se rejeitam os figos ruins, que, de ruins que são, não se podem comer, assim tratarei a Zedequias, rei de Judá, diz o Senhor, e a seus príncipes, e ao restante de Jerusalém, tanto aos que ficaram nesta terra como aos que habitam na terra do Egito.
+9 Eu os farei objeto de espanto, calamidade para todos os reinos da terra; opróbrio e provérbio, escárnio e maldição em todos os lugares para onde os arrojarei.
+10 Enviarei contra eles a espada, a fome e a peste, até que se consumam de sobre a terra que lhes dei, a eles e a seus pais.*
+1 Palavra que veio a Jeremias acerca de todo o povo de Judá, no ano quarto de Jeoaquim, filho de Josias, rei de Judá, ano que era o primeiro de Nabucodonosor, rei da Babilônia,
+2 a qual anunciou Jeremias, o profeta, a todo o povo de Judá e a todos os habitantes de Jerusalém, dizendo:
+3 Durante vinte e três anos, desde o décimo terceiro de Josias, filho de Amom, rei de Judá, até hoje, tem vindo a mim a palavra do Senhor, e, começando de madrugada, eu vo-la tenho anunciado; mas vós não escutastes.
+4 Também, começando de madrugada, vos enviou o Senhor todos os seus servos, os profetas, mas vós não os escutastes, nem inclinastes os ouvidos para ouvir,
+5 quando diziam: Convertei-vos agora, cada um do seu mau caminho e da maldade das suas ações, e habitai na terra que o Senhor vos deu e a vossos pais, desde os tempos antigos e para sempre.
+6 Não andeis após outros deuses para os servirdes e para os adorardes, nem me provoqueis à ira com as obras de vossas mãos; não vos farei mal algum.
+7 Todavia, não me destes ouvidos, diz o Senhor, mas me provocastes à ira com as obras de vossas mãos, para o vosso próprio mal.
+8 Portanto, assim diz o Senhor dos Exércitos: Visto que não escutastes as minhas palavras,
+9 eis que mandarei buscar todas as tribos do Norte, diz o Senhor, como também a Nabucodonosor, rei da Babilônia, meu servo, e os trarei contra esta terra, contra os seus moradores e contra todas estas nações em redor, e os destruirei totalmente, e os porei por objeto de espanto, e de assobio, e de ruínas perpétuas.
+10 Farei cessar entre eles a voz de folguedo e a de alegria, e a voz do noivo, e a da noiva, e o som das mós, e a luz do candeeiro.
+11 Toda esta terra virá a ser um deserto e um espanto; estas nações servirão ao rei da Babilônia setenta anos.
+12 Acontecerá, porém, que, quando se cumprirem os setenta anos, castigarei a iniquidade do rei da Babilônia e a desta nação, diz o Senhor, como também a da terra dos caldeus; farei deles ruínas perpétuas.
+13 Farei que se cumpram sobre aquela terra todas as minhas ameaças que proferi contra ela, tudo quanto está escrito neste livro, que profetizou Jeremias contra todas as nações.
+14 Porque também eles serão escravos de muitas nações e de grandes reis; assim, lhes retribuirei segundo os seus feitos e segundo as obras das suas mãos.
+15 Porque assim me disse o Senhor, o Deus de Israel: Toma da minha mão este cálice do vinho do meu furor e darás a beber dele a todas as nações às quais eu te enviar.
+16 Para que bebam, e tremam, e enlouqueçam, por causa da espada que eu enviarei para o meio delas.
+17 Recebi o cálice da mão do Senhor e dei a beber a todas as nações às quais o Senhor me tinha enviado:
+18 a Jerusalém, às cidades de Judá, aos seus reis e aos seus príncipes, para fazer deles uma ruína, objeto de espanto, de assobio e maldição, como hoje se vê;
+19 a Faraó, rei do Egito, a seus servos, a seus príncipes e a todo o seu povo;
+20 a todo misto de gente, a todos os reis da terra de Uz, a todos os reis da terra dos filisteus, a Asquelom, a Gaza, a Ecrom e ao resto de Asdode;
+21 a Edom, a Moabe e aos filhos de Amom;
+22 a todos os reis de Tiro, a todos os reis de Sidom e aos reis das terras dalém do mar;
+23 a Dedã, a Tema, a Buz e a todos os que cortam os cabelos nas têmporas;
+24 a todos os reis da Arábia e todos os reis do misto de gente que habita no deserto;
+25 a todos os reis de Zinri, a todos os reis de Elão e a todos os reis da Média;
+26 a todos os reis do Norte, os de perto e os de longe, um após outro, e a todos os reinos do mundo sobre a face da terra; e, depois de todos eles, ao rei da Babilônia.
+27 Pois lhes dirás: Assim diz o Senhor dos Exércitos, o Deus de Israel: Bebei, embebedai-vos e vomitai; caí e não torneis a levantar-vos, por causa da espada que estou enviando para o vosso meio.
+28 Se recusarem receber o cálice da tua mão para beber, então, lhes dirás: Assim diz o Senhor dos Exércitos: Tereis de bebê-lo.
+29 Pois eis que na cidade que se chama pelo meu nome começo a castigar; e ficareis vós de todo impunes? Não, não ficareis impunes, porque eu chamo a espada sobre todos os moradores da terra, diz o Senhor dos Exércitos.
+30 Tu, pois, lhes profetizarás todas estas palavras e lhes dirás: O Senhor lá do alto rugirá e da sua santa morada fará ouvir a sua voz; rugirá fortemente contra a sua malhada, com brados contra todos os moradores da terra, como o eia! dos que pisam as uvas.
+31 Chegará o estrondo até à extremidade da terra, porque o Senhor tem contenda com as nações, entrará em juízo contra toda carne; os perversos entregará à espada, diz o Senhor.
+32 Assim diz o Senhor dos Exércitos: Eis que o mal passa de nação para nação, e grande tormenta se levanta dos confins da terra.
+33 Os que o Senhor entregar à morte naquele dia se estenderão de uma a outra extremidade da terra; não serão pranteados, nem recolhidos, nem sepultados; serão como esterco sobre a face da terra.
+34 Uivai, pastores, e clamai; revolvei-vos na cinza, vós, donos dos rebanhos, porque já se cumpriram os vossos dias de matardes e dispersardes, e vós mesmos caireis como jarros preciosos.
+35 Não haverá refúgio para os pastores, nem salvamento para os donos dos rebanhos.
+36 Eis o grito dos pastores, o uivo dos donos dos rebanhos! Porque o Senhor está destruindo o pasto deles.
+37 Porque as suas malhadas pacíficas serão devastadas, por causa do brasume da ira do Senhor.
+38 Saiu da sua morada como o filho de leão; porque a terra deles foi posta em ruínas, por causa do furor da espada e por causa do brasume da ira do Senhor.
+15 Porque assim me disse o Senhor, o Deus de Israel: Toma da minha mão este cálice do vinho do meu furor e darás a beber dele a todas as nações às quais eu te enviar.
+16 Para que bebam, e tremam, e enlouqueçam, por causa da espada que eu enviarei para o meio delas.
+17 Recebi o cálice da mão do Senhor e dei a beber a todas as nações às quais o Senhor me tinha enviado:
+18 a Jerusalém, às cidades de Judá, aos seus reis e aos seus príncipes, para fazer deles uma ruína, objeto de espanto, de assobio e maldição, como hoje se vê;
+19 a Faraó, rei do Egito, a seus servos, a seus príncipes e a todo o seu povo;
+20 a todo misto de gente, a todos os reis da terra de Uz, a todos os reis da terra dos filisteus, a Asquelom, a Gaza, a Ecrom e ao resto de Asdode;
+21 a Edom, a Moabe e aos filhos de Amom;
+22 a todos os reis de Tiro, a todos os reis de Sidom e aos reis das terras dalém do mar;
+23 a Dedã, a Tema, a Buz e a todos os que cortam os cabelos nas têmporas;
+24 a todos os reis da Arábia e todos os reis do misto de gente que habita no deserto;
+25 a todos os reis de Zinri, a todos os reis de Elão e a todos os reis da Média;
+26 a todos os reis do Norte, os de perto e os de longe, um após outro, e a todos os reinos do mundo sobre a face da terra; e, depois de todos eles, ao rei da Babilônia.
+27 Pois lhes dirás: Assim diz o Senhor dos Exércitos, o Deus de Israel: Bebei, embebedai-vos e vomitai; caí e não torneis a levantar-vos, por causa da espada que estou enviando para o vosso meio.
+28 Se recusarem receber o cálice da tua mão para beber, então, lhes dirás: Assim diz o Senhor dos Exércitos: Tereis de bebê-lo.
+29 Pois eis que na cidade que se chama pelo meu nome começo a castigar; e ficareis vós de todo impunes? Não, não ficareis impunes, porque eu chamo a espada sobre todos os moradores da terra, diz o Senhor dos Exércitos.
+30 Tu, pois, lhes profetizarás todas estas palavras e lhes dirás: O Senhor lá do alto rugirá e da sua santa morada fará ouvir a sua voz; rugirá fortemente contra a sua malhada, com brados contra todos os moradores da terra, como o eia! dos que pisam as uvas.
+31 Chegará o estrondo até à extremidade da terra, porque o Senhor tem contenda com as nações, entrará em juízo contra toda carne; os perversos entregará à espada, diz o Senhor.
+32 Assim diz o Senhor dos Exércitos: Eis que o mal passa de nação para nação, e grande tormenta se levanta dos confins da terra.
+33 Os que o Senhor entregar à morte naquele dia se estenderão de uma a outra extremidade da terra; não serão pranteados, nem recolhidos, nem sepultados; serão como esterco sobre a face da terra.
+34 Uivai, pastores, e clamai; revolvei-vos na cinza, vós, donos dos rebanhos, porque já se cumpriram os vossos dias de matardes e dispersardes, e vós mesmos caireis como jarros preciosos.
+35 Não haverá refúgio para os pastores, nem salvamento para os donos dos rebanhos.
+36 Eis o grito dos pastores, o uivo dos donos dos rebanhos! Porque o Senhor está destruindo o pasto deles.
+37 Porque as suas malhadas pacíficas serão devastadas, por causa do brasume da ira do Senhor.
+38 Saiu da sua morada como o filho de leão; porque a terra deles foi posta em ruínas, por causa do furor da espada e por causa do brasume da ira do Senhor.*
+1 No princípio do reinado de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra do Senhor:
+2 Assim diz o Senhor: Põe-te no átrio da Casa do Senhor e dize a todas as cidades de Judá, que vêm adorar à Casa do Senhor, todas as palavras que eu te mando lhes digas; não omitas nem uma palavra sequer.
+3 Bem pode ser que ouçam e se convertam, cada um do seu mau caminho; então, me arrependerei do mal que intento fazer-lhes por causa da maldade das suas ações.
+4 Dize-lhes, pois: Assim diz o Senhor: Se não me derdes ouvidos para andardes na minha lei, que pus diante de vós,
+5 para que ouvísseis as palavras dos meus servos, os profetas, que, começando de madrugada, vos envio, posto que até aqui não me ouvistes,
+6 então, farei que esta casa seja como Siló e farei desta cidade maldição para todas as nações da terra.
+7 Os sacerdotes, os profetas e todo o povo ouviram a Jeremias, quando proferia estas palavras na Casa do Senhor.
+8 Tendo Jeremias acabado de falar tudo quanto o Senhor lhe havia ordenado que dissesse a todo o povo, lançaram mão dele os sacerdotes, os profetas e todo o povo, dizendo: Serás morto.
+9 Por que profetizas em nome do Senhor, dizendo: Será como Siló esta casa, e esta cidade, desolada e sem habitantes? E ajuntou-se todo o povo contra Jeremias, na Casa do Senhor.
+10 Tendo os príncipes de Judá ouvido estas palavras, subiram da casa do rei à Casa do Senhor e se assentaram à entrada da Porta Nova da Casa do Senhor.
+11 Então, os sacerdotes e os profetas falaram aos príncipes e a todo o povo, dizendo: Este homem é réu de morte, porque profetizou contra esta cidade, como ouvistes com os vossos próprios ouvidos.
+12 Falou Jeremias a todos os príncipes e a todo o povo, dizendo: O Senhor me enviou a profetizar contra esta casa e contra esta cidade todas as palavras que ouvistes.
+13 Agora, pois, emendai os vossos caminhos e as vossas ações e ouvi a voz do Senhor, vosso Deus; então, se arrependerá o Senhor do mal que falou contra vós outros.
+14 Quanto a mim, eis que estou nas vossas mãos; fazei de mim o que for bom e reto segundo vos parecer.
+15 Sabei, porém, com certeza que, se me matardes a mim, trareis sangue inocente sobre vós, sobre esta cidade e sobre os seus moradores; porque, na verdade, o Senhor me enviou a vós outros, para me ouvirdes dizer-vos estas palavras.
+16 Então, disseram os príncipes e todo o povo aos sacerdotes e aos profetas: Este homem não é réu de morte, porque em nome do Senhor, nosso Deus, nos falou.
+17 Também se levantaram alguns dentre os anciãos da terra e falaram a toda a congregação do povo, dizendo:
+18 Miqueias, o morastita, profetizou nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá, dizendo: Assim disse o Senhor dos Exércitos: Sião será lavrada como um campo, Jerusalém se tornará em montões de ruínas, e o monte do templo, numa colina coberta de mato.
+19 Mataram-no, acaso, Ezequias, rei de Judá, e todo o Judá? Antes, não temeu este ao Senhor, não implorou o favor do Senhor? E o Senhor não se arrependeu do mal que falara contra eles? E traríamos nós tão grande mal sobre a nossa alma?
+20 Também houve outro homem, Urias, filho de Semaías, de Quiriate-Jearim, que profetizava em nome do Senhor e profetizou contra esta cidade e contra esta terra, segundo todas as palavras de Jeremias.
+21 Ouvindo o rei Jeoaquim, e todos os seus valentes, e todos os príncipes as suas palavras, procurou o rei matá-lo; mas, ouvindo isto Urias, temeu, fugiu e foi para o Egito.
+22 O rei Jeoaquim, porém, enviou a Elnatã, filho de Acbor, ao Egito e com ele outros homens.
+23 Eles tiraram a Urias do Egito e o trouxeram ao rei Jeoaquim; este mandou feri-lo à espada e lançar-lhe o cadáver nas sepulturas da plebe.
+24 Porém a influência de Aicão, filho de Safã, protegeu a Jeremias, para que o não entregassem nas mãos do povo, para ser morto.*
+1 No princípio do reinado de Zedequias, filho de Josias, rei de Judá, veio da parte do Senhor esta palavra a Jeremias:
+2 Assim me disse o Senhor: Faze correias e canzis e põe-nos ao pescoço.
+3 E envia outros ao rei de Edom, ao rei de Moabe, ao rei dos filhos de Amom, ao rei de Tiro e ao rei de Sidom, por intermédio dos mensageiros que vieram a Jerusalém ter com Zedequias, rei de Judá.
+4 Ordena-lhes que digam aos seus senhores: Assim diz o Senhor dos Exércitos, o Deus de Israel: Assim direis a vossos senhores:
+5 Eu fiz a terra, o homem e os animais que estão sobre a face da terra, com o meu grande poder e com o meu braço estendido, e os dou àquele a quem for justo.
+6 Agora, eu entregarei todas estas terras ao poder de Nabucodonosor, rei da Babilônia, meu servo; e também lhe dei os animais do campo para que o sirvam.
+7 Todas as nações servirão a ele, a seu filho e ao filho de seu filho, até que também chegue a vez da sua própria terra, quando muitas nações e grandes reis o fizerem seu escravo.
+8 Se alguma nação e reino não servirem o mesmo Nabucodonosor, rei da Babilônia, e não puserem o pescoço debaixo do jugo do rei da Babilônia, a essa nação castigarei com espada, e com fome, e com peste, diz o Senhor, até que eu a consuma pela sua mão.
+9 Não deis ouvidos aos vossos profetas e aos vossos adivinhos, aos vossos sonhadores, aos vossos agoureiros e aos vossos encantadores, que vos falam, dizendo: Não servireis o rei da Babilônia.
+10 Porque eles vos profetizam mentiras para vos mandarem para longe da vossa terra, e para que eu vos expulse, e pereçais.
+11 Mas a nação que meter o pescoço sob o jugo do rei da Babilônia e o servir, eu a deixarei na sua terra, diz o Senhor, e lavrá-la-á e habitará nela.
+12 Falei a Zedequias, rei de Judá, segundo todas estas palavras, dizendo: Metei o pescoço no jugo do rei da Babilônia, servi-o, a ele e ao seu povo, e vivereis.
+13 Por que morrerias tu e o teu povo, à espada, à fome e de peste, como o Senhor disse com respeito à nação que não servir ao rei da Babilônia?
+14 Não deis ouvidos às palavras dos profetas, que vos dizem: Não servireis ao rei da Babilônia. É mentira o que eles vos profetizam.
+15 Porque não os enviei, diz o Senhor, e profetizam falsamente em meu nome, para que eu vos expulse e pereçais, vós e eles que vos profetizam.
+16 Também falei aos sacerdotes e a todo este povo, dizendo: Assim diz o Senhor: Não deis ouvidos às palavras dos vossos profetas que vos profetizam, dizendo: Eis que os utensílios da Casa do Senhor voltarão em breve da Babilônia. É mentira o que eles vos profetizam.
+17 Não lhes deis ouvidos, servi ao rei da Babilônia e vivereis; por que se tornaria esta cidade em desolação?
+18 Porém, se são profetas, e se a palavra do Senhor está com eles, que orem ao Senhor dos Exércitos, para que os utensílios que ficaram na Casa do Senhor, e na casa do rei de Judá, e em Jerusalém não sejam levados para a Babilônia.
+19 Porque assim diz o Senhor dos Exércitos acerca das colunas, do mar, dos suportes e dos restantes utensílios que ficaram na cidade,
+20 os quais Nabucodonosor, rei da Babilônia, não levou, quando deportou, de Jerusalém para a Babilônia, a Jeconias, filho de Jeoaquim, rei de Judá, assim como a todos os nobres de Judá e de Jerusalém;
+21 sim, isto diz o Senhor dos Exércitos, o Deus de Israel, acerca dos utensílios que ficaram na Casa do Senhor, e na casa do rei de Judá, e em Jerusalém:
+22 à Babilônia serão levados, onde ficarão até ao dia em que eu atentar para eles, diz o Senhor; então, os farei trazer e os devolverei a este lugar.*
+1 No mesmo ano, no princípio do reinado de Zedequias, rei de Judá, isto é, no ano quarto, no quinto mês, Hananias, filho de Azur e profeta de Gibeão, me falou na Casa do Senhor, na presença dos sacerdotes e de todo o povo, dizendo:
+2 Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Quebrei o jugo do rei da Babilônia.
+3 Dentro de dois anos, eu tornarei a trazer a este lugar todos os utensílios da Casa do Senhor, que daqui tomou Nabucodonosor, rei da Babilônia, levando-os para a Babilônia.
+4 Também a Jeconias, filho de Jeoaquim, rei de Judá, e a todos os exilados de Judá, que entraram na Babilônia, eu tornarei a trazer a este lugar, diz o Senhor; porque quebrei o jugo do rei da Babilônia.
+5 Então, respondeu Jeremias, o profeta, ao profeta Hananias, na presença dos sacerdotes e perante todo o povo que estava na Casa do Senhor.
+6 Disse, pois, Jeremias, o profeta: Amém! Assim faça o Senhor; confirme o Senhor as tuas palavras, com que profetizaste, e torne ele a trazer da Babilônia a este lugar os utensílios da Casa do Senhor e todos os exilados.
+7 Mas ouve agora esta palavra, que eu falo a ti e a todo o povo para que ouçais:
+8 Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram guerra, mal e peste contra muitas terras e grandes reinos.
+9 O profeta que profetizar paz, só ao cumprir-se a sua palavra, será conhecido como profeta, de fato, enviado do Senhor.
+10 Então, o profeta Hananias tomou os canzis do pescoço de Jeremias, o profeta, e os quebrou;
+11 e falou na presença de todo o povo: Assim diz o Senhor: Deste modo, dentro de dois anos, quebrarei o jugo de Nabucodonosor, rei da Babilônia, de sobre o pescoço de todas as nações. E Jeremias, o profeta, se foi, tomando o seu caminho.
+12 Mas depois que Hananias, o profeta, quebrou os canzis de sobre o pescoço do profeta Jeremias, veio a este a palavra do Senhor, dizendo:
+13 Vai e fala a Hananias, dizendo: Assim diz o Senhor: Canzis de madeira quebraste. Mas, em vez deles, farei canzis de ferro.
+14 Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Jugo de ferro pus sobre o pescoço de todas estas nações, para servirem a Nabucodonosor, rei da Babilônia; e o servirão. Também lhe dei os animais do campo.
+15 Disse Jeremias, o profeta, ao profeta Hananias: Ouve agora, Hananias: O Senhor não te enviou, mas tu fizeste que este povo confiasse em mentiras.
+16 Pelo que assim diz o Senhor: Eis que te lançarei de sobre a face da terra; morrerás este ano, porque pregaste rebeldia contra o Senhor.
+17 Morreu, pois, o profeta Hananias, no mesmo ano, no sétimo mês.*
+1 São estas as palavras da carta que Jeremias, o profeta, enviou de Jerusalém ao resto dos anciãos do cativeiro, como também aos sacerdotes, aos profetas e a todo o povo que Nabucodonosor havia deportado de Jerusalém para a Babilônia,
+2 depois que saíram de Jerusalém o rei Jeconias, a rainha-mãe, os oficiais, os príncipes de Judá e Jerusalém e os carpinteiros e ferreiros.
+3 A carta foi mandada por intermédio de Elasa, filho de Safã, e de Gemarias, filho de Hilquias, os quais Zedequias, rei de Judá, tinha enviado à Babilônia, a Nabucodonosor, rei da Babilônia, e dizia:
+4 Assim diz o Senhor dos Exércitos, o Deus de Israel, a todos os exilados que eu deportei de Jerusalém para a Babilônia:
+5 Edificai casas e habitai nelas; plantai pomares e comei o seu fruto.
+6 Tomai esposas e gerai filhos e filhas, tomai esposas para vossos filhos e dai vossas filhas a maridos, para que tenham filhos e filhas; multiplicai-vos aí e não vos diminuais.
+7 Procurai a paz da cidade para onde vos desterrei e orai por ela ao Senhor; porque na sua paz vós tereis paz.
+8 Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Não vos enganem os vossos profetas que estão no meio de vós, nem os vossos adivinhos, nem deis ouvidos aos vossos sonhadores, que sempre sonham segundo o vosso desejo;
+9 porque falsamente vos profetizam eles em meu nome; eu não os enviei, diz o Senhor.
+10 Assim diz o Senhor: Logo que se cumprirem para a Babilônia setenta anos, atentarei para vós outros e cumprirei para convosco a minha boa palavra, tornando a trazer-vos para este lugar.
+11 Eu é que sei que pensamentos tenho a vosso respeito, diz o Senhor; pensamentos de paz e não de mal, para vos dar o fim que desejais.
+12 Então, me invocareis, passareis a orar a mim, e eu vos ouvirei.
+13 Buscar-me-eis e me achareis quando me buscardes de todo o vosso coração.
+14 Serei achado de vós, diz o Senhor, e farei mudar a vossa sorte; congregar-vos-ei de todas as nações e de todos os lugares para onde vos lancei, diz o Senhor, e tornarei a trazer-vos ao lugar donde vos mandei para o exílio.
+15 Vós dizeis: O Senhor nos suscitou profetas na Babilônia.
+16 Mas assim diz o Senhor a respeito do rei que se assenta no trono de Davi e de todo o povo que habita nesta cidade, vossos irmãos, que não saíram convosco para o exílio;
+17 assim diz o Senhor dos Exércitos: Eis que enviarei contra eles a espada, a fome e a peste e fá-los-ei como a figos ruins, que, de ruins que são, não se podem comer.
+18 Persegui-los-ei com a espada, a fome e a peste; fá-los-ei um espetáculo horrendo para todos os reinos da terra; e os porei por objeto de espanto, e de assobio, e de opróbrio entre todas as nações para onde os tiver arrojado;
+19 porque não deram ouvidos às minhas palavras, diz o Senhor, com as quais, começando de madrugada, lhes enviei os meus servos, os profetas; mas vós não os escutastes, diz o Senhor.
+20 Vós, pois, ouvi a palavra do Senhor, todos os do exílio que enviei de Jerusalém para a Babilônia.
+21 Assim diz o Senhor dos Exércitos, o Deus de Israel, acerca de Acabe, filho de Colaías, e de Zedequias, filho de Maaseias, que vos profetizam falsamente em meu nome: Eis que os entregarei nas mãos de Nabucodonosor, rei da Babilônia, e ele os ferirá diante dos vossos olhos.
+22 Daí surgirá nova espécie de maldição entre os exilados de Judá que estão na Babilônia: o Senhor te faça como a Zedequias e como a Acabe, os quais o rei da Babilônia assou no fogo;
+23 porquanto fizeram loucuras em Israel, cometeram adultérios com as mulheres de seus companheiros e anunciaram falsamente em meu nome palavras que não lhes mandei dizer; eu o sei e sou testemunha disso, diz o Senhor.
+24 A Semaías, o neelamita, falarás, dizendo:
+25 Assim diz o Senhor dos Exércitos, o Deus de Israel: Porquanto enviaste no teu nome cartas a todo o povo que está em Jerusalém, como também a Sofonias, filho de Maaseias, o sacerdote, e a todos os sacerdotes, dizendo:
+26 O Senhor te pôs por sacerdote em lugar do sacerdote Joiada, para que sejas encarregado da Casa do Senhor sobre todo homem fanático que quer passar por profeta, para o lançares na prisão e no tronco.
+27 Agora, pois, por que não repreendeste a Jeremias, o anatotita, que vos profetiza?
+28 Pois nos enviou mensageiros à Babilônia para nos dizer: Há de durar muito o exílio; edificai casas e habitai nelas; plantai pomares e comei o seu fruto.
+29 Sofonias, o sacerdote, leu esta carta aos ouvidos do profeta Jeremias.
+30 Então, veio a palavra do Senhor a Jeremias, dizendo:
+31 Manda dizer a todos os exilados: Assim diz o Senhor acerca de Semaías, o neelamita: Porquanto Semaías vos profetizou, não o havendo eu enviado, e vos fez confiar em mentiras,
+32 assim diz o Senhor: Eis que castigarei a Semaías, o neelamita, e à sua descendência; ele não terá ninguém que habite entre este povo e não verá o bem que hei de fazer ao meu povo, diz o Senhor, porque pregou rebeldia contra o Senhor.*
+1 Palavra que do Senhor veio a Jeremias, dizendo:
+2 Assim fala o Senhor, Deus de Israel: Escreve num livro todas as palavras que eu disse.
+3 Porque eis que vêm dias, diz o Senhor, em que mudarei a sorte do meu povo de Israel e de Judá, diz o Senhor; fá-los-ei voltar para a terra que dei a seus pais, e a possuirão.
+4 São estas as palavras que disse o Senhor acerca de Israel e de Judá:
+5 Assim diz o Senhor: Ouvimos uma voz de tremor e de temor e não de paz.
+6 Perguntai, pois, e vede se, acaso, um homem tem dores de parto. Por que vejo, pois, a cada homem com as mãos na cintura, como a que está dando à luz? E por que se tornaram pálidos todos os rostos?
+7 Ah! Que grande é aquele dia, e não há outro semelhante! É tempo de angústia para Jacó; ele, porém, será livre dela.
+8 Naquele dia, diz o Senhor dos Exércitos, eu quebrarei o seu jugo de sobre o teu pescoço e quebrarei os teus canzis; e nunca mais estrangeiros farão escravo este povo,
+9 que servirá ao Senhor, seu Deus, como também a Davi, seu rei, que lhe levantarei.
+10 Não temas, pois, servo meu, Jacó, diz o Senhor, nem te espantes, ó Israel; pois eis que te livrarei das terras de longe e à tua descendência, da terra do exílio; Jacó voltará e ficará tranquilo e em sossego; e não haverá quem o atemorize.
+11 Porque eu sou contigo, diz o Senhor, para salvar-te; por isso, darei cabo de todas as nações entre as quais te espalhei; de ti, porém, não darei cabo, mas castigar-te-ei em justa medida e de todo não te inocentarei.
+12 Porque assim diz o Senhor: Teu mal é incurável, a tua chaga é dolorosa.
+13 Não há quem defenda a tua causa; para a tua ferida não tens remédios nem emplasto.
+14 Todos os teus amantes se esqueceram de ti, já não perguntam por ti; porque te feri com ferida de inimigo e com castigo de cruel, por causa da grandeza da tua maldade e da multidão de teus pecados.
+15 Por que gritas por motivo da tua ferida? Tua dor é incurável. Por causa da grandeza de tua maldade e da multidão de teus pecados é que eu fiz estas coisas.
+16 Por isso, todos os que te devoram serão devorados; e todos os teus adversários serão levados, cada um deles para o cativeiro; os que te despojam serão despojados, e entregarei ao saque todos os que te saqueiam.
+17 Porque te restaurarei a saúde e curarei as tuas chagas, diz o Senhor; pois te chamaram a repudiada, dizendo: É Sião, já ninguém pergunta por ela.
+18 Assim diz o Senhor: Eis que restaurarei a sorte das tendas de Jacó e me compadecerei das suas moradas; a cidade será reedificada sobre o seu montão de ruínas, e o palácio será habitado como outrora.
+19 Sairão deles ações de graças e o júbilo dos que se alegram. Multiplicá-los-ei, e não serão diminuídos; glorificá-los-ei, e não serão apoucados.
+20 Seus filhos serão como na antiguidade, e a sua congregação será firmada diante de mim, e castigarei todos os seus opressores.
+21 O seu príncipe procederá deles, do meio deles sairá o que há de reinar; fá-lo-ei aproximar, e ele se chegará a mim; pois quem de si mesmo ousaria aproximar-se de mim? — diz o Senhor.
+22 Vós sereis o meu povo, eu serei o vosso Deus.
+23 Eis a tempestade do Senhor! O furor saiu, e um redemoinho tempestuou sobre a cabeça dos perversos.
+24 Não voltará atrás o brasume da ira do Senhor, até que tenha executado e cumprido os desígnios do seu coração. Nos últimos dias, entendereis isto.*
+1 Naquele tempo, diz o Senhor, serei o Deus de todas as tribos de Israel, e elas serão o meu povo.
+2 Assim diz o Senhor: O povo que se livrou da espada logrou graça no deserto. Eu irei e darei descanso a Israel.
+3 De longe se me deixou ver o Senhor, dizendo: Com amor eterno eu te amei; por isso, com benignidade te atraí.
+4 Ainda te edificarei, e serás edificada, ó virgem de Israel! Ainda serás adornada com os teus adufes e sairás com o coro dos que dançam.
+5 Ainda plantarás vinhas nos montes de Samaria; plantarão os plantadores e gozarão dos frutos.
+6 Porque haverá um dia em que gritarão os atalaias na região montanhosa de Efraim: Levantai-vos, e subamos a Sião, ao Senhor, nosso Deus!
+7 Porque assim diz o Senhor: Cantai com alegria a Jacó, exultai por causa da cabeça das nações; proclamai, cantai louvores e dizei: Salva, Senhor, o teu povo, o restante de Israel.
+8 Eis que os trarei da terra do Norte e os congregarei das extremidades da terra; e, entre eles, também os cegos e aleijados, as mulheres grávidas e as de parto; em grande congregação, voltarão para aqui.
+9 Virão com choro, e com súplicas os levarei; guiá-los-ei aos ribeiros de águas, por caminho reto em que não tropeçarão; porque sou pai para Israel, e Efraim é o meu primogênito.
+10 Ouvi a palavra do Senhor, ó nações, e anunciai nas terras longínquas do mar, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor, ao seu rebanho.
+11 Porque o Senhor redimiu a Jacó e o livrou da mão do que era mais forte do que ele.
+12 Hão de vir e exultar na altura de Sião, radiantes de alegria por causa dos bens do Senhor, do cereal, do vinho, do azeite, dos cordeiros e dos bezerros; a sua alma será como um jardim regado, e nunca mais desfalecerão.
+13 Então, a virgem se alegrará na dança, e também os jovens e os velhos; tornarei o seu pranto em júbilo e os consolarei; transformarei em regozijo a sua tristeza.
+14 Saciarei de gordura a alma dos sacerdotes, e o meu povo se fartará com a minha bondade, diz o Senhor.
+15 Assim diz o Senhor: Ouviu-se um clamor em Ramá, pranto e grande lamento; era Raquel chorando por seus filhos e inconsolável por causa deles, porque já não existem.
+16 Assim diz o Senhor: Reprime a tua voz de choro e as lágrimas de teus olhos; porque há recompensa para as tuas obras, diz o Senhor, pois os teus filhos voltarão da terra do inimigo.
+17 Há esperança para o teu futuro, diz o Senhor, porque teus filhos voltarão para os seus territórios.
+18 Bem ouvi que Efraim se queixava, dizendo: Castigaste-me, e fui castigado como novilho ainda não domado; converte-me, e serei convertido, porque tu és o Senhor, meu Deus.
+19 Na verdade, depois que me converti, arrependi-me; depois que fui instruído, bati no peito; fiquei envergonhado, confuso, porque levei o opróbrio da minha mocidade.
+20 Não é Efraim meu precioso filho, filho das minhas delícias? Pois tantas vezes quantas falo contra ele, tantas vezes ternamente me lembro dele; comove-se por ele o meu coração, deveras me compadecerei dele, diz o Senhor.
+21 Põe-te marcos, finca postes que te guiem, presta atenção na vereda, no caminho por onde passaste; regressa, ó virgem de Israel, regressa às tuas cidades.
+22 Até quando andarás errante, ó filha rebelde? Porque o Senhor criou coisa nova na terra: a mulher infiel virá a requestar um homem.
+23 Assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda dirão esta palavra na terra de Judá e nas suas cidades, quando eu lhe restaurar a sorte: O Senhor te abençoe, ó morada de justiça, ó santo monte!
+24 Nela, habitarão Judá e todas as suas cidades juntamente, como também os lavradores e os que pastoreiam os rebanhos.
+25 Porque satisfiz à alma cansada, e saciei a toda alma desfalecida.
+26 Nisto, despertei e olhei; e o meu sono fora doce para mim.
+27 Eis que vêm dias, diz o Senhor, em que semearei a casa de Israel e a casa de Judá com a semente de homens e de animais.
+28 Como velei sobre eles, para arrancar, para derribar, para subverter, para destruir e para afligir, assim velarei sobre eles para edificar e para plantar, diz o Senhor.
+29 Naqueles dias, já não dirão: Os pais comeram uvas verdes, e os dentes dos filhos é que se embotaram.
+30 Cada um, porém, será morto pela sua iniquidade; de todo homem que comer uvas verdes os dentes se embotarão.
+31 Eis aí vêm dias, diz o Senhor, em que firmarei nova aliança com a casa de Israel e com a casa de Judá.
+32 Não conforme a aliança que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito; porquanto eles anularam a minha aliança, não obstante eu os haver desposado, diz o Senhor.
+33 Porque esta é a aliança que firmarei com a casa de Israel, depois daqueles dias, diz o Senhor: Na mente, lhes imprimirei as minhas leis, também no coração lhas inscreverei; eu serei o seu Deus, e eles serão o meu povo.
+34 Não ensinará jamais cada um ao seu próximo, nem cada um ao seu irmão, dizendo: Conhece ao Senhor, porque todos me conhecerão, desde o menor até ao maior deles, diz o Senhor. Pois perdoarei as suas iniquidades e dos seus pecados jamais me lembrarei.
+35 Assim diz o Senhor, que dá o sol para a luz do dia e as leis fixas à lua e às estrelas para a luz da noite, que agita o mar e faz bramir as suas ondas; Senhor dos Exércitos é o seu nome.
+36 Se falharem estas leis fixas diante de mim, diz o Senhor, deixará também a descendência de Israel de ser uma nação diante de mim para sempre.
+37 Assim diz o Senhor: Se puderem ser medidos os céus lá em cima e sondados os fundamentos da terra cá embaixo, também eu rejeitarei toda a descendência de Israel, por tudo quanto fizeram, diz o Senhor.
+38 Eis que vêm dias, diz o Senhor, em que esta cidade será reedificada para o Senhor, desde a Torre de Hananel até à Porta da Esquina.
+39 O cordel de medir estender-se-á para diante, até ao outeiro de Garebe, e virar-se-á para Goa.
+40 Todo o vale dos cadáveres e da cinza e todos os campos até ao ribeiro Cedrom, até à esquina da Porta dos Cavalos para o oriente, serão consagrados ao Senhor. Esta Jerusalém jamais será desarraigada ou destruída.*
+1 Palavra que veio a Jeremias da parte do Senhor, no ano décimo de Zedequias, rei de Judá, ou décimo oitavo de Nabucodonosor.
+2 Ora, nesse tempo o exército do rei da Babilônia cercava Jerusalém; Jeremias, o profeta, estava encarcerado no pátio da guarda que estava na casa do rei de Judá.
+3 Pois Zedequias, rei de Judá, o havia encerrado, dizendo: Por que profetizas tu que o Senhor disse que entregaria esta cidade nas mãos do rei da Babilônia, e ele a tomaria;
+4 que Zedequias, rei de Judá, não se livraria das mãos dos caldeus, mas infalivelmente seria entregue nas mãos do rei da Babilônia, e com ele falaria boca a boca, e o veria face a face;
+5 e que ele levaria Zedequias para a Babilônia, onde estaria até que o Senhor se lembrasse dele, como este disse; e, ainda que pelejásseis contra os caldeus, não seríeis bem-sucedidos?
+6 Disse, pois, Jeremias: Veio a mim a palavra do Senhor, dizendo:
+7 Eis que Hananel, filho de teu tio Salum, virá a ti, dizendo: Compra o meu campo que está em Anatote, pois a ti, a quem pertence o direito de resgate, compete comprá-lo.
+8 Veio, pois, a mim, segundo a palavra do Senhor, Hananel, filho de meu tio, ao pátio da guarda e me disse: Compra agora o meu campo que está em Anatote, na terra de Benjamim; porque teu é o direito de posse e de resgate; compra-o. Então, entendi que isto era a palavra do Senhor.
+9 Comprei, pois, de Hananel, filho de meu tio, o campo que está em Anatote; e lhe pesei o dinheiro, dezessete siclos de prata.
+10 Assinei a escritura, fechei-a com selo, chamei testemunhas e pesei-lhe o dinheiro numa balança.
+11 Tomei a escritura da compra, tanto a selada, segundo mandam a lei e os estatutos, como a cópia aberta;
+12 dei-a a Baruque, filho de Nerias, filho de Maaseias, na presença de Hananel, filho de meu tio, e perante as testemunhas, que assinaram a escritura da compra, e na presença de todos os judeus que se assentavam no pátio da guarda.
+13 Perante eles dei ordem a Baruque, dizendo:
+14 Assim diz o Senhor dos Exércitos, o Deus de Israel: Toma esta escritura, esta escritura da compra, tanto a selada como a aberta, e mete-as num vaso de barro, para que se possam conservar por muitos dias;
+15 porque assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda se comprarão casas, campos e vinhas nesta terra.
+16 Depois que dei a escritura da compra a Baruque, filho de Nerias, orei ao Senhor, dizendo:
+17 Ah! Senhor Deus, eis que fizeste os céus e a terra com o teu grande poder e com o teu braço estendido; coisa alguma te é demasiadamente maravilhosa.
+18 Tu usas de misericórdia para com milhares e retribuis a iniquidade dos pais nos filhos; tu és o grande, o poderoso Deus, cujo nome é o Senhor dos Exércitos,
+19 grande em conselho e magnífico em obras; porque os teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um segundo o seu proceder, segundo o fruto das suas obras.
+20 Tu puseste sinais e maravilhas na terra do Egito até ao dia de hoje, tanto em Israel como entre outros homens; e te fizeste um nome, qual o que tens neste dia.
+21 Tiraste o teu povo de Israel da terra do Egito, com sinais e maravilhas, com mão poderosa e braço estendido e com grande espanto;
+22 e lhe deste esta terra, que com juramento prometeste a seus pais, terra que mana leite e mel.
+23 Entraram nela e dela tomaram posse, mas não obedeceram à tua voz, nem andaram na tua lei; de tudo o que lhes mandaste que fizessem, nada fizeram; pelo que trouxeste sobre eles todo este mal.
+24 Eis aqui as trincheiras já atingem a cidade, para ser tomada; já está a cidade entregue nas mãos dos caldeus, que pelejam contra ela, pela espada, pela fome e pela peste. O que disseste aconteceu; e tu mesmo o vês.
+25 Contudo, ó Senhor Deus, tu me disseste: Compra o campo por dinheiro e chama testemunhas, embora já esteja a cidade entregue nas mãos dos caldeus.
+26 Então, veio a palavra do Senhor a Jeremias, dizendo:
+27 Eis que eu sou o Senhor, o Deus de todos os viventes; acaso, haveria coisa demasiadamente maravilhosa para mim?
+28 Portanto, assim diz o Senhor: Eis que entrego esta cidade nas mãos dos caldeus, nas mãos de Nabucodonosor, rei da Babilônia, e ele a tomará.
+29 Os caldeus, que pelejam contra esta cidade, entrarão nela, porão fogo a esta cidade e queimarão as casas sobre cujos terraços queimaram incenso a Baal e ofereceram libações a outros deuses, para me provocarem à ira.
+30 Porque os filhos de Israel e os filhos de Judá não fizeram senão mal perante mim, desde a sua mocidade; porque os filhos de Israel não fizeram senão provocar-me à ira com as obras das suas mãos, diz o Senhor.
+31 Porque para minha ira e para meu furor me tem sido esta cidade, desde o dia em que a edificaram e até ao dia de hoje, para que eu a removesse da minha presença,
+32 por causa de toda a maldade que fizeram os filhos de Israel e os filhos de Judá, para me provocarem à ira, eles, os seus reis, os seus príncipes, os seus sacerdotes e os seus profetas, como também os homens de Judá e os moradores de Jerusalém.
+33 Viraram-me as costas e não o rosto; ainda que eu, começando de madrugada, os ensinava, eles não deram ouvidos, para receberem a advertência.
+34 Antes, puseram as suas abominações na casa que se chama pelo meu nome, para a profanarem.
+35 Edificaram os altos de Baal, que estão no vale do filho de Hinom, para queimarem a seus filhos e a suas filhas a Moloque, o que nunca lhes ordenei, nem me passou pela mente fizessem tal abominação, para fazerem pecar a Judá.
+36 Agora, pois, assim diz o Senhor, o Deus de Israel, acerca desta cidade, da qual vós dizeis: Já está entregue nas mãos do rei da Babilônia, pela espada, pela fome e pela peste.
+37 Eis que eu os congregarei de todas as terras, para onde os lancei na minha ira, no meu furor e na minha grande indignação; tornarei a trazê-los a este lugar e farei que nele habitem seguramente.
+38 Eles serão o meu povo, e eu serei o seu Deus.
+39 Dar-lhes-ei um só coração e um só caminho, para que me temam todos os dias, para seu bem e bem de seus filhos.
+40 Farei com eles aliança eterna, segundo a qual não deixarei de lhes fazer o bem; e porei o meu temor no seu coração, para que nunca se apartem de mim.
+41 Alegrar-me-ei por causa deles e lhes farei bem; plantá-los-ei firmemente nesta terra, de todo o meu coração e de toda a minha alma.
+42 Porque assim diz o Senhor: Assim como fiz vir sobre este povo todo este grande mal, assim lhes trarei todo o bem que lhes estou prometendo.
+43 Comprar-se-ão campos nesta terra, da qual vós dizeis: Está deserta, sem homens nem animais; está entregue nas mãos dos caldeus.
+44 Comprarão campos por dinheiro, e lavrarão as escrituras, e as fecharão com selos, e chamarão testemunhas na terra de Benjamim, nos contornos de Jerusalém, nas cidades de Judá, nas cidades da região montanhosa, nas cidades das planícies e nas cidades do Sul; porque lhes restaurarei a sorte, diz o Senhor.*
+1 Veio a palavra do Senhor a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:
+2 Assim diz o Senhor que faz estas coisas, o Senhor que as forma para as estabelecer (Senhor é o seu nome):
+3 Invoca-me, e te responderei; anunciar-te-ei coisas grandes e ocultas, que não sabes.
+4 Porque assim diz o Senhor, o Deus de Israel, a respeito das casas desta cidade e das casas dos reis de Judá, que foram derribadas para a defesa contra as trincheiras e a espada:
+5 Quando se der a peleja contra os caldeus, para que eu as encha de cadáveres de homens, feridos por minha ira e meu furor, porquanto desta cidade escondi o meu rosto, por causa de toda a sua maldade,
+6 eis que lhe trarei a ela saúde e cura e os sararei; e lhes revelarei abundância de paz e segurança.
+7 Restaurarei a sorte de Judá e de Israel e os edificarei como no princípio.
+8 Purificá-los-ei de toda a sua iniquidade com que pecaram contra mim; e perdoarei todas as suas iniquidades com que pecaram e transgrediram contra mim.
+9 Jerusalém me servirá por nome, por louvor e glória, entre todas as nações da terra que ouvirem todo o bem que eu lhe faço; espantar-se-ão e tremerão por causa de todo o bem e por causa de toda a paz que eu lhe dou.
+10 Assim diz o Senhor: Neste lugar, que vós dizeis que está deserto, sem homens nem animais, nas cidades de Judá e nas ruas de Jerusalém, que estão assoladas, sem homens, sem moradores e sem animais, ainda se ouvirá
+11 a voz de júbilo e de alegria, e a voz de noivo, e a de noiva, e a voz dos que cantam: Rendei graças ao Senhor dos Exércitos, porque ele é bom, porque a sua misericórdia dura para sempre; e dos que trazem ofertas de ações de graças à Casa do Senhor; porque restaurarei a sorte da terra como no princípio, diz o Senhor.
+12 Assim diz o Senhor dos Exércitos: Ainda neste lugar, que está deserto, sem homens e sem animais, e em todas as suas cidades, haverá morada de pastores que façam repousar aos seus rebanhos.
+13 Nas cidades da região montanhosa, e nas cidades das planícies, e nas cidades do Sul, na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, ainda passarão os rebanhos pelas mãos de quem os conte, diz o Senhor.
+1 Veio a palavra do Senhor a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:
+2 Assim diz o Senhor que faz estas coisas, o Senhor que as forma para as estabelecer (Senhor é o seu nome):
+3 Invoca-me, e te responderei; anunciar-te-ei coisas grandes e ocultas, que não sabes.
+4 Porque assim diz o Senhor, o Deus de Israel, a respeito das casas desta cidade e das casas dos reis de Judá, que foram derribadas para a defesa contra as trincheiras e a espada:
+5 Quando se der a peleja contra os caldeus, para que eu as encha de cadáveres de homens, feridos por minha ira e meu furor, porquanto desta cidade escondi o meu rosto, por causa de toda a sua maldade,
+6 eis que lhe trarei a ela saúde e cura e os sararei; e lhes revelarei abundância de paz e segurança.
+7 Restaurarei a sorte de Judá e de Israel e os edificarei como no princípio.
+8 Purificá-los-ei de toda a sua iniquidade com que pecaram contra mim; e perdoarei todas as suas iniquidades com que pecaram e transgrediram contra mim.
+9 Jerusalém me servirá por nome, por louvor e glória, entre todas as nações da terra que ouvirem todo o bem que eu lhe faço; espantar-se-ão e tremerão por causa de todo o bem e por causa de toda a paz que eu lhe dou.
+10 Assim diz o Senhor: Neste lugar, que vós dizeis que está deserto, sem homens nem animais, nas cidades de Judá e nas ruas de Jerusalém, que estão assoladas, sem homens, sem moradores e sem animais, ainda se ouvirá
+11 a voz de júbilo e de alegria, e a voz de noivo, e a de noiva, e a voz dos que cantam: Rendei graças ao Senhor dos Exércitos, porque ele é bom, porque a sua misericórdia dura para sempre; e dos que trazem ofertas de ações de graças à Casa do Senhor; porque restaurarei a sorte da terra como no princípio, diz o Senhor.
+12 Assim diz o Senhor dos Exércitos: Ainda neste lugar, que está deserto, sem homens e sem animais, e em todas as suas cidades, haverá morada de pastores que façam repousar aos seus rebanhos.
+13 Nas cidades da região montanhosa, e nas cidades das planícies, e nas cidades do Sul, na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, ainda passarão os rebanhos pelas mãos de quem os conte, diz o Senhor.14 Eis que vêm dias, diz o Senhor, em que cumprirei a boa palavra que proferi à casa de Israel e à casa de Judá.
+15 Naqueles dias e naquele tempo, farei brotar a Davi um Renovo de justiça; ele executará juízo e justiça na terra.
+16 Naqueles dias, Judá será salvo e Jerusalém habitará seguramente; ela será chamada Senhor, Justiça Nossa.
+17 Porque assim diz o Senhor: Nunca faltará a Davi homem que se assente no trono da casa de Israel;
+18 nem aos sacerdotes levitas faltará homem diante de mim, para que ofereça holocausto, queime oferta de manjares e faça sacrifício todos os dias.
+19 Veio a palavra do Senhor a Jeremias, dizendo:
+20 Assim diz o Senhor: Se puderdes invalidar a minha aliança com o dia e a minha aliança com a noite, de tal modo que não haja nem dia nem noite a seu tempo,
+21 poder-se-á também invalidar a minha aliança com Davi, meu servo, para que não tenha filho que reine no seu trono; como também com os levitas sacerdotes, meus ministros.
+22 Como não se pode contar o exército dos céus, nem medir-se a areia do mar, assim tornarei incontável a descendência de Davi, meu servo, e os levitas que ministram diante de mim.
+23 Veio ainda a palavra do Senhor a Jeremias, dizendo:
+24 Não atentas para o que diz este povo: As duas famílias que o Senhor elegeu, agora as rejeitou? Assim desprezam a meu povo, que a seus olhos já não é povo.
+25 Assim diz o Senhor: Se a minha aliança com o dia e com a noite não permanecer, e eu não mantiver as leis fixas dos céus e da terra,
+26 também rejeitarei a descendência de Jacó e de Davi, meu servo, de modo que não tome da sua descendência quem domine sobre a descendência de Abraão, Isaque e Jacó; porque lhes restaurarei a sorte e deles me apiedarei.*
+1 Palavra que do Senhor veio a Jeremias, quando Nabucodonosor, rei da Babilônia, e todo o seu exército, e todos os reinos da terra que estavam debaixo do seu poder, e todos os povos pelejavam contra Jerusalém e contra todas as suas cidades, dizendo:
+2 Assim diz o Senhor, Deus de Israel: Vai, fala a Zedequias, rei de Judá, e dize-lhe: Assim diz o Senhor: Eis que eu entrego esta cidade nas mãos do rei da Babilônia, o qual a queimará.
+3 Tu não lhe escaparás das mãos; pelo contrário, serás preso e entregue nas suas mãos; tu verás o rei da Babilônia face a face, e ele te falará boca a boca, e entrarás na Babilônia.
+4 Todavia, ouve a palavra do Senhor, ó Zedequias, rei de Judá: Assim diz o Senhor a teu respeito: Não morrerás à espada.
+5 Em paz morrerás, e te queimarão perfumes a ti, como se queimaram a teus pais, que, como reis, te precederam, e te prantearão, dizendo: Ah! Senhor! Pois eu é que disse a palavra, diz o Senhor.
+6 Falou Jeremias, o profeta, a Zedequias, rei de Judá, todas estas palavras, em Jerusalém,
+7 quando o exército do rei da Babilônia pelejava contra Jerusalém e contra todas as cidades que restavam de Judá, contra Laquis e contra Azeca; porque só estas ficaram das cidades fortificadas de Judá.
+8 Palavra que do Senhor veio a Jeremias, depois que o rei Zedequias fez aliança com todo o povo de Jerusalém, para lhes apregoar a liberdade:
+9 que cada um despedisse forro o seu servo e cada um, a sua serva, hebreu ou hebreia, de maneira que ninguém retivesse como escravos hebreus, seus irmãos.
+10 Todos os príncipes e todo o povo que haviam entrado na aliança obedeceram, despedindo forro cada um o seu servo e cada um a sua serva, de maneira que já não os retiveram como escravos; obedeceram e os despediram.
+11 Mas depois se arrependeram, e fizeram voltar os servos e as servas que haviam despedido forros, e os sujeitaram por servos e por servas.
+12 Veio, pois, a palavra do Senhor a Jeremias, da parte do Senhor, dizendo:
+13 Assim diz o Senhor, Deus de Israel: Eu fiz aliança com vossos pais, no dia em que os tirei da terra do Egito, da casa da servidão, dizendo:
+14 Ao fim de sete anos, libertareis cada um a seu irmão hebreu, que te for vendido a ti e te houver servido seis anos, e despedi-lo-ás forro; mas vossos pais não me obedeceram, nem inclinaram os seus ouvidos a mim.
+15 Não há muito, havíeis voltado a fazer o que é reto perante mim, apregoando liberdade cada um ao seu próximo; e tínheis feito perante mim aliança, na casa que se chama pelo meu nome;
+16 mudastes, porém, e profanastes o meu nome, fazendo voltar cada um o seu servo e cada um, a sua serva, os quais, deixados à vontade, já tínheis despedido forros, e os sujeitastes, para que fossem vossos servos e servas.
+17 Portanto, assim diz o Senhor: Vós não me obedecestes, para apregoardes a liberdade, cada um a seu irmão e cada um ao seu próximo; pois eis que eu vos apregoo a liberdade, diz o Senhor, para a espada, para a peste e para a fome; farei que sejais um espetáculo horrendo para todos os reinos da terra.
+18 Farei aos homens que transgrediram a minha aliança e não cumpriram as palavras da aliança que fizeram perante mim como eles fizeram com o bezerro que dividiram em duas partes, passando eles pelo meio das duas porções;
+19 os príncipes de Judá, os príncipes de Jerusalém, os oficiais, os sacerdotes e todo o povo da terra, os quais passaram por meio das porções do bezerro,
+20 entregá-los-ei nas mãos de seus inimigos e nas mãos dos que procuram a sua morte, e os cadáveres deles servirão de pasto às aves dos céus e aos animais da terra.
+21 A Zedequias, rei de Judá, e a seus príncipes, entregá-los-ei nas mãos de seus inimigos e nas mãos dos que procuram a sua morte, nas mãos do exército do rei da Babilônia, que já se retiraram de vós.
+22 Eis que eu darei ordem, diz o Senhor, e os farei tornar a esta cidade, e pelejarão contra ela, tomá-la-ão e a queimarão; e as cidades de Judá porei em assolação, de sorte que ninguém habite nelas.*
+1 Palavra que do Senhor veio a Jeremias, nos dias de Jeoaquim, filho de Josias, rei de Judá, dizendo:
+2 Vai à casa dos recabitas, fala com eles, leva-os à Casa do Senhor, a uma das câmaras, e dá-lhes vinho a beber.
+3 Então, tomei a Jazanias, filho de Jeremias, filho de Habazinias, aos irmãos, e a todos os filhos dele, e a toda a casa dos recabitas;
+4 e os levei à Casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que está junto à câmara dos príncipes e sobre a de Maaseias, filho de Salum, guarda do vestíbulo;
+5 e pus diante dos filhos da casa dos recabitas taças cheias de vinho e copos e lhes disse: Bebei vinho.
+6 Mas eles disseram: Não beberemos vinho, porque Jonadabe, filho de Recabe, nosso pai, nos ordenou: Nunca jamais bebereis vinho, nem vós nem vossos filhos;
+7 não edificareis casa, não fareis sementeiras, não plantareis, nem possuireis vinha alguma; mas habitareis em tendas todos os vossos dias, para que vivais muitos dias sobre a terra em que viveis peregrinando.
+8 Obedecemos, pois, à voz de Jonadabe, filho de Recabe, nosso pai, em tudo quanto nos ordenou; de maneira que não bebemos vinho em todos os nossos dias, nem nós, nem nossas mulheres, nem nossos filhos, nem nossas filhas;
+9 nem edificamos casas para nossa habitação; não temos vinha, nem campo, nem semente.
+10 Mas habitamos em tendas, e, assim, obedecemos, e tudo fizemos segundo nos ordenou Jonadabe, nosso pai.
+11 Quando, porém, Nabucodonosor, rei da Babilônia, subia a esta terra, dissemos: Vinde, e refugiemo-nos em Jerusalém, por causa do exército dos caldeus e dos siros; e assim ficamos em Jerusalém.
+12 Então, veio a palavra do Senhor a Jeremias, dizendo:
+13 Assim diz o Senhor dos Exércitos, o Deus de Israel: Vai e dize aos homens de Judá e aos moradores de Jerusalém: Acaso, nunca aceitareis a minha advertência para obedecerdes às minhas palavras? — diz o Senhor.
+14 As palavras de Jonadabe, filho de Recabe, que ordenou a seus filhos não bebessem vinho, foram guardadas; pois, até ao dia de hoje, não beberam; antes, obedecem às ordens de seu pai; a mim, porém, que, começando de madrugada, vos tenho falado, não me obedecestes.
+15 Começando de madrugada, vos tenho enviado todos os meus servos, dizendo: Convertei-vos agora, cada um do seu mau caminho, fazei boas as vossas ações e não sigais a outros deuses para servi-los; assim ficareis na terra que vos dei a vós outros e a vossos pais; mas não me inclinastes os ouvidos, nem me obedecestes a mim.
+16 Visto que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai, que ele lhes ordenara, mas este povo não me obedeceu,
+17 por isso, assim diz o Senhor, o Deus dos Exércitos, o Deus de Israel: Eis que trarei sobre Judá e sobre todos os moradores de Jerusalém todo o mal que falei contra eles; pois lhes tenho falado, e não me obedeceram, clamei a eles, e não responderam.
+18 À casa dos recabitas disse Jeremias: Assim diz o Senhor dos Exércitos, o Deus de Israel: Pois que obedecestes ao mandamento de Jonadabe, vosso pai, e guardastes todos os seus preceitos, e tudo fizestes segundo vos ordenou,
+19 por isso, assim diz o Senhor dos Exércitos, o Deus de Israel: Nunca faltará homem a Jonadabe, filho de Recabe, que esteja na minha presença.*
+1 No quarto ano de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra do Senhor a Jeremias, dizendo:
+2 Toma um rolo, um livro, e escreve nele todas as palavras que te falei contra Israel, contra Judá e contra todas as nações, desde o dia em que te falei, desde os dias de Josias até hoje.
+3 Talvez ouçam os da casa de Judá todo o mal que eu intento fazer-lhes e venham a converter-se cada um do seu mau caminho, e eu lhes perdoe a iniquidade e o pecado.
+4 Então, Jeremias chamou a Baruque, filho de Nerias; escreveu Baruque no rolo, segundo o que ditou Jeremias, todas as palavras que a este o Senhor havia revelado.
+5 Jeremias ordenou a Baruque, dizendo: Estou encarcerado; não posso entrar na Casa do Senhor.
+6 Entra, pois, tu e, do rolo que escreveste, segundo o que eu ditei, lê todas as palavras do Senhor, diante do povo, na Casa do Senhor, no dia de jejum; e também as lerás diante de todos os de Judá que vêm das suas cidades.
+7 Pode ser que as suas humildes súplicas sejam bem-acolhidas pelo Senhor, e cada um se converta do seu mau caminho; porque grande é a ira e o furor que o Senhor tem manifestado contra este povo.
+8 Fez Baruque, filho de Nerias, segundo tudo quanto lhe havia ordenado Jeremias, o profeta, e leu naquele livro as palavras do Senhor, na Casa do Senhor.
+9 No quinto ano de Jeoaquim, filho de Josias, rei de Judá, no mês nono, apregoaram jejum diante do Senhor a todo o povo em Jerusalém, como também a todo o povo que vinha das cidades de Judá a Jerusalém.
+10 Leu, pois, Baruque naquele livro as palavras de Jeremias na Casa do Senhor, na câmara de Gemarias, filho de Safã, o escriba, no átrio superior, à entrada da Porta Nova da Casa do Senhor, diante de todo o povo.
+11 Ouvindo Micaías, filho de Gemarias, filho de Safã, todas as palavras do Senhor, naquele livro,
+12 desceu à casa do rei, à câmara do escrivão. Eis que todos os príncipes estavam ali assentados: Elisama, o escrivão, Delaías, filho de Semaías, Elnatã, filho de Acbor, Gemarias, filho de Safã, Zedequias, filho de Hananias, e todos os outros príncipes.
+13 Micaías anunciou-lhes todas as palavras que ouvira, quando Baruque leu o livro diante do povo.
+14 Então, todos os príncipes mandaram Jeudi, filho de Netanias, filho de Selemias, filho de Cusi, dizer a Baruque: O rolo que leste diante do povo, toma-o contigo e vem. Baruque, filho de Nerias, tomou o rolo consigo e veio ter com eles.
+15 Disseram-lhe: Assenta-te, agora, e lê-o para nós. E Baruque o leu diante deles.
+16 Tendo eles ouvido todas aquelas palavras, entreolharam-se atemorizados e disseram a Baruque: Sem dúvida nenhuma, anunciaremos ao rei todas estas palavras.
+17 E perguntaram a Baruque, dizendo: Declara-nos, como escreveste isto? Acaso, te ditou o profeta todas estas palavras?
+18 Respondeu-lhes Baruque: Ditava-me pessoalmente todas estas palavras, e eu as escrevia no livro com tinta.
+19 Então, disseram os príncipes a Baruque: Vai, esconde-te, tu e Jeremias; ninguém saiba onde estais.
+20 Foram os príncipes ter com o rei ao átrio, depois de terem depositado o rolo na câmara de Elisama, o escrivão, e anunciaram diante do rei todas aquelas palavras.
+21 Então, enviou o rei a Jeudi, para que trouxesse o rolo; Jeudi tomou-o da câmara de Elisama, o escrivão, e o leu diante do rei e de todos os príncipes que estavam com ele.
+22 O rei estava assentado na casa de inverno, pelo nono mês, e diante dele estava um braseiro aceso.
+23 Tendo Jeudi lido três ou quatro folhas do livro, cortou-o o rei com um canivete de escrivão e o lançou no fogo que havia no braseiro, e, assim, todo o rolo se consumiu no fogo que estava no braseiro.
+24 Não se atemorizaram, não rasgaram as vestes, nem o rei nem nenhum dos seus servos que ouviram todas aquelas palavras.
+25 Posto que Elnatã, Delaías e Gemarias tinham insistido com o rei que não queimasse o rolo, ele não lhes deu ouvidos.
+26 Antes, deu ordem o rei a Jerameel, filho de Hameleque, a Seraías, filho de Azriel, e a Selemias, filho de Abdeel, que prendessem a Baruque, o escrivão, e a Jeremias, o profeta; mas o Senhor os havia escondido.
+27 Então, veio a Jeremias a palavra do Senhor, depois que o rei queimara o rolo com as palavras que Baruque escrevera ditadas por Jeremias, dizendo:
+28 Toma outro rolo e escreve nele todas as palavras que estavam no original, que Jeoaquim, rei de Judá, queimou.
+29 E a Jeoaquim, rei de Judá, dirás: Assim diz o Senhor: Tu queimaste aquele rolo, dizendo: Por que escreveste nele que certamente viria o rei da Babilônia, e destruiria esta terra, e acabaria com homens e animais dela?
+30 Portanto, assim diz o Senhor, acerca de Jeoaquim, rei de Judá: Ele não terá quem se assente no trono de Davi, e o seu cadáver será largado ao calor do dia e à geada da noite.
+31 Castigá-lo-ei, e à sua descendência, e aos seus servos por causa da iniquidade deles; sobre ele, sobre os moradores de Jerusalém e sobre os homens de Judá farei cair todo o mal que tenho falado contra eles, e não ouviram.
+32 Tomou, pois, Jeremias outro rolo e o deu a Baruque, filho de Nerias, o escrivão, o qual escreveu nele, ditado por Jeremias, todas as palavras do livro que Jeoaquim, rei de Judá, queimara; e ainda se lhes acrescentaram muitas palavras semelhantes.*
+1 Zedequias, filho de Josias e a quem Nabucodonosor, rei da Babilônia, constituíra rei na terra de Judá, reinou em lugar de Conias, filho de Jeoaquim.
+2 Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor que falou por intermédio de Jeremias, o profeta.
+3 Contudo, mandou o rei Zedequias a Jucal, filho de Selemias, e ao sacerdote Sofonias, filho de Maaseias, ao profeta Jeremias, para lhe dizerem: Roga por nós ao Senhor, nosso Deus.
+4 Jeremias andava livremente entre o povo, porque ainda o não haviam encarcerado.
+5 O exército de Faraó saíra do Egito; e, quando os caldeus, que sitiavam Jerusalém, ouviram esta notícia, retiraram-se dela.
+6 Então, veio a Jeremias, o profeta, a palavra do Senhor:
+7 Assim diz o Senhor, Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim, para me consultar: Eis que o exército de Faraó, que saiu em vosso socorro, voltará para a sua terra, no Egito.
+8 Retornarão os caldeus, pelejarão contra esta cidade, tomá-la-ão e a queimarão.
+9 Assim diz o Senhor: Não vos enganeis a vós mesmos, dizendo: Sem dúvida, se irão os caldeus de nós; pois, de fato, não se retirarão.
+10 Porque, ainda que derrotásseis a todo o exército dos caldeus, que pelejam contra vós outros, e ficassem deles apenas homens mortalmente feridos, cada um se levantaria na sua tenda e queimaria esta cidade.
+11 Tendo-se retirado o exército dos caldeus de Jerusalém, por causa do exército de Faraó,
+12 saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim, para receber o quinhão de uma herança que tinha no meio do povo.
+13 Estando ele à Porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias, capitão que prendeu a Jeremias, o profeta, dizendo: Tu foges para os caldeus.
+14 Disse Jeremias: É mentira, não fujo para os caldeus. Mas Jerias não lhe deu ouvidos; prendeu a Jeremias e o levou aos príncipes.
+15 Os príncipes, irados contra Jeremias, açoitaram-no e o meteram no cárcere, na casa de Jônatas, o escrivão, porque a tinham transformado em cárcere.
+16 Tendo Jeremias entrado nas celas do calabouço, ali ficou muitos dias.
+17 Mandou o rei Zedequias trazê-lo para sua casa e, em secreto, lhe perguntou: Há alguma palavra do Senhor? Respondeu Jeremias: Há. Disse ainda: Nas mãos do rei da Babilônia serás entregue.
+18 Disse mais Jeremias ao rei Zedequias: Em que pequei contra ti, ou contra os teus servos, ou contra este povo, para que me pusesses na prisão?
+19 Onde estão agora os vossos profetas, que vos profetizavam, dizendo: O rei da Babilônia não virá contra vós outros, nem contra esta terra?
+20 Agora, pois, ouve, ó rei, meu senhor: Que a minha humilde súplica seja bem-acolhida por ti, e não me deixes tornar à casa de Jônatas, o escrivão, para que eu não venha a morrer ali.
+21 Então, ordenou o rei Zedequias que pusessem a Jeremias no átrio da guarda; e, cada dia, deram-lhe um pão da Rua dos Padeiros, até acabar-se todo pão da cidade. Assim ficou Jeremias no átrio da guarda.*
+1 Ouviu, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que Jeremias anunciava a todo o povo, dizendo:
+2 Assim diz o Senhor: O que ficar nesta cidade morrerá à espada, à fome e de peste; mas o que passar para os caldeus viverá; porque a vida lhe será como despojo, e viverá.
+3 Assim diz o Senhor: Esta cidade infalivelmente será entregue nas mãos do exército do rei da Babilônia, e este a tomará.
+4 Disseram os príncipes ao rei: Morra este homem, visto que ele, dizendo assim estas palavras, afrouxa as mãos dos homens de guerra que restam nesta cidade e as mãos de todo o povo; porque este homem não procura o bem-estar para o povo, e sim o mal.
+5 Disse o rei Zedequias: Eis que ele está nas vossas mãos; pois o rei nada pode contra vós outros.
+6 Tomaram, então, a Jeremias e o lançaram na cisterna de Malquias, filho do rei, que estava no átrio da guarda; desceram a Jeremias com cordas. Na cisterna não havia água, senão lama; e Jeremias se atolou na lama.
+7 Ouviu Ebede-Meleque, o etíope, eunuco que estava na casa do rei, que tinham metido a Jeremias na cisterna; ora, estando o rei assentado à Porta de Benjamim,
+8 saiu Ebede-Meleque da casa do rei e lhe falou:
+9 Ó rei, senhor meu, agiram mal estes homens em tudo quanto fizeram a Jeremias, o profeta, que lançaram na cisterna; no lugar onde se acha, morrerá de fome, pois já não há pão na cidade.
+10 Então, deu ordem o rei a Ebede-Meleque, o etíope, dizendo: Toma contigo daqui trinta homens e tira da cisterna o profeta Jeremias, antes que morra.
+11 Tomou Ebede-Meleque os homens consigo, e foi à casa do rei, por debaixo da tesouraria, e tomou dali umas roupas usadas e trapos, e os desceu a Jeremias na cisterna, por meio de cordas.
+12 Disse Ebede-Meleque, o etíope, a Jeremias: Põe agora estas roupas usadas e estes trapos nas axilas, calçando as cordas; Jeremias o fez.
+13 Puxaram a Jeremias com as cordas e o tiraram da cisterna; e Jeremias ficou no átrio da guarda.
+14 Então, o rei Zedequias mandou trazer o profeta Jeremias à sua presença, à terceira entrada na Casa do Senhor, e lhe disse: Quero perguntar-te uma coisa, nada me encubras.
+15 Disse Jeremias a Zedequias: Se eu ta disser, porventura, não me matarás? Se eu te aconselhar, não me atenderás.
+16 Então, Zedequias jurou secretamente a Jeremias, dizendo: Tão certo como vive o Senhor, que nos deu a vida, não te matarei, nem te entregarei nas mãos desses homens que procuram tirar-te a vida.
+17 Então, Jeremias disse a Zedequias: Assim diz o Senhor, o Deus dos Exércitos, Deus de Israel: Se te renderes voluntariamente aos príncipes do rei da Babilônia, então, viverá tua alma, e esta cidade não se queimará, e viverás tu e a tua casa.
+18 Mas, se não te renderes aos príncipes do rei da Babilônia, então, será entregue esta cidade nas mãos dos caldeus, e eles a queimarão, e tu não escaparás das suas mãos.
+19 Disse o rei Zedequias a Jeremias: Receio-me dos judeus que se passaram para os caldeus; não suceda que estes me entreguem nas mãos deles, e eles escarneçam de mim.
+20 Disse Jeremias: Não te entregarão; ouve, te peço, a palavra do Senhor, segundo a qual eu te falo; e bem te irá, e será poupada a tua vida.
+21 Mas, se não quiseres sair, esta é a palavra que me revelou o Senhor:
+22 Eis que todas as mulheres que ficaram na casa do rei de Judá serão levadas aos príncipes do rei da Babilônia, e elas mesmas dirão: Os teus bons amigos te enganaram e prevaleceram contra ti; mas, agora que se atolaram os teus pés na lama, voltaram atrás.
+23 Assim, a todas as tuas mulheres e a teus filhos levarão aos caldeus, e tu não escaparás das suas mãos; antes, pela mão do rei da Babilônia serás preso; e por tua culpa esta cidade será queimada.
+24 Então, disse Zedequias a Jeremias: Ninguém saiba estas palavras, e não morrerás.
+25 Quando, ouvindo os príncipes que falei contigo, vierem a ti e te disserem: Declara-nos agora o que disseste ao rei e o que ele te disse a ti, nada nos encubras, e não te mataremos,
+26 então, lhes dirás: Apresentei a minha humilde súplica diante do rei para que não me fizesse tornar à casa de Jônatas, para morrer ali.
+27 Vindo, pois, todos os príncipes a Jeremias, e, interrogando-o, declarou-lhes segundo todas as palavras que o rei lhe havia ordenado; e o deixaram em paz, porque da conversação nada transpirara.
+28 Ficou Jeremias no átrio da guarda, até ao dia em que foi tomada Jerusalém.*
+1 Foi tomada Jerusalém. Era o ano nono de Zedequias, rei de Judá, no mês décimo, quando veio Nabucodonosor, rei da Babilônia, e todo o seu exército, contra Jerusalém, e a cercaram;
+2 era o undécimo ano de Zedequias, no quarto mês, aos nove do mês, quando se fez uma brecha na cidade.
+3 Então, entraram todos os príncipes do rei da Babilônia e se assentaram na Porta do Meio: Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris, Nergal-Sarezer, Rabe-Mague e todos os outros príncipes do rei da Babilônia.
+4 Tendo-os visto Zedequias, rei de Judá, e todos os homens de guerra, fugiram e, de noite, saíram da cidade, pelo caminho do jardim do rei, pela porta que está entre os dois muros; Zedequias saiu pelo caminho da campina.
+5 Mas o exército dos caldeus os perseguiu e alcançou a Zedequias nas campinas de Jericó; eles o prenderam e o fizeram subir a Ribla, na terra de Hamate, a Nabucodonosor, rei da Babilônia, que lhe pronunciou a sentença.
+6 O rei da Babilônia mandou matar, em Ribla, os filhos de Zedequias à vista deste; também matou a todos os príncipes de Judá.
+7 Vazou os olhos a Zedequias e o atou com duas cadeias de bronze, para o levar à Babilônia.
+8 Os caldeus queimaram a casa do rei e as casas do povo e derribaram os muros de Jerusalém.
+9 O mais do povo que havia ficado na cidade, os desertores que se entregaram a ele e o sobrevivente do povo, Nebuzaradã, o chefe da guarda, levou-os cativos para a Babilônia.
+10 Porém dos mais pobres da terra, que nada tinham, deixou Nebuzaradã, o chefe da guarda, na terra de Judá; e lhes deu vinhas e campos naquele dia.
+11 Mas Nabucodonosor, rei da Babilônia, havia ordenado acerca de Jeremias, a Nebuzaradã, o chefe da guarda, dizendo:
+12 Toma-o, cuida dele e não lhe faças nenhum mal; mas faze-lhe como ele te disser.
+13 Deste modo, Nebuzaradã, o chefe da guarda, ordenou a Nebusazbã, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os príncipes do rei da Babilônia
+14 mandaram retirar Jeremias do átrio da guarda e o entregaram a Gedalias, filho de Aicão, filho de Safã, para que o levasse para o seu palácio; assim, habitou entre o povo.
+15 Ora, tinha vindo a Jeremias a palavra do Senhor, estando ele ainda detido no átrio da guarda, dizendo:
+16 Vai e fala a Ebede-Meleque, o etíope, dizendo: Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que eu trarei as minhas palavras sobre esta cidade para mal e não para bem; e se cumprirão diante de ti naquele dia.
+17 A ti, porém, eu livrarei naquele dia, diz o Senhor, e não serás entregue nas mãos dos homens a quem temes.
+18 Pois certamente te salvarei, e não cairás à espada, porque a tua vida te será como despojo, porquanto confiaste em mim.*
+1 Palavra que veio a Jeremias da parte do Senhor, depois que Nebuzaradã, o chefe da guarda, o pôs em liberdade em Ramá, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para a Babilônia.
+2 Tomou o chefe da guarda a Jeremias e lhe disse: O Senhor, teu Deus, pronunciou este mal contra este lugar;
+3 o Senhor o trouxe e fez como tinha dito. Porque pecastes contra o Senhor e não obedecestes à sua voz, tudo isto vos sucedeu.
+4 Agora, pois, eis que te livrei hoje das cadeias que estavam sobre as tuas mãos. Se te apraz vir comigo para a Babilônia, vem, e eu cuidarei bem de ti; mas, se não te apraz vir comigo para a Babilônia, deixa de vir. Olha, toda a terra está diante de ti; para onde julgares bom e próprio ir, vai para aí.
+5 Mas, visto que ele tardava em decidir-se, o capitão lhe disse: Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei da Babilônia nomeou governador das cidades de Judá, e habita com ele no meio do povo; ou, se para qualquer outra parte te aprouver ir, vai. Deu-lhe o chefe da guarda mantimento e um presente e o deixou ir.
+6 Assim, foi Jeremias a Gedalias, filho de Aicão, a Mispa; e habitou com ele no meio do povo que havia ficado na terra.
+7 Ouvindo, pois, os capitães dos exércitos que estavam no campo, eles e seus homens, que o rei da Babilônia nomeara governador da terra a Gedalias, filho de Aicão, e que lhe havia confiado os homens, as mulheres, os meninos e os mais pobres da terra que não foram levados ao exílio, para a Babilônia,
+8 vieram ter com ele a Mispa, a saber: Ismael, filho de Netanias, Joanã e Jônatas, filhos de Careá, Seraías, filho de Tanumete, os filhos de Efai, o netofatita, Jezanias, filho do maacatita, eles e os seus homens.
+9 Gedalias, filho de Aicão, filho de Safã, jurou a eles e aos seus homens e lhes disse: Nada temais da parte dos caldeus; ficai na terra, servi ao rei da Babilônia, e bem vos irá.
+10 Quanto a mim, eis que habito em Mispa, para estar às ordens dos caldeus que vierem a nós; vós, porém, colhei o vinho, as frutas de verão e o azeite, metei-os nas vossas vasilhas e habitai nas vossas cidades que tomastes.
+11 Da mesma sorte, todos os judeus que estavam em Moabe, entre os filhos de Amom e em Edom e os que havia em todas aquelas terras ouviram que o rei da Babilônia havia deixado um resto de Judá e que havia nomeado governador sobre eles a Gedalias, filho de Aicão, filho de Safã;
+12 então, voltaram todos eles de todos os lugares para onde foram lançados e vieram à terra de Judá, a Gedalias, a Mispa; e colheram vinho e frutas de verão em muita abundância.
+13 Joanã, filho de Careá, e todos os príncipes dos exércitos que estavam no campo vieram a Gedalias, a Mispa,
+14 e lhe disseram: Sabes tu que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para tirar-te a vida? Mas Gedalias, filho de Aicão, não lhes deu crédito.
+15 Todavia, Joanã, filho de Careá, disse a Gedalias em segredo, em Mispa: Irei agora e matarei a Ismael, filho de Netanias, sem que ninguém o saiba; por que razão tiraria ele a tua vida, de maneira que todo o Judá que se tem congregado a ti fosse disperso, e viesse a perecer o resto de Judá?
+16 Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal coisa, porque isso que falas contra Ismael é falso.*
+1 Sucedeu, porém, que, no sétimo mês, veio Ismael, filho de Netanias, filho de Elisama, de família real, e dez homens, capitães do rei, com ele, a Gedalias, filho de Aicão, a Mispa; e ali comeram pão juntos, em Mispa.
+2 Dispuseram-se Ismael, filho de Netanias, e os dez homens que estavam com ele e feriram à espada a Gedalias, filho de Aicão, filho de Safã, matando, assim, aquele que o rei da Babilônia nomeara governador da terra.
+3 Também matou Ismael a todos os judeus que estavam com Gedalias, em Mispa, como também aos caldeus, homens de guerra, que se achavam ali.
+4 Sucedeu no dia seguinte ao em que ele matara a Gedalias, sem ninguém o saber,
+5 que vieram homens de Siquém, de Siló e de Samaria; oitenta homens, com a barba rapada, as vestes rasgadas e o corpo retalhado, trazendo consigo ofertas de manjares e incenso, para levarem à Casa do Senhor.
+6 Saindo-lhes ao encontro Ismael, filho de Netanias, de Mispa, ia chorando; ao encontrá-los, lhes disse: Vinde a Gedalias, filho de Aicão.
+7 Vindo eles, porém, até ao meio da cidade, matou-os Ismael, filho de Netanias, ele e os que estavam com ele, e os lançaram num poço.
+8 Mas houve dentre eles dez homens que disseram a Ismael: Não nos mates a nós, porque temos depósitos de trigo, cevada, azeite e mel escondidos no campo. Por isso, ele desistiu e não os matou como aos outros.
+9 O poço em que Ismael lançou todos os cadáveres dos homens que ferira além de Gedalias é o mesmo que fez o rei Asa, na sua defesa contra Baasa, rei de Israel; foi esse mesmo que encheu de mortos Ismael, filho de Netanias.
+10 Ismael levou cativo a todo o resto do povo que estava em Mispa, isto é, as filhas do rei e todo o povo que ficara em Mispa, que Nebuzaradã, o chefe da guarda, havia confiado a Gedalias, filho de Aicão; levou-os cativos Ismael, filho de Netanias; e se foi para passar aos filhos de Amom.
+11 Ouvindo, pois, Joanã, filho de Careá, e todos os príncipes dos exércitos que estavam com ele todo o mal que havia feito Ismael, filho de Netanias,
+12 tomaram consigo a todos os seus homens e foram pelejar contra Ismael, filho de Netanias; acharam-no junto às grandes águas que há em Gibeão.
+13 Ora, todo o povo que estava com Ismael se alegrou quando viu a Joanã, filho de Careá, e a todos os príncipes dos exércitos que vinham com ele.
+14 Todo o povo que Ismael levara cativo de Mispa virou as costas, voltou e foi para Joanã, filho de Careá.
+15 Mas Ismael, filho de Netanias, escapou de Joanã com oito homens e se foi para os filhos de Amom.
+16 Tomou, então, Joanã, filho de Careá, e todos os príncipes dos exércitos que estavam com ele a todo o restante do povo que Ismael, filho de Netanias, levara cativo de Mispa, depois de ter ferido a Gedalias, filho de Aicão, isto é, os homens valentes de guerra, as mulheres, os meninos e os eunucos que havia recobrado de Gibeão;
+17 partiram e pararam em Gerute-Quimã, que está perto de Belém, para dali entrarem no Egito,
+18 por causa dos caldeus; porque os temiam, por ter Ismael, filho de Netanias, ferido a Gedalias, filho de Aicão, a quem o rei da Babilônia nomeara governador da terra.*
+1 Então, chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,
+2 e disseram a Jeremias, o profeta: Apresentamos-te a nossa humilde súplica, a fim de que rogues ao Senhor, teu Deus, por nós e por este resto; porque, de muitos que éramos, só restamos uns poucos, como vês com os teus próprios olhos;
+3 a fim de que o Senhor, teu Deus, nos mostre o caminho por onde havemos de andar e aquilo que havemos de fazer.
+4 Respondeu-lhes Jeremias, o profeta: Já vos ouvi; eis que orarei ao Senhor, vosso Deus, segundo o vosso pedido. Tudo o que o Senhor vos responder, eu vo-lo declararei; não vos ocultarei nada.
+5 Então, eles disseram a Jeremias: Seja o Senhor testemunha verdadeira e fiel contra nós, se não fizermos segundo toda a palavra com que o Senhor, teu Deus, te enviar a nós outros.
+6 Seja ela boa ou seja má, obedeceremos à voz do Senhor, nosso Deus, a quem te enviamos, para que nos suceda bem ao obedecermos à voz do Senhor, nosso Deus.
+7 Ao fim de dez dias, veio a palavra do Senhor a Jeremias.
+8 Então, chamou a Joanã, filho de Careá, e a todos os capitães dos exércitos que havia com ele, e a todo o povo, desde o menor até ao maior,
+9 e lhes disse: Assim diz o Senhor, Deus de Israel, a quem me enviastes para apresentar a vossa súplica diante dele:
+10 Se permanecerdes nesta terra, então, vos edificarei e não vos derribarei; plantar-vos-ei e não vos arrancarei, porque estou arrependido do mal que vos tenho feito.
+11 Não temais o rei da Babilônia, a quem vós temeis; não o temais, diz o Senhor, porque eu sou convosco, para vos salvar e vos livrar das suas mãos.
+12 Eu vos serei propício, para que ele tenha misericórdia de vós e vos faça morar em vossa terra.
+13 Mas, se vós disserdes: Não ficaremos nesta terra, não obedecendo à voz do Senhor, vosso Deus,
+14 dizendo: Não; antes, iremos à terra do Egito, onde não veremos guerra, nem ouviremos som de trombeta, nem teremos fome de pão, e ali ficaremos,
+15 nesse caso, ouvi a palavra do Senhor, ó resto de Judá. Assim diz o Senhor dos Exércitos, o Deus de Israel: Se tiverdes o firme propósito de entrar no Egito e fordes para morar,
+16 acontecerá, então, que a espada que vós temeis vos alcançará na terra do Egito, e a fome que receais vos seguirá de perto os passos no Egito, onde morrereis.
+17 Assim será com todos os homens que tiverem o propósito de entrar no Egito para morar: morrerão à espada, à fome e de peste; não restará deles nem um, nem escapará do mal que farei vir sobre eles.
+18 Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Como se derramou a minha ira e o meu furor sobre os habitantes de Jerusalém, assim se derramará a minha indignação sobre vós, quando entrardes no Egito; sereis objeto de maldição, de espanto, de desprezo e opróbrio e não vereis mais este lugar.
+19 Falou-vos o Senhor, ó resto de Judá: Não entreis no Egito; tende por certo que vos adverti hoje.
+20 Porque vós, à custa da vossa vida, a vós mesmos vos enganastes, pois me enviastes ao Senhor, vosso Deus, dizendo: Ora por nós ao Senhor, nosso Deus; e, segundo tudo o que disser o Senhor, nosso Deus, declara-no-lo assim, e o faremos;
+21 mas, tendo-vos declarado isso hoje, não destes ouvidos à voz do Senhor, vosso Deus, em coisa alguma pela qual ele me enviou a vós outros.
+22 Agora, pois, sabei por certo que morrereis à espada, à fome e de peste no mesmo lugar aonde desejastes ir para morar.*
+1 Tendo Jeremias acabado de falar a todo o povo todas as palavras do Senhor, seu Deus, palavras todas com as quais o Senhor, seu Deus, o enviara,
+2 então, falou Azarias, filho de Hosaías, e Joanã, filho de Careá, e todos os homens soberbos, dizendo a Jeremias: É mentira isso que dizes; o Senhor, nosso Deus, não te enviou a dizer: Não entreis no Egito, para morar.
+3 Baruque, filho de Nerias, é que te incita contra nós, para nos entregar nas mãos dos caldeus, a fim de nos matarem ou nos exilarem na Babilônia.
+4 Não obedeceu, pois, Joanã, filho de Careá, e nenhum de todos os capitães dos exércitos, nem o povo todo à voz do Senhor, para ficarem na terra de Judá.
+5 Antes, tomaram Joanã, filho de Careá, e todos os capitães dos exércitos a todo o resto de Judá que havia voltado dentre todas as nações para as quais haviam sido lançados, para morar na terra de Judá;
+6 tomaram aos homens, às mulheres e aos meninos, às filhas do rei e a todos que Nebuzaradã, o chefe da guarda, deixara com Gedalias, filho de Aicão, filho de Safã; como também a Jeremias, o profeta, e a Baruque, filho de Nerias;
+7 e entraram na terra do Egito, porque não obedeceram à voz do Senhor, e vieram até Tafnes.
+8 Então, veio a palavra do Senhor a Jeremias, em Tafnes, dizendo:
+9 Toma contigo pedras grandes, encaixa-as na argamassa do pavimento que está à entrada da casa de Faraó, em Tafnes, à vista de homens judeus,
+10 e dize-lhes: Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que eu mandarei vir a Nabucodonosor, rei da Babilônia, meu servo, e porei o seu trono sobre estas pedras que encaixei; ele estenderá o seu baldaquino real sobre elas.
+11 Virá e ferirá a terra do Egito; quem é para a morte, para a morte; quem é para o cativeiro, para o cativeiro; e quem é para a espada, para a espada.
+12 Lançará fogo às casas dos deuses do Egito e as queimará; levará cativos os ídolos e despiolhará a terra do Egito, como o pastor despiolha a sua própria veste; e sairá dali em paz.
+13 Quebrará as colunas de Bete-Semes na terra do Egito e queimará as casas dos deuses do Egito.*
+1 Palavra que veio a Jeremias, acerca de todos os judeus moradores da terra do Egito, em Migdol, em Tafnes, em Mênfis e na terra de Patros, dizendo:
+2 Assim diz o Senhor dos Exércitos, Deus de Israel: Vistes todo o mal que fiz cair sobre Jerusalém e sobre todas as cidades de Judá; e eis que hoje são elas uma desolação, e ninguém habita nelas,
+3 por causa da maldade que fizeram, para me irarem, indo queimar incenso e servir a outros deuses que eles nunca conheceram, eles, vós e vossos pais.
+4 Todavia, começando eu de madrugada, lhes enviei os meus servos, os profetas, para lhes dizer: Não façais esta coisa abominável que aborreço.
+5 Mas eles não obedeceram, nem inclinaram os ouvidos para se converterem da sua maldade, para não queimarem incenso a outros deuses.
+6 Derramou-se, pois, a minha indignação e a minha ira, acenderam-se nas cidades de Judá e nas ruas de Jerusalém, que se tornaram em deserto e em assolação, como hoje se vê.
+7 Agora, pois, assim diz o Senhor, Deus dos Exércitos, o Deus de Israel: Por que fazeis vós tão grande mal contra vós mesmos, eliminando homens e mulheres, crianças e aqueles que mamam do meio de Judá, a fim de que não vos fique resto algum?
+8 Por que me irritais com as obras de vossas mãos, queimando incenso a outros deuses na terra do Egito, aonde viestes para morar, para que a vós mesmos vos elimineis e para que vos torneis objeto de desprezo e de opróbrio entre todas as nações da terra?
+9 Esquecestes já as maldades de vossos pais, as maldades dos reis de Judá, as maldades das suas mulheres, as vossas maldades e as maldades das vossas mulheres, maldades cometidas na terra de Judá e nas ruas de Jerusalém?
+10 Não se humilharam até ao dia de hoje, não temeram, não andaram na minha lei nem nos meus estatutos, que pus diante de vós e diante de vossos pais.
+11 Portanto, assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que voltarei o rosto contra vós outros para mal e para eliminar a todo o Judá.
+12 Tomarei o resto de Judá que se obstinou em entrar na terra do Egito para morar, onde será ele de todo consumido; cairá à espada e à fome; desde o menor até ao maior perecerão; morrerão à espada e à fome; e serão objeto de maldição, espanto, desprezo e opróbrio.
+13 Porque castigarei os que habitam na terra do Egito, como o fiz a Jerusalém, com a espada, a fome e a peste,
+14 de maneira que, dos restantes de Judá que vieram à terra do Egito para morar, não haverá quem escape e sobreviva para tornar à terra de Judá, à qual desejam voltar para morar; mas não tornarão senão alguns fugitivos.
+15 Então, responderam a Jeremias todos os homens que sabiam que suas mulheres queimavam incenso a outros deuses e todas as mulheres que se achavam ali em pé, grande multidão, como também todo o povo que habitava na terra do Egito, em Patros, dizendo:
+16 Quanto à palavra que nos anunciaste em nome do Senhor, não te obedeceremos a ti;
+17 antes, certamente, toda a palavra que saiu da nossa boca, isto é, queimaremos incenso à Rainha dos Céus e lhe ofereceremos libações, como nós, nossos pais, nossos reis e nossos príncipes temos feito, nas cidades de Judá e nas ruas de Jerusalém; tínhamos fartura de pão, prosperávamos e não víamos mal algum.
+18 Mas, desde que cessamos de queimar incenso à Rainha dos Céus e de lhe oferecer libações, tivemos falta de tudo e fomos consumidos pela espada e pela fome.
+19 Quando queimávamos incenso à Rainha dos Céus e lhe oferecíamos libações, acaso, lhe fizemos bolos que a retratavam e lhe oferecemos libações, sem nossos maridos?
+20 Então, disse Jeremias a todo o povo, aos homens e às mulheres, a todo o povo que lhe tinha dado esta resposta, dizendo:
+21 Quanto ao incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, os vossos reis e os vossos príncipes e o povo da terra, acaso, não se lembrou disso o Senhor, nem lhe andou isso pela mente?
+22 O Senhor já não podia por mais tempo sofrer a maldade das vossas obras, as abominações que cometestes; pelo que a vossa terra se tornou deserta, um objeto de espanto e de desprezo e desabitada, como hoje se vê.
+23 Pois queimastes incenso e pecastes contra o Senhor, não obedecestes à voz do Senhor e na sua lei e nos seus testemunhos não andastes; por isso, vos sobreveio este mal, como hoje se vê.
+24 Disse mais Jeremias a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós, todo o Judá, que estais na terra do Egito:
+25 Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Vós e vossas mulheres não somente fizestes por vossa boca, senão também que cumpristes por vossas mãos os vossos votos, a saber: Certamente cumpriremos os nossos votos, que fizemos, de queimar incenso à Rainha dos Céus e de lhe oferecer libações. Confirmai, pois, perfeitamente, os vossos votos, sim, cumpri-os.
+26 Portanto, ouvi a palavra do Senhor, vós, todo o Judá, que habitais na terra do Egito: Eis que eu juro pelo meu grande nome, diz o Senhor, que nunca mais será pronunciado o meu nome por boca de qualquer homem de Judá em toda a terra do Egito, dizendo: Tão certo como vive o Senhor Deus.
+27 Eis que velarei sobre eles para mal e não para bem; todos os homens de Judá que estão na terra do Egito serão consumidos à espada e à fome, até que se acabem de todo.
+28 Os que escaparem da espada tornarão da terra do Egito à terra de Judá, poucos em número; e todos os restantes de Judá que vieram à terra do Egito para morar saberão se subsistirá a minha palavra ou a sua.
+29 Isto vos será sinal de que eu vos castigarei neste lugar, diz o Senhor, para que saibais que certamente subsistirão as minhas palavras contra vós outros para mal.
+30 Eis o sinal, diz o Senhor: Eu entregarei o Faraó-Hofra, rei do Egito, nas mãos de seus inimigos, nas mãos dos que procuram a sua morte, como entreguei Zedequias, rei de Judá, nas mãos de Nabucodonosor, rei da Babilônia, que era seu inimigo e procurava tirar-lhe a vida.*
+1 Palavra que falou Jeremias, o profeta, a Baruque, filho de Nerias, escrevendo ele aquelas palavras num livro, ditadas por Jeremias, no ano quarto de Jeoaquim, filho de Josias, rei de Judá, dizendo:
+2 Assim diz o Senhor, Deus de Israel, acerca de ti, ó Baruque:
+3 Disseste: Ai de mim agora! Porque me acrescentou o Senhor tristeza ao meu sofrimento; estou cansado do meu gemer e não acho descanso.
+4 Assim lhe dirás: Isto diz o Senhor: Eis que estou demolindo o que edifiquei e arrancando o que plantei, e isto em toda a terra.
+5 E procuras tu grandezas? Não as procures; porque eis que trarei mal sobre toda carne, diz o Senhor; a ti, porém, eu te darei a tua vida como despojo, em todo lugar para onde fores.*
+1 Palavra do Senhor que veio a Jeremias, o profeta, contra as nações.
+2 A respeito do Egito. Contra o exército de Faraó-Neco, rei do Egito, exército que estava junto ao rio Eufrates em Carquemis; ao qual feriu Nabucodonosor, rei da Babilônia, no ano quarto de Jeoaquim, filho de Josias, rei de Judá:
+3 Preparai o escudo e o pavês e chegai-vos para a peleja.
+4 Selai os cavalos, montai, cavaleiros, e apresentai-vos com elmos; poli as lanças, vesti-vos de couraças.
+5 Por que razão vejo os medrosos voltando as costas? Estão derrotados os seus valentes e vão fugindo, sem olhar para trás; há terror ao redor, diz o Senhor.
+6 Não fuja o ligeiro, nem escape o valente; para o lado do Norte, junto à borda do rio Eufrates, tropeçaram e caíram.
+7 Quem é este que vem subindo como o Nilo, como rios cujas águas se agitam?
+8 O Egito vem subindo como o Nilo, como rios cujas águas se agitam; ele disse: Subirei, cobrirei a terra, destruirei a cidade e os que habitam nela.
+9 Avançai, ó cavaleiros, estrondeai, ó carros, e saiam os valentes; os etíopes e os de Pute, que manejam o escudo, e os lídios, que manejam e entesam o arco.
+10 Porque este dia é o Dia do Senhor, o Senhor dos Exércitos, dia de vingança contra os seus adversários; a espada devorará, fartar-se-á e se embriagará com o sangue deles; porque o Senhor, o Senhor dos Exércitos tem um sacrifício na terra do Norte, junto ao rio Eufrates.
+11 Sobe a Gileade e toma bálsamo, ó virgem filha do Egito; debalde multiplicas remédios, pois não há remédio para curar-te.
+12 As nações ouviram falar da tua vergonha, e a terra está cheia do teu clamor; porque, fugindo o valente, tropeçou no valente, e ambos caíram juntos.
+13 Palavra que falou o Senhor a Jeremias, o profeta, acerca da vinda de Nabucodonosor, rei da Babilônia, para ferir a terra do Egito:
+14 Anunciai no Egito e fazei ouvir isto em Migdol; fazei também ouvi-lo em Mênfis e em Tafnes; dizei: Apresenta-te e prepara-te; porque a espada já devorou o que está ao redor de ti.
+15 Por que foi derribado o teu Touro? Não se pôde ter de pé, porque o Senhor o abateu.
+16 O Senhor multiplicou os que tropeçavam; também caíram uns sobre os outros e disseram: Levanta-te, e voltemos ao nosso povo e à terra do nosso nascimento, por causa da espada que oprime.
+17 Ali, apelidarão a Faraó, rei do Egito, de Espalhafatoso, porque deixou passar o tempo adequado.
+18 Tão certo como vivo eu, diz o Rei, cujo nome é Senhor dos Exércitos, certamente, como o Tabor é entre os montes e o Carmelo junto ao mar, assim ele virá.
+19 Prepara a tua bagagem para o exílio, ó moradora, filha do Egito; porque Mênfis se tornará em desolação e ficará arruinada e sem moradores.
+20 Novilha mui formosa é o Egito; mas mutuca do Norte já lhe vem, sim, vem.
+21 Até os seus soldados mercenários no meio dele, bezerros cevados, viraram as costas e fugiram juntos; não resistiram, porque veio sobre eles o dia da sua ruína e o tempo do seu castigo.
+22 Faz o Egito um ruído como o da serpente que foge, porque os seus inimigos vêm contra ele, com machados, quais derribadores de árvores.
+23 Cortarão o seu bosque, diz o Senhor, ainda que impenetrável; porque se multiplicaram mais do que os gafanhotos; são inumeráveis.
+24 A filha do Egito está envergonhada; foi entregue nas mãos do povo do Norte.
+25 Diz o Senhor dos Exércitos, o Deus de Israel: Eis que eu castigarei a Amom de Nô, a Faraó, ao Egito, aos deuses e aos seus reis, ao próprio Faraó e aos que confiam nele.
+26 Entregá-los-ei nas mãos dos que lhes procuram a morte, nas mãos de Nabucodonosor, rei da Babilônia, e nas mãos dos seus servos; mas depois será habitada, como nos dias antigos, diz o Senhor.
+27 Não temas, pois, tu, servo meu, Jacó, nem te espantes, ó Israel; porque eu te livrarei do país remoto e a tua descendência, da terra do seu cativeiro; Jacó voltará e ficará tranquilo e confiante; não haverá quem o atemorize.
+28 Não temas, servo meu, Jacó, diz o Senhor, porque estou contigo; darei cabo de todas as nações para as quais eu te arrojei; mas de ti não darei cabo; castigar-te-ei, mas em justa medida; não te inocentarei de todo.*
+1 Palavra do Senhor que veio a Jeremias, o profeta, a respeito dos filisteus, antes que Faraó ferisse a Gaza.
+2 Assim diz o Senhor: Eis que do Norte se levantam as águas, e se tornarão em torrentes transbordantes, e inundarão a terra e a sua plenitude, a cidade e os seus habitantes; clamarão os homens, e todos os moradores da terra se lamentarão,
+3 ao ruído estrepitoso das unhas dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas. Os pais não atendem aos filhos, por se afrouxarem as suas mãos;
+4 por causa do dia que vem para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o resto que os socorra; porque o Senhor destruirá os filisteus, o resto de Caftor da terra do mar.
+5 Sobreveio calvície a Gaza, Asquelom está reduzida a silêncio, com o resto do seu vale; até quando vós vos retalhareis?
+6 Ah! Espada do Senhor, até quando deixarás de repousar? Volta para a tua bainha, descansa e aquieta-te.
+7 Como podes estar quieta, se o Senhor te deu ordem? Contra Asquelom e contra as bordas do mar é para onde ele te dirige.*
+1 A respeito de Moabe. Assim diz o Senhor dos Exércitos, o Deus de Israel: Ai de Nebo, porque foi destruída! Envergonhada está Quiriataim, já está tomada; a fortaleza está envergonhada e abatida.
+2 A glória de Moabe já não é; em Hesbom tramaram contra ela, dizendo: Vinde, e eliminemo-la para que não seja mais povo; também tu, ó Madmém, serás reduzida a silêncio; a espada te perseguirá.
+3 Há gritos de Horonaim: Ruína e grande destruição!
+4 Destruída está Moabe; seus filhinhos fizeram ouvir gritos.
+5 Pela subida de Luíte, eles seguem com choro contínuo; na descida de Horonaim, se ouvem gritos angustiosos de ruína.
+6 Fugi, salvai a vossa vida, ainda que venhais a ser como o arbusto solitário no deserto.
+7 Pois, por causa da tua confiança nas tuas obras e nos teus tesouros, também tu serás tomada; Quemos sairá para o cativeiro com os seus sacerdotes e os seus príncipes juntamente.
+8 Virá o destruidor sobre cada uma das cidades, e nenhuma escapará; perecerá o vale, e se destruirá a campina; porque o Senhor o disse.
+9 Dai asas a Moabe, porque, voando, sairá; as suas cidades se tornarão em ruínas, e ninguém morará nelas.
+10 Maldito aquele que fizer a obra do Senhor relaxadamente! Maldito aquele que retém a sua espada do sangue!
+11 Despreocupado esteve Moabe desde a sua mocidade e tem repousado nas fezes do seu vinho; não foi mudado de vasilha para vasilha, nem foi para o cativeiro; por isso, conservou o seu sabor, e o seu aroma não se alterou.
+12 Portanto, eis que vêm dias, diz o Senhor, em que lhe enviarei trasfegadores, que o trasfegarão; despejarão as suas vasilhas e despedaçarão os seus jarros.
+13 Moabe terá vergonha de Quemos, como a casa de Israel se envergonhou de Betel, sua confiança.
+14 Como dizeis: Somos valentes e homens fortes para a guerra?
+15 Moabe está destruído e subiu das suas cidades, e os seus jovens escolhidos desceram à matança, diz o Rei, cujo nome é Senhor dos Exércitos.
+16 Está prestes a vir a perdição de Moabe, e muito se apressa o seu mal.
+17 Condoei-vos dele, todos os que estais ao seu redor e todos os que lhe sabeis o nome; dizei: Como se quebrou a vara forte, o cajado formoso!
+18 Desce da tua glória e assenta-te em terra sedenta, ó moradora, filha de Dibom; porque o destruidor de Moabe sobe contra ti e desfaz as tuas fortalezas.
+19 Põe-te no caminho e espia, ó moradora de Aroer; pergunta ao que foge e à que escapa: Que sucedeu?
+20 Moabe está envergonhado, porque foi abatido; uivai e gritai; anunciai em Arnom que Moabe está destruído.
+21 Também o julgamento veio sobre a terra da campina, sobre Holom, Jasa e Mefaate,
+22 sobre Dibom, Nebo e Bete-Diblataim,
+23 sobre Quiriataim, Bete-Gamul e Bete-Meom,
+24 sobre Queriote e Bozra, e até sobre todas as cidades da terra de Moabe, quer as de longe, quer as de perto.
+25 Está eliminado o poder de Moabe, e quebrado, o seu braço, diz o Senhor.
+26 Embriagai-o, porque contra o Senhor se engrandeceu; Moabe se revolverá no seu vômito e será ele também objeto de escárnio.
+27 Pois Israel não te foi também objeto de escárnio? Mas, acaso, foi achado entre ladrões, para que meneies a cabeça, falando dele?
+28 Deixai as cidades e habitai no rochedo, ó moradora de Moabe; sede como as pombas que se aninham nos flancos da boca do abismo.
+29 Ouvimos falar da soberba de Moabe, que de fato é extremamente soberba, da sua arrogância, do seu orgulho, da sua sobranceria e da altivez do seu coração.
+30 Conheço, diz o Senhor, a sua insolência, mas isso nada é; as suas gabarolices nada farão.
+31 Por isso, uivarei por Moabe, sim, gritarei por todo o Moabe; pelos homens de Quir-Heres lamentarei.
+32 Mais que a Jazer, te chorarei a ti, ó vide de Sibma; os teus ramos passaram o mar, chegaram até ao mar de Jazer; mas o destruidor caiu sobre os teus frutos de verão e sobre a tua vindima.
+33 Tirou-se, pois, o folguedo e a alegria do campo fértil e da terra de Moabe; pois fiz cessar nos lagares o vinho; já não pisarão uvas com júbilo; o júbilo não será júbilo.
+34 Ouve-se o grito de Hesbom até Eleale e Jasa, e de Zoar se dão gritos até Horonaim e Eglate-Selisias; porque até as águas do Ninrim se tornaram em assolação.
+35 Farei desaparecer de Moabe, diz o Senhor, quem sacrifique nos altos e queime incenso aos seus deuses.
+36 Por isso, o meu coração geme como flautas por causa de Moabe, e como flautas geme por causa dos homens de Quir-Heres; porquanto já se perdeu a abundância que ajuntou.
+37 Porque toda cabeça ficará calva, e toda barba, rapada; sobre todas as mãos haverá incisões, e sobre os lombos, pano de saco.
+38 Sobre todos os eirados de Moabe e em todas as suas praças há pranto, porque fiz Moabe em pedaços, como vasilha de barro que não agrada, diz o Senhor. Como está desfalecido!
+39 Como uivam! Como, de vergonha, virou Moabe as costas! Assim, se tornou Moabe objeto de escárnio e de espanto para todos os que estão em seu redor.
+40 Porque assim diz o Senhor: Eis que voará como a águia e estenderá as suas asas contra Moabe.
+41 São tomadas as cidades, e ocupadas, as fortalezas; naquele dia, o coração dos valentes de Moabe será como o coração da mulher que está em dores de parto.
+42 Moabe será destruído, para que não seja povo, porque se engrandeceu contra o Senhor.
+43 Terror, cova e laço vêm sobre ti, ó moradora de Moabe, diz o Senhor.
+44 Quem fugir do terror cairá na cova, e, se sair da cova, o laço o prenderá; porque trarei sobre ele, sobre Moabe, o ano do seu castigo.
+45 Os que fogem param sem forças à sombra de Hesbom; porém sai fogo de Hesbom e labareda do meio de Seom e devora as têmporas de Moabe e o alto da cabeça dos filhos do tumulto.
+46 Ai de ti, Moabe! Pereceu o povo de Quemos, porque teus filhos ficaram cativos, e tuas filhas, em cativeiro.
+47 Contudo, mudarei a sorte de Moabe, nos últimos dias, diz o Senhor. Até aqui o juízo contra Moabe.*
+1 A respeito dos filhos de Amom. Assim diz o Senhor: Acaso, não tem Israel filhos? Não tem herdeiro? Por que, pois, herdou Milcom a Gade, e o seu povo habitou nas cidades dela?
+2 Portanto, eis que vêm dias, diz o Senhor, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e as suas aldeias serão queimadas; e Israel herdará aos que o herdaram, diz o Senhor.
+3 Uiva, ó Hesbom, porque é destruída Ai; clamai, ó filhos de Rabá, cingi-vos de cilício, lamentai e dai voltas por entre os muros; porque Milcom irá em cativeiro, juntamente com os seus sacerdotes e os seus príncipes.
+4 Por que te glorias nos vales, nos teus luxuriantes vales, ó filha rebelde, que confias nos teus tesouros, dizendo: Quem virá contra mim?
+5 Eis que eu trarei terror sobre ti, diz o Senhor, o Senhor dos Exércitos, de todos os que estão ao redor de ti; e cada um de vós será lançado em frente de si, e não haverá quem recolha os fugitivos.
+6 Mas depois disto mudarei a sorte dos filhos de Amom, diz o Senhor.
+7 A respeito de Edom. Assim diz o Senhor dos Exércitos: Acaso, já não há sabedoria em Temã? Já pereceu o conselho dos sábios? Desvaneceu-se-lhe a sabedoria?
+8 Fugi, voltai, retirai-vos para as cavernas, ó moradores de Dedã, porque eu trarei sobre ele a ruína de Esaú, o tempo do seu castigo.
+9 Se vindimadores viessem a ti, não deixariam alguns cachos? Se ladrões, de noite, não te danificariam só o que lhes bastasse?
+10 Mas eu despi a Esaú, descobri os seus esconderijos, e não se poderá esconder; está destruída a sua descendência, como também seus irmãos e seus vizinhos, e ele já não é.
+11 Deixa os teus órfãos, e eu os guardarei em vida; e as tuas viúvas confiem em mim.
+12 Porque assim diz o Senhor: Eis que os que não estavam condenados a beber o cálice totalmente o beberão, e tu serias de todo inocentado? Não serás tido por inocente, mas certamente o beberás.
+13 Porque por mim mesmo jurei, diz o Senhor, que Bozra será objeto de espanto, de opróbrio, de assolação e de desprezo; e todas as suas cidades se tornarão em assolações perpétuas.
+14 Ouvi novas da parte do Senhor, e um mensageiro foi enviado às nações, para lhes dizer: Ajuntai-vos, e vinde contra ela, e levantai-vos para a guerra.
+15 Porque eis que te fiz pequeno entre as nações, desprezado entre os homens.
+16 O terror que inspiras e a soberba do teu coração te enganaram. Tu que habitas nas fendas das rochas, que ocupas as alturas dos outeiros, ainda que eleves o teu ninho como a águia, de lá te derribarei, diz o Senhor.
+17 Assim, será Edom objeto de espanto; todo aquele que passar por ele se espantará e assobiará por causa de todas as suas pragas.
+18 Como na destruição de Sodoma e Gomorra e das suas cidades vizinhas, diz o Senhor, assim não habitará ninguém ali, nem morará nela homem algum.
+19 Eis que, como sobe o leãozinho da floresta jordânica contra o rebanho em pasto verde, assim, num momento, arrojarei dali a Edom e lá estabelecerei a quem eu escolher. Pois quem é semelhante a mim? Quem me pedirá contas? E quem é o pastor que me poderá resistir?
+20 Portanto, ouvi o conselho do Senhor que ele decretou contra Edom e os desígnios que ele formou contra os moradores de Temã; certamente, até os menores do rebanho serão arrastados, e as suas moradas, espantadas por causa deles.
+21 A terra estremeceu com o estrondo da sua queda; e, do seu grito, até ao mar Vermelho se ouviu o som.
+22 Eis que como águia subirá, voará e estenderá as suas asas contra Bozra; naquele dia, o coração dos valentes de Edom será como o coração da mulher que está em dores de parto.
+23 A respeito de Damasco. Envergonhou-se Hamate e Arpade; e, tendo ouvido más novas, cambaleiam; são como o mar agitado, que não se pode sossegar.
+24 Enfraquecida está Damasco; virou as costas para fugir, e tremor a tomou; angústia e dores a tomaram como da que está de parto.
+25 Como está abandonada a famosa cidade, a cidade de meu folguedo!
+26 Portanto, cairão os seus jovens nas suas praças; todos os homens de guerra serão reduzidos a silêncio naquele dia, diz o Senhor dos Exércitos.
+27 Acenderei fogo dentro do muro de Damasco, o qual consumirá os palácios de Ben-Hadade.
+28 A respeito de Quedar e dos reinos de Hazor, que Nabucodonosor, rei da Babilônia, feriu. Assim diz o Senhor: Levantai-vos, subi contra Quedar e destruí os filhos do Oriente.
+29 Tomarão as suas tendas, os seus rebanhos; as lonas das suas tendas, todos os seus bens e os seus camelos levarão para si; e lhes gritarão: Há horror por toda parte!
+30 Fugi, desviai-vos para mui longe, retirai-vos para as cavernas, ó moradores de Hazor, diz o Senhor; porque Nabucodonosor, rei da Babilônia, tomou conselho e formou desígnio contra vós outros.
+31 Levantai-vos, ó babilônios, subi contra uma nação que habita em paz e confiada, diz o Senhor; que não tem portas, nem ferrolhos; eles habitam a sós.
+32 Os seus camelos serão para presa, e a multidão dos seus gados, para despojo; espalharei a todo vento aqueles que cortam os cabelos nas têmporas e de todos os lados lhes trarei a ruína, diz o Senhor.
+33 Hazor se tornará em morada de chacais, em assolação para sempre; ninguém habitará ali, homem nenhum habitará nela.
+34 Palavra do Senhor que veio a Jeremias, o profeta, contra Elão, no princípio do reinado de Zedequias, rei de Judá, dizendo:
+35 Assim diz o Senhor dos Exércitos: Eis que eu quebrarei o arco de Elão, a fonte do seu poder.
+36 Trarei sobre Elão os quatro ventos dos quatro ângulos do céu e os espalharei na direção de todos estes ventos; e não haverá país aonde não venham os fugitivos de Elão.
+37 Farei tremer a Elão diante de seus inimigos e diante dos que procuram a sua morte; farei vir sobre os elamitas o mal, o brasume da minha ira, diz o Senhor; e enviarei após eles a espada, até que venha a consumi-los.
+38 Porei o meu trono em Elão e destruirei dali o rei e os príncipes, diz o Senhor.
+39 Nos últimos dias, mudarei a sorte de Elão, diz o Senhor.*
+1 Palavra que falou o Senhor contra a Babilônia e contra a terra dos caldeus, por intermédio de Jeremias, o profeta.
+2 Anunciai entre as nações; fazei ouvir e arvorai estandarte; proclamai, não encubrais; dizei: Tomada é a Babilônia, Bel está confundido, e abatido, Merodaque; cobertas de vergonha estão as suas imagens, e seus ídolos tremem de terror.
+3 Porque do Norte subiu contra ela uma nação que tornará deserta a sua terra, e não haverá quem nela habite; tanto os homens como os animais fugiram e se foram.
+4 Naqueles dias, naquele tempo, diz o Senhor, voltarão os filhos de Israel, eles e os filhos de Judá juntamente; andando e chorando, virão e buscarão ao Senhor, seu Deus.
+5 Perguntarão pelo caminho de Sião, de rostos voltados para lá, e dirão: Vinde, e unamo-nos ao Senhor, em aliança eterna que jamais será esquecida.
+6 O meu povo tem sido ovelhas perdidas; seus pastores as fizeram errar e as deixaram desviar para os montes; do monte passaram ao outeiro, esqueceram-se do seu redil.
+7 Todos os que as acharam as devoraram; e os seus adversários diziam: Culpa nenhuma teremos; porque pecaram contra o Senhor, a morada da justiça, e contra a esperança de seus pais, o Senhor.
+8 Fugi do meio da Babilônia e saí da terra dos caldeus; e sede como os bodes que vão adiante do rebanho.
+9 Porque eis que eu suscitarei e farei subir contra a Babilônia um conjunto de grandes nações da terra do Norte, e se porão em ordem de batalha contra ela; assim será tomada. As suas flechas serão como de destro guerreiro, nenhuma tornará sem efeito.
+10 A Caldeia servirá de presa; todos os que a saquearem se fartarão, diz o Senhor;
+11 ainda que vos alegrais e exultais, ó saqueadores da minha herança, saltais como bezerros na relva e rinchais como cavalos fogosos,
+12 será mui envergonhada vossa mãe, será confundida a que vos deu à luz; eis que ela será a última das nações, um deserto, uma terra seca e uma solidão.
+13 Por causa da indignação do Senhor, não será habitada; antes, se tornará de todo deserta; qualquer que passar por Babilônia se espantará e assobiará por causa de todas as suas pragas.
+14 Ponde-vos em ordem de batalha em redor contra Babilônia, todos vós que manejais o arco; atirai-lhe, não poupeis as flechas; porque ela pecou contra o Senhor.
+15 Gritai contra ela, rodeando-a; ela já se rendeu; caíram-lhe os baluartes, estão em terra os seus muros; pois esta é a vingança do Senhor; vingai-vos dela; fazei-lhe a ela o que ela fez.
+16 Eliminai da Babilônia o que semeia e o que maneja a foice no tempo da sega; por causa da espada do opressor, virar-se-á cada um para o seu povo e cada um fugirá para a sua terra.
+17 Cordeiro desgarrado é Israel; os leões o afugentaram; primeiro, devorou-o o rei da Assíria, e, por fim, Nabucodonosor o desossou.
+18 Portanto, assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que castigarei o rei da Babilônia e a sua terra, como castiguei o rei da Assíria.
+19 Farei tornar Israel para a sua morada, e pastará no Carmelo e em Basã; fartar-se-á na região montanhosa de Efraim e em Gileade.
+20 Naqueles dias e naquele tempo, diz o Senhor, buscar-se-á a iniquidade de Israel, e já não haverá; os pecados de Judá, mas não se acharão; porque perdoarei aos remanescentes que eu deixar.
+21 Sobe, ó espada, contra a terra duplamente rebelde, sobe contra ela e contra os moradores da terra de castigo; assola irremissivelmente, destrói tudo após eles, diz o Senhor, e faze segundo tudo o que te mandei.
+22 Há na terra estrondo de batalha e de grande destruição.
+23 Como está quebrado, feito em pedaços o martelo de toda a terra! Como se tornou a Babilônia objeto de espanto entre as nações!
+24 Lancei-te o laço, ó Babilônia, e foste presa, e não o soubeste; foste surpreendida e apanhada, porque contra o Senhor te entremeteste.
+25 O Senhor abriu o seu arsenal e tirou dele as armas da sua indignação; porque o Senhor, o Senhor dos Exércitos, tem obra a realizar na terra dos caldeus.
+26 Vinde contra ela de todos os confins da terra, abri os seus celeiros, fazei dela montões de ruínas, destruí-a de todo; dela nada fique de resto.
+27 Matai à espada a todos os seus touros, aos seus valentes; desçam eles para o matadouro; ai deles! Pois é chegado o seu dia, o tempo do seu castigo.
+28 Ouve-se a voz dos que fugiram e escaparam da terra da Babilônia, para anunciarem em Sião a vingança do Senhor, nosso Deus, a vingança do seu templo.
+29 Convocai contra Babilônia a multidão dos que manejam o arco; acampai-vos contra ela em redor, e ninguém escape. Retribuí-lhe segundo a sua obra; conforme tudo o que fez, assim fazei a ela; porque se houve arrogantemente contra o Senhor, contra o Santo de Israel.
+30 Portanto, cairão os seus jovens nas suas praças, e todos os seus homens de guerra serão reduzidos a silêncio naquele dia, diz o Senhor.
+31 Eis que eu sou contra ti, ó orgulhosa, diz o Senhor, o Senhor dos Exércitos; porque veio o teu dia, o tempo em que te hei de castigar.
+32 Então, tropeçará o soberbo, e cairá, e ninguém haverá que o levante; porei fogo às suas cidades, o qual consumirá todos os seus arredores.
+33 Assim diz o Senhor dos Exércitos: Os filhos de Israel e os filhos de Judá sofrem opressão juntamente; todos os que os levaram cativos os retêm; recusam deixá-los ir;
+34 mas o seu Redentor é forte, Senhor dos Exércitos é o seu nome; certamente, pleiteará a causa deles, para aquietar a terra e inquietar os moradores da Babilônia.
+35 A espada virá sobre os caldeus, diz o Senhor, e sobre os moradores da Babilônia, sobre os seus príncipes, sobre os seus sábios.
+36 A espada virá sobre os gabarolas, e ficarão insensatos; virá sobre os valentes dela, e ficarão aterrorizados.
+37 A espada virá sobre os seus cavalos, e sobre os seus carros, e sobre todo o misto de gente que está no meio dela, e este será como mulheres; a espada virá sobre os tesouros dela, e serão saqueados.
+38 A espada virá sobre as suas águas, e estas secarão; porque a terra é de imagens de escultura, e os seus moradores enlouquecem por estas coisas horríveis.
+39 Por isso, as feras do deserto com os chacais habitarão em Babilônia; também os avestruzes habitarão nela, e nunca mais será povoada, nem habitada de geração em geração,
+40 como quando Deus destruiu a Sodoma, e a Gomorra, e às suas cidades vizinhas, diz o Senhor; assim, ninguém habitará ali, nem morará nela homem algum.
+41 Eis que um povo vem do Norte; grande nação e muitos reis se levantarão dos confins da terra.
+42 Armam-se de arco e de lança; eles são cruéis e não conhecem a compaixão; a voz deles é como o mar, que brama; montam cavalos, cada um posto em ordem de batalha contra ti, ó filha da Babilônia.
+43 O rei da Babilônia ouviu a fama deles, e desfaleceram as suas mãos; a angústia se apoderou dele, e dores, como as da mulher que está de parto.
+44 Eis que, como sobe o leãozinho da floresta jordânica contra o rebanho em pasto verde, assim, num momento, arrojá-la-ei dali e lá estabelecerei a quem eu escolher. Pois quem é semelhante a mim? Quem me pedirá contas? E quem é o pastor que me poderá resistir?
+45 Portanto, ouvi o conselho do Senhor, que ele decretou contra Babilônia, e os desígnios que ele formou contra a terra dos caldeus; certamente, até os menores do rebanho serão arrastados, e as suas moradas, espantadas por causa deles.
+46 Ao estrondo da tomada de Babilônia, estremeceu a terra; e o grito se ouviu entre as nações.*
+1 Assim diz o Senhor: Eis que levantarei um vento destruidor contra a Babilônia e contra os que habitam em Lebe-Camai.
+2 Enviarei padejadores contra a Babilônia, que a padejarão e despojarão a sua terra; porque virão contra ela em redor no dia da calamidade.
+3 O flecheiro arme o seu arco contra o que o faz com o seu e contra o que presume da sua couraça; não poupeis os seus jovens, destruí de todo o seu exército.
+4 Caiam mortos na terra dos caldeus e atravessados pelas ruas!
+5 Porque Israel e Judá não enviuvaram do seu Deus, do Senhor dos Exércitos; mas a terra dos caldeus está cheia de culpas perante o Santo de Israel.
+6 Fugi do meio da Babilônia, e cada um salve a sua vida; não pereçais na sua maldade; porque é tempo da vingança do Senhor: ele lhe dará a sua paga.
+7 A Babilônia era um copo de ouro na mão do Senhor, o qual embriagava a toda a terra; do seu vinho beberam as nações; por isso, enlouqueceram.
+8 Repentinamente, caiu Babilônia e ficou arruinada; lamentai por ela, tomai bálsamo para a sua ferida; porventura, sarará.
+9 Queríamos curar Babilônia, ela, porém, não sarou; deixai-a, e cada um vá para a sua terra; porque o seu juízo chega até ao céu e se eleva até às mais altas nuvens.
+10 O Senhor trouxe a nossa justiça à luz; vinde, e anunciemos em Sião a obra do Senhor, nosso Deus.
+11 Aguçai as flechas! Preparai os escudos! O Senhor despertou o espírito dos reis dos medos; porque o seu intento contra a Babilônia é para a destruir; pois esta é a vingança do Senhor, a vingança do seu templo.
+12 Arvorai estandarte contra os muros de Babilônia, reforçai a guarda, colocai sentinelas, preparai emboscadas; porque o Senhor intentou e fez o que tinha dito acerca dos moradores da Babilônia.
+13 Ó tu que habitas sobre muitas águas, rica de tesouros! Chegou o teu fim, a medida da tua avareza.
+14 Jurou o Senhor dos Exércitos por si mesmo, dizendo: Encher-te-ei certamente de homens, como de gafanhotos, e eles cantarão sobre ti o eia! dos que pisam as uvas.
+15 Ele fez a terra pelo seu poder; estabeleceu o mundo por sua sabedoria e com a sua inteligência estendeu os céus.
+16 Fazendo ele ribombar o trovão, logo há tumulto de águas no céu, e sobem os vapores das extremidades da terra; ele cria os relâmpagos para a chuva e dos seus depósitos faz sair o vento.
+17 Todo homem se tornou estúpido e não tem saber; todo ourives é envergonhado pela imagem que esculpiu; pois as suas imagens são mentira, e nelas não há fôlego.
+18 Vaidade são, obra ridícula; no tempo do seu castigo, virão a perecer.
+19 Não é semelhante a estas aquele que é a Porção de Jacó; porque ele é o criador de todas as coisas, e Israel é a tribo da sua herança; Senhor dos Exércitos é o seu nome.
+20 Tu, Babilônia, eras meu martelo e minhas armas de guerra; por meio de ti, despedacei nações e destruí reis;
+21 por meio de ti, despedacei o cavalo e o seu cavaleiro; despedacei o carro e o seu cocheiro;
+22 por meio de ti, despedacei o homem e a mulher, despedacei o velho e o moço, despedacei o jovem e a virgem;
+23 por meio de ti, despedacei o pastor e o seu rebanho, despedacei o lavrador e a sua junta de bois, despedacei governadores e vice-reis.
+24 Pagarei, ante os vossos próprios olhos, à Babilônia e a todos os moradores da Caldeia toda a maldade que fizeram em Sião, diz o Senhor.
+25 Eis que sou contra ti, ó monte que destróis, diz o Senhor, que destróis toda a terra; estenderei a mão contra ti, e te revolverei das rochas, e farei de ti um monte em chamas.
+26 De ti não se tirarão pedras, nem para o ângulo nem para fundamentos, porque te tornarás em desolação perpétua, diz o Senhor.
+27 Arvorai estandarte na terra, tocai trombeta entre as nações, consagrai as nações contra ela, convocai contra ela os reinos de Ararate, Mini e Asquenaz; ordenai contra ela chefes, fazei subir cavalos como gafanhotos eriçados.
+28 Consagrai contra ela as nações, os reis dos medos, os seus governadores, todos os seus vice-reis e toda a terra do seu domínio.
+29 Estremece a terra e se contorce em dores, porque cada um dos desígnios do Senhor está firme contra Babilônia, para fazer da terra da Babilônia uma desolação, sem que haja quem nela habite.
+30 Os valentes da Babilônia cessaram de pelejar, permanecem nas fortalezas, desfaleceu-lhes a força, tornaram-se como mulheres; estão em chamas as suas moradas, quebrados, os seus ferrolhos.
+31 Sai um correio ao encontro de outro correio, um mensageiro ao encontro de outro mensageiro, para anunciar ao rei da Babilônia que a sua cidade foi tomada de todos os lados;
+32 que os vaus estão ocupados, e as defesas, queimadas, e os homens de guerra, amedrontados.
+33 Porque assim diz o Senhor dos Exércitos, o Deus de Israel: A filha da Babilônia é como a eira quando é aplanada e pisada; ainda um pouco, e o tempo da ceifa lhe virá.
+34 Nabucodonosor, rei da Babilônia, nos devorou, esmagou-nos e fez de nós um objeto inútil; como monstro marinho, nos tragou, encheu a sua barriga das nossas comidas finas e nos arrojou fora.
+35 A violência que se me fez a mim e à minha carne caia sobre a Babilônia, diga a moradora de Sião; o meu sangue caia sobre os moradores da Caldeia, diga Jerusalém.
+36 Pelo que assim diz o Senhor: Eis que pleitearei a tua causa e te vingarei da vingança que se tomou contra ti; secarei o seu mar e farei que se esgote o seu manancial.
+37 Babilônia se tornará em montões de ruínas, morada de chacais, objeto de espanto e assobio, e não haverá quem nela habite.
+38 Ainda que juntos rujam como leões e rosnem como cachorros de leões,
+39 estando eles esganados, preparar-lhes-ei um banquete, embriagá-los-ei para que se regozijem e durmam sono eterno e não acordem, diz o Senhor.
+40 Fá-los-ei descer como cordeiros ao matadouro, como carneiros e bodes.
+41 Como foi tomada Babilônia, e apanhada de surpresa, a glória de toda a terra! Como se tornou Babilônia objeto de espanto entre as nações!
+42 O mar é vindo sobre Babilônia, coberta está com o tumulto das suas ondas.
+43 Tornaram-se as suas cidades em desolação, terra seca e deserta, terra em que ninguém habita, nem passa por ela homem algum.
+44 Castigarei a Bel na Babilônia e farei que lance de sua boca o que havia tragado, e nunca mais concorrerão a ele as nações; também o muro de Babilônia caiu.
+45 Saí do meio dela, ó povo meu, e salve cada um a sua vida do brasume da ira do Senhor.
+46 Não desfaleça o vosso coração, não temais o rumor que se há de ouvir na terra; pois virá num ano um rumor, noutro ano, outro rumor; haverá violência na terra, dominador contra dominador.
+47 Portanto, eis que vêm dias, em que castigarei as imagens de escultura da Babilônia, toda a sua terra será envergonhada, e todos os seus cairão traspassados no meio dela.
+48 Os céus, e a terra, e tudo quanto neles há jubilarão sobre Babilônia; porque do Norte lhe virão os destruidores, diz o Senhor.
+49 Como Babilônia fez cair traspassados os de Israel, assim, em Babilônia, cairão traspassados os de toda a terra.
+50 Vós que escapastes da espada, ide-vos, não pareis; de longe lembrai-vos do Senhor, e suba Jerusalém à vossa mente.
+51 Direis: Envergonhados estamos, porque ouvimos opróbrio; vergonha cobriu-nos o rosto, porque vieram estrangeiros e entraram nos santuários da Casa do Senhor.
+52 Portanto, eis que vêm dias, diz o Senhor, em que castigarei as suas imagens de escultura; e gemerão os traspassados em toda a sua terra.
+53 Ainda que a Babilônia subisse aos céus e ainda que fortificasse no alto a sua fortaleza, de mim viriam destruidores contra ela, diz o Senhor.
+54 De Babilônia se ouvem gritos, e da terra dos caldeus, o ruído de grande destruição;
+55 porque o Senhor destrói Babilônia e faz perecer nela a sua grande voz; bramarão as ondas do inimigo como muitas águas, ouvir-se-á o tumulto da sua voz,
+56 porque o destruidor vem contra ela, contra Babilônia; os seus valentes estão presos, já estão quebrados os seus arcos; porque o Senhor, Deus que dá a paga, certamente, lhe retribuirá.
+57 Embriagarei os seus príncipes, os seus sábios, os seus governadores, os seus vice-reis e os seus valentes; dormirão sono eterno e não acordarão, diz o Rei, cujo nome é Senhor dos Exércitos.
+58 Assim diz o Senhor dos Exércitos: Os largos muros de Babilônia totalmente serão derribados, e as suas altas portas serão abrasadas pelo fogo; assim, trabalharam os povos em vão, e para o fogo se afadigaram as nações.
+59 Palavra que mandou Jeremias, o profeta, a Seraías, filho de Nerias, filho de Maaseias, indo este com Zedequias, rei de Judá, à Babilônia, no ano quarto do seu reinado. Seraías era o camareiro-mor.
+60 Escreveu, pois, Jeremias num livro todo o mal que havia de vir sobre a Babilônia, a saber, todas as palavras já escritas contra a Babilônia.
+61 Disse Jeremias a Seraías: Quando chegares a Babilônia, vê que leias em voz alta todas estas palavras.
+62 E dirás: Ó Senhor! Falaste a respeito deste lugar que o exterminarias, a fim de que nada fique nele, nem homem nem animal, e que se tornaria em perpétuas assolações.
+63 Quando acabares de ler o livro, atá-lo-ás a uma pedra e o lançarás no meio do Eufrates;
+64 e dirás: Assim será afundada a Babilônia e não se levantará, por causa do mal que eu hei de trazer sobre ela; e os seus moradores sucumbirão. Até aqui as palavras de Jeremias.*
+1 Tinha Zedequias a idade de vinte e um anos, quando começou a reinar e reinou onze anos em Jerusalém. Sua mãe se chamava Hamutal e era filha de Jeremias, de Libna.
+2 Fez ele o que era mau perante o Senhor, conforme tudo quanto fizera Jeoaquim.
+3 Assim sucedeu por causa da ira do Senhor contra Jerusalém e contra Judá, a ponto de os rejeitar de sua presença; Zedequias rebelou-se contra o rei da Babilônia.
+4 Sucedeu que, em o nono ano do reinado de Zedequias, aos dez dias do décimo mês, Nabucodonosor, rei da Babilônia, veio contra Jerusalém, ele e todo o seu exército, e se acamparam contra ela, e levantaram contra ela tranqueiras em redor.
+5 A cidade ficou sitiada até ao undécimo ano do rei Zedequias.
+6 Aos nove dias do quarto mês, quando a cidade se via apertada da fome, e não havia pão para o povo da terra,
+7 então, a cidade foi arrombada, e todos os homens de guerra fugiram e saíram de noite pelo caminho da porta que está entre os dois muros perto do jardim do rei, a despeito de os caldeus se acharem contra a cidade em redor; e se foram pelo caminho da campina.
+8 Porém o exército dos caldeus perseguiu o rei Zedequias e o alcançou nas campinas de Jericó; e todo o exército deste se dispersou e o abandonou.
+9 Então, o tomaram preso e o fizeram subir ao rei da Babilônia, a Ribla, na terra de Hamate, e este lhe pronunciou a sentença.
+10 Matou o rei da Babilônia os filhos de Zedequias à sua própria vista, bem assim todos os príncipes de Judá, em Ribla.
+11 Vazou os olhos de Zedequias, atou-o com duas cadeias de bronze, levou-o à Babilônia e o conservou no cárcere até ao dia da sua morte.
+12 No décimo dia do quinto mês, do ano décimo nono de Nabucodonosor, rei da Babilônia, Nebuzaradã, o chefe da guarda e servidor do rei da Babilônia, veio a Jerusalém.
+13 E queimou a Casa do Senhor e a casa do rei, como também todas as casas de Jerusalém; também entregou às chamas todos os edifícios importantes.
+14 Todo o exército dos caldeus que estava com o chefe da guarda derribou todos os muros em redor de Jerusalém.
+15 Dos mais pobres do povo, o mais do povo que havia ficado na cidade, os desertores que se entregaram ao rei da Babilônia e o mais da multidão Nebuzaradã, o chefe da guarda, levou cativos.
+16 Porém dos mais pobres da terra deixou Nebuzaradã, o chefe da guarda, ficar alguns para vinheiros e para lavradores.
+17 Os caldeus cortaram em pedaços as colunas de bronze que estavam na Casa do Senhor, como também os suportes e o mar de bronze que estavam na Casa do Senhor; e levaram todo o bronze para a Babilônia.
+18 Levaram também as panelas, as pás, as espevitadeiras, as bacias, os recipientes de incenso e todos os utensílios de bronze, com que se ministrava.
+19 Tomou também o chefe da guarda os copos, os braseiros, as bacias, as panelas, os candeeiros, os recipientes de incenso e as taças, tudo quanto fosse de ouro ou de prata.
+20 Quanto às duas colunas, ao mar e aos suportes que Salomão fizera para a Casa do Senhor, o peso do bronze de todos estes utensílios era incalculável.
+21 Quanto às colunas, a altura de uma era de dezoito côvados, um cordão de doze côvados a cercava, e a grossura era de quatro dedos; era oca.
+22 Sobre ela havia um capitel de bronze; a altura de cada um era de cinco côvados; a obra de rede e as romãs sobre o capitel ao redor eram de bronze.
+23 Semelhante a esta era a outra coluna com as romãs. Havia noventa e seis romãs aos lados; as romãs todas sobre a obra de rede ao redor eram cem.
+24 Levou também o chefe da guarda a Seraías, sumo sacerdote, e a Sofonias, segundo sacerdote, e aos três guardas da porta.
+25 Da cidade tomou a um oficial, que era comandante das tropas de guerra, e a sete homens dos que eram conselheiros pessoais do rei e se achavam na cidade, como também ao escrivão-mor do exército, que alistava o povo da terra, e a sessenta homens do povo do lugar, que se achavam na cidade.
+26 Tomando-os Nebuzaradã, o chefe da guarda, levou-os ao rei da Babilônia, a Ribla.
+27 O rei da Babilônia os feriu e os matou em Ribla, na terra de Hamate.
+28 Assim, Judá foi levado cativo para fora de sua terra. Este é o povo que Nabucodonosor levou para o exílio: no sétimo ano, três mil e vinte e três judeus;
+29 no ano décimo oitavo de Nabucodonosor, levou ele cativas de Jerusalém oitocentas e trinta e duas pessoas;
+30 no ano vigésimo terceiro de Nabucodonosor, Nebuzaradã, o chefe da guarda, levou cativas, dentre os judeus, setecentas e quarenta e cinco pessoas; todas as pessoas são quatro mil e seiscentas.
+31 No trigésimo sétimo ano do cativeiro de Joaquim, rei de Judá, no dia vinte e cinco do duodécimo mês, Evil-Merodaque, rei da Babilônia, no ano em que começou a reinar, libertou a Joaquim, rei de Judá, e o fez sair do cárcere.
+32 Falou com ele benignamente e lhe deu lugar de mais honra do que o dos reis que estavam consigo em Babilônia.
+33 Mudou-lhe as vestes do cárcere, e Joaquim passou a comer pão na sua presença, todos os dias da sua vida.
+34 E da parte do rei da Babilônia lhe foi dada subsistência vitalícia, uma pensão diária, até ao dia da sua morte, durante os dias da sua vida.
 """
 # Example input text
 
 # Parse the verses
-parsed_verses = parse_verses(text,'Isaías','1')
+parsed_verses = parse_verses(text,'Jeremias','1')
 #print(parsed_verses)
 with open('textzin', 'w', encoding='utf-8') as f:
     f.write(parsed_verses)
