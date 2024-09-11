@@ -15186,3 +15186,886 @@ Salmos 150:3  Louvai-o ao som da trombeta; louvai-o com saltério e com harpa.
 Salmos 150:4  Louvai-o com adufes e danças; louvai-o com instrumentos de cordas e com flautas.
 Salmos 150:5  Louvai-o com címbalos sonoros; louvai-o com címbalos retumbantes.
 Salmos 150:6  Todo ser que respira louve ao Senhor. Aleluia!
+
+Provérbios 1:1  Provérbios de Salomão, filho de Davi, o rei de Israel.
+Provérbios 1:2  Para aprender a sabedoria e o ensino; para entender as palavras de inteligência;
+Provérbios 1:3  para obter o ensino do bom proceder, a justiça, o juízo e a equidade;
+Provérbios 1:4  para dar aos simples prudência e aos jovens, conhecimento e bom siso.
+Provérbios 1:5  Ouça o sábio e cresça em prudência; e o instruído adquira habilidade
+Provérbios 1:6  para entender provérbios e parábolas, as palavras e enigmas dos sábios.
+Provérbios 1:7  O temor do Senhor é o princípio do saber, mas os loucos desprezam a sabedoria e o ensino.
+Provérbios 1:8  Filho meu, ouve o ensino de teu pai e não deixes a instrução de tua mãe.
+Provérbios 1:9  Porque serão diadema de graça para a tua cabeça e colares, para o teu pescoço.
+Provérbios 1:10  Filho meu, se os pecadores querem seduzir-te, não o consintas.
+Provérbios 1:11  Se disserem: Vem conosco, embosquemo-nos para derramar sangue, espreitemos, ainda que sem motivo, os inocentes;
+Provérbios 1:12  traguemo-los vivos, como o abismo, e inteiros, como os que descem à cova;
+Provérbios 1:13  acharemos toda sorte de bens preciosos; encheremos de despojos a nossa casa;
+Provérbios 1:14  lança a tua sorte entre nós; teremos todos uma só bolsa.
+Provérbios 1:15  Filho meu, não te ponhas a caminho com eles; guarda das suas veredas os pés;
+Provérbios 1:16  porque os seus pés correm para o mal e se apressam a derramar sangue.
+Provérbios 1:17  Pois debalde se estende a rede à vista de qualquer ave.
+Provérbios 1:18  Estes se emboscam contra o seu próprio sangue e a sua própria vida espreitam.
+Provérbios 1:19  Tal é a sorte de todo ganancioso; e este espírito de ganância tira a vida de quem o possui.
+Provérbios 1:20  Grita na rua a Sabedoria, nas praças, levanta a voz;
+Provérbios 1:21  do alto dos muros clama, à entrada das portas e nas cidades profere as suas palavras:
+Provérbios 1:22  Até quando, ó néscios, amareis a necedade? E vós, escarnecedores, desejareis o escárnio? E vós, loucos, aborrecereis o conhecimento?
+Provérbios 1:23  Atentai para a minha repreensão; eis que derramarei copiosamente para vós outros o meu espírito e vos farei saber as minhas palavras.
+Provérbios 1:24  Mas, porque clamei, e vós recusastes; porque estendi a mão, e não houve quem atendesse;
+Provérbios 1:25  antes, rejeitastes todo o meu conselho e não quisestes a minha repreensão;
+Provérbios 1:26  também eu me rirei na vossa desventura, e, em vindo o vosso terror, eu zombarei,
+Provérbios 1:27  em vindo o vosso terror como a tempestade, em vindo a vossa perdição como o redemoinho, quando vos chegar o aperto e a angústia.
+Provérbios 1:28  Então, me invocarão, mas eu não responderei; procurar-me-ão, porém não me hão de achar.
+Provérbios 1:29  Porquanto aborreceram o conhecimento e não preferiram o temor do Senhor;
+Provérbios 1:30  não quiseram o meu conselho e desprezaram toda a minha repreensão.
+Provérbios 1:31  Portanto, comerão do fruto do seu procedimento e dos seus próprios conselhos se fartarão.
+Provérbios 1:32  Os néscios são mortos por seu desvio, e aos loucos a sua impressão de bem-estar os leva à perdição.
+Provérbios 1:33  Mas o que me der ouvidos habitará seguro, tranquilo e sem temor do mal.
+Provérbios 2:1  Filho meu, se aceitares as minhas palavras e esconderes contigo os meus mandamentos,
+Provérbios 2:2  para fazeres atento à sabedoria o teu ouvido e para inclinares o coração ao entendimento,
+Provérbios 2:3  e, se clamares por inteligência, e por entendimento alçares a voz,
+Provérbios 2:4  se buscares a sabedoria como a prata e como a tesouros escondidos a procurares,
+Provérbios 2:5  então, entenderás o temor do Senhor e acharás o conhecimento de Deus.
+Provérbios 2:6  Porque o Senhor dá a sabedoria, e da sua boca vem a inteligência e o entendimento.
+Provérbios 2:7  Ele reserva a verdadeira sabedoria para os retos; é escudo para os que caminham na sinceridade,
+Provérbios 2:8  guarda as veredas do juízo e conserva o caminho dos seus santos.
+Provérbios 2:9  Então, entenderás justiça, juízo e equidade, todas as boas veredas.
+Provérbios 2:10  Porquanto a sabedoria entrará no teu coração, e o conhecimento será agradável à tua alma.
+Provérbios 2:11  O bom siso te guardará, e a inteligência te conservará;
+Provérbios 2:12  para te livrar do caminho do mal e do homem que diz coisas perversas;
+Provérbios 2:13  dos que deixam as veredas da retidão, para andarem pelos caminhos das trevas;
+Provérbios 2:14  que se alegram de fazer o mal, folgam com as perversidades dos maus,
+Provérbios 2:15  seguem veredas tortuosas e se desviam nos seus caminhos;
+Provérbios 2:16  para te livrar da mulher adúltera, da estrangeira, que lisonjeia com palavras,
+Provérbios 2:17  a qual deixa o amigo da sua mocidade e se esquece da aliança do seu Deus;
+Provérbios 2:18  porque a sua casa se inclina para a morte, e as suas veredas, para o reino das sombras da morte;
+Provérbios 2:19  todos os que se dirigem a essa mulher não voltarão e não atinarão com as veredas da vida.
+Provérbios 2:20  Assim, andarás pelo caminho dos homens de bem e guardarás as veredas dos justos.
+Provérbios 2:21  Porque os retos habitarão a terra, e os íntegros permanecerão nela.
+Provérbios 2:22  Mas os perversos serão eliminados da terra, e os aleivosos serão dela desarraigados.
+Provérbios 3:1  Filho meu, não te esqueças dos meus ensinos, e o teu coração guarde os meus mandamentos;
+Provérbios 3:2  porque eles aumentarão os teus dias e te acrescentarão anos de vida e paz.
+Provérbios 3:3  Não te desamparem a benignidade e a fidelidade; ata-as ao pescoço; escreve-as na tábua do teu coração
+Provérbios 3:4  e acharás graça e boa compreensão diante de Deus e dos homens.
+Provérbios 3:5  Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento.
+Provérbios 3:6  Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.
+Provérbios 3:7  Não sejas sábio aos teus próprios olhos; teme ao Senhor e aparta-te do mal;
+Provérbios 3:8  será isto saúde para o teu corpo e refrigério, para os teus ossos.
+Provérbios 3:9  Honra ao Senhor com os teus bens e com as primícias de toda a tua renda;
+Provérbios 3:10  e se encherão fartamente os teus celeiros, e transbordarão de vinho os teus lagares.
+Provérbios 3:11  Filho meu, não rejeites a disciplina do Senhor, nem te enfades da sua repreensão.
+Provérbios 3:12  Porque o Senhor repreende a quem ama, assim como o pai, ao filho a quem quer bem.
+Provérbios 3:13  Feliz o homem que acha sabedoria, e o homem que adquire conhecimento;
+Provérbios 3:14  porque melhor é o lucro que ela dá do que o da prata, e melhor a sua renda do que o ouro mais fino.
+Provérbios 3:15  Mais preciosa é do que pérolas, e tudo o que podes desejar não é comparável a ela.
+Provérbios 3:16  O alongar-se da vida está na sua mão direita, na sua esquerda, riquezas e honra.
+Provérbios 3:17  Os seus caminhos são caminhos deliciosos, e todas as suas veredas, paz.
+Provérbios 3:18  É árvore de vida para os que a alcançam, e felizes são todos os que a retêm.
+Provérbios 3:19  O Senhor com sabedoria fundou a terra, com inteligência estabeleceu os céus.
+Provérbios 3:20  Pelo seu conhecimento os abismos se rompem, e as nuvens destilam orvalho.
+Provérbios 3:21  Filho meu, não se apartem estas coisas dos teus olhos; guarda a verdadeira sabedoria e o bom siso;
+Provérbios 3:22  porque serão vida para a tua alma e adorno ao teu pescoço.
+Provérbios 3:23  Então, andarás seguro no teu caminho, e não tropeçará o teu pé.
+Provérbios 3:24  Quando te deitares, não temerás; deitar-te-ás, e o teu sono será suave.
+Provérbios 3:25  Não temas o pavor repentino, nem a arremetida dos perversos, quando vier.
+Provérbios 3:26  Porque o Senhor será a tua segurança e guardará os teus pés de serem presos.
+Provérbios 3:27  Não te furtes a fazer o bem a quem de direito, estando na tua mão o poder de fazê-lo.
+Provérbios 3:28  Não digas ao teu próximo: Vai e volta amanhã; então, to darei, se o tens agora contigo.
+Provérbios 3:29  Não maquines o mal contra o teu próximo, pois habita junto de ti confiadamente.
+Provérbios 3:30  Jamais pleiteies com alguém sem razão, se te não houver feito mal.
+Provérbios 3:31  Não tenhas inveja do homem violento, nem sigas nenhum de seus caminhos;
+Provérbios 3:32  porque o Senhor abomina o perverso, mas aos retos trata com intimidade.
+Provérbios 3:33  A maldição do Senhor habita na casa do perverso, porém a morada dos justos ele abençoa.
+Provérbios 3:34  Certamente, ele escarnece dos escarnecedores, mas dá graça aos humildes.
+Provérbios 3:35  Os sábios herdarão honra, mas os loucos tomam sobre si a ignomínia.
+Provérbios 4:1  Ouvi, filhos, a instrução do pai e estai atentos para conhecerdes o entendimento;
+Provérbios 4:2  porque vos dou boa doutrina; não deixeis o meu ensino.
+Provérbios 4:3  Quando eu era filho em companhia de meu pai, tenro e único diante de minha mãe,
+Provérbios 4:4  então, ele me ensinava e me dizia: Retenha o teu coração as minhas palavras; guarda os meus mandamentos e vive;
+Provérbios 4:5  adquire a sabedoria, adquire o entendimento e não te esqueças das palavras da minha boca, nem delas te apartes.
+Provérbios 4:6  Não desampares a sabedoria, e ela te guardará; ama-a, e ela te protegerá.
+Provérbios 4:7  O princípio da sabedoria é: Adquire a sabedoria; sim, com tudo o que possuis, adquire o entendimento.
+Provérbios 4:8  Estima-a, e ela te exaltará; se a abraçares, ela te honrará;
+Provérbios 4:9  dará à tua cabeça um diadema de graça e uma coroa de glória te entregará.
+Provérbios 4:10  Ouve, filho meu, e aceita as minhas palavras, e se te multiplicarão os anos de vida.
+Provérbios 4:11  No caminho da sabedoria, te ensinei e pelas veredas da retidão te fiz andar.
+Provérbios 4:12  Em andando por elas, não se embaraçarão os teus passos; se correres, não tropeçarás.
+Provérbios 4:13  Retém a instrução e não a largues; guarda-a, porque ela é a tua vida.
+Provérbios 4:14  Não entres na vereda dos perversos, nem sigas pelo caminho dos maus.
+Provérbios 4:15  Evita-o; não passes por ele; desvia-te dele e passa de largo;
+Provérbios 4:16  pois não dormem, se não fizerem mal, e foge deles o sono, se não fizerem tropeçar alguém;
+Provérbios 4:17  porque comem o pão da impiedade e bebem o vinho das violências.
+Provérbios 4:18  Mas a vereda dos justos é como a luz da aurora, que vai brilhando mais e mais até ser dia perfeito.
+Provérbios 4:19  O caminho dos perversos é como a escuridão; nem sabem eles em que tropeçam.
+Provérbios 4:20  Filho meu, atenta para as minhas palavras; aos meus ensinamentos inclina os ouvidos.
+Provérbios 4:21  Não os deixes apartar-se dos teus olhos; guarda-os no mais íntimo do teu coração.
+Provérbios 4:22  Porque são vida para quem os acha e saúde, para o seu corpo.
+Provérbios 4:23  Sobre tudo o que se deve guardar, guarda o coração, porque dele procedem as fontes da vida.
+Provérbios 4:24  Desvia de ti a falsidade da boca e afasta de ti a perversidade dos lábios.
+Provérbios 4:25  Os teus olhos olhem direito, e as tuas pálpebras, diretamente diante de ti.
+Provérbios 4:26  Pondera a vereda de teus pés, e todos os teus caminhos sejam retos.
+Provérbios 4:27  Não declines nem para a direita nem para a esquerda; retira o teu pé do mal.
+Provérbios 5:1  Filho meu, atende a minha sabedoria; à minha inteligência inclina os ouvidos
+Provérbios 5:2  para que conserves a discrição, e os teus lábios guardem o conhecimento;
+Provérbios 5:3  porque os lábios da mulher adúltera destilam favos de mel, e as suas palavras são mais suaves do que o azeite;
+Provérbios 5:4  mas o fim dela é amargoso como o absinto, agudo, como a espada de dois gumes.
+Provérbios 5:5  Os seus pés descem à morte; os seus passos conduzem-na ao inferno.
+Provérbios 5:6  Ela não pondera a vereda da vida; anda errante nos seus caminhos e não o sabe.
+Provérbios 5:7  Agora, pois, filho, dá-me ouvidos e não te desvies das palavras da minha boca.
+Provérbios 5:8  Afasta o teu caminho da mulher adúltera e não te aproximes da porta da sua casa;
+Provérbios 5:9  para que não dês a outrem a tua honra, nem os teus anos, a cruéis;
+Provérbios 5:10  para que dos teus bens não se fartem os estranhos, e o fruto do teu trabalho não entre em casa alheia;
+Provérbios 5:11  e gemas no fim de tua vida, quando se consumirem a tua carne e o teu corpo,
+Provérbios 5:12  e digas: Como aborreci o ensino! E desprezou o meu coração a disciplina!
+Provérbios 5:13  E não escutei a voz dos que me ensinavam, nem a meus mestres inclinei os ouvidos!
+Provérbios 5:14  Quase que me achei em todo mal que sucedeu no meio da assembleia e da congregação.
+Provérbios 5:15  Bebe a água da tua própria cisterna e das correntes do teu poço.
+Provérbios 5:16  Derramar-se-iam por fora as tuas fontes, e, pelas praças, os ribeiros de águas?
+Provérbios 5:17  Sejam para ti somente e não para os estranhos contigo.
+Provérbios 5:18  Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade,
+Provérbios 5:19  corça de amores e gazela graciosa. Saciem-te os seus seios em todo o tempo; e embriaga-te sempre com as suas carícias.
+Provérbios 5:20  Por que, filho meu, andarias cego pela estranha e abraçarias o peito de outra?
+Provérbios 5:21  Porque os caminhos do homem estão perante os olhos do Senhor, e ele considera todas as suas veredas.
+Provérbios 5:22  Quanto ao perverso, as suas iniquidades o prenderão, e com as cordas do seu pecado será detido.
+Provérbios 5:23  Ele morrerá pela falta de disciplina, e, pela sua muita loucura, perdido, cambaleia.
+Provérbios 6:1  Filho meu, se ficaste por fiador do teu companheiro e se te empenhaste ao estranho,
+Provérbios 6:2  estás enredado com o que dizem os teus lábios, estás preso com as palavras da tua boca.
+Provérbios 6:3  Agora, pois, faze isto, filho meu, e livra-te, pois caíste nas mãos do teu companheiro: vai, prostra-te e importuna o teu companheiro;
+Provérbios 6:4  não dês sono aos teus olhos, nem repouso às tuas pálpebras;
+Provérbios 6:5  livra-te, como a gazela, da mão do caçador e, como a ave, da mão do passarinheiro.
+Provérbios 6:6  Vai ter com a formiga, ó preguiçoso, considera os seus caminhos e sê sábio.
+Provérbios 6:7  Não tendo ela chefe, nem oficial, nem comandante,
+Provérbios 6:8  no estio, prepara o seu pão, na sega, ajunta o seu mantimento.
+Provérbios 6:9  Ó preguiçoso, até quando ficarás deitado? Quando te levantarás do teu sono?
+Provérbios 6:10  Um pouco para dormir, um pouco para tosquenejar, um pouco para encruzar os braços em repouso,
+Provérbios 6:11  assim sobrevirá a tua pobreza como um ladrão, e a tua necessidade, como um homem armado.
+Provérbios 6:12  O homem de Belial, o homem vil, é o que anda com a perversidade na boca,
+Provérbios 6:13  acena com os olhos, arranha com os pés e faz sinais com os dedos.
+Provérbios 6:14  No seu coração há perversidade; todo o tempo maquina o mal; anda semeando contendas.
+Provérbios 6:15  Pelo que a sua destruição virá repentinamente; subitamente, será quebrantado, sem que haja cura.
+Provérbios 6:16  Seis coisas o Senhor aborrece, e a sétima a sua alma abomina:
+Provérbios 6:17  olhos altivos, língua mentirosa, mãos que derramam sangue inocente,
+Provérbios 6:18  coração que trama projetos iníquos, pés que se apressam a correr para o mal,
+Provérbios 6:19  testemunha falsa que profere mentiras e o que semeia contendas entre irmãos.
+Provérbios 6:20  Filho meu, guarda o mandamento de teu pai e não deixes a instrução de tua mãe;
+Provérbios 6:21  ata-os perpetuamente ao teu coração, pendura-os ao pescoço.
+Provérbios 6:22  Quando caminhares, isso te guiará; quando te deitares, te guardará; quando acordares, falará contigo.
+Provérbios 6:23  Porque o mandamento é lâmpada, e a instrução, luz; e as repreensões da disciplina são o caminho da vida;
+Provérbios 6:24  para te guardarem da vil mulher e das lisonjas da mulher alheia.
+Provérbios 6:25  Não cobices no teu coração a sua formosura, nem te deixes prender com as suas olhadelas.
+Provérbios 6:26  Por uma prostituta o máximo que se paga é um pedaço de pão, mas a adúltera anda à caça de vida preciosa.
+Provérbios 6:27  Tomará alguém fogo no seio, sem que as suas vestes se incendeiem?
+Provérbios 6:28  Ou andará alguém sobre brasas, sem que se queimem os seus pés?
+Provérbios 6:29  Assim será com o que se chegar à mulher do seu próximo; não ficará sem castigo todo aquele que a tocar.
+Provérbios 6:30  Não é certo que se despreza o ladrão, quando furta para saciar-se, tendo fome?
+Provérbios 6:31  Pois este, quando encontrado, pagará sete vezes tanto; entregará todos os bens de sua casa.
+Provérbios 6:32  O que adultera com uma mulher está fora de si; só mesmo quem quer arruinar-se é que pratica tal coisa.
+Provérbios 6:33  Achará açoites e infâmia, e o seu opróbrio nunca se apagará.
+Provérbios 6:34  Porque o ciúme excita o furor do marido; e não terá compaixão no dia da vingança.
+Provérbios 6:35  Não se contentará com o resgate, nem aceitará presentes, ainda que sejam muitos.
+Provérbios 7:1  Filho meu, guarda as minhas palavras e conserva dentro de ti os meus mandamentos.
+Provérbios 7:2  Guarda os meus mandamentos e vive; e a minha lei, como a menina dos teus olhos.
+Provérbios 7:3  Ata-os aos dedos, escreve-os na tábua do teu coração.
+Provérbios 7:4  Dize à Sabedoria: Tu és minha irmã; e ao Entendimento chama teu parente;
+Provérbios 7:5  para te guardarem da mulher alheia, da estranha que lisonjeia com palavras.
+Provérbios 7:6  Porque da janela da minha casa, por minhas grades, olhando eu,
+Provérbios 7:7  vi entre os simples, descobri entre os jovens um que era carecente de juízo,
+Provérbios 7:8  que ia e vinha pela rua junto à esquina da mulher estranha e seguia o caminho da sua casa,
+Provérbios 7:9  à tarde do dia, no crepúsculo, na escuridão da noite, nas trevas.
+Provérbios 7:10  Eis que a mulher lhe sai ao encontro, com vestes de prostituta e astuta de coração.
+Provérbios 7:11  É apaixonada e inquieta, cujos pés não param em casa;
+Provérbios 7:12  ora está nas ruas, ora, nas praças, espreitando por todos os cantos.
+Provérbios 7:13  Aproximou-se dele, e o beijou, e de cara impudente lhe diz:
+Provérbios 7:14  Sacrifícios pacíficos tinha eu de oferecer; paguei hoje os meus votos.
+Provérbios 7:15  Por isso, saí ao teu encontro, a buscar-te, e te achei.
+Provérbios 7:16  Já cobri de colchas a minha cama, de linho fino do Egito, de várias cores;
+Provérbios 7:17  já perfumei o meu leito com mirra, aloés e cinamomo.
+Provérbios 7:18  Vem, embriaguemo-nos com as delícias do amor, até pela manhã; gozemos amores.
+Provérbios 7:19  Porque o meu marido não está em casa, saiu de viagem para longe.
+Provérbios 7:20  Levou consigo um saquitel de dinheiro; só por volta da lua cheia ele tornará para casa.
+Provérbios 7:21  Seduziu-o com as suas muitas palavras, com as lisonjas dos seus lábios o arrastou.
+Provérbios 7:22  E ele num instante a segue, como o boi que vai ao matadouro; como o cervo que corre para a rede,
+Provérbios 7:23  até que a flecha lhe atravesse o coração; como a ave que se apressa para o laço, sem saber que isto lhe custará a vida.
+Provérbios 7:24  Agora, pois, filho, dá-me ouvidos e sê atento às palavras da minha boca;
+Provérbios 7:25  não se desvie o teu coração para os caminhos dela, e não andes perdido nas suas veredas;
+Provérbios 7:26  porque a muitos feriu e derribou; e são muitos os que por ela foram mortos.
+Provérbios 7:27  A sua casa é caminho para a sepultura e desce para as câmaras da morte.
+Provérbios 8:1  Não clama, porventura, a Sabedoria, e o Entendimento não faz ouvir a sua voz?
+Provérbios 8:2  No cimo das alturas, junto ao caminho, nas encruzilhadas das veredas ela se coloca;
+Provérbios 8:3  junto às portas, à entrada da cidade, à entrada das portas está gritando:
+Provérbios 8:4  A vós outros, ó homens, clamo; e a minha voz se dirige aos filhos dos homens.
+Provérbios 8:5  Entendei, ó simples, a prudência; e vós, néscios, entendei a sabedoria.
+Provérbios 8:6  Ouvi, pois falarei coisas excelentes; os meus lábios proferirão coisas retas.
+Provérbios 8:7  Porque a minha boca proclamará a verdade; os meus lábios abominam a impiedade.
+Provérbios 8:8  São justas todas as palavras da minha boca; não há nelas nenhuma coisa torta, nem perversa.
+Provérbios 8:9  Todas são retas para quem as entende e justas, para os que acham o conhecimento.
+Provérbios 8:10  Aceitai o meu ensino, e não a prata, e o conhecimento, antes do que o ouro escolhido.
+Provérbios 8:11  Porque melhor é a sabedoria do que joias, e de tudo o que se deseja nada se pode comparar com ela.
+Provérbios 8:12  Eu, a Sabedoria, habito com a prudência e disponho de conhecimentos e de conselhos.
+Provérbios 8:13  O temor do Senhor consiste em aborrecer o mal; a soberba, a arrogância, o mau caminho e a boca perversa, eu os aborreço.
+Provérbios 8:14  Meu é o conselho e a verdadeira sabedoria, eu sou o Entendimento, minha é a fortaleza.
+Provérbios 8:15  Por meu intermédio, reinam os reis, e os príncipes decretam justiça.
+Provérbios 8:16  Por meu intermédio, governam os príncipes, os nobres e todos os juízes da terra.
+Provérbios 8:17  Eu amo os que me amam; os que me procuram me acham.
+Provérbios 8:18  Riquezas e honra estão comigo, bens duráveis e justiça.
+Provérbios 8:19  Melhor é o meu fruto do que o ouro, do que o ouro refinado; e o meu rendimento, melhor do que a prata escolhida.
+Provérbios 8:20  Ando pelo caminho da justiça, no meio das veredas do juízo,
+Provérbios 8:21  para dotar de bens os que me amam e lhes encher os tesouros.
+Provérbios 8:22  O Senhor me possuía no início de sua obra, antes de suas obras mais antigas.
+Provérbios 8:23  Desde a eternidade fui estabelecida, desde o princípio, antes do começo da terra.
+Provérbios 8:24  Antes de haver abismos, eu nasci, e antes ainda de haver fontes carregadas de águas.
+Provérbios 8:25  Antes que os montes fossem firmados, antes de haver outeiros, eu nasci.
+Provérbios 8:26  Ainda ele não tinha feito a terra, nem as amplidões, nem sequer o princípio do pó do mundo.
+Provérbios 8:27  Quando ele preparava os céus, aí estava eu; quando traçava o horizonte sobre a face do abismo;
+Provérbios 8:28  quando firmava as nuvens de cima; quando estabelecia as fontes do abismo;
+Provérbios 8:29  quando fixava ao mar o seu limite, para que as águas não traspassassem os seus limites; quando compunha os fundamentos da terra;
+Provérbios 8:30  então, eu estava com ele e era seu arquiteto, dia após dia, eu era as suas delícias, folgando perante ele em todo o tempo;
+Provérbios 8:31  regozijando-me no seu mundo habitável e achando as minhas delícias com os filhos dos homens.
+Provérbios 8:32  Agora, pois, filhos, ouvi-me, porque felizes serão os que guardarem os meus caminhos.
+Provérbios 8:33  Ouvi o ensino, sede sábios e não o rejeiteis.
+Provérbios 8:34  Feliz o homem que me dá ouvidos, velando dia a dia às minhas portas, esperando às ombreiras da minha entrada.
+Provérbios 8:35  Porque o que me acha acha a vida e alcança favor do Senhor.
+Provérbios 8:36  Mas o que peca contra mim violenta a própria alma. Todos os que me aborrecem amam a morte.
+Provérbios 9:1  A Sabedoria edificou a sua casa, lavrou as suas sete colunas.
+Provérbios 9:2  Carneou os seus animais, misturou o seu vinho e arrumou a sua mesa.
+Provérbios 9:3  Já deu ordens às suas criadas e, assim, convida desde as alturas da cidade:
+Provérbios 9:4  Quem é simples, volte-se para aqui. Aos faltos de senso diz:
+Provérbios 9:5  Vinde, comei do meu pão e bebei do vinho que misturei.
+Provérbios 9:6  Deixai os insensatos e vivei; andai pelo caminho do entendimento.
+Provérbios 9:7  O que repreende o escarnecedor traz afronta sobre si; e o que censura o perverso a si mesmo se injuria.
+Provérbios 9:8  Não repreendas o escarnecedor, para que te não aborreça; repreende o sábio, e ele te amará.
+Provérbios 9:9  Dá instrução ao sábio, e ele se fará mais sábio ainda; ensina ao justo, e ele crescerá em prudência.
+Provérbios 9:10  O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é prudência.
+Provérbios 9:11  Porque por mim se multiplicam os teus dias, e anos de vida se te acrescentarão.
+Provérbios 9:12  Se és sábio, para ti mesmo o és; se és escarnecedor, tu só o suportarás.
+Provérbios 9:13  A loucura é mulher apaixonada, é ignorante e não sabe coisa alguma.
+Provérbios 9:14  Assenta-se à porta de sua casa, nas alturas da cidade, toma uma cadeira,
+Provérbios 9:15  para dizer aos que passam e seguem direito o seu caminho:
+Provérbios 9:16  Quem é simples, volte-se para aqui. E aos faltos de senso diz:
+Provérbios 9:17  As águas roubadas são doces, e o pão comido às ocultas é agradável.
+Provérbios 9:18  Eles, porém, não sabem que ali estão os mortos, que os seus convidados estão nas profundezas do inferno.
+Provérbios 10:1  Provérbios de Salomão. O filho sábio alegra a seu pai, mas o filho insensato é a tristeza de sua mãe.
+Provérbios 10:2  Os tesouros da impiedade de nada aproveitam, mas a justiça livra da morte.
+Provérbios 10:3  O Senhor não deixa ter fome o justo, mas rechaça a avidez dos perversos.
+Provérbios 10:4  O que trabalha com mão remissa empobrece, mas a mão dos diligentes vem a enriquecer-se.
+Provérbios 10:5  O que ajunta no verão é filho sábio, mas o que dorme na sega é filho que envergonha.
+Provérbios 10:6  Sobre a cabeça do justo há bênçãos, mas na boca dos perversos mora a violência.
+Provérbios 10:7  A memória do justo é abençoada, mas o nome dos perversos cai em podridão.
+Provérbios 10:8  O sábio de coração aceita os mandamentos, mas o insensato de lábios vem a arruinar-se.
+Provérbios 10:9  Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido.
+Provérbios 10:10  O que acena com os olhos traz desgosto, e o insensato de lábios vem a arruinar-se.
+Provérbios 10:11  A boca do justo é manancial de vida, mas na boca dos perversos mora a violência.
+Provérbios 10:12  O ódio excita contendas, mas o amor cobre todas as transgressões.
+Provérbios 10:13  Nos lábios do prudente, se acha sabedoria, mas a vara é para as costas do falto de senso.
+Provérbios 10:14  Os sábios entesouram o conhecimento, mas a boca do néscio é uma ruína iminente.
+Provérbios 10:15  Os bens do rico são a sua cidade forte; a pobreza dos pobres é a sua ruína.
+Provérbios 10:16  A obra do justo conduz à vida, e o rendimento do perverso, ao pecado.
+Provérbios 10:17  O caminho para a vida é de quem guarda o ensino, mas o que abandona a repreensão anda errado.
+Provérbios 10:18  O que retém o ódio é de lábios falsos, e o que difama é insensato.
+Provérbios 10:19  No muito falar não falta transgressão, mas o que modera os lábios é prudente.
+Provérbios 10:20  Prata escolhida é a língua do justo, mas o coração dos perversos vale mui pouco.
+Provérbios 10:21  Os lábios do justo apascentam a muitos, mas, por falta de senso, morrem os tolos.
+Provérbios 10:22  A bênção do Senhor enriquece, e, com ela, ele não traz desgosto.
+Provérbios 10:23  Para o insensato, praticar a maldade é divertimento; para o homem inteligente, o ser sábio.
+Provérbios 10:24  Aquilo que teme o perverso, isso lhe sobrevém, mas o anelo dos justos Deus o cumpre.
+Provérbios 10:25  Como passa a tempestade, assim desaparece o perverso, mas o justo tem perpétuo fundamento.
+Provérbios 10:26  Como vinagre para os dentes e fumaça para os olhos, assim é o preguiçoso para aqueles que o mandam.
+Provérbios 10:27  O temor do Senhor prolonga os dias da vida, mas os anos dos perversos serão abreviados.
+Provérbios 10:28  A esperança dos justos é alegria, mas a expectação dos perversos perecerá.
+Provérbios 10:29  O caminho do Senhor é fortaleza para os íntegros, mas ruína aos que praticam a iniquidade.
+Provérbios 10:30  O justo jamais será abalado, mas os perversos não habitarão a terra.
+Provérbios 10:31  A boca do justo produz sabedoria, mas a língua da perversidade será desarraigada.
+Provérbios 10:32  Os lábios do justo sabem o que agrada, mas a boca dos perversos, somente o mal.
+Provérbios 11:1  Balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer.
+Provérbios 11:2  Em vindo a soberba, sobrevém a desonra, mas com os humildes está a sabedoria.
+Provérbios 11:3  A integridade dos retos os guia; mas, aos pérfidos, a sua mesma falsidade os destrói.
+Provérbios 11:4  As riquezas de nada aproveitam no dia da ira, mas a justiça livra da morte.
+Provérbios 11:5  A justiça do íntegro endireita o seu caminho, mas pela sua impiedade cai o perverso.
+Provérbios 11:6  A justiça dos retos os livrará, mas na sua maldade os pérfidos serão apanhados.
+Provérbios 11:7  Morrendo o homem perverso, morre a sua esperança, e a expectação da iniquidade se desvanece.
+Provérbios 11:8  O justo é libertado da angústia, e o perverso a recebe em seu lugar.
+Provérbios 11:9  O ímpio, com a boca, destrói o próximo, mas os justos são libertados pelo conhecimento.
+Provérbios 11:10  No bem-estar dos justos exulta a cidade, e, perecendo os perversos, há júbilo.
+Provérbios 11:11  Pela bênção que os retos suscitam, a cidade se exalta, mas pela boca dos perversos é derribada.
+Provérbios 11:12  O que despreza o próximo é falto de senso, mas o homem prudente, este se cala.
+Provérbios 11:13  O mexeriqueiro descobre o segredo, mas o fiel de espírito o encobre.
+Provérbios 11:14  Não havendo sábia direção, cai o povo, mas na multidão de conselheiros há segurança.
+Provérbios 11:15  Quem fica por fiador de outrem sofrerá males, mas o que foge de o ser estará seguro.
+Provérbios 11:16  A mulher graciosa alcança honra, como os poderosos adquirem riqueza.
+Provérbios 11:17  O homem bondoso faz bem a si mesmo, mas o cruel a si mesmo se fere.
+Provérbios 11:18  O perverso recebe um salário ilusório, mas o que semeia justiça terá recompensa verdadeira.
+Provérbios 11:19  Tão certo como a justiça conduz para a vida, assim o que segue o mal, para a sua morte o faz.
+Provérbios 11:20  Abomináveis para o Senhor são os perversos de coração, mas os que andam em integridade são o seu prazer.
+Provérbios 11:21  O mau, é evidente, não ficará sem castigo, mas a geração dos justos é livre.
+Provérbios 11:22  Como joia de ouro em focinho de porco, assim é a mulher formosa que não tem discrição.
+Provérbios 11:23  O desejo dos justos tende somente para o bem, mas a expectação dos perversos redunda em ira.
+Provérbios 11:24  A quem dá liberalmente, ainda se lhe acrescenta mais e mais; ao que retém mais do que é justo, ser-lhe-á em pura perda.
+Provérbios 11:25  A alma generosa prosperará, e quem dá a beber será dessedentado.
+Provérbios 11:26  Ao que retém o trigo, o povo o amaldiçoa, mas bênção haverá sobre a cabeça do seu vendedor.
+Provérbios 11:27  Quem procura o bem alcança favor, mas ao que corre atrás do mal, este lhe sobrevirá.
+Provérbios 11:28  Quem confia nas suas riquezas cairá, mas os justos reverdecerão como a folhagem.
+Provérbios 11:29  O que perturba a sua casa herda o vento, e o insensato é servo do sábio de coração.
+Provérbios 11:30  O fruto do justo é árvore de vida, e o que ganha almas é sábio.
+Provérbios 11:31  Se o justo é punido na terra, quanto mais o perverso e o pecador!
+Provérbios 12:1  Quem ama a disciplina ama o conhecimento, mas o que aborrece a repreensão é estúpido.
+Provérbios 12:2  O homem de bem alcança o favor do Senhor, mas ao homem de perversos desígnios, ele o condena.
+Provérbios 12:3  O homem não se estabelece pela perversidade, mas a raiz dos justos não será removida.
+Provérbios 12:4  A mulher virtuosa é a coroa do seu marido, mas a que procede vergonhosamente é como podridão nos seus ossos.
+Provérbios 12:5  Os pensamentos do justo são retos, mas os conselhos do perverso, engano.
+Provérbios 12:6  As palavras dos perversos são emboscadas para derramar sangue, mas a boca dos retos livra homens.
+Provérbios 12:7  Os perversos serão derribados e já não são, mas a casa dos justos permanecerá.
+Provérbios 12:8  Segundo o seu entendimento, será louvado o homem, mas o perverso de coração será desprezado.
+Provérbios 12:9  Melhor é o que se estima em pouco e faz o seu trabalho do que o vanglorioso que tem falta de pão.
+Provérbios 12:10  O justo atenta para a vida dos seus animais, mas o coração dos perversos é cruel.
+Provérbios 12:11  O que lavra a sua terra será farto de pão, mas o que corre atrás de coisas vãs é falto de senso.
+Provérbios 12:12  O perverso quer viver do que caçam os maus, mas a raiz dos justos produz o seu fruto.
+Provérbios 12:13  Pela transgressão dos lábios o mau se enlaça, mas o justo sairá da angústia.
+Provérbios 12:14  Cada um se farta de bem pelo fruto da sua boca, e o que as mãos do homem fizerem ser-lhe-á retribuído.
+Provérbios 12:15  O caminho do insensato aos seus próprios olhos parece reto, mas o sábio dá ouvidos aos conselhos.
+Provérbios 12:16  A ira do insensato num instante se conhece, mas o prudente oculta a afronta.
+Provérbios 12:17  O que diz a verdade manifesta a justiça, mas a testemunha falsa, a fraude.
+Provérbios 12:18  Alguém há cuja tagarelice é como pontas de espada, mas a língua dos sábios é medicina.
+Provérbios 12:19  O lábio veraz permanece para sempre, mas a língua mentirosa, apenas um momento.
+Provérbios 12:20  Há fraude no coração dos que maquinam mal, mas alegria têm os que aconselham a paz.
+Provérbios 12:21  Nenhum agravo sobrevirá ao justo, mas os perversos, o mal os apanhará em cheio.
+Provérbios 12:22  Os lábios mentirosos são abomináveis ao Senhor, mas os que agem fielmente são o seu prazer.
+Provérbios 12:23  O homem prudente oculta o conhecimento, mas o coração dos insensatos proclama a estultícia.
+Provérbios 12:24  A mão diligente dominará, mas a remissa será sujeita a trabalhos forçados.
+Provérbios 12:25  A ansiedade no coração do homem o abate, mas a boa palavra o alegra.
+Provérbios 12:26  O justo serve de guia para o seu companheiro, mas o caminho dos perversos os faz errar.
+Provérbios 12:27  O preguiçoso não assará a sua caça, mas o bem precioso do homem é ser ele diligente.
+Provérbios 12:28  Na vereda da justiça, está a vida, e no caminho da sua carreira não há morte.
+Provérbios 13:1  O filho sábio ouve a instrução do pai, mas o escarnecedor não atende à repreensão.
+Provérbios 13:2  Do fruto da boca o homem comerá o bem, mas o desejo dos pérfidos é a violência.
+Provérbios 13:3  O que guarda a boca conserva a sua alma, mas o que muito abre os lábios a si mesmo se arruína.
+Provérbios 13:4  O preguiçoso deseja e nada tem, mas a alma dos diligentes se farta.
+Provérbios 13:5  O justo aborrece a palavra de mentira, mas o perverso faz vergonha e se desonra.
+Provérbios 13:6  A justiça guarda ao que anda em integridade, mas a malícia subverte ao pecador.
+Provérbios 13:7  Uns se dizem ricos sem terem nada; outros se dizem pobres, sendo mui ricos.
+Provérbios 13:8  Com as suas riquezas se resgata o homem, mas ao pobre não ocorre ameaça.
+Provérbios 13:9  A luz dos justos brilha intensamente, mas a lâmpada dos perversos se apagará.
+Provérbios 13:10  Da soberba só resulta a contenda, mas com os que se aconselham se acha a sabedoria.
+Provérbios 13:11  Os bens que facilmente se ganham, esses diminuem, mas o que ajunta à força do trabalho terá aumento.
+Provérbios 13:12  A esperança que se adia faz adoecer o coração, mas o desejo cumprido é árvore de vida.
+Provérbios 13:13  O que despreza a palavra a ela se apenhora, mas o que teme o mandamento será galardoado.
+Provérbios 13:14  O ensino do sábio é fonte de vida, para que se evitem os laços da morte.
+Provérbios 13:15  A boa inteligência consegue favor, mas o caminho dos pérfidos é intransitável.
+Provérbios 13:16  Todo prudente procede com conhecimento, mas o insensato espraia a sua loucura.
+Provérbios 13:17  O mau mensageiro se precipita no mal, mas o embaixador fiel é medicina.
+Provérbios 13:18  Pobreza e afronta sobrevêm ao que rejeita a instrução, mas o que guarda a repreensão será honrado.
+Provérbios 13:19  O desejo que se cumpre agrada a alma, mas apartar-se do mal é abominável para os insensatos.
+Provérbios 13:20  Quem anda com os sábios será sábio, mas o companheiro dos insensatos se tornará mau.
+Provérbios 13:21  A desventura persegue os pecadores, mas os justos serão galardoados com o bem.
+Provérbios 13:22  O homem de bem deixa herança aos filhos de seus filhos, mas a riqueza do pecador é depositada para o justo.
+Provérbios 13:23  A terra virgem dos pobres dá mantimento em abundância, mas a falta de justiça o dissipa.
+Provérbios 13:24  O que retém a vara aborrece a seu filho, mas o que o ama, cedo, o disciplina.
+Provérbios 13:25  O justo tem o bastante para satisfazer o seu apetite, mas o estômago dos perversos passa fome.
+Provérbios 14:1  A mulher sábia edifica a sua casa, mas a insensata, com as próprias mãos, a derriba.
+Provérbios 14:2  O que anda na retidão teme ao Senhor, mas o que anda em caminhos tortuosos, esse o despreza.
+Provérbios 14:3  Está na boca do insensato a vara para a sua própria soberba, mas os lábios do prudente o preservarão.
+Provérbios 14:4  Não havendo bois, o celeiro fica limpo, mas pela força do boi há abundância de colheitas.
+Provérbios 14:5  A testemunha verdadeira não mente, mas a falsa se desboca em mentiras.
+Provérbios 14:6  O escarnecedor procura a sabedoria e não a encontra, mas para o prudente o conhecimento é fácil.
+Provérbios 14:7  Foge da presença do homem insensato, porque nele não divisarás lábios de conhecimento.
+Provérbios 14:8  A sabedoria do prudente é entender o seu próprio caminho, mas a estultícia dos insensatos é enganadora.
+Provérbios 14:9  Os loucos zombam do pecado, mas entre os retos há boa vontade.
+Provérbios 14:10  O coração conhece a sua própria amargura, e da sua alegria não participará o estranho.
+Provérbios 14:11  A casa dos perversos será destruída, mas a tenda dos retos florescerá.
+Provérbios 14:12  Há caminho que ao homem parece direito, mas ao cabo dá em caminhos de morte.
+Provérbios 14:13  Até no riso tem dor o coração, e o fim da alegria é tristeza.
+Provérbios 14:14  O infiel de coração dos seus próprios caminhos se farta, como do seu próprio proceder, o homem de bem.
+Provérbios 14:15  O simples dá crédito a toda palavra, mas o prudente atenta para os seus passos.
+Provérbios 14:16  O sábio é cauteloso e desvia-se do mal, mas o insensato encoleriza-se e dá-se por seguro.
+Provérbios 14:17  O que presto se ira faz loucuras, e o homem de maus desígnios é odiado.
+Provérbios 14:18  Os simples herdam a estultícia, mas os prudentes se coroam de conhecimento.
+Provérbios 14:19  Os maus inclinam-se perante a face dos bons, e os perversos, junto às portas do justo.
+Provérbios 14:20  O pobre é odiado até do vizinho, mas o rico tem muitos amigos.
+Provérbios 14:21  O que despreza ao seu vizinho peca, mas o que se compadece dos pobres é feliz.
+Provérbios 14:22  Acaso, não erram os que maquinam o mal? Mas amor e fidelidade haverá para os que planejam o bem.
+Provérbios 14:23  Em todo trabalho há proveito; meras palavras, porém, levam à penúria.
+Provérbios 14:24  Aos sábios a riqueza é coroa, mas a estultícia dos insensatos não passa de estultícia.
+Provérbios 14:25  A testemunha verdadeira livra almas, mas o que se desboca em mentiras é enganador.
+Provérbios 14:26  No temor do Senhor, tem o homem forte amparo, e isso é refúgio para os seus filhos.
+Provérbios 14:27  O temor do Senhor é fonte de vida para evitar os laços da morte.
+Provérbios 14:28  Na multidão do povo, está a glória do rei, mas, na falta de povo, a ruína do príncipe.
+Provérbios 14:29  O longânimo é grande em entendimento, mas o de ânimo precipitado exalta a loucura.
+Provérbios 14:30  O ânimo sereno é a vida do corpo, mas a inveja é a podridão dos ossos.
+Provérbios 14:31  O que oprime ao pobre insulta aquele que o criou, mas a este honra o que se compadece do necessitado.
+Provérbios 14:32  Pela sua malícia é derribado o perverso, mas o justo, ainda morrendo, tem esperança.
+Provérbios 14:33  No coração do prudente, repousa a sabedoria, mas o que há no interior dos insensatos vem a lume.
+Provérbios 14:34  A justiça exalta as nações, mas o pecado é o opróbrio dos povos.
+Provérbios 14:35  O servo prudente goza do favor do rei, mas o que procede indignamente é objeto do seu furor.
+Provérbios 15:1  A resposta branda desvia o furor, mas a palavra dura suscita a ira.
+Provérbios 15:2  A língua dos sábios adorna o conhecimento, mas a boca dos insensatos derrama a estultícia.
+Provérbios 15:3  Os olhos do Senhor estão em todo lugar, contemplando os maus e os bons.
+Provérbios 15:4  A língua serena é árvore de vida, mas a perversa quebranta o espírito.
+Provérbios 15:5  O insensato despreza a instrução de seu pai, mas o que atende à repreensão consegue a prudência.
+Provérbios 15:6  Na casa do justo há grande tesouro, mas na renda dos perversos há perturbação.
+Provérbios 15:7  A língua dos sábios derrama o conhecimento, mas o coração dos insensatos não procede assim.
+Provérbios 15:8  O sacrifício dos perversos é abominável ao Senhor, mas a oração dos retos é o seu contentamento.
+Provérbios 15:9  O caminho do perverso é abominação ao Senhor, mas este ama o que segue a justiça.
+Provérbios 15:10  Disciplina rigorosa há para o que deixa a vereda, e o que odeia a repreensão morrerá.
+Provérbios 15:11  O além e o abismo estão descobertos perante o Senhor; quanto mais o coração dos filhos dos homens!
+Provérbios 15:12  O escarnecedor não ama àquele que o repreende, nem se chegará para os sábios.
+Provérbios 15:13  O coração alegre aformoseia o rosto, mas com a tristeza do coração o espírito se abate.
+Provérbios 15:14  O coração sábio procura o conhecimento, mas a boca dos insensatos se apascenta de estultícia.
+Provérbios 15:15  Todos os dias do aflito são maus, mas a alegria do coração é banquete contínuo.
+Provérbios 15:16  Melhor é o pouco, havendo o temor do Senhor, do que grande tesouro onde há inquietação.
+Provérbios 15:17  Melhor é um prato de hortaliças onde há amor do que o boi cevado e, com ele, o ódio.
+Provérbios 15:18  O homem iracundo suscita contendas, mas o longânimo apazigua a luta.
+Provérbios 15:19  O caminho do preguiçoso é como que cercado de espinhos, mas a vereda dos retos é plana.
+Provérbios 15:20  O filho sábio alegra a seu pai, mas o homem insensato despreza a sua mãe.
+Provérbios 15:21  A estultícia é alegria para o que carece de entendimento, mas o homem sábio anda retamente.
+Provérbios 15:22  Onde não há conselho fracassam os projetos, mas com os muitos conselheiros há bom êxito.
+Provérbios 15:23  O homem se alegra em dar resposta adequada, e a palavra, a seu tempo, quão boa é!
+Provérbios 15:24  Para o sábio há o caminho da vida que o leva para cima, a fim de evitar o inferno, embaixo.
+Provérbios 15:25  O Senhor deita por terra a casa dos soberbos; contudo, mantém a herança da viúva.
+Provérbios 15:26  Abomináveis são para o Senhor os desígnios do mau, mas as palavras bondosas lhe são aprazíveis.
+Provérbios 15:27  O que é ávido por lucro desonesto transtorna a sua casa, mas o que odeia o suborno, esse viverá.
+Provérbios 15:28  O coração do justo medita o que há de responder, mas a boca dos perversos transborda maldades.
+Provérbios 15:29  O Senhor está longe dos perversos, mas atende à oração dos justos.
+Provérbios 15:30  O olhar de amigo alegra ao coração; as boas-novas fortalecem até os ossos.
+Provérbios 15:31  Os ouvidos que atendem à repreensão salutar no meio dos sábios têm a sua morada.
+Provérbios 15:32  O que rejeita a disciplina menospreza a sua alma, porém o que atende à repreensão adquire entendimento.
+Provérbios 15:33  O temor do Senhor é a instrução da sabedoria, e a humildade precede a honra.
+Provérbios 16:1  Melhor é um bocado seco e tranquilidade do que a casa farta de carnes e contendas.
+Provérbios 16:2  O escravo prudente dominará sobre o filho que causa vergonha e, entre os irmãos, terá parte na herança.
+Provérbios 16:3  O crisol prova a prata, e o forno, o ouro; mas aos corações prova o Senhor.
+Provérbios 16:4  O malfazejo atenta para o lábio iníquo; o mentiroso inclina os ouvidos para a língua maligna.
+Provérbios 16:5  O que escarnece do pobre insulta ao que o criou; o que se alegra da calamidade não ficará impune.
+Provérbios 16:6  Coroa dos velhos são os filhos dos filhos; e a glória dos filhos são os pais.
+Provérbios 16:7  Ao insensato não convém a palavra excelente; quanto menos ao príncipe, o lábio mentiroso!
+Provérbios 16:8  Pedra mágica é o suborno aos olhos de quem o dá, e para onde quer que se volte terá seu proveito.
+Provérbios 16:9  O que encobre a transgressão adquire amor, mas o que traz o assunto à baila separa os maiores amigos.
+Provérbios 16:10  Mais fundo entra a repreensão no prudente do que cem açoites no insensato.
+Provérbios 16:11  O rebelde não busca senão o mal; por isso, mensageiro cruel se enviará contra ele.
+Provérbios 16:12  Melhor é encontrar-se uma ursa roubada dos filhos do que o insensato na sua estultícia.
+Provérbios 16:13  Quanto àquele que paga o bem com o mal, não se apartará o mal da sua casa.
+Provérbios 16:14  Como o abrir-se da represa, assim é o começo da contenda; desiste, pois, antes que haja rixas.
+Provérbios 16:15  O que justifica o perverso e o que condena o justo abomináveis são para o Senhor, tanto um como o outro.
+Provérbios 16:16  De que serviria o dinheiro na mão do insensato para comprar a sabedoria, visto que não tem entendimento?
+Provérbios 16:17  Em todo tempo ama o amigo, e na angústia se faz o irmão.
+Provérbios 16:18  O homem falto de entendimento compromete-se, ficando por fiador do seu próximo.
+Provérbios 16:19  O que ama a contenda ama o pecado; o que faz alta a sua porta facilita a própria queda.
+Provérbios 16:20  O perverso de coração jamais achará o bem; e o que tem a língua dobre vem a cair no mal.
+Provérbios 16:21  O filho estulto é tristeza para o pai, e o pai do insensato não se alegra.
+Provérbios 16:22  O coração alegre é bom remédio, mas o espírito abatido faz secar os ossos.
+Provérbios 16:23  O perverso aceita suborno secretamente, para perverter as veredas da justiça.
+Provérbios 16:24  A sabedoria é o alvo do inteligente, mas os olhos do insensato vagam pelas extremidades da terra.
+Provérbios 16:25  O filho insensato é tristeza para o pai e amargura para quem o deu à luz.
+Provérbios 16:26  Não é bom punir ao justo; é contra todo direito ferir ao príncipe.
+Provérbios 16:27  Quem retém as palavras possui o conhecimento, e o sereno de espírito é homem de inteligência.
+Provérbios 16:28  Até o estulto, quando se cala, é tido por sábio, e o que cerra os lábios, por sábio.
+Provérbios 17:1  O solitário busca o seu próprio interesse e insurge-se contra a verdadeira sabedoria.
+Provérbios 17:2  O insensato não tem prazer no entendimento, senão em externar o seu interior.
+Provérbios 17:3  Vindo a perversidade, vem também o desprezo; e, com a ignomínia, a vergonha.
+Provérbios 17:4  Águas profundas são as palavras da boca do homem, e a fonte da sabedoria, ribeiros transbordantes.
+Provérbios 17:5  Não é bom ser parcial com o perverso, para torcer o direito contra os justos.
+Provérbios 17:6  Os lábios do insensato entram na contenda, e por açoites brada a sua boca.
+Provérbios 17:7  A boca do insensato é a sua própria destruição, e os seus lábios, um laço para a sua alma.
+Provérbios 17:8  As palavras do maldizente são doces bocados que descem para o mais interior do ventre.
+Provérbios 17:9  Quem é negligente na sua obra já é irmão do desperdiçador.
+Provérbios 17:10  Torre forte é o nome do Senhor, à qual o justo se acolhe e está seguro.
+Provérbios 17:11  Os bens do rico lhe são cidade forte e, segundo imagina, uma alta muralha.
+Provérbios 17:12  Antes da ruína, gaba-se o coração do homem, e diante da honra vai a humildade.
+Provérbios 17:13  Responder antes de ouvir é estultícia e vergonha.
+Provérbios 17:14  O espírito firme sustém o homem na sua doença, mas o espírito abatido, quem o pode suportar?
+Provérbios 17:15  O coração do sábio adquire o conhecimento, e o ouvido dos sábios procura o saber.
+Provérbios 17:16  O presente que o homem faz alarga-lhe o caminho e leva-o perante os grandes.
+Provérbios 17:17  O que começa o pleito parece justo, até que vem o outro e o examina.
+Provérbios 17:18  Pelo lançar da sorte, cessam os pleitos, e se decide a causa entre os poderosos.
+Provérbios 17:19  O irmão ofendido resiste mais que uma fortaleza; suas contendas são ferrolhos de um castelo.
+Provérbios 17:20  Do fruto da boca o coração se farta, do que produzem os lábios se satisfaz.
+Provérbios 17:21  A morte e a vida estão no poder da língua; o que bem a utiliza come do seu fruto.
+Provérbios 17:22  O que acha uma esposa acha o bem e alcançou a benevolência do Senhor.
+Provérbios 17:23  O pobre fala com súplicas, porém o rico responde com durezas.
+Provérbios 17:24  O homem que tem muitos amigos sai perdendo; mas há amigo mais chegado do que um irmão.
+Provérbios 18:1  Melhor é o pobre que anda na sua integridade do que o perverso de lábios e tolo.
+Provérbios 18:2  Não é bom proceder sem refletir, e peca quem é precipitado.
+Provérbios 18:3  A estultícia do homem perverte o seu caminho, mas é contra o Senhor que o seu coração se ira.
+Provérbios 18:4  As riquezas multiplicam os amigos; mas, ao pobre, o seu próprio amigo o deixa.
+Provérbios 18:5  A falsa testemunha não fica impune, e o que profere mentiras não escapa.
+Provérbios 18:6  Ao generoso, muitos o adulam, e todos são amigos do que dá presentes.
+Provérbios 18:7  Se os irmãos do pobre o aborrecem, quanto mais se afastarão dele os seus amigos! Corre após eles com súplicas, mas não os alcança.
+Provérbios 18:8  O que adquire entendimento ama a sua alma; o que conserva a inteligência acha o bem.
+Provérbios 18:9  A falsa testemunha não fica impune, e o que profere mentiras perece.
+Provérbios 18:10  Ao insensato não convém a vida regalada, quanto menos ao escravo dominar os príncipes!
+Provérbios 18:11  A discrição do homem o torna longânimo, e sua glória é perdoar as injúrias.
+Provérbios 18:12  Como o bramido do leão, assim é a indignação do rei; mas seu favor é como o orvalho sobre a erva.
+Provérbios 18:13  O filho insensato é a desgraça do pai, e um gotejar contínuo, as contenções da esposa.
+Provérbios 18:14  A casa e os bens vêm como herança dos pais; mas do Senhor, a esposa prudente.
+Provérbios 18:15  A preguiça faz cair em profundo sono, e o ocioso vem a padecer fome.
+Provérbios 18:16  O que guarda o mandamento guarda a sua alma; mas o que despreza os seus caminhos, esse morre.
+Provérbios 18:17  Quem se compadece do pobre ao Senhor empresta, e este lhe paga o seu benefício.
+Provérbios 18:18  Castiga a teu filho, enquanto há esperança, mas não te excedas a ponto de matá-lo.
+Provérbios 18:19  Homem de grande ira tem de sofrer o dano; porque, se tu o livrares, virás ainda a fazê-lo de novo.
+Provérbios 18:20  Ouve o conselho e recebe a instrução, para que sejas sábio nos teus dias por vir.
+Provérbios 18:21  Muitos propósitos há no coração do homem, mas o desígnio do Senhor permanecerá.
+Provérbios 18:22  O que torna agradável o homem é a sua misericórdia; o pobre é preferível ao mentiroso.
+Provérbios 18:23  O temor do Senhor conduz à vida; aquele que o tem ficará satisfeito, e mal nenhum o visitará.
+Provérbios 18:24  O preguiçoso mete a mão no prato e não quer ter o trabalho de a levar à boca.
+Provérbios 18:25  Quando ferires ao escarnecedor, o simples aprenderá a prudência; repreende ao sábio, e crescerá em conhecimento.
+Provérbios 18:26  O que maltrata a seu pai ou manda embora a sua mãe filho é que envergonha e desonra.
+Provérbios 18:27  Filho meu, se deixas de ouvir a instrução, desviar-te-ás das palavras do conhecimento.
+Provérbios 18:28  A testemunha de Belial escarnece da justiça, e a boca dos perversos devora a iniquidade.
+Provérbios 18:29  Preparados estão os juízos para os escarnecedores e os açoites, para as costas dos insensatos.
+Provérbios 19:1  O vinho é escarnecedor, e a bebida forte, alvoroçadora; todo aquele que por eles é vencido não é sábio.
+Provérbios 19:2  Como o bramido do leão, é o terror do rei; o que lhe provoca a ira peca contra a sua própria vida.
+Provérbios 19:3  Honroso é para o homem o desviar-se de contendas, mas todo insensato se mete em rixas.
+Provérbios 19:4  O preguiçoso não lavra por causa do inverno, pelo que, na sega, procura e nada encontra.
+Provérbios 19:5  Como águas profundas, são os propósitos do coração do homem, mas o homem de inteligência sabe descobri-los.
+Provérbios 19:6  Muitos proclamam a sua própria benignidade; mas o homem fidedigno, quem o achará?
+Provérbios 19:7  O justo anda na sua integridade; felizes lhe são os filhos depois dele.
+Provérbios 19:8  Assentando-se o rei no trono do juízo, com os seus olhos dissipa todo mal.
+Provérbios 19:9  Quem pode dizer: Purifiquei o meu coração, limpo estou do meu pecado?
+Provérbios 19:10  Dois pesos e duas medidas, uns e outras são abomináveis ao Senhor.
+Provérbios 19:11  Até a criança se dá a conhecer pelas suas ações, se o que faz é puro e reto.
+Provérbios 19:12  O ouvido que ouve e o olho que vê, o Senhor os fez, tanto um como o outro.
+Provérbios 19:13  Não ames o sono, para que não empobreças; abre os olhos e te fartarás do teu próprio pão.
+Provérbios 19:14  Nada vale, nada vale, diz o comprador, mas, indo-se, então, se gaba.
+Provérbios 19:15  Há ouro e abundância de pérolas, mas os lábios instruídos são joia preciosa.
+Provérbios 19:16  Tome-se a roupa àquele que fica fiador por outrem; e, por penhor, àquele que se obriga por estrangeiros.
+Provérbios 19:17  Suave é ao homem o pão ganho por fraude, mas, depois, a sua boca se encherá de pedrinhas de areia.
+Provérbios 19:18  Os planos mediante os conselhos têm bom êxito; faze a guerra com prudência.
+Provérbios 19:19  O mexeriqueiro revela o segredo; portanto, não te metas com quem muito abre os lábios.
+Provérbios 19:20  A quem amaldiçoa a seu pai ou a sua mãe, apagar-se-lhe-á a lâmpada nas mais densas trevas.
+Provérbios 19:21  A posse antecipada de uma herança no fim não será abençoada.
+Provérbios 19:22  Não digas: Vingar-me-ei do mal; espera pelo Senhor, e ele te livrará.
+Provérbios 19:23  Dois pesos são coisa abominável ao Senhor, e balança enganosa não é boa.
+Provérbios 19:24  Os passos do homem são dirigidos pelo Senhor; como, pois, poderá o homem entender o seu caminho?
+Provérbios 19:25  Laço é para o homem o dizer precipitadamente: É santo! E só refletir depois de fazer o voto.
+Provérbios 19:26  O rei sábio joeira os perversos e faz passar sobre eles a roda.
+Provérbios 19:27  O espírito do homem é a lâmpada do Senhor, a qual esquadrinha todo o mais íntimo do corpo.
+Provérbios 19:28  Amor e fidelidade preservam o rei, e com benignidade sustém ele o seu trono.
+Provérbios 19:29  O ornato dos jovens é a sua força, e a beleza dos velhos, as suas cãs.
+Provérbios 19:30  Os vergões das feridas purificam do mal, e os açoites, o mais íntimo do corpo.
+Provérbios 20:1  Como ribeiros de águas assim é o coração do rei na mão do Senhor; este, segundo o seu querer, o inclina.
+Provérbios 20:2  Todo caminho do homem é reto aos seus próprios olhos, mas o Senhor sonda os corações.
+Provérbios 20:3  Exercitar justiça e juízo é mais aceitável ao Senhor do que sacrifício.
+Provérbios 20:4  Olhar altivo e coração orgulhoso, a lâmpada dos perversos, são pecado.
+Provérbios 20:5  Os planos do diligente tendem à abundância, mas a pressa excessiva, à pobreza.
+Provérbios 20:6  Trabalhar por adquirir tesouro com língua falsa é vaidade e laço mortal.
+Provérbios 20:7  A violência dos perversos os arrebata, porque recusam praticar a justiça.
+Provérbios 20:8  Tortuoso é o caminho do homem carregado de culpa, mas reto, o proceder do honesto.
+Provérbios 20:9  Melhor é morar no canto do eirado do que junto com a mulher rixosa na mesma casa.
+Provérbios 20:10  A alma do perverso deseja o mal; nem o seu vizinho recebe dele compaixão.
+Provérbios 20:11  Quando o escarnecedor é castigado, o simples se torna sábio; e, quando o sábio é instruído, recebe o conhecimento.
+Provérbios 20:12  O Justo considera a casa dos perversos e os arrasta para o mal.
+Provérbios 20:13  O que tapa o ouvido ao clamor do pobre também clamará e não será ouvido.
+Provérbios 20:14  O presente que se dá em segredo abate a ira, e a dádiva em sigilo, uma forte indignação.
+Provérbios 20:15  Praticar a justiça é alegria para o justo, mas espanto, para os que praticam a iniquidade.
+Provérbios 20:16  O homem que se desvia do caminho do entendimento na congregação dos mortos repousará.
+Provérbios 20:17  Quem ama os prazeres empobrecerá, quem ama o vinho e o azeite jamais enriquecerá.
+Provérbios 20:18  O perverso serve de resgate para o justo; e, para os retos, o pérfido.
+Provérbios 20:19  Melhor é morar numa terra deserta do que com a mulher rixosa e iracunda.
+Provérbios 20:20  Tesouro desejável e azeite há na casa do sábio, mas o homem insensato os desperdiça.
+Provérbios 20:21  O que segue a justiça e a bondade achará a vida, a justiça e a honra.
+Provérbios 20:22  O sábio escala a cidade dos valentes e derriba a fortaleza em que ela confia.
+Provérbios 20:23  O que guarda a boca e a língua guarda a sua alma das angústias.
+Provérbios 20:24  Quanto ao soberbo e presumido, zombador é seu nome; procede com indignação e arrogância.
+Provérbios 20:25  O preguiçoso morre desejando, porque as suas mãos recusam trabalhar.
+Provérbios 20:26  O cobiçoso cobiça todo o dia, mas o justo dá e nada retém.
+Provérbios 20:27  O sacrifício dos perversos já é abominação; quanto mais oferecendo-o com intenção maligna!
+Provérbios 20:28  A testemunha falsa perecerá, mas a auricular falará sem ser contestada.
+Provérbios 20:29  O homem perverso mostra dureza no rosto, mas o reto considera o seu caminho.
+Provérbios 20:30  Não há sabedoria, nem inteligência, nem mesmo conselho contra o Senhor.
+Provérbios 20:31  O cavalo prepara-se para o dia da batalha, mas a vitória vem do Senhor.
+Provérbios 21:1  Mais vale o bom nome do que as muitas riquezas; e o ser estimado é melhor do que a prata e o ouro.
+Provérbios 21:2  O rico e o pobre se encontram; a um e a outro faz o Senhor.
+Provérbios 21:3  O prudente vê o mal e esconde-se; mas os simples passam adiante e sofrem a pena.
+Provérbios 21:4  O galardão da humildade e o temor do Senhor são riquezas, e honra, e vida.
+Provérbios 21:5  Espinhos e laços há no caminho do perverso; o que guarda a sua alma retira-se para longe deles.
+Provérbios 21:6  Ensina a criança no caminho em que deve andar, e, ainda quando for velho, não se desviará dele.
+Provérbios 21:7  O rico domina sobre o pobre, e o que toma emprestado é servo do que empresta.
+Provérbios 21:8  O que semeia a injustiça segará males; e a vara da sua indignação falhará.
+Provérbios 21:9  O generoso será abençoado, porque dá do seu pão ao pobre.
+Provérbios 21:10  Lança fora o escarnecedor, e com ele se irá a contenda; cessarão as demandas e a ignomínia.
+Provérbios 21:11  O que ama a pureza do coração e é grácil no falar terá por amigo o rei.
+Provérbios 21:12  Os olhos do Senhor conservam aquele que tem conhecimento, mas as palavras do iníquo ele transtornará.
+Provérbios 21:13  Diz o preguiçoso: Um leão está lá fora; serei morto no meio das ruas.
+Provérbios 21:14  Cova profunda é a boca da mulher estranha; aquele contra quem o Senhor se irar cairá nela.
+Provérbios 21:15  A estultícia está ligada ao coração da criança, mas a vara da disciplina a afastará dela.
+Provérbios 21:16  O que oprime ao pobre para enriquecer a si ou o que dá ao rico certamente empobrecerá.
+Provérbios 22:17  Inclina o ouvido, e ouve as palavras dos sábios, e aplica o coração ao meu conhecimento.
+Provérbios 22:18  Porque é coisa agradável os guardares no teu coração e os aplicares todos aos teus lábios.
+Provérbios 22:19  Para que a tua confiança esteja no Senhor, quero dar-te hoje a instrução, a ti mesmo.
+Provérbios 22:20  Porventura, não te escrevi excelentes coisas acerca de conselhos e conhecimentos,
+Provérbios 22:21  para mostrar-te a certeza das palavras da verdade, a fim de que possas responder claramente aos que te enviarem?
+Provérbios 22:22  Não roubes ao pobre, porque é pobre, nem oprimas em juízo ao aflito,
+Provérbios 22:23  porque o Senhor defenderá a causa deles e tirará a vida aos que os despojam.
+Provérbios 22:24  Não te associes com o iracundo, nem andes com o homem colérico,
+Provérbios 22:25  para que não aprendas as suas veredas e, assim, enlaces a tua alma.
+Provérbios 22:26  Não estejas entre os que se comprometem e ficam por fiadores de dívidas,
+Provérbios 22:27  pois, se não tens com que pagar, por que arriscas perder a cama de debaixo de ti?
+Provérbios 22:28  Não removas os marcos antigos que puseram teus pais.
+Provérbios 22:29  Vês a um homem perito na sua obra? Perante reis será posto; não entre a plebe.
+Provérbios 23:1  Quando te assentares a comer com um governador, atenta bem para aquele que está diante de ti;
+Provérbios 23:2  mete uma faca à tua garganta, se és homem glutão.
+Provérbios 23:3  Não cobices os seus delicados manjares, porque são comidas enganadoras.
+Provérbios 23:4  Não te fatigues para seres rico; não apliques nisso a tua inteligência.
+Provérbios 23:5  Porventura, fitarás os olhos naquilo que não é nada? Pois, certamente, a riqueza fará para si asas, como a águia que voa pelos céus.
+Provérbios 23:6  Não comas o pão do invejoso, nem cobices os seus delicados manjares.
+Provérbios 23:7  Porque, como imagina em sua alma, assim ele é; ele te diz: Come e bebe; mas o seu coração não está contigo.
+Provérbios 23:8  Vomitarás o bocado que comeste e perderás as tuas suaves palavras.
+Provérbios 23:9  Não fales aos ouvidos do insensato, porque desprezará a sabedoria das tuas palavras.
+Provérbios 23:10  Não removas os marcos antigos, nem entres nos campos dos órfãos,
+Provérbios 23:11  porque o seu Vingador é forte e lhes pleiteará a causa contra ti.
+Provérbios 23:12  Aplica o coração ao ensino e os ouvidos às palavras do conhecimento.
+Provérbios 23:13  Não retires da criança a disciplina, pois, se a fustigares com a vara, não morrerá.
+Provérbios 23:14  Tu a fustigarás com a vara e livrarás a sua alma do inferno.
+Provérbios 23:15  Filho meu, se o teu coração for sábio, alegrar-se-á também o meu;
+Provérbios 23:16  exultará o meu íntimo, quando os teus lábios falarem coisas retas.
+Provérbios 23:17  Não tenha o teu coração inveja dos pecadores; antes, no temor do Senhor perseverarás todo dia.
+Provérbios 23:18  Porque deveras haverá bom futuro; não será frustrada a tua esperança.
+Provérbios 23:19  Ouve, filho meu, e sê sábio; guia retamente no caminho o teu coração.
+Provérbios 23:20  Não estejas entre os bebedores de vinho nem entre os comilões de carne.
+Provérbios 23:21  Porque o beberrão e o comilão caem em pobreza; e a sonolência vestirá de trapos o homem.
+Provérbios 23:22  Ouve a teu pai, que te gerou, e não desprezes a tua mãe, quando vier a envelhecer.
+Provérbios 23:23  Compra a verdade e não a vendas; compra a sabedoria, a instrução e o entendimento.
+Provérbios 23:24  Grandemente se regozijará o pai do justo, e quem gerar a um sábio nele se alegrará.
+Provérbios 23:25  Alegrem-se teu pai e tua mãe, e regozije-se a que te deu à luz.
+Provérbios 23:26  Dá-me, filho meu, o teu coração, e os teus olhos se agradem dos meus caminhos.
+Provérbios 23:27  Pois cova profunda é a prostituta, poço estreito, a alheia.
+Provérbios 23:28  Ela, como salteador, se põe a espreitar e multiplica entre os homens os infiéis.
+Provérbios 23:29  Para quem são os ais? Para quem, os pesares? Para quem, as rixas? Para quem, as queixas? Para quem, as feridas sem causa? E para quem, os olhos vermelhos?
+Provérbios 23:30  Para os que se demoram em beber vinho, para os que andam buscando bebida misturada.
+Provérbios 23:31  Não olhes para o vinho, quando se mostra vermelho, quando resplandece no copo e se escoa suavemente.
+Provérbios 23:32  Pois ao cabo morderá como a cobra e picará como o basilisco.
+Provérbios 23:33  Os teus olhos verão coisas esquisitas, e o teu coração falará perversidades.
+Provérbios 23:34  Serás como o que se deita no meio do mar e como o que se deita no alto do mastro
+Provérbios 23:35  e dirás: Espancaram-me, e não me doeu; bateram-me, e não o senti; quando despertarei? Então, tornarei a beber.
+Provérbios 24:1  Não tenhas inveja dos homens malignos, nem queiras estar com eles,
+Provérbios 24:2  porque o seu coração maquina violência, e os seus lábios falam para o mal.
+Provérbios 24:3  Com a sabedoria edifica-se a casa, e com a inteligência ela se firma;
+Provérbios 24:4  pelo conhecimento se encherão as câmaras de toda sorte de bens, preciosos e deleitáveis.
+Provérbios 24:5  Mais poder tem o sábio do que o forte, e o homem de conhecimento, mais do que o robusto.
+Provérbios 24:6  Com medidas de prudência farás a guerra; na multidão de conselheiros está a vitória.
+Provérbios 24:7  A sabedoria é alta demais para o insensato; no juízo, a sua boca não terá palavra.
+Provérbios 24:8  Ao que cuida em fazer o mal, mestre de intrigas lhe chamarão.
+Provérbios 24:9  Os desígnios do insensato são pecado, e o escarnecedor é abominável aos homens.
+Provérbios 24:10  Se te mostras fraco no dia da angústia, a tua força é pequena.
+Provérbios 24:11  Livra os que estão sendo levados para a morte e salva os que cambaleiam indo para serem mortos.
+Provérbios 24:12  Se disseres: Não o soubemos, não o perceberá aquele que pesa os corações? Não o saberá aquele que atenta para a tua alma? E não pagará ele ao homem segundo as suas obras?
+Provérbios 24:13  Filho meu, saboreia o mel, porque é saudável, e o favo, porque é doce ao teu paladar.
+Provérbios 24:14  Então, sabe que assim é a sabedoria para a tua alma; se a achares, haverá bom futuro, e não será frustrada a tua esperança.
+Provérbios 24:15  Não te ponhas de emboscada, ó perverso, contra a habitação do justo, nem assoles o lugar do seu repouso,
+Provérbios 24:16  porque sete vezes cairá o justo e se levantará; mas os perversos são derribados pela calamidade.
+Provérbios 24:17  Quando cair o teu inimigo, não te alegres, e não se regozije o teu coração quando ele tropeçar;
+Provérbios 24:18  para que o Senhor não veja isso, e lhe desagrade, e desvie dele a sua ira.
+Provérbios 24:19  Não te aflijas por causa dos malfeitores, nem tenhas inveja dos perversos,
+Provérbios 24:20  porque o maligno não terá bom futuro, e a lâmpada dos perversos se apagará.
+Provérbios 24:21  Teme ao Senhor, filho meu, e ao rei e não te associes com os revoltosos.
+Provérbios 24:22  Porque de repente levantará a sua perdição, e a ruína que virá daqueles dois, quem a conhecerá?
+Provérbios 24:23  São também estes provérbios dos sábios. Parcialidade no julgar não é bom.
+Provérbios 24:24  O que disser ao perverso: Tu és justo; pelo povo será maldito e detestado pelas nações.
+Provérbios 24:25  Mas os que o repreenderem se acharão bem, e sobre eles virão grandes bênçãos.
+Provérbios 24:26  Como beijo nos lábios, é a resposta com palavras retas.
+Provérbios 24:27  Cuida dos teus negócios lá fora, apronta a lavoura no campo e, depois, edifica a tua casa.
+Provérbios 24:28  Não sejas testemunha sem causa contra o teu próximo, nem o enganes com os teus lábios.
+Provérbios 24:29  Não digas: Como ele me fez a mim, assim lhe farei a ele; pagarei a cada um segundo a sua obra.
+Provérbios 24:30  Passei pelo campo do preguiçoso e junto à vinha do homem falto de entendimento;
+Provérbios 24:31  eis que tudo estava cheio de espinhos, a sua superfície, coberta de urtigas, e o seu muro de pedra, em ruínas.
+Provérbios 24:32  Tendo-o visto, considerei; vi e recebi a instrução.
+Provérbios 24:33  Um pouco para dormir, um pouco para tosquenejar, um pouco para encruzar os braços em repouso,
+Provérbios 24:34  assim sobrevirá a tua pobreza como um ladrão, e a tua necessidade, como um homem armado.
+Provérbios 25:1  São também estes provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá.
+Provérbios 25:2  A glória de Deus é encobrir as coisas, mas a glória dos reis é esquadrinhá-las.
+Provérbios 25:3  Como a altura dos céus e a profundeza da terra, assim o coração dos reis é insondável.
+Provérbios 25:4  Tira da prata a escória, e sairá vaso para o ourives;
+Provérbios 25:5  tira o perverso da presença do rei, e o seu trono se firmará na justiça.
+Provérbios 25:6  Não te glories na presença do rei, nem te ponhas no meio dos grandes;
+Provérbios 25:7  porque melhor é que te digam: Sobe para aqui!, do que seres humilhado diante do príncipe. A respeito do que os teus olhos viram,
+Provérbios 25:8  não te apresses a litigar, pois, ao fim, que farás, quando o teu próximo te puser em apuros?
+Provérbios 25:9  Pleiteia a tua causa diretamente com o teu próximo e não descubras o segredo de outrem;
+Provérbios 25:10  para que não te vitupere aquele que te ouvir, e não se te apegue a tua infâmia.
+Provérbios 25:11  Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo.
+Provérbios 25:12  Como pendentes e joias de ouro puro, assim é o sábio repreensor para o ouvido atento.
+Provérbios 25:13  Como o frescor de neve no tempo da ceifa, assim é o mensageiro fiel para com os que o enviam, porque refrigera a alma dos seus senhores.
+Provérbios 25:14  Como nuvens e ventos que não trazem chuva, assim é o homem que se gaba de dádivas que não fez.
+Provérbios 25:15  A longanimidade persuade o príncipe, e a língua branda esmaga ossos.
+Provérbios 25:16  Achaste mel? Come apenas o que te basta, para que não te fartes dele e venhas a vomitá-lo.
+Provérbios 25:17  Não sejas frequente na casa do teu próximo, para que não se enfade de ti e te aborreça.
+Provérbios 25:18  Maça, espada e flecha aguda é o homem que levanta falso testemunho contra o seu próximo.
+Provérbios 25:19  Como dente quebrado e pé sem firmeza, assim é a confiança no desleal, no tempo da angústia.
+Provérbios 25:20  Como quem se despe num dia de frio e como vinagre sobre feridas, assim é o que entoa canções junto ao coração aflito.
+Provérbios 25:21  Se o que te aborrece tiver fome, dá-lhe pão para comer; se tiver sede, dá-lhe água para beber,
+Provérbios 25:22  porque assim amontoarás brasas vivas sobre a sua cabeça, e o Senhor te retribuirá.
+Provérbios 25:23  O vento norte traz chuva, e a língua fingida, o rosto irado.
+Provérbios 25:24  Melhor é morar no canto do eirado do que junto com a mulher rixosa na mesma casa.
+Provérbios 25:25  Como água fria para o sedento, tais são as boas-novas vindas de um país remoto.
+Provérbios 25:26  Como fonte que foi turvada e manancial corrupto, assim é o justo que cede ao perverso.
+Provérbios 25:27  Comer muito mel não é bom; assim, procurar a própria honra não é honra.
+Provérbios 25:28  Como cidade derribada, que não tem muros, assim é o homem que não tem domínio próprio.
+Provérbios 26:1  Como a neve no verão e como a chuva na ceifa, assim, a honra não convém ao insensato.
+Provérbios 26:2  Como o pássaro que foge, como a andorinha no seu voo, assim, a maldição sem causa não se cumpre.
+Provérbios 26:3  O açoite é para o cavalo, o freio, para o jumento, e a vara, para as costas dos insensatos.
+Provérbios 26:4  Não respondas ao insensato segundo a sua estultícia, para que não te faças semelhante a ele.
+Provérbios 26:5  Ao insensato responde segundo a sua estultícia, para que não seja ele sábio aos seus próprios olhos.
+Provérbios 26:6  Os pés corta e o dano sofre quem manda mensagens por intermédio do insensato.
+Provérbios 26:7  As pernas do coxo pendem bambas; assim é o provérbio na boca dos insensatos.
+Provérbios 26:8  Como o que atira pedra preciosa num montão de ruínas, assim é o que dá honra ao insensato.
+Provérbios 26:9  Como galho de espinhos na mão do bêbado, assim é o provérbio na boca dos insensatos.
+Provérbios 26:10  Como um flecheiro que a todos fere, assim é o que assalaria os insensatos e os transgressores.
+Provérbios 26:11  Como o cão que torna ao seu vômito, assim é o insensato que reitera a sua estultícia.
+Provérbios 26:12  Tens visto a um homem que é sábio a seus próprios olhos? Maior esperança há no insensato do que nele.
+Provérbios 26:13  Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas.
+Provérbios 26:14  Como a porta se revolve nos seus gonzos, assim, o preguiçoso, no seu leito.
+Provérbios 26:15  O preguiçoso mete a mão no prato e não quer ter o trabalho de a levar à boca.
+Provérbios 26:16  Mais sábio é o preguiçoso a seus próprios olhos do que sete homens que sabem responder bem.
+Provérbios 26:17  Quem se mete em questão alheia é como aquele que toma pelas orelhas um cão que passa.
+Provérbios 26:18  Como o louco que lança fogo, flechas e morte,
+Provérbios 26:19  assim é o homem que engana a seu próximo e diz: Fiz isso por brincadeira.
+Provérbios 26:20  Sem lenha, o fogo se apaga; e, não havendo maldizente, cessa a contenda.
+Provérbios 26:21  Como o carvão é para a brasa, e a lenha, para o fogo, assim é o homem contencioso para acender rixas.
+Provérbios 26:22  As palavras do maldizente são comida fina, que desce para o mais interior do ventre.
+Provérbios 26:23  Como vaso de barro coberto de escórias de prata, assim são os lábios amorosos e o coração maligno.
+Provérbios 26:24  Aquele que aborrece dissimula com os lábios, mas no íntimo encobre o engano;
+Provérbios 26:25  quando te falar suavemente, não te fies nele, porque sete abominações há no seu coração.
+Provérbios 26:26  Ainda que o seu ódio se encobre com engano, a sua malícia se descobrirá publicamente.
+Provérbios 26:27  Quem abre uma cova nela cairá; e a pedra rolará sobre quem a revolve.
+Provérbios 26:28  A língua falsa aborrece a quem feriu, e a boca lisonjeira é causa de ruína.
+Provérbios 27:1  Não te glories do dia de amanhã, porque não sabes o que trará à luz.
+Provérbios 27:2  Seja outro o que te louve, e não a tua boca; o estrangeiro, e não os teus lábios.
+Provérbios 27:3  Pesada é a pedra, e a areia é uma carga; mas a ira do insensato é mais pesada do que uma e outra.
+Provérbios 27:4  Cruel é o furor, e impetuosa, a ira, mas quem pode resistir à inveja?
+Provérbios 27:5  Melhor é a repreensão franca do que o amor encoberto.
+Provérbios 27:6  Leais são as feridas feitas pelo que ama, porém os beijos de quem odeia são enganosos.
+Provérbios 27:7  A alma farta pisa o favo de mel, mas à alma faminta todo amargo é doce.
+Provérbios 27:8  Qual ave que vagueia longe do seu ninho, tal é o homem que anda vagueando longe do seu lar.
+Provérbios 27:9  Como o óleo e o perfume alegram o coração, assim, o amigo encontra doçura no conselho cordial.
+Provérbios 27:10  Não abandones o teu amigo, nem o amigo de teu pai, nem entres na casa de teu irmão no dia da tua adversidade. Mais vale o vizinho perto do que o irmão longe.
+Provérbios 27:11  Sê sábio, filho meu, e alegra o meu coração, para que eu saiba responder àqueles que me afrontam.
+Provérbios 27:12  O prudente vê o mal e esconde-se; mas os simples passam adiante e sofrem a pena.
+Provérbios 27:13  Tome-se a roupa àquele que fica fiador por outrem; e, por penhor, àquele que se obriga por mulher estranha.
+Provérbios 27:14  O que bendiz ao seu vizinho em alta voz, logo de manhã, por maldição lhe atribuem o que faz.
+Provérbios 27:15  O gotejar contínuo no dia de grande chuva e a mulher rixosa são semelhantes;
+Provérbios 27:16  contê-la seria conter o vento, seria pegar o óleo na mão.
+Provérbios 27:17  Como o ferro com o ferro se afia, assim, o homem, ao seu amigo.
+Provérbios 27:18  O que trata da figueira comerá do seu fruto; e o que cuida do seu senhor será honrado.
+Provérbios 27:19  Como na água o rosto corresponde ao rosto, assim, o coração do homem, ao homem.
+Provérbios 27:20  O inferno e o abismo nunca se fartam, e os olhos do homem nunca se satisfazem.
+Provérbios 27:21  Como o crisol prova a prata, e o forno, o ouro, assim, o homem é provado pelos louvores que recebe.
+Provérbios 27:22  Ainda que pises o insensato com mão de gral entre grãos pilados de cevada, não se vai dele a sua estultícia.
+Provérbios 27:23  Procura conhecer o estado das tuas ovelhas e cuida dos teus rebanhos,
+Provérbios 27:24  porque as riquezas não duram para sempre, nem a coroa, de geração em geração.
+Provérbios 27:25  Quando, removido o feno, aparecerem os renovos e se recolherem as ervas dos montes,
+Provérbios 27:26  então, os cordeiros te darão as vestes, os bodes, o preço do campo,
+Provérbios 27:27  e as cabras, leite em abundância para teu alimento, para alimento da tua casa e para sustento das tuas servas.
+Provérbios 28:1  Fogem os perversos, sem que ninguém os persiga; mas o justo é intrépido como o leão.
+Provérbios 28:2  Por causa da transgressão da terra, mudam-se frequentemente os príncipes, mas por um, sábio e prudente, se faz estável a sua ordem.
+Provérbios 28:3  O homem pobre que oprime os pobres é como chuva que a tudo arrasta e não deixa trigo.
+Provérbios 28:4  Os que desamparam a lei louvam o perverso, mas os que guardam a lei se indignam contra ele.
+Provérbios 28:5  Os homens maus não entendem o que é justo, mas os que buscam o Senhor entendem tudo.
+Provérbios 28:6  Melhor é o pobre que anda na sua integridade do que o perverso, nos seus caminhos, ainda que seja rico.
+Provérbios 28:7  O que guarda a lei é filho prudente, mas o companheiro de libertinos envergonha a seu pai.
+Provérbios 28:8  O que aumenta os seus bens com juros e ganância ajunta-os para o que se compadece do pobre.
+Provérbios 28:9  O que desvia os ouvidos de ouvir a lei, até a sua oração será abominável.
+Provérbios 28:10  O que desvia os retos para o mau caminho, ele mesmo cairá na cova que fez, mas os íntegros herdarão o bem.
+Provérbios 28:11  O homem rico é sábio aos seus próprios olhos; mas o pobre que é sábio sabe sondá-lo.
+Provérbios 28:12  Quando triunfam os justos, há grande festividade; quando, porém, sobem os perversos, os homens se escondem.
+Provérbios 28:13  O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa alcançará misericórdia.
+Provérbios 28:14  Feliz o homem constante no temor de Deus; mas o que endurece o coração cairá no mal.
+Provérbios 28:15  Como leão que ruge e urso que ataca, assim é o perverso que domina sobre um povo pobre.
+Provérbios 28:16  O príncipe falto de inteligência multiplica as opressões, mas o que aborrece a avareza viverá muitos anos.
+Provérbios 28:17  O homem carregado do sangue de outrem fugirá até à cova; ninguém o detenha.
+Provérbios 28:18  O que anda em integridade será salvo, mas o perverso em seus caminhos cairá logo.
+Provérbios 28:19  O que lavra a sua terra virá a fartar-se de pão, mas o que se ajunta a vadios se fartará de pobreza.
+Provérbios 28:20  O homem fiel será cumulado de bênçãos, mas o que se apressa a enriquecer não passará sem castigo.
+Provérbios 28:21  Parcialidade não é bom, porque até por um bocado de pão o homem prevaricará.
+Provérbios 28:22  Aquele que tem olhos invejosos corre atrás das riquezas, mas não sabe que há de vir sobre ele a penúria.
+Provérbios 28:23  O que repreende ao homem achará, depois, mais favor do que aquele que lisonjeia com a língua.
+Provérbios 28:24  O que rouba a seu pai ou a sua mãe e diz: Não é pecado, companheiro é do destruidor.
+Provérbios 28:25  O cobiçoso levanta contendas, mas o que confia no Senhor prosperará.
+Provérbios 28:26  O que confia no seu próprio coração é insensato, mas o que anda em sabedoria será salvo.
+Provérbios 28:27  O que dá ao pobre não terá falta, mas o que dele esconde os olhos será cumulado de maldições.
+Provérbios 28:28  Quando sobem os perversos, os homens se escondem, mas, quando eles perecem, os justos se multiplicam.
+Provérbios 29:1  O homem que muitas vezes repreendido endurece a cerviz será quebrantado de repente sem que haja cura.
+Provérbios 29:2  Quando se multiplicam os justos, o povo se alegra, quando, porém, domina o perverso, o povo suspira.
+Provérbios 29:3  O homem que ama a sabedoria alegra a seu pai, mas o companheiro de prostitutas desperdiça os bens.
+Provérbios 29:4  O rei justo sustém a terra, mas o amigo de impostos a transtorna.
+Provérbios 29:5  O homem que lisonjeia a seu próximo arma-lhe uma rede aos passos.
+Provérbios 29:6  Na transgressão do homem mau, há laço, mas o justo canta e se regozija.
+Provérbios 29:7  Informa-se o justo da causa dos pobres, mas o perverso de nada disso quer saber.
+Provérbios 29:8  Os homens escarnecedores alvoroçam a cidade, mas os sábios desviam a ira.
+Provérbios 29:9  Se o homem sábio discute com o insensato, quer este se encolerize, quer se ria, não haverá fim.
+Provérbios 29:10  Os sanguinários aborrecem o íntegro, ao passo que, quanto aos retos, procuram tirar-lhes a vida.
+Provérbios 29:11  O insensato expande toda a sua ira, mas o sábio afinal lha reprime.
+Provérbios 29:12  Se o governador dá atenção a palavras mentirosas, virão a ser perversos todos os seus servos.
+Provérbios 29:13  O pobre e o seu opressor se encontram, mas é o Senhor quem dá luz aos olhos de ambos.
+Provérbios 29:14  O rei que julga os pobres com equidade firmará o seu trono para sempre.
+Provérbios 29:15  A vara e a disciplina dão sabedoria, mas a criança entregue a si mesma vem a envergonhar a sua mãe.
+Provérbios 29:16  Quando os perversos se multiplicam, multiplicam-se as transgressões, mas os justos verão a ruína deles.
+Provérbios 29:17  Corrige o teu filho, e te dará descanso, dará delícias à tua alma.
+Provérbios 29:18  Não havendo profecia, o povo se corrompe; mas o que guarda a lei, esse é feliz.
+Provérbios 29:19  O servo não se emendará com palavras, porque, ainda que entenda, não obedecerá.
+Provérbios 29:20  Tens visto um homem precipitado nas suas palavras? Maior esperança há para o insensato do que para ele.
+Provérbios 29:21  Se alguém amimar o escravo desde a infância, por fim ele quererá ser filho.
+Provérbios 29:22  O iracundo levanta contendas, e o furioso multiplica as transgressões.
+Provérbios 29:23  A soberba do homem o abaterá, mas o humilde de espírito obterá honra.
+Provérbios 29:24  O que tem parte com o ladrão aborrece a própria alma; ouve as maldições e nada denuncia.
+Provérbios 29:25  Quem teme ao homem arma ciladas, mas o que confia no Senhor está seguro.
+Provérbios 29:26  Muitos buscam o favor daquele que governa, mas para o homem a justiça vem do Senhor.
+Provérbios 29:27  Para o justo, o iníquo é abominação, e o reto no seu caminho é abominação ao perverso.
+Provérbios 30:1  Palavras de Agur, filho de Jaque, de Massá. Disse o homem: Fatiguei-me, ó Deus; fatiguei-me, ó Deus, e estou exausto
+Provérbios 30:2  porque sou demasiadamente estúpido para ser homem; não tenho inteligência de homem,
+Provérbios 30:3  não aprendi a sabedoria, nem tenho o conhecimento do Santo.
+Provérbios 30:4  Quem subiu ao céu e desceu? Quem encerrou os ventos nos seus punhos? Quem amarrou as águas na sua roupa? Quem estabeleceu todas as extremidades da terra? Qual é o seu nome, e qual é o nome de seu filho, se é que o sabes?
+Provérbios 30:5  Toda palavra de Deus é pura; ele é escudo para os que nele confiam.
+Provérbios 30:6  Nada acrescentes às suas palavras, para que não te repreenda, e sejas achado mentiroso.
+Provérbios 30:7  Duas coisas te peço; não mas negues, antes que eu morra:
+Provérbios 30:8  afasta de mim a falsidade e a mentira; não me dês nem a pobreza nem a riqueza; dá-me o pão que me for necessário;
+Provérbios 30:9  para não suceder que, estando eu farto, te negue e diga: Quem é o Senhor? Ou que, empobrecido, venha a furtar e profane o nome de Deus.
+Provérbios 30:10  Não calunies o servo diante de seu senhor, para que aquele te não amaldiçoe e fiques culpado.
+Provérbios 30:11  Há daqueles que amaldiçoam a seu pai e que não bendizem a sua mãe.
+Provérbios 30:12  Há daqueles que são puros aos próprios olhos e que jamais foram lavados da sua imundícia.
+Provérbios 30:13  Há daqueles — quão altivos são os seus olhos e levantadas as suas pálpebras!
+Provérbios 30:14  Há daqueles cujos dentes são espadas, e cujos queixais são facas, para consumirem na terra os aflitos e os necessitados entre os homens.
+Provérbios 30:15  A sanguessuga tem duas filhas, a saber: Dá, Dá. Há três coisas que nunca se fartam, sim, quatro que não dizem: Basta!
+Provérbios 30:16  Elas são a sepultura, a madre estéril, a terra, que se não farta de água, e o fogo, que nunca diz: Basta!
+Provérbios 30:17  Os olhos de quem zomba do pai ou de quem despreza a obediência à sua mãe, corvos no ribeiro os arrancarão e pelos pintãos da águia serão comidos.
+Provérbios 30:18  Há três coisas que são maravilhosas demais para mim, sim, há quatro que não entendo:
+Provérbios 30:19  o caminho da águia no céu, o caminho da cobra na penha, o caminho do navio no meio do mar e o caminho do homem com uma donzela.
+Provérbios 30:20  Tal é o caminho da mulher adúltera: come, e limpa a boca, e diz: Não cometi maldade.
+Provérbios 30:21  Sob três coisas estremece a terra, sim, sob quatro não pode subsistir:
+Provérbios 30:22  sob o servo quando se torna rei; sob o insensato quando anda farto de pão;
+Provérbios 30:23  sob a mulher desdenhada quando se casa; sob a serva quando se torna herdeira da sua senhora.
+Provérbios 30:24  Há quatro coisas mui pequenas na terra que, porém, são mais sábias que os sábios:
+Provérbios 30:25  as formigas, povo sem força; todavia, no verão preparam a sua comida;
+Provérbios 30:26  os arganazes, povo não poderoso; contudo, fazem a sua casa nas rochas;
+Provérbios 30:27  os gafanhotos não têm rei; contudo, marcham todos em bandos;
+Provérbios 30:28  o geco, que se apanha com as mãos; contudo, está nos palácios dos reis.
+Provérbios 30:29  Há três que têm passo elegante, sim, quatro que andam airosamente:
+Provérbios 30:30  O leão, o mais forte entre os animais, que por ninguém torna atrás;
+Provérbios 30:31  o galo, que anda ereto, o bode e o rei, a quem não se pode resistir.
+Provérbios 30:32  Se procedeste insensatamente em te exaltares ou se maquinaste o mal, põe a mão na boca.
+Provérbios 30:33  Porque o bater do leite produz manteiga, e o torcer do nariz produz sangue, e o açular a ira produz contendas.
+Provérbios 31:1  Palavras do rei Lemuel, de Massá, as quais lhe ensinou sua mãe.
+Provérbios 31:2  Que te direi, filho meu? Ó filho do meu ventre? Que te direi, ó filho dos meus votos?
+Provérbios 31:3  Não dês às mulheres a tua força, nem os teus caminhos, às que destroem os reis.
+Provérbios 31:4  Não é próprio dos reis, ó Lemuel, não é próprio dos reis beber vinho, nem dos príncipes desejar bebida forte.
+Provérbios 31:5  Para que não bebam, e se esqueçam da lei, e pervertam o direito de todos os aflitos.
+Provérbios 31:6  Dai bebida forte aos que perecem e vinho, aos amargurados de espírito;
+Provérbios 31:7  para que bebam, e se esqueçam da sua pobreza, e de suas fadigas não se lembrem mais.
+Provérbios 31:8  Abre a boca a favor do mudo, pelo direito de todos os que se acham desamparados.
+Provérbios 31:9  Abre a boca, julga retamente e faze justiça aos pobres e aos necessitados.
+Provérbios 31:10  Mulher virtuosa, quem a achará? O seu valor muito excede o de finas joias.
+Provérbios 31:11  O coração do seu marido confia nela, e não haverá falta de ganho.
+Provérbios 31:12  Ela lhe faz bem e não mal, todos os dias da sua vida.
+Provérbios 31:13  Busca lã e linho e de bom grado trabalha com as mãos.
+Provérbios 31:14  É como o navio mercante: de longe traz o seu pão.
+Provérbios 31:15  É ainda noite, e já se levanta, e dá mantimento à sua casa e a tarefa às suas servas.
+Provérbios 31:16  Examina uma propriedade e adquire-a; planta uma vinha com as rendas do seu trabalho.
+Provérbios 31:17  Cinge os lombos de força e fortalece os braços.
+Provérbios 31:18  Ela percebe que o seu ganho é bom; a sua lâmpada não se apaga de noite.
+Provérbios 31:19  Estende as mãos ao fuso, mãos que pegam na roca.
+Provérbios 31:20  Abre a mão ao aflito; e ainda a estende ao necessitado.
+Provérbios 31:21  No tocante à sua casa, não teme a neve, pois todos andam vestidos de lã escarlate.
+Provérbios 31:22  Faz para si cobertas, veste-se de linho fino e de púrpura.
+Provérbios 31:23  Seu marido é estimado entre os juízes, quando se assenta com os anciãos da terra.
+Provérbios 31:24  Ela faz roupas de linho fino, e vende-as, e dá cintas aos mercadores.
+Provérbios 31:25  A força e a dignidade são os seus vestidos, e, quanto ao dia de amanhã, não tem preocupações.
+Provérbios 31:26  Fala com sabedoria, e a instrução da bondade está na sua língua.
+Provérbios 31:27  Atende ao bom andamento da sua casa e não come o pão da preguiça.
+Provérbios 31:28  Levantam-se seus filhos e lhe chamam ditosa; seu marido a louva, dizendo:
+Provérbios 31:29  Muitas mulheres procedem virtuosamente, mas tu a todas sobrepujas.
+Provérbios 31:30  Enganosa é a graça, e vã, a formosura, mas a mulher que teme ao Senhor, essa será louvada.
+Provérbios 31:31  Dai-lhe do fruto das suas mãos, e de público a louvarão as suas obras.
