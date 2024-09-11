@@ -21082,3 +21082,857 @@ Oséias 14:6  Estender-se-ão os seus ramos, o seu esplendor será como o da oli
 Oséias 14:7  Os que se assentam de novo à sua sombra voltarão; serão vivificados como o cereal e florescerão como a vide; a sua fama será como a do vinho do Líbano.
 Oséias 14:8  Ó Efraim, que tenho eu com os ídolos? Eu te ouvirei e cuidarei de ti; sou como o cipreste verde; de mim procede o teu fruto.
 Oséias 14:9  Quem é sábio, que entenda estas coisas; quem é prudente, que as saiba, porque os caminhos do Senhor são retos, e os justos andarão neles, mas os transgressores neles cairão.
+Joel 1:1  Palavra do Senhor que foi dirigida a Joel, filho de Petuel.
+Joel 1:2  Ouvi isto, vós, velhos, e escutai, todos os habitantes da terra: Aconteceu isto em vossos dias? Ou nos dias de vossos pais?
+Joel 1:3  Narrai isto a vossos filhos, e vossos filhos o façam a seus filhos, e os filhos destes, à outra geração.
+Joel 1:4  O que deixou o gafanhoto cortador, comeu-o o gafanhoto migrador; o que deixou o migrador, comeu-o o gafanhoto devorador; o que deixou o devorador, comeu-o o gafanhoto destruidor.
+Joel 1:5  Ébrios, despertai-vos e chorai; uivai, todos os que bebeis vinho, por causa do mosto, porque está ele tirado da vossa boca.
+Joel 1:6  Porque veio um povo contra a minha terra, poderoso e inumerável; os seus dentes são dentes de leão, e ele tem os queixais de uma leoa.
+Joel 1:7  Fez de minha vide uma assolação, destroçou a minha figueira, tirou-lhe a casca, que lançou por terra; os seus sarmentos se fizeram brancos.
+Joel 1:8  Lamenta com a virgem que, pelo marido da sua mocidade, está cingida de pano de saco.
+Joel 1:9  Cortada está da Casa do Senhor a oferta de manjares e a libação; os sacerdotes, ministros do Senhor, estão enlutados.
+Joel 1:10  O campo está assolado, e a terra, de luto, porque o cereal está destruído, a vide se secou, as olivas se murcharam.
+Joel 1:11  Envergonhai-vos, lavradores, uivai, vinhateiros, sobre o trigo e sobre a cevada, porque pereceu a messe do campo.
+Joel 1:12  A vide se secou, a figueira se murchou, a romeira também, e a palmeira e a macieira; todas as árvores do campo se secaram, e já não há alegria entre os filhos dos homens.
+Joel 1:13  Cingi-vos de pano de saco e lamentai, sacerdotes; uivai, ministros do altar; vinde, ministros de meu Deus; passai a noite vestidos de panos de saco; porque da casa de vosso Deus foi cortada a oferta de manjares e a libação.
+Joel 1:14  Promulgai um santo jejum, convocai uma assembleia solene, congregai os anciãos, todos os moradores desta terra, para a Casa do Senhor, vosso Deus, e clamai ao Senhor.
+Joel 1:15  Ah! Que dia! Porque o Dia do Senhor está perto e vem como assolação do Todo-Poderoso.
+Joel 1:16  Acaso, não está destruído o mantimento diante dos vossos olhos? E, da casa do nosso Deus, a alegria e o regozijo?
+Joel 1:17  A semente mirrou debaixo dos seus torrões, os celeiros foram assolados, os armazéns, derribados, porque se perdeu o cereal.
+Joel 1:18  Como geme o gado! As manadas de bois estão sobremodo inquietas, porque não têm pasto; também os rebanhos de ovelhas estão perecendo.
+Joel 1:19  A ti, ó Senhor, clamo, porque o fogo consumiu os pastos do deserto, e a chama abrasou todas as árvores do campo.
+Joel 1:20  Também todos os animais do campo bramam suspirantes por ti; porque os rios se secaram, e o fogo devorou os pastos do deserto.
+Joel 2:1  Tocai a trombeta em Sião e dai voz de rebate no meu santo monte; perturbem-se todos os moradores da terra, porque o Dia do Senhor vem, já está próximo;
+Joel 2:2  dia de escuridade e densas trevas, dia de nuvens e negridão! Como a alva por sobre os montes, assim se difunde um povo grande e poderoso, qual desde o tempo antigo nunca houve, nem depois dele haverá pelos anos adiante, de geração em geração.
+Joel 2:3  À frente dele vai fogo devorador, atrás, chama que abrasa; diante dele, a terra é como o jardim do Éden; mas, atrás dele, um deserto assolado. Nada lhe escapa.
+Joel 2:4  A sua aparência é como a de cavalos; e, como cavaleiros, assim correm.
+Joel 2:5  Estrondeando como carros, vêm, saltando pelos cimos dos montes, crepitando como chamas de fogo que devoram o restolho, como um povo poderoso posto em ordem de combate.
+Joel 2:6  Diante deles, tremem os povos; todos os rostos empalidecem.
+Joel 2:7  Correm como valentes; como homens de guerra, sobem muros; e cada um vai no seu caminho e não se desvia da sua fileira.
+Joel 2:8  Não empurram uns aos outros; cada um segue o seu rumo; arremetem contra lanças e não se detêm no seu caminho.
+Joel 2:9  Assaltam a cidade, correm pelos muros, sobem às casas; pelas janelas entram como ladrão.
+Joel 2:10  Diante deles, treme a terra, e os céus se abalam; o sol e a lua se escurecem, e as estrelas retiram o seu resplendor.
+Joel 2:11  O Senhor levanta a voz diante do seu exército; porque muitíssimo grande é o seu arraial; porque é poderoso quem executa as suas ordens; sim, grande é o Dia do Senhor e mui terrível! Quem o poderá suportar?
+Joel 2:12  Ainda assim, agora mesmo, diz o Senhor: Convertei-vos a mim de todo o vosso coração; e isso com jejuns, com choro e com pranto.
+Joel 2:13  Rasgai o vosso coração, e não as vossas vestes, e convertei-vos ao Senhor, vosso Deus, porque ele é misericordioso, e compassivo, e tardio em irar-se, e grande em benignidade, e se arrepende do mal.
+Joel 2:14  Quem sabe se não se voltará, e se arrependerá, e deixará após si uma bênção, uma oferta de manjares e libação para o Senhor, vosso Deus?
+Joel 2:15  Tocai a trombeta em Sião, promulgai um santo jejum, proclamai uma assembleia solene.
+Joel 2:16  Congregai o povo, santificai a congregação, ajuntai os anciãos, reuni os filhinhos e os que mamam; saia o noivo da sua recâmara, e a noiva, do seu aposento.
+Joel 2:17  Chorem os sacerdotes, ministros do Senhor, entre o pórtico e o altar, e orem: Poupa o teu povo, ó Senhor, e não entregues a tua herança ao opróbrio, para que as nações façam escárnio dele. Por que hão de dizer entre os povos: Onde está o seu Deus?
+Joel 2:18  Então, o Senhor se mostrou zeloso da sua terra, compadeceu-se do seu povo
+Joel 2:19  e, respondendo, lhe disse: Eis que vos envio o cereal, e o vinho, e o óleo, e deles sereis fartos, e vos não entregarei mais ao opróbrio entre as nações.
+Joel 2:20  Mas o exército que vem do Norte, eu o removerei para longe de vós, lançá-lo-ei em uma terra seca e deserta; lançarei a sua vanguarda para o mar oriental, e a sua retaguarda, para o mar ocidental; subirá o seu mau cheiro, e subirá a sua podridão; porque agiu poderosamente.
+Joel 2:21  Não temas, ó terra, regozija-te e alegra-te, porque o Senhor faz grandes coisas.
+Joel 2:22  Não temais, animais do campo, porque os pastos do deserto reverdecerão, porque o arvoredo dará o seu fruto, a figueira e a vide produzirão com vigor.
+Joel 2:23  Alegrai-vos, pois, filhos de Sião, regozijai-vos no Senhor, vosso Deus, porque ele vos dará em justa medida a chuva; fará descer, como outrora, a chuva temporã e a serôdia.
+Joel 2:24  As eiras se encherão de trigo, e os lagares transbordarão de vinho e de óleo.
+Joel 2:25  Restituir-vos-ei os anos que foram consumidos pelo gafanhoto migrador, pelo destruidor e pelo cortador, o meu grande exército que enviei contra vós outros.
+Joel 2:26  Comereis abundantemente, e vos fartareis, e louvareis o nome do Senhor, vosso Deus, que se houve maravilhosamente convosco; e o meu povo jamais será envergonhado.
+Joel 2:27  Sabereis que estou no meio de Israel e que eu sou o Senhor, vosso Deus, e não há outro; e o meu povo jamais será envergonhado.
+Joel 2:28  E acontecerá, depois, que derramarei o meu Espírito sobre toda a carne; vossos filhos e vossas filhas profetizarão, vossos velhos sonharão, e vossos jovens terão visões;
+Joel 2:29  até sobre os servos e sobre as servas derramarei o meu Espírito naqueles dias.
+Joel 2:30  Mostrarei prodígios no céu e na terra: sangue, fogo e colunas de fumaça.
+Joel 2:31  O sol se converterá em trevas, e a lua, em sangue, antes que venha o grande e terrível Dia do Senhor.
+Joel 2:32  E acontecerá que todo aquele que invocar o nome do Senhor será salvo; porque, no monte Sião e em Jerusalém, estarão os que forem salvos, como o Senhor prometeu; e, entre os sobreviventes, aqueles que o Senhor chamar.
+Joel 3:1  Eis que, naqueles dias e naquele tempo, em que mudarei a sorte de Judá e de Jerusalém,
+Joel 3:2  congregarei todas as nações e as farei descer ao vale de Josafá; e ali entrarei em juízo contra elas por causa do meu povo e da minha herança, Israel, a quem elas espalharam por entre os povos, repartindo a minha terra entre si.
+Joel 3:3  Lançaram sortes sobre o meu povo, e deram meninos por meretrizes, e venderam meninas por vinho, que beberam.
+Joel 3:4  Que tendes vós comigo, Tiro, e Sidom, e todas as regiões da Filístia? É isso vingança que quereis contra mim? Se assim me quereis vingar, farei, sem demora, cair sobre a vossa cabeça a vossa vingança.
+Joel 3:5  Visto que levastes a minha prata e o meu ouro, e as minhas joias preciosas metestes nos vossos templos,
+Joel 3:6  e vendestes os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para os apartar para longe dos seus limites,
+Joel 3:7  eis que eu os suscitarei do lugar para onde os vendestes e farei cair a vossa vingança sobre a vossa própria cabeça.
+Joel 3:8  Venderei vossos filhos e vossas filhas aos filhos de Judá, e estes, aos sabeus, a uma nação remota, porque o Senhor o disse.
+Joel 3:9  Proclamai isto entre as nações: Apregoai guerra santa e suscitai os valentes; cheguem-se, subam todos os homens de guerra.
+Joel 3:10  Forjai espadas das vossas relhas de arado e lanças, das vossas podadeiras; diga o fraco: Eu sou forte.
+Joel 3:11  Apressai-vos, e vinde, todos os povos em redor, e congregai-vos; para ali, ó Senhor, faze descer os teus valentes.
+Joel 3:12  Levantem-se as nações e sigam para o vale de Josafá; porque ali me assentarei para julgar todas as nações em redor.
+Joel 3:13  Lançai a foice, porque está madura a seara; vinde, pisai, porque o lagar está cheio, os seus compartimentos transbordam, porquanto a sua malícia é grande.
+Joel 3:14  Multidões, multidões no vale da Decisão! Porque o Dia do Senhor está perto, no vale da Decisão.
+Joel 3:15  O sol e a lua se escurecem, e as estrelas retiram o seu resplendor.
+Joel 3:16  O Senhor brama de Sião e se fará ouvir de Jerusalém, e os céus e a terra tremerão; mas o Senhor será o refúgio do seu povo e a fortaleza dos filhos de Israel.
+Joel 3:17  Sabereis, assim, que eu sou o Senhor, vosso Deus, que habito em Sião, meu santo monte; e Jerusalém será santa; estranhos não passarão mais por ela.
+Joel 3:18  E há de ser que, naquele dia, os montes destilarão mosto, e os outeiros manarão leite, e todos os rios de Judá estarão cheios de águas; sairá uma fonte da Casa do Senhor e regará o vale de Sitim.
+Joel 3:19  O Egito se tornará uma desolação, e Edom se fará um deserto abandonado, por causa da violência que fizeram aos filhos de Judá, em cuja terra derramaram sangue inocente.
+Joel 3:20  Judá, porém, será habitada para sempre, e Jerusalém, de geração em geração.
+Joel 3:21  Eu expiarei o sangue dos que não foram expiados, porque o Senhor habitará em Sião.
+Amós 1:1  Palavras que, em visão, vieram a Amós, que era entre os pastores de Tecoa, a respeito de Israel, nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
+Amós 1:2  Ele disse: O Senhor rugirá de Sião e de Jerusalém fará ouvir a sua voz; os prados dos pastores estarão de luto, e secar-se-á o cimo do Carmelo.
+Amós 1:3  Assim diz o Senhor: Por três transgressões de Damasco e por quatro, não sustarei o castigo, porque trilharam a Gileade com trilhos de ferro.
+Amós 1:4  Por isso, meterei fogo à casa de Hazael, fogo que consumirá os castelos de Ben-Hadade.
+Amós 1:5  Quebrarei o ferrolho de Damasco e eliminarei o morador de Biqueate-Áven e ao que tem o cetro de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o Senhor.
+Amós 1:6  Assim diz o Senhor: Por três transgressões de Gaza e por quatro, não sustarei o castigo, porque levaram em cativeiro todo o povo, para o entregarem a Edom.
+Amós 1:7  Por isso, meterei fogo aos muros de Gaza, fogo que consumirá os seus castelos.
+Amós 1:8  Eliminarei o morador de Asdode e o que tem o cetro de Asquelom e volverei a mão contra Ecrom; e o resto dos filisteus perecerá, diz o Senhor.
+Amós 1:9  Assim diz o Senhor: Por três transgressões de Tiro e por quatro, não sustarei o castigo, porque entregaram todos os cativos a Edom e não se lembraram da aliança de irmãos.
+Amós 1:10  Por isso, meterei fogo aos muros de Tiro, fogo que consumirá os seus castelos.
+Amós 1:11  Assim diz o Senhor: Por três transgressões de Edom e por quatro, não sustarei o castigo, porque perseguiu o seu irmão à espada e baniu toda a misericórdia; e a sua ira não cessou de despedaçar, e reteve a sua indignação para sempre.
+Amós 1:12  Por isso, meterei fogo a Temã, fogo que consumirá os castelos de Bozra.
+Amós 1:13  Assim diz o Senhor: Por três transgressões dos filhos de Amom e por quatro, não sustarei o castigo, porque rasgaram o ventre às grávidas de Gileade, para dilatarem os seus próprios limites.
+Amós 1:14  Por isso, meterei fogo aos muros de Rabá, fogo que consumirá os seus castelos, com alarido no dia da batalha, com turbilhão no dia da tempestade.
+Amós 1:15  O seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz o Senhor.
+Amós 2:1  Assim diz o Senhor: Por três transgressões de Moabe e por quatro, não sustarei o castigo, porque queimou os ossos do rei de Edom, até os reduzir a cal.
+Amós 2:2  Por isso, meterei fogo a Moabe, fogo que consumirá os castelos de Queriote; Moabe morrerá entre grande estrondo, alarido e som de trombeta.
+Amós 2:3  Eliminarei o juiz do meio dele e a todos os seus príncipes com ele matarei, diz o Senhor.
+Amós 2:4  Assim diz o Senhor: Por três transgressões de Judá e por quatro, não sustarei o castigo, porque rejeitaram a lei do Senhor e não guardaram os seus estatutos; antes, as suas próprias mentiras os enganaram, e após elas andaram seus pais.
+Amós 2:5  Por isso, meterei fogo a Judá, fogo que consumirá os castelos de Jerusalém.
+Amós 2:6  Assim diz o Senhor: Por três transgressões de Israel e por quatro, não sustarei o castigo, porque os juízes vendem o justo por dinheiro e condenam o necessitado por causa de um par de sandálias.
+Amós 2:7  Suspiram pelo pó da terra sobre a cabeça dos pobres e pervertem o caminho dos mansos; um homem e seu pai coabitam com a mesma jovem e, assim, profanam o meu santo nome.
+Amós 2:8  E se deitam ao pé de qualquer altar sobre roupas empenhadas e, na casa do seu deus, bebem o vinho dos que foram multados.
+Amós 2:9  Todavia, eu destruí diante deles o amorreu, cuja altura era como a dos cedros, e que era forte como os carvalhos; e destruí o seu fruto por cima e as suas raízes por baixo.
+Amós 2:10  Também vos fiz subir da terra do Egito e quarenta anos vos conduzi no deserto, para que possuísseis a terra do amorreu.
+Amós 2:11  Dentre os vossos filhos, suscitei profetas e, dentre os vossos jovens, nazireus. Não é isto assim, filhos de Israel? — diz o Senhor.
+Amós 2:12  Mas vós aos nazireus destes a beber vinho e aos profetas ordenastes, dizendo: Não profetizeis.
+Amós 2:13  Eis que farei oscilar a terra debaixo de vós, como oscila um carro carregado de feixes.
+Amós 2:14  De nada valerá a fuga ao ágil, o forte não usará a sua força, nem o valente salvará a sua vida.
+Amós 2:15  O que maneja o arco não resistirá, nem o ligeiro de pés se livrará, nem tampouco o que vai montado a cavalo salvará a sua vida.
+Amós 2:16  E o mais corajoso entre os valentes fugirá nu naquele dia, disse o Senhor.
+Amós 3:1  Ouvi a palavra que o Senhor fala contra vós outros, filhos de Israel, contra toda a família que ele fez subir da terra do Egito, dizendo:
+Amós 3:2  De todas as famílias da terra, somente a vós outros vos escolhi; portanto, eu vos punirei por todas as vossas iniquidades.
+Amós 3:3  Andarão dois juntos, se não houver entre eles acordo?
+Amós 3:4  Rugirá o leão no bosque, sem que tenha presa? Levantará o leãozinho no covil a sua voz, se nada tiver apanhado?
+Amós 3:5  Cairá a ave no laço em terra, se não houver armadilha para ela? Levantar-se-á o laço da terra, sem que tenha apanhado alguma coisa?
+Amós 3:6  Tocar-se-á a trombeta na cidade, sem que o povo se estremeça? Sucederá algum mal à cidade, sem que o Senhor o tenha feito?
+Amós 3:7  Certamente, o Senhor Deus não fará coisa alguma, sem primeiro revelar o seu segredo aos seus servos, os profetas.
+Amós 3:8  Rugiu o leão, quem não temerá? Falou o Senhor Deus, quem não profetizará?
+Amós 3:9  Fazei ouvir isto nos castelos de Asdode e nos castelos da terra do Egito e dizei: Ajuntai-vos sobre os montes de Samaria e vede que grandes tumultos há nela e que opressões há no meio dela.
+Amós 3:10  Porque Israel não sabe fazer o que é reto, diz o Senhor, e entesoura nos seus castelos a violência e a devastação.
+Amós 3:11  Portanto, assim diz o Senhor Deus: Um inimigo cercará a tua terra, derribará a tua fortaleza, e os teus castelos serão saqueados.
+Amós 3:12  Assim diz o Senhor: Como o pastor livra da boca do leão as duas pernas ou um pedacinho da orelha, assim serão salvos os filhos de Israel que habitam em Samaria com apenas o canto da cama e parte do leito.
+Amós 3:13  Ouvi e protestai contra a casa de Jacó, diz o Senhor Deus, o Deus dos Exércitos:
+Amós 3:14  No dia em que eu punir Israel, por causa das suas transgressões, visitarei também os altares de Betel; e as pontas do altar serão cortadas e cairão por terra.
+Amós 3:15  Derribarei a casa de inverno com a casa de verão; as casas de marfim perecerão, e as grandes casas serão destruídas, diz o Senhor.
+Amós 4:1  Ouvi esta palavra, vacas de Basã, que estais no monte de Samaria, oprimis os pobres, esmagais os necessitados e dizeis a vosso marido: Dá cá, e bebamos.
+Amós 4:2  Jurou o Senhor Deus, pela sua santidade, que dias estão para vir sobre vós, em que vos levarão com anzóis e as vossas restantes com fisga de pesca.
+Amós 4:3  Saireis cada uma em frente de si pelas brechas e vos lançareis para Hermom, disse o Senhor.
+Amós 4:4  Vinde a Betel e transgredi, a Gilgal, e multiplicai as transgressões; e, cada manhã, trazei os vossos sacrifícios e, de três em três dias, os vossos dízimos;
+Amós 4:5  e oferecei sacrifício de louvores do que é levedado, e apregoai ofertas voluntárias, e publicai-as, porque disso gostais, ó filhos de Israel, disse o Senhor Deus.
+Amós 4:6  Também vos deixei de dentes limpos em todas as vossas cidades e com falta de pão em todos os vossos lugares; contudo, não vos convertestes a mim, disse o Senhor.
+Amós 4:7  Além disso, retive de vós a chuva, três meses ainda antes da ceifa; e fiz chover sobre uma cidade e sobre a outra, não; um campo teve chuva, mas o outro, que ficou sem chuva, se secou.
+Amós 4:8  Andaram duas ou três cidades, indo a outra cidade para beberem água, mas não se saciaram; contudo, não vos convertestes a mim, disse o Senhor.
+Amós 4:9  Feri-vos com o crestamento e a ferrugem; a multidão das vossas hortas, e das vossas vinhas, e das vossas figueiras, e das vossas oliveiras, devorou-a o gafanhoto; contudo, não vos convertestes a mim, disse o Senhor.
+Amós 4:10  Enviei a peste contra vós outros à maneira do Egito; os vossos jovens, matei-os à espada, e os vossos cavalos, deixei-os levar presos, e o mau cheiro dos vossos arraiais fiz subir aos vossos narizes; contudo, não vos convertestes a mim, disse o Senhor.
+Amós 4:11  Subverti alguns dentre vós, como Deus subverteu a Sodoma e Gomorra, e vós fostes como um tição arrebatado da fogueira; contudo, não vos convertestes a mim, disse o Senhor.
+Amós 4:12  Portanto, assim te farei, ó Israel! E, porque isso te farei, prepara-te, ó Israel, para te encontrares com o teu Deus.
+Amós 4:13  Porque é ele quem forma os montes, e cria o vento, e declara ao homem qual é o seu pensamento; e faz da manhã trevas e pisa os altos da terra; Senhor, Deus dos Exércitos, é o seu nome.
+Amós 5:1  Ouvi esta palavra que levanto como lamentação sobre vós, ó casa de Israel:
+Amós 5:2  Caiu a virgem de Israel, nunca mais tornará a levantar-se; estendida está na sua terra, e não há quem a levante.
+Amós 5:3  Porque assim diz o Senhor Deus: A cidade da qual saem mil conservará cem, e aquela da qual saem cem conservará dez à casa de Israel.
+Amós 5:4  Pois assim diz o Senhor à casa de Israel: Buscai-me e vivei.
+Amós 5:5  Porém não busqueis a Betel, nem venhais a Gilgal, nem passeis a Berseba, porque Gilgal, certamente, será levada cativa, e Betel será desfeita em nada.
+Amós 5:6  Buscai ao Senhor e vivei, para que não irrompa na casa de José como um fogo que a consuma, e não haja em Betel quem o apague.
+Amós 5:7  Vós que converteis o juízo em alosna e deitais por terra a justiça,
+Amós 5:8  procurai o que faz o Sete-estrelo e o Órion, e torna a densa treva em manhã, e muda o dia em noite; o que chama as águas do mar e as derrama sobre a terra; Senhor é o seu nome.
+Amós 5:9  É ele que faz vir súbita destruição sobre o forte e ruína contra a fortaleza.
+Amós 5:10  Aborreceis na porta ao que vos repreende e abominais o que fala sinceramente.
+Amós 5:11  Portanto, visto que pisais o pobre e dele exigis tributo de trigo, não habitareis nas casas de pedras lavradas que tendes edificado; nem bebereis do vinho das vides desejáveis que tendes plantado.
+Amós 5:12  Porque sei serem muitas as vossas transgressões e graves os vossos pecados; afligis o justo, tomais suborno e rejeitais os necessitados na porta.
+Amós 5:13  Portanto, o que for prudente guardará, então, silêncio, porque é tempo mau.
+Amós 5:14  Buscai o bem e não o mal, para que vivais; e, assim, o Senhor, o Deus dos Exércitos, estará convosco, como dizeis.
+Amós 5:15  Aborrecei o mal, e amai o bem, e estabelecei na porta o juízo; talvez o Senhor, o Deus dos Exércitos, se compadeça do restante de José.
+Amós 5:16  Portanto, assim diz o Senhor, o Senhor, Deus dos Exércitos: Em todas as praças haverá pranto; e em todas as ruas dirão: Ai! Ai! E ao lavrador chamarão para o pranto e, para o choro, os que sabem prantear.
+Amós 5:17  Em todas as vinhas haverá pranto, porque passarei pelo meio de ti, diz o Senhor.
+Amós 5:18  Ai de vós que desejais o Dia do Senhor! Para que desejais vós o Dia do Senhor? É dia de trevas e não de luz.
+Amós 5:19  Como se um homem fugisse de diante do leão, e se encontrasse com ele o urso; ou como se, entrando em casa, encostando a mão à parede, fosse mordido de uma cobra.
+Amós 5:20  Não será, pois, o Dia do Senhor trevas e não luz? Não será completa escuridão, sem nenhuma claridade?
+Amós 5:21  Aborreço, desprezo as vossas festas e com as vossas assembleias solenes não tenho nenhum prazer.
+Amós 5:22  E, ainda que me ofereçais holocaustos e vossas ofertas de manjares, não me agradarei deles, nem atentarei para as ofertas pacíficas de vossos animais cevados.
+Amós 5:23  Afasta de mim o estrépito dos teus cânticos, porque não ouvirei as melodias das tuas liras.
+Amós 5:24  Antes, corra o juízo como as águas; e a justiça, como ribeiro perene.
+Amós 5:25  Apresentastes-me, vós, sacrifícios e ofertas de manjares no deserto por quarenta anos, ó casa de Israel?
+Amós 5:26  Sim, levastes Sicute, vosso rei, Quium, vossa imagem, e o vosso deus-estrela, que fizestes para vós mesmos.
+Amós 5:27  Por isso, vos desterrarei para além de Damasco, diz o Senhor, cujo nome é Deus dos Exércitos.
+Amós 6:1  Ai dos que andam à vontade em Sião e dos que vivem sem receio no monte de Samaria, homens notáveis da principal das nações, aos quais vem a casa de Israel!
+Amós 6:2  Passai a Calné e vede; e, dali, ide à grande Hamate; depois, descei a Gate dos filisteus; sois melhores que estes reinos? Ou será maior o seu território do que o vosso território?
+Amós 6:3  Vós que imaginais estar longe o dia mau e fazeis chegar o trono da violência;
+Amós 6:4  que dormis em camas de marfim, e vos espreguiçais sobre o vosso leito, e comeis os cordeiros do rebanho e os bezerros do cevadouro;
+Amós 6:5  que cantais à toa ao som da lira e inventais, como Davi, instrumentos músicos para vós mesmos;
+Amós 6:6  que bebeis vinho em taças e vos ungis com o mais excelente óleo, mas não vos afligis com a ruína de José.
+Amós 6:7  Portanto, agora, ireis em cativeiro entre os primeiros que forem levados cativos, e cessarão as pândegas dos espreguiçadores.
+Amós 6:8  Jurou o Senhor Deus por si mesmo, o Senhor, Deus dos Exércitos, e disse: Abomino a soberba de Jacó e odeio os seus castelos; e abandonarei a cidade e tudo o que nela há.
+Amós 6:9  Se numa casa ficarem dez homens, também esses morrerão.
+Amós 6:10  Se, porém, um parente chegado, o qual os há de queimar, toma os cadáveres para os levar fora da casa e diz ao que estiver no seu mais interior: Haverá outro contigo? E este responder: Não há; então, lhe dirá: Cala-te, não menciones o nome do Senhor.
+Amós 6:11  Pois eis que o Senhor ordena, e será destroçada em ruínas a casa grande, e a pequena, feita em pedaços.
+Amós 6:12  Poderão correr cavalos na rocha? E lavrá-la com bois? No entanto, haveis tornado o juízo em veneno e o fruto da justiça, em alosna.
+Amós 6:13  Vós vos alegrais com Lo-Debar e dizeis: Não é assim que, por nossas próprias forças, nos apoderamos de Carnaim?
+Amós 6:14  Pois eis que levantarei sobre vós, ó casa de Israel, uma nação, diz o Senhor, Deus dos Exércitos, a qual vos oprimirá, desde a entrada de Hamate até ao ribeiro da Arabá.
+Amós 7:1  Isto me fez ver o Senhor Deus: eis que ele formava gafanhotos ao surgir o rebento da erva serôdia; e era a erva serôdia depois de findas as ceifas do rei.
+Amós 7:2  Tendo eles comido de todo a erva da terra, disse eu: Senhor Deus, perdoa, rogo-te; como subsistirá Jacó? Pois ele é pequeno.
+Amós 7:3  Então, o Senhor se arrependeu disso. Não acontecerá, disse o Senhor.
+Amós 7:4  Isto me mostrou o Senhor Deus: eis que o Senhor Deus chamou o fogo para exercer a sua justiça; este consumiu o grande abismo e devorava a herança do Senhor.
+Amós 7:5  Então, disse eu: Senhor Deus, cessa agora; como subsistirá Jacó? Pois ele é pequeno.
+Amós 7:6  E o Senhor se arrependeu disso. Também não acontecerá, disse o Senhor Deus.
+Amós 7:7  Mostrou-me também isto: eis que o Senhor estava sobre um muro levantado a prumo; e tinha um prumo na mão.
+Amós 7:8  O Senhor me disse: Que vês tu, Amós? Respondi: Um prumo. Então, me disse o Senhor: Eis que eu porei o prumo no meio do meu povo de Israel; e jamais passarei por ele.
+Amós 7:9  Mas os altos de Isaque serão assolados, e destruídos, os santuários de Israel; e levantar-me-ei com a espada contra a casa de Jeroboão.
+Amós 7:10  Então, Amazias, o sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: Amós tem conspirado contra ti, no meio da casa de Israel; a terra não pode sofrer todas as suas palavras.
+Amós 7:11  Porque assim diz Amós: Jeroboão morrerá à espada, e Israel, certamente, será levado para fora de sua terra, em cativeiro.
+Amós 7:12  Então, Amazias disse a Amós: Vai-te, ó vidente, foge para a terra de Judá, e ali come o teu pão, e ali profetiza;
+Amós 7:13  mas em Betel, daqui por diante, já não profetizarás, porque é o santuário do rei e o templo do reino.
+Amós 7:14  Respondeu Amós e disse a Amazias: Eu não sou profeta, nem discípulo de profeta, mas boieiro e colhedor de sicômoros.
+Amós 7:15  Mas o Senhor me tirou de após o gado e o Senhor me disse: Vai e profetiza ao meu povo de Israel.
+Amós 7:16  Ora, pois, ouve a palavra do Senhor. Tu dizes: Não profetizarás contra Israel, nem falarás contra a casa de Isaque.
+Amós 7:17  Portanto, assim diz o Senhor: Tua mulher se prostituirá na cidade, e teus filhos e tuas filhas cairão à espada, e a tua terra será repartida a cordel, e tu morrerás na terra imunda, e Israel, certamente, será levado cativo para fora da sua terra.
+Amós 8:1  O Senhor Deus me fez ver isto: eis aqui um cesto de frutos de verão.
+Amós 8:2  E perguntou: Que vês, Amós? E eu respondi: Um cesto de frutos de verão. Então, o Senhor me disse: Chegou o fim para o meu povo de Israel; e jamais passarei por ele.
+Amós 8:3  Mas os cânticos do templo, naquele dia, serão uivos, diz o Senhor Deus; multiplicar-se-ão os cadáveres; em todos os lugares, serão lançados fora. Silêncio!
+Amós 8:4  Ouvi isto, vós que tendes gana contra o necessitado e destruís os miseráveis da terra,
+Amós 8:5  dizendo: Quando passará a Festa da Lua Nova, para vendermos os cereais? E o sábado, para abrirmos os celeiros de trigo, diminuindo o efa, e aumentando o siclo, e procedendo dolosamente com balanças enganadoras,
+Amós 8:6  para comprarmos os pobres por dinheiro e os necessitados por um par de sandálias e vendermos o refugo do trigo?
+Amós 8:7  Jurou o Senhor pela glória de Jacó: Eu não me esquecerei de todas as suas obras, para sempre!
+Amós 8:8  Por causa disto, não estremecerá a terra? E não se enlutará todo aquele que habita nela? Certamente, levantar-se-á toda como o Nilo, será agitada e abaixará como o rio do Egito.
+Amós 8:9  Sucederá que, naquele dia, diz o Senhor Deus, farei que o sol se ponha ao meio-dia e entenebrecerei a terra em dia claro.
+Amós 8:10  Converterei as vossas festas em luto e todos os vossos cânticos em lamentações; porei pano de saco sobre todos os lombos e calva sobre toda cabeça; e farei que isso seja como luto por filho único, luto cujo fim será como dia de amarguras.
+Amós 8:11  Eis que vêm dias, diz o Senhor Deus, em que enviarei fome sobre a terra, não de pão, nem sede de água, mas de ouvir as palavras do Senhor.
+Amós 8:12  Andarão de mar a mar e do Norte até ao Oriente; correrão por toda parte, procurando a palavra do Senhor, e não a acharão.
+Amós 8:13  Naquele dia, as virgens formosas e os jovens desmaiarão de sede,
+Amós 8:14  os que, agora, juram pelo ídolo de Samaria e dizem: Como é certo viver o teu deus, ó Dã! E: Como é certo viver o culto de Berseba! Esses mesmos cairão e não se levantarão jamais.
+Amós 9:1  Vi o Senhor, que estava em pé junto ao altar; e me disse: Fere os capitéis, e estremecerão os umbrais, e faze tudo em pedaços sobre a cabeça de todos eles; matarei à espada até ao último deles; nenhum deles fugirá, e nenhum escapará.
+Amós 9:2  Ainda que desçam ao mais profundo abismo, a minha mão os tirará de lá; se subirem ao céu, de lá os farei descer.
+Amós 9:3  Se se esconderem no cimo do Carmelo, de lá buscá-los-ei e de lá os tirarei; e, se dos meus olhos se ocultarem no fundo do mar, de lá darei ordem à serpente, e ela os morderá.
+Amós 9:4  Se forem para o cativeiro diante de seus inimigos, ali darei ordem à espada, e ela os matará; porei os olhos sobre eles, para o mal e não para o bem.
+Amós 9:5  Porque o Senhor, o Senhor dos Exércitos, é o que toca a terra, e ela se derrete, e todos os que habitam nela se enlutarão; ela subirá toda como o Nilo e abaixará como o rio do Egito.
+Amós 9:6  Deus é o que edifica as suas câmaras no céu e a sua abóbada fundou na terra; é o que chama as águas do mar e as derrama sobre a terra; Senhor é o seu nome.
+Amós 9:7  Não sois vós para mim, ó filhos de Israel, como os filhos dos etíopes? — diz o Senhor. Não fiz eu subir a Israel da terra do Egito, e de Caftor, os filisteus, e de Quir, os siros?
+Amós 9:8  Eis que os olhos do Senhor Deus estão contra este reino pecador, e eu o destruirei de sobre a face da terra; mas não destruirei de todo a casa de Jacó, diz o Senhor.
+Amós 9:9  Porque eis que darei ordens e sacudirei a casa de Israel entre todas as nações, assim como se sacode trigo no crivo, sem que caia na terra um só grão.
+Amós 9:10  Todos os pecadores do meu povo morrerão à espada, os quais dizem: O mal não nos alcançará, nem nos encontrará.
+Amós 9:11  Naquele dia, levantarei o tabernáculo caído de Davi, repararei as suas brechas; e, levantando-o das suas ruínas, restaurá-lo-ei como fora nos dias da antiguidade;
+Amós 9:12  para que possuam o restante de Edom e todas as nações que são chamadas pelo meu nome, diz o Senhor, que faz estas coisas.
+Amós 9:13  Eis que vêm dias, diz o Senhor, em que o que lavra segue logo ao que ceifa, e o que pisa as uvas, ao que lança a semente; os montes destilarão mosto, e todos os outeiros se derreterão.
+Amós 9:14  Mudarei a sorte do meu povo de Israel; reedificarão as cidades assoladas e nelas habitarão, plantarão vinhas e beberão o seu vinho, farão pomares e lhes comerão o fruto.
+Amós 9:15  Plantá-los-ei na sua terra, e, dessa terra que lhes dei, já não serão arrancados, diz o Senhor, teu Deus.
+Obadias 1:1  Visão de Obadias. Assim diz o Senhor Deus a respeito de Edom: Temos ouvido as novas do Senhor, e às nações foi enviado um mensageiro que disse: Levantai-vos, e levantemo-nos contra Edom, para a guerra.
+Obadias 1:2  Eis que te fiz pequeno entre as nações; tu és mui desprezado.
+Obadias 1:3  A soberba do teu coração te enganou, ó tu que habitas nas fendas das rochas, na tua alta morada, e dizes no teu coração: Quem me deitará por terra?
+Obadias 1:4  Se te remontares como águia e puseres o teu ninho entre as estrelas, de lá te derribarei, diz o Senhor.
+Obadias 1:5  Se viessem a ti ladrões ou roubadores de noite (como estás destruído!), não furtariam só o que lhes bastasse? Se a ti viessem os vindimadores, não deixariam pelo menos alguns cachos?
+Obadias 1:6  Como foram rebuscados os bens de Esaú! Como foram esquadrinhados os seus tesouros escondidos!
+Obadias 1:7  Todos os teus aliados te levaram para fora dos teus limites; os que gozam da tua paz te enganaram, prevaleceram contra ti; os que comem o teu pão puseram armadilhas para teus pés; não há em Edom entendimento.
+Obadias 1:8  Não acontecerá, naquele dia, diz o Senhor, que farei perecer os sábios de Edom e o entendimento do monte de Esaú?
+Obadias 1:9  Os teus valentes, ó Temã, estarão atemorizados, para que, do monte de Esaú, seja cada um exterminado pela matança.
+Obadias 1:10  Por causa da violência feita a teu irmão Jacó, cobrir-te-á a vergonha, e serás exterminado para sempre.
+Obadias 1:11  No dia em que, estando tu presente, estranhos lhe levaram os bens, e estrangeiros lhe entraram pelas portas e deitaram sortes sobre Jerusalém, tu mesmo eras um deles.
+Obadias 1:12  Mas tu não devias ter olhado com prazer para o dia de teu irmão, o dia da sua calamidade; nem ter-te alegrado sobre os filhos de Judá, no dia da sua ruína; nem ter falado de boca cheia, no dia da angústia;
+Obadias 1:13  não devias ter entrado pela porta do meu povo, no dia da sua calamidade; tu não devias ter olhado com prazer para o seu mal, no dia da sua calamidade; nem ter lançado mão nos seus bens, no dia da sua calamidade;
+Obadias 1:14  não devias ter parado nas encruzilhadas, para exterminares os que escapassem; nem ter entregado os que lhe restassem, no dia da angústia.
+Obadias 1:15  Porque o Dia do Senhor está prestes a vir sobre todas as nações; como tu fizeste, assim se fará contigo; o teu malfeito tornará sobre a tua cabeça.
+Obadias 1:16  Porque, como bebestes no meu santo monte, assim beberão, de contínuo, todas as nações; beberão, sorverão e serão como se nunca tivessem sido.
+Obadias 1:17  Mas, no monte Sião, haverá livramento; o monte será santo; e os da casa de Jacó possuirão as suas herdades.
+Obadias 1:18  A casa de Jacó será fogo, e a casa de José, chama, e a casa de Esaú, restolho; aqueles incendiarão a este e o consumirão; e ninguém mais restará da casa de Esaú, porque o Senhor o falou.
+Obadias 1:19  Os de Neguebe possuirão o monte de Esaú, e os da planície, aos filisteus; possuirão também os campos de Efraim e os campos de Samaria; e Benjamim possuirá a Gileade.
+Obadias 1:20  Os cativos do exército dos filhos de Israel possuirão os cananeus até Sarepta, e os cativos de Jerusalém, que estão em Sefarade, possuirão as cidades do Sul.
+Obadias 1:21  Salvadores hão de subir ao monte Sião, para julgarem o monte de Esaú; e o reino será do Senhor.
+Jonas 1:1  Veio a palavra do Senhor a Jonas, filho de Amitai, dizendo:
+Jonas 1:2  Dispõe-te, vai à grande cidade de Nínive e clama contra ela, porque a sua malícia subiu até mim.
+Jonas 1:3  Jonas se dispôs, mas para fugir da presença do Senhor, para Társis; e, tendo descido a Jope, achou um navio que ia para Társis; pagou, pois, a sua passagem e embarcou nele, para ir com eles para Társis, para longe da presença do Senhor.
+Jonas 1:4  Mas o Senhor lançou sobre o mar um forte vento, e fez-se no mar uma grande tempestade, e o navio estava a ponto de se despedaçar.
+Jonas 1:5  Então, os marinheiros, cheios de medo, clamavam cada um ao seu deus e lançavam ao mar a carga que estava no navio, para o aliviarem do peso dela. Jonas, porém, havia descido ao porão e se deitado; e dormia profundamente.
+Jonas 1:6  Chegou-se a ele o mestre do navio e lhe disse: Que se passa contigo? Agarrado no sono? Levanta-te, invoca o teu deus; talvez, assim, esse deus se lembre de nós, para que não pereçamos.
+Jonas 1:7  E diziam uns aos outros: Vinde, e lancemos sortes, para que saibamos por causa de quem nos sobreveio este mal. E lançaram sortes, e a sorte caiu sobre Jonas.
+Jonas 1:8  Então, lhe disseram: Declara-nos, agora, por causa de quem nos sobreveio este mal. Que ocupação é a tua? Donde vens? Qual a tua terra? E de que povo és tu?
+Jonas 1:9  Ele lhes respondeu: Sou hebreu e temo ao Senhor, o Deus do céu, que fez o mar e a terra.
+Jonas 1:10  Então, os homens ficaram possuídos de grande temor e lhe disseram: Que é isto que fizeste! Pois sabiam os homens que ele fugia da presença do Senhor, porque lho havia declarado.
+Jonas 1:11  Disseram-lhe: Que te faremos, para que o mar se nos acalme? Porque o mar se ia tornando cada vez mais tempestuoso.
+Jonas 1:12  Respondeu-lhes: Tomai-me e lançai-me ao mar, e o mar se aquietará, porque eu sei que, por minha causa, vos sobreveio esta grande tempestade.
+Jonas 1:13  Entretanto, os homens remavam, esforçando-se por alcançar a terra, mas não podiam, porquanto o mar se ia tornando cada vez mais tempestuoso contra eles.
+Jonas 1:14  Então, clamaram ao Senhor e disseram: Ah! Senhor! Rogamos-te que não pereçamos por causa da vida deste homem, e não faças cair sobre nós este sangue, quanto a nós, inocente; porque tu, Senhor, fizeste como te aprouve.
+Jonas 1:15  E levantaram a Jonas e o lançaram ao mar; e cessou o mar da sua fúria.
+Jonas 1:16  Temeram, pois, estes homens em extremo ao Senhor; e ofereceram sacrifícios ao Senhor e fizeram votos.
+Jonas 1:17  Deparou o Senhor um grande peixe, para que tragasse a Jonas; e esteve Jonas três dias e três noites no ventre do peixe.
+Jonas 2:1  Então, Jonas, do ventre do peixe, orou ao Senhor, seu Deus,
+Jonas 2:2  e disse: Na minha angústia, clamei ao Senhor, e ele me respondeu; do ventre do abismo, gritei, e tu me ouviste a voz.
+Jonas 2:3  Pois me lançaste no profundo, no coração dos mares, e a corrente das águas me cercou; todas as tuas ondas e as tuas vagas passaram por cima de mim.
+Jonas 2:4  Então, eu disse: lançado estou de diante dos teus olhos; tornarei, porventura, a ver o teu santo templo?
+Jonas 2:5  As águas me cercaram até à alma, o abismo me rodeou; e as algas se enrolaram na minha cabeça.
+Jonas 2:6  Desci até aos fundamentos dos montes, desci até à terra, cujos ferrolhos se correram sobre mim, para sempre; contudo, fizeste subir da sepultura a minha vida, ó Senhor, meu Deus!
+Jonas 2:7  Quando, dentro de mim, desfalecia a minha alma, eu me lembrei do Senhor; e subiu a ti a minha oração, no teu santo templo.
+Jonas 2:8  Os que se entregam à idolatria vã abandonam aquele que lhes é misericordioso.
+Jonas 2:9  Mas, com a voz do agradecimento, eu te oferecerei sacrifício; o que votei pagarei. Ao Senhor pertence a salvação!
+Jonas 2:10  Falou, pois, o Senhor ao peixe, e este vomitou a Jonas na terra.
+Jonas 3:1  Veio a palavra do Senhor, segunda vez, a Jonas, dizendo:
+Jonas 3:2  Dispõe-te, vai à grande cidade de Nínive e proclama contra ela a mensagem que eu te digo.
+Jonas 3:3  Levantou-se, pois, Jonas e foi a Nínive, segundo a palavra do Senhor. Ora, Nínive era cidade mui importante diante de Deus e de três dias para percorrê-la.
+Jonas 3:4  Começou Jonas a percorrer a cidade caminho de um dia, e pregava, e dizia: Ainda quarenta dias, e Nínive será subvertida.
+Jonas 3:5  Os ninivitas creram em Deus, e proclamaram um jejum, e vestiram-se de panos de saco, desde o maior até o menor.
+Jonas 3:6  Chegou esta notícia ao rei de Nínive; ele levantou-se do seu trono, tirou de si as vestes reais, cobriu-se de pano de saco e assentou-se sobre cinza.
+Jonas 3:7  E fez-se proclamar e divulgar em Nínive: Por mandado do rei e seus grandes, nem homens, nem animais, nem bois, nem ovelhas provem coisa alguma, nem os levem ao pasto, nem bebam água;
+Jonas 3:8  mas sejam cobertos de pano de saco, tanto os homens como os animais, e clamarão fortemente a Deus; e se converterão, cada um do seu mau caminho e da violência que há nas suas mãos.
+Jonas 3:9  Quem sabe se voltará Deus, e se arrependerá, e se apartará do furor da sua ira, de sorte que não pereçamos?
+Jonas 3:10  Viu Deus o que fizeram, como se converteram do seu mau caminho; e Deus se arrependeu do mal que tinha dito lhes faria e não o fez.
+Jonas 4:1  Com isso, desgostou-se Jonas extremamente e ficou irado.
+Jonas 4:2  E orou ao Senhor e disse: Ah! Senhor! Não foi isso o que eu disse, estando ainda na minha terra? Por isso, me adiantei, fugindo para Társis, pois sabia que és Deus clemente, e misericordioso, e tardio em irar-se, e grande em benignidade, e que te arrependes do mal.
+Jonas 4:3  Peço-te, pois, ó Senhor, tira-me a vida, porque melhor me é morrer do que viver.
+Jonas 4:4  E disse o Senhor: É razoável essa tua ira?
+Jonas 4:5  Então, Jonas saiu da cidade, e assentou-se ao oriente da mesma, e ali fez uma enramada, e repousou debaixo dela, à sombra, até ver o que aconteceria à cidade.
+Jonas 4:6  Então, fez o Senhor Deus nascer uma planta, que subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu desconforto. Jonas, pois, se alegrou em extremo por causa da planta.
+Jonas 4:7  Mas Deus, no dia seguinte, ao subir da alva, enviou um verme, o qual feriu a planta, e esta se secou.
+Jonas 4:8  Em nascendo o sol, Deus mandou um vento calmoso oriental; o sol bateu na cabeça de Jonas, de maneira que desfalecia, pelo que pediu para si a morte, dizendo: Melhor me é morrer do que viver!
+Jonas 4:9  Então, perguntou Deus a Jonas: É razoável essa tua ira por causa da planta? Ele respondeu: É razoável a minha ira até à morte.
+Jonas 4:10  Tornou o Senhor: Tens compaixão da planta que te não custou trabalho, a qual não fizeste crescer, que numa noite nasceu e numa noite pereceu;
+Jonas 4:11  e não hei de eu ter compaixão da grande cidade de Nínive, em que há mais de cento e vinte mil pessoas, que não sabem discernir entre a mão direita e a mão esquerda, e também muitos animais?
+Miquéias 1:1  Palavra do Senhor que em visão veio a Miqueias, morastita, nos dias de Jotão, Acaz e Ezequias, reis de Judá, sobre Samaria e Jerusalém.
+Miquéias 1:2  Ouvi, todos os povos, prestai atenção, ó terra e tudo o que ela contém, e seja o Senhor Deus testemunha contra vós outros, o Senhor desde o seu santo templo.
+Miquéias 1:3  Porque eis que o Senhor sai do seu lugar, e desce, e anda sobre os altos da terra.
+Miquéias 1:4  Os montes debaixo dele se derretem, e os vales se fendem; são como a cera diante do fogo, como as águas que se precipitam num abismo.
+Miquéias 1:5  Tudo isto por causa da transgressão de Jacó e dos pecados da casa de Israel. Qual é a transgressão de Jacó? Não é Samaria? E quais os altos de Judá? Não é Jerusalém?
+Miquéias 1:6  Por isso, farei de Samaria um montão de pedras do campo, uma terra de plantar vinhas; farei rebolar as suas pedras para o vale e descobrirei os seus fundamentos.
+Miquéias 1:7  Todas as suas imagens de escultura serão despedaçadas, e todos os salários de sua impureza serão queimados, e de todos os seus ídolos eu farei uma ruína, porque do preço da prostituição os ajuntou, e a este preço volverão.
+Miquéias 1:8  Por isso, lamento e uivo; ando despojado e nu; faço lamentações como de chacais e pranto como de avestruzes.
+Miquéias 1:9  Porque as suas feridas são incuráveis; o mal chegou até Judá; estendeu-se até à porta do meu povo, até Jerusalém.
+Miquéias 1:10  Não o anuncieis em Gate, nem choreis; revolvei-vos no pó, em Bete-Leafra.
+Miquéias 1:11  Passa, ó moradora de Safir, em vergonhosa nudez; a moradora de Zaanã não pode sair; o pranto de Bete-Ezel tira de vós o vosso refúgio.
+Miquéias 1:12  Pois a moradora de Marote suspira pelo bem, porque desceu do Senhor o mal até à porta de Jerusalém.
+Miquéias 1:13  Ata os corcéis ao carro, ó moradora de Laquis; foste o princípio do pecado para a filha de Sião, porque em ti se acharam as transgressões de Israel.
+Miquéias 1:14  Portanto, darás presentes de despedida a Moresete-Gate; as casas de Aczibe serão para engano dos reis de Israel.
+Miquéias 1:15  Enviar-te-ei ainda quem tomará posse de ti, ó moradora de Maressa; chegará até Adulão a glória de Israel.
+Miquéias 1:16  Faze-te calva e tosquia-te, por causa dos filhos que eram as tuas delícias; alarga a tua calva como a águia, porque de ti serão levados para o cativeiro.
+Miquéias 2:1  Ai daqueles que, no seu leito, imaginam a iniquidade e maquinam o mal! À luz da alva, o praticam, porque o poder está em suas mãos.
+Miquéias 2:2  Se cobiçam campos, os arrebatam; se casas, as tomam; assim, fazem violência a um homem e à sua casa, a uma pessoa e à sua herança.
+Miquéias 2:3  Portanto, assim diz o Senhor: Eis que projeto mal contra esta família, do qual não tirareis a vossa cerviz; e não andareis altivamente, porque o tempo será mau.
+Miquéias 2:4  Naquele dia, se criará contra vós outros um provérbio, se levantará pranto lastimoso e se dirá: Estamos inteiramente desolados! A porção do meu povo, Deus a troca! Como me despoja! Reparte os nossos campos aos rebeldes!
+Miquéias 2:5  Portanto, não terás, na congregação do Senhor, quem, pela sorte, lançando o cordel, meça possessões.
+Miquéias 2:6  Não babujeis, dizem eles. Não babujeis tais coisas, porque a desgraça não cairá sobre nós.
+Miquéias 2:7  Tais coisas anunciadas não alcançarão a casa de Jacó. Está irritado o Espírito do Senhor? São estas as suas obras? Sim, as minhas palavras fazem o bem ao que anda retamente;
+Miquéias 2:8  mas, há pouco, se levantou o meu povo como inimigo; além da roupa, roubais a capa àqueles que passam seguros, sem pensar em guerra.
+Miquéias 2:9  Lançais fora as mulheres de meu povo do seu lar querido; dos filhinhos delas tirais a minha glória, para sempre.
+Miquéias 2:10  Levantai-vos e ide-vos embora, porque não é lugar aqui de descanso; ide-vos por causa da imundícia que destrói, sim, que destrói dolorosamente.
+Miquéias 2:11  Se houver alguém que, seguindo o vento da falsidade, mentindo, diga: Eu te profetizarei do vinho e da bebida forte, será este tal o profeta deste povo.
+Miquéias 2:12  Certamente, te ajuntarei todo, ó Jacó; certamente, congregarei o restante de Israel; pô-los-ei todos juntos, como ovelhas no aprisco, como rebanho no meio do seu pasto; farão grande ruído, por causa da multidão dos homens.
+Miquéias 2:13  Subirá diante deles o que abre caminho; eles romperão, entrarão pela porta e sairão por ela; e o seu Rei irá adiante deles; sim, o Senhor, à sua frente.
+Miquéias 3:1  Disse eu: Ouvi, agora, vós, cabeças de Jacó, e vós, chefes da casa de Israel: Não é a vós outros que pertence saber o juízo?
+Miquéias 3:2  Os que aborreceis o bem e amais o mal; e deles arrancais a pele e a carne de cima dos seus ossos;
+Miquéias 3:3  que comeis a carne do meu povo, e lhes arrancais a pele, e lhes esmiuçais os ossos, e os repartis como para a panela e como carne no meio do caldeirão?
+Miquéias 3:4  Então, chamarão ao Senhor, mas não os ouvirá; antes, esconderá deles a sua face, naquele tempo, visto que eles fizeram mal nas suas obras.
+Miquéias 3:5  Assim diz o Senhor acerca dos profetas que fazem errar o meu povo e que clamam: Paz, quando têm o que mastigar, mas apregoam guerra santa contra aqueles que nada lhes metem na boca.
+Miquéias 3:6  Portanto, se vos fará noite sem visão, e tereis treva sem adivinhação; pôr-se-á o sol sobre os profetas, e sobre eles se enegrecerá o dia.
+Miquéias 3:7  Os videntes se envergonharão, e os adivinhadores se confundirão; sim, todos eles cobrirão o seu bigode, porque não há resposta de Deus.
+Miquéias 3:8  Eu, porém, estou cheio do poder do Espírito do Senhor, cheio de juízo e de força, para declarar a Jacó a sua transgressão e a Israel, o seu pecado.
+Miquéias 3:9  Ouvi, agora, isto, vós, cabeças de Jacó, e vós, chefes da casa de Israel, que abominais o juízo, e perverteis tudo o que é direito,
+Miquéias 3:10  e edificais a Sião com sangue e a Jerusalém, com perversidade.
+Miquéias 3:11  Os seus cabeças dão as sentenças por suborno, os seus sacerdotes ensinam por interesse, e os seus profetas adivinham por dinheiro; e ainda se encostam ao Senhor, dizendo: Não está o Senhor no meio de nós? Nenhum mal nos sobrevirá.
+Miquéias 3:12  Portanto, por causa de vós, Sião será lavrada como um campo, e Jerusalém se tornará em montões de ruínas, e o monte do templo, numa colina coberta de mato.
+Miquéias 4:1  Mas, nos últimos dias, acontecerá que o monte da Casa do Senhor será estabelecido no cimo dos montes e se elevará sobre os outeiros, e para ele afluirão os povos.
+Miquéias 4:2  Irão muitas nações e dirão: Vinde, e subamos ao monte do Senhor e à casa do Deus de Jacó, para que nos ensine os seus caminhos, e andemos pelas suas veredas; porque de Sião procederá a lei, e a palavra do Senhor, de Jerusalém.
+Miquéias 4:3  Ele julgará entre muitos povos e corrigirá nações poderosas e longínquas; estes converterão as suas espadas em relhas de arados e suas lanças, em podadeiras; uma nação não levantará a espada contra outra nação, nem aprenderão mais a guerra.
+Miquéias 4:4  Mas assentar-se-á cada um debaixo da sua videira e debaixo da sua figueira, e não haverá quem os espante, porque a boca do Senhor dos Exércitos o disse.
+Miquéias 4:5  Porque todos os povos andam, cada um em nome do seu deus; mas, quanto a nós, andaremos em o nome do Senhor, nosso Deus, para todo o sempre.
+Miquéias 4:6  Naquele dia, diz o Senhor, congregarei os que coxeiam e recolherei os que foram expulsos e os que eu afligira.
+Miquéias 4:7  Dos que coxeiam farei a parte restante e dos que foram arrojados para longe, uma poderosa nação; e o Senhor reinará sobre eles no monte Sião, desde agora e para sempre.
+Miquéias 4:8  A ti, ó torre do rebanho, monte da filha de Sião, a ti virá; sim, virá o primeiro domínio, o reino da filha de Jerusalém.
+Miquéias 4:9  Agora, por que tamanho grito? Não há rei em ti? Pereceu o teu conselheiro? Apoderou-se de ti a dor como da que está para dar à luz?
+Miquéias 4:10  Sofre dores e esforça-te, ó filha de Sião, como a que está para dar à luz, porque, agora, sairás da cidade, e habitarás no campo, e virás até à Babilônia; ali, porém, serás libertada; ali, te remirá o Senhor das mãos dos teus inimigos.
+Miquéias 4:11  Acham-se, agora, congregadas muitas nações contra ti, que dizem: Seja profanada, e vejam os nossos olhos o seu desejo sobre Sião.
+Miquéias 4:12  Mas não sabem os pensamentos do Senhor, nem lhe entendem o plano que as ajuntou como feixes na eira.
+Miquéias 4:13  Levanta-te e debulha, ó filha de Sião, porque farei de ferro o teu chifre e de bronze, as tuas unhas; e esmiuçarás a muitos povos, e o seu ganho será dedicado ao Senhor, e os seus bens, ao Senhor de toda a terra.
+Miquéias 5:1  Agora, ajunta-te em tropas, ó filha de tropas; pôr-se-á sítio contra nós; ferirão com a vara a face do juiz de Israel.
+Miquéias 5:2  E tu, Belém-Efrata, pequena demais para figurar como grupo de milhares de Judá, de ti me sairá o que há de reinar em Israel, e cujas origens são desde os tempos antigos, desde os dias da eternidade.
+Miquéias 5:3  Portanto, o Senhor os entregará até ao tempo em que a que está em dores tiver dado à luz; então, o restante de seus irmãos voltará aos filhos de Israel.
+Miquéias 5:4  Ele se manterá firme e apascentará o povo na força do Senhor, na majestade do nome do Senhor, seu Deus; e eles habitarão seguros, porque, agora, será ele engrandecido até aos confins da terra.
+Miquéias 5:5  Este será a nossa paz. Quando a Assíria vier à nossa terra e quando passar sobre os nossos palácios, levantaremos contra ela sete pastores e oito príncipes dentre os homens.
+Miquéias 5:6  Estes consumirão a terra da Assíria à espada e a terra de Ninrode, dentro de suas próprias portas. Assim, nos livrará da Assíria, quando esta vier à nossa terra e pisar os nossos limites.
+Miquéias 5:7  O restante de Jacó estará no meio de muitos povos, como orvalho do Senhor, como chuvisco sobre a erva, que não espera pelo homem, nem depende dos filhos de homens.
+Miquéias 5:8  O restante de Jacó estará entre as nações, no meio de muitos povos, como um leão entre os animais das selvas, como um leãozinho entre os rebanhos de ovelhas, o qual, se passar, as pisará e despedaçará, sem que haja quem as livre.
+Miquéias 5:9  A tua mão se exaltará sobre os teus adversários; e todos os teus inimigos serão eliminados.
+Miquéias 5:10  E sucederá, naquele dia, diz o Senhor, que eu eliminarei do meio de ti os teus cavalos e destruirei os teus carros de guerra;
+Miquéias 5:11  destruirei as cidades da tua terra e deitarei abaixo todas as tuas fortalezas;
+Miquéias 5:12  eliminarei as feitiçarias das tuas mãos, e não terás adivinhadores;
+Miquéias 5:13  do meio de ti eliminarei as tuas imagens de escultura e as tuas colunas, e tu já não te inclinarás diante da obra das tuas mãos;
+Miquéias 5:14  eliminarei do meio de ti os teus postes-ídolos e destruirei as tuas cidades.
+Miquéias 5:15  Com ira e furor, tomarei vingança sobre as nações que não me obedeceram.
+Miquéias 6:1  Ouvi, agora, o que diz o Senhor: Levanta-te, defende a tua causa perante os montes, e ouçam os outeiros a tua voz.
+Miquéias 6:2  Ouvi, montes, a controvérsia do Senhor, e vós, duráveis fundamentos da terra, porque o Senhor tem controvérsia com o seu povo e com Israel entrará em juízo.
+Miquéias 6:3  Povo meu, que te tenho feito? E com que te enfadei? Responde-me!
+Miquéias 6:4  Pois te fiz sair da terra do Egito e da casa da servidão te remi; e enviei adiante de ti Moisés, Arão e Miriã.
+Miquéias 6:5  Povo meu, lembra-te, agora, do que maquinou Balaque, rei de Moabe, e do que lhe respondeu Balaão, filho de Beor, e do que aconteceu desde Sitim até Gilgal, para que conheças os atos de justiça do Senhor.
+Miquéias 6:6  Com que me apresentarei ao Senhor e me inclinarei ante o Deus excelso? Virei perante ele com holocaustos, com bezerros de um ano?
+Miquéias 6:7  Agradar-se-á o Senhor de milhares de carneiros, de dez mil ribeiros de azeite? Darei o meu primogênito pela minha transgressão, o fruto do meu corpo, pelo pecado da minha alma?
+Miquéias 6:8  Ele te declarou, ó homem, o que é bom e que é o que o Senhor pede de ti: que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus.
+Miquéias 6:9  A voz do Senhor clama à cidade (e é verdadeira sabedoria temer-lhe o nome): Ouvi, ó tribos, aquele que a cita.
+Miquéias 6:10  Ainda há, na casa do ímpio, os tesouros da impiedade e o detestável efa minguado?
+Miquéias 6:11  Poderei eu inocentar balanças falsas e bolsas de pesos enganosos?
+Miquéias 6:12  Porque os ricos da cidade estão cheios de violência, e os seus habitantes falam mentiras, e a língua deles é enganosa na sua boca.
+Miquéias 6:13  Assim, também passarei eu a ferir-te e te deixarei desolada por causa dos teus pecados.
+Miquéias 6:14  Comerás e não te fartarás; a fome estará nas tuas entranhas; removerás os teus bens, mas não os livrarás; e aquilo que livrares, eu o entregarei à espada.
+Miquéias 6:15  Semearás; contudo, não segarás; pisarás a azeitona, porém não te ungirás com azeite; pisarás a vindima; no entanto, não lhe beberás o vinho,
+Miquéias 6:16  porque observaste os estatutos de Onri e todas as obras da casa de Acabe e andaste nos conselhos deles. Por isso, eu farei de ti uma desolação e dos habitantes da tua cidade, um alvo de vaias; assim, trareis sobre vós o opróbrio dos povos.
+Miquéias 7:1  Ai de mim! Porque estou como quando são colhidas as frutas do verão, como os rabiscos da vindima: não há cacho de uvas para chupar, nem figos temporãos que a minha alma deseja.
+Miquéias 7:2  Pereceu da terra o piedoso, e não há entre os homens um que seja reto; todos espreitam para derramarem sangue; cada um caça a seu irmão com rede.
+Miquéias 7:3  As suas mãos estão sobre o mal e o fazem diligentemente; o príncipe exige condenação, o juiz aceita suborno, o grande fala dos maus desejos de sua alma, e, assim, todos eles juntamente urdem a trama.
+Miquéias 7:4  O melhor deles é como um espinheiro; o mais reto é pior do que uma sebe de espinhos. É chegado o dia anunciado por tuas sentinelas, o dia do teu castigo; aí está a confusão deles.
+Miquéias 7:5  Não creiais no amigo, nem confieis no companheiro. Guarda a porta de tua boca àquela que reclina sobre o teu peito.
+Miquéias 7:6  Porque o filho despreza o pai, a filha se levanta contra a mãe, a nora, contra a sogra; os inimigos do homem são os da sua própria casa.
+Miquéias 7:7  Eu, porém, olharei para o Senhor e esperarei no Deus da minha salvação; o meu Deus me ouvirá.
+Miquéias 7:8  Ó inimiga minha, não te alegres a meu respeito; ainda que eu tenha caído, levantar-me-ei; se morar nas trevas, o Senhor será a minha luz.
+Miquéias 7:9  Sofrerei a ira do Senhor, porque pequei contra ele, até que julgue a minha causa e execute o meu direito; ele me tirará para a luz, e eu verei a sua justiça.
+Miquéias 7:10  A minha inimiga verá isso, e a ela cobrirá a vergonha, a ela que me diz: Onde está o Senhor, teu Deus? Os meus olhos a contemplarão; agora, será pisada aos pés como a lama das ruas.
+Miquéias 7:11  No dia da reedificação dos teus muros, nesse dia, serão os teus limites removidos para mais longe.
+Miquéias 7:12  Nesse dia, virão a ti, desde a Assíria até às cidades do Egito, e do Egito até ao rio Eufrates, e do mar até ao mar, e da montanha até à montanha.
+Miquéias 7:13  Todavia, a terra será posta em desolação, por causa dos seus moradores, por causa do fruto das suas obras.
+Miquéias 7:14  Apascenta o teu povo com o teu bordão, o rebanho da tua herança, que mora a sós no bosque, no meio da terra fértil; apascentem-se em Basã e Gileade, como nos dias de outrora.
+Miquéias 7:15  Eu lhe mostrarei maravilhas, como nos dias da tua saída da terra do Egito.
+Miquéias 7:16  As nações verão isso e se envergonharão de todo o seu poder; porão a mão sobre a boca, e os seus ouvidos ficarão surdos.
+Miquéias 7:17  Lamberão o pó como serpentes; como répteis da terra, tremendo, sairão dos seus esconderijos e, tremendo, virão ao Senhor, nosso Deus; e terão medo de ti.
+Miquéias 7:18  Quem, ó Deus, é semelhante a ti, que perdoas a iniquidade e te esqueces da transgressão do restante da tua herança? O Senhor não retém a sua ira para sempre, porque tem prazer na misericórdia.
+Miquéias 7:19  Tornará a ter compaixão de nós; pisará aos pés as nossas iniquidades e lançará todos os nossos pecados nas profundezas do mar.
+Miquéias 7:20  Mostrarás a Jacó a fidelidade e a Abraão, a misericórdia, as quais juraste a nossos pais, desde os dias antigos.
+Naum 1:1  Sentença contra Nínive. Livro da visão de Naum, o elcosita.
+Naum 1:2  O Senhor é Deus zeloso e vingador, o Senhor é vingador e cheio de ira; o Senhor toma vingança contra os seus adversários e reserva indignação para os seus inimigos.
+Naum 1:3  O Senhor é tardio em irar-se, mas grande em poder e jamais inocenta o culpado; o Senhor tem o seu caminho na tormenta e na tempestade, e as nuvens são o pó dos seus pés.
+Naum 1:4  Ele repreende o mar, e o faz secar, e míngua todos os rios; desfalecem Basã e o Carmelo, e a flor do Líbano se murcha.
+Naum 1:5  Os montes tremem perante ele, e os outeiros se derretem; e a terra se levanta diante dele, sim, o mundo e todos os que nele habitam.
+Naum 1:6  Quem pode suportar a sua indignação? E quem subsistirá diante do furor da sua ira? A sua cólera se derrama como fogo, e as rochas são por ele demolidas.
+Naum 1:7  O Senhor é bom, é fortaleza no dia da angústia e conhece os que nele se refugiam.
+Naum 1:8  Mas, com inundação transbordante, acabará de uma vez com o lugar desta cidade; com trevas, perseguirá o Senhor os seus inimigos.
+Naum 1:9  Que pensais vós contra o Senhor? Ele mesmo vos consumirá de todo; não se levantará por duas vezes a angústia.
+Naum 1:10  Porque, ainda que eles se entrelaçam como os espinhos e se saturam de vinho como bêbados, serão inteiramente consumidos como palha seca.
+Naum 1:11  De ti, Nínive, saiu um que maquina o mal contra o Senhor, um conselheiro vil.
+Naum 1:12  Assim diz o Senhor: Por mais seguros que estejam e por mais numerosos que sejam, ainda assim serão exterminados e passarão; eu te afligi, mas não te afligirei mais.
+Naum 1:13  Mas de sobre ti, Judá, quebrarei o jugo deles e romperei os teus laços.
+Naum 1:14  Porém contra ti, Assíria, o Senhor deu ordem que não haja posteridade que leve o teu nome; da casa dos teus deuses exterminarei as imagens de escultura e de fundição; farei o teu sepulcro, porque és vil.
+Naum 1:15  Eis sobre os montes os pés do que anuncia boas-novas, do que anuncia a paz! Celebra as tuas festas, ó Judá, cumpre os teus votos, porque o homem vil já não passará por ti; ele é inteiramente exterminado.
+Naum 2:1  O destruidor sobe contra ti, ó Nínive! Guarda a fortaleza, vigia o caminho, fortalece os lombos, reúne todas as tuas forças!
+Naum 2:2  (Porque o Senhor restaura a glória de Jacó, como a glória de Israel; porque saqueadores os saquearam e destruíram os seus sarmentos.)
+Naum 2:3  Os escudos dos seus heróis são vermelhos, os homens valentes vestem escarlata, cintila o aço dos carros no dia do seu aparelhamento, e vibram as lanças.
+Naum 2:4  Os carros passam furiosamente pelas ruas e se cruzam velozes pelas praças; parecem tochas, correm como relâmpago.
+Naum 2:5  Os nobres são chamados, mas tropeçam em seu caminho; apressam-se para chegar ao muro e já encontram o testudo inimigo armado.
+Naum 2:6  As comportas dos rios se abrem, e o palácio é destruído.
+Naum 2:7  Está decretado: a cidade-rainha está despida e levada em cativeiro, as suas servas gemem como pombas e batem no peito.
+Naum 2:8  Nínive, desde que existe, tem sido como um açude de águas; mas, agora, fogem. Parai! Parai! Clama-se; mas ninguém se volta.
+Naum 2:9  Saqueai a prata, saqueai o ouro, porque não se acabam os tesouros; há abastança de todo objeto desejável.
+Naum 2:10  Ah! Vacuidade, desolação, ruína! O coração se derrete, os joelhos tremem, em todos os lombos há angústia, e o rosto de todos eles empalidece.
+Naum 2:11  Onde está, agora, o covil dos leões e o lugar do pasto dos leõezinhos, onde passeavam o leão, a leoa e o filhote do leão, sem que ninguém os espantasse?
+Naum 2:12  O leão arrebatava o bastante para os seus filhotes, estrangulava a presa para as suas leoas, e enchia de vítimas as suas cavernas, e os seus covis, de rapina.
+Naum 2:13  Eis que eu estou contra ti, diz o Senhor dos Exércitos; queimarei na fumaça os teus carros, a espada devorará os teus leõezinhos, arrancarei da terra a tua presa, e já não se ouvirá a voz dos teus embaixadores.
+Naum 3:1  Ai da cidade sanguinária, toda cheia de mentiras e de roubo e que não solta a sua presa!
+Naum 3:2  Eis o estalo de açoites e o estrondo das rodas; o galope de cavalos e carros que vão saltando;
+Naum 3:3  os cavaleiros que esporeiam, a espada flamejante, o relampejar da lança e multidão de traspassados, massa de cadáveres, mortos sem fim; tropeça gente sobre os mortos.
+Naum 3:4  Tudo isso por causa da grande prostituição da bela e encantadora meretriz, da mestra de feitiçarias, que vendia os povos com a sua prostituição e as gentes, com as suas feitiçarias.
+Naum 3:5  Eis que eu estou contra ti, diz o Senhor dos Exércitos; levantarei as abas de tua saia sobre o teu rosto, e mostrarei às nações a tua nudez, e aos reinos, as tuas vergonhas.
+Naum 3:6  Lançarei sobre ti imundícias, tratar-te-ei com desprezo e te porei por espetáculo.
+Naum 3:7  Há de ser que todos os que te virem fugirão de ti e dirão: Nínive está destruída; quem terá compaixão dela? De onde buscarei os que te consolem?
+Naum 3:8  És tu melhor do que Nô-Amom, que estava situada entre o Nilo e seus canais, cercada de águas, tendo por baluarte o mar e ainda o mar, por muralha?
+Naum 3:9  Etiópia e Egito eram a sua força, e esta, sem limite; Pute e Líbia, o seu socorro.
+Naum 3:10  Todavia, ela foi levada ao exílio, foi para o cativeiro; também os seus filhos foram despedaçados nas esquinas de todas as ruas; sobre os seus nobres lançaram sortes, e todos os seus grandes foram presos com grilhões.
+Naum 3:11  Também tu, Nínive, serás embriagada e te esconderás; também procurarás refúgio contra o inimigo.
+Naum 3:12  Todas as tuas fortalezas são como figueiras com figos temporãos; se os sacodem, caem na boca do que os há de comer.
+Naum 3:13  Eis que as tuas tropas, no meio de ti, são como mulheres; as portas do teu país estão abertas de par em par aos teus inimigos; o fogo consome os teus ferrolhos.
+Naum 3:14  Tira água para o tempo do cerco, fortifica as tuas fortalezas, entra no barro e pisa a massa, toma a forma para os ladrilhos.
+Naum 3:15  No entanto, o fogo ali te consumirá, a espada te exterminará, consumir-te-á como o gafanhoto. Ainda que te multiplicas como o gafanhoto e te multiplicas como a locusta;
+Naum 3:16  ainda que fizeste os teus negociantes mais numerosos do que as estrelas do céu, o gafanhoto devorador invade e sai voando.
+Naum 3:17  Os teus príncipes são como os gafanhotos, e os teus chefes, como os gafanhotos grandes, que se acampam nas sebes nos dias de frio; em subindo o sol, voam embora, e não se conhece o lugar onde estão.
+Naum 3:18  Os teus pastores dormem, ó rei da Assíria; os teus nobres dormitam; o teu povo se derrama pelos montes, e não há quem o ajunte.
+Naum 3:19  Não há remédio para a tua ferida; a tua chaga é incurável; todos os que ouvirem a tua fama baterão palmas sobre ti; porque sobre quem não passou continuamente a tua maldade?
+Habacuque 1:1  Sentença revelada ao profeta Habacuque.
+Habacuque 1:2  Até quando, Senhor, clamarei eu, e tu não me escutarás? Gritar-te-ei: Violência! E não salvarás?
+Habacuque 1:3  Por que me mostras a iniquidade e me fazes ver a opressão? Pois a destruição e a violência estão diante de mim; há contendas, e o litígio se suscita.
+Habacuque 1:4  Por esta causa, a lei se afrouxa, e a justiça nunca se manifesta, porque o perverso cerca o justo, a justiça é torcida.
+
+Habacuque 1:5  Vede entre as nações, olhai, maravilhai-vos e desvanecei, porque realizo, em vossos dias, obra tal, que vós não crereis, quando vos for contada.
+Habacuque 1:6  Pois eis que suscito os caldeus, nação amarga e impetuosa, que marcham pela largura da terra, para apoderar-se de moradas que não são suas.
+Habacuque 1:7  Eles são pavorosos e terríveis, e criam eles mesmos o seu direito e a sua dignidade.
+Habacuque 1:8  Os seus cavalos são mais ligeiros do que os leopardos, mais ferozes do que os lobos ao anoitecer são os seus cavaleiros que se espalham por toda parte; sim, os seus cavaleiros chegam de longe, voam como águia que se precipita a devorar.
+Habacuque 1:9  Eles todos vêm para fazer violência; o seu rosto suspira por seguir avante; eles reúnem os cativos como areia.
+Habacuque 1:10  Eles escarnecem dos reis; os príncipes são objeto do seu riso; riem-se de todas as fortalezas, porque, amontoando terra, as tomam.
+Habacuque 1:11  Então, passam como passa o vento e seguem; fazem-se culpados estes cujo poder é o seu deus.
+Habacuque 1:12  Não és tu desde a eternidade, ó Senhor, meu Deus, ó meu Santo? Não morreremos. Ó Senhor, para executar juízo, puseste aquele povo; tu, ó Rocha, o fundaste para servir de disciplina.
+Habacuque 1:13  Tu és tão puro de olhos, que não podes ver o mal e a opressão não podes contemplar; por que, pois, toleras os que procedem perfidamente e te calas quando o perverso devora aquele que é mais justo do que ele?
+Habacuque 1:14  Por que fazes os homens como os peixes do mar, como os répteis, que não têm quem os governe?
+Habacuque 1:15  A todos levanta o inimigo com o anzol, pesca-os de arrastão e os ajunta na sua rede varredoura; por isso, ele se alegra e se regozija.
+Habacuque 1:16  Por isso, oferece sacrifício à sua rede e queima incenso à sua varredoura; porque por elas enriqueceu a sua porção, e tem gordura a sua comida.
+Habacuque 1:17  Acaso, continuará, por isso, esvaziando a sua rede e matando sem piedade os povos?
+Habacuque 2:1  Pôr-me-ei na minha torre de vigia, colocar-me-ei sobre a fortaleza e vigiarei para ver o que Deus me dirá e que resposta eu terei à minha queixa.
+Habacuque 2:2  O Senhor me respondeu e disse: Escreve a visão, grava-a sobre tábuas, para que a possa ler até quem passa correndo.
+Habacuque 2:3  Porque a visão ainda está para cumprir-se no tempo determinado, mas se apressa para o fim e não falhará; se tardar, espera-o, porque, certamente, virá, não tardará.
+Habacuque 2:4  Eis o soberbo! Sua alma não é reta nele; mas o justo viverá pela sua fé.
+Habacuque 2:5  Assim como o vinho é enganoso, tampouco permanece o arrogante, cuja gananciosa boca se escancara como o sepulcro e é como a morte, que não se farta; ele ajunta para si todas as nações e congrega todos os povos.
+Habacuque 2:6  Não levantarão, pois, todos estes contra ele um provérbio, um dito zombador? Dirão: Ai daquele que acumula o que não é seu (até quando?), e daquele que a si mesmo se carrega de penhores!
+Habacuque 2:7  Não se levantarão de repente os teus credores? E não despertarão os que te hão de abalar? Tu lhes servirás de despojo.
+Habacuque 2:8  Visto como despojaste a muitas nações, todos os mais povos te despojarão a ti, por causa do sangue dos homens e da violência contra a terra, contra a cidade e contra todos os seus moradores.
+Habacuque 2:9  Ai daquele que ajunta em sua casa bens mal adquiridos, para pôr em lugar alto o seu ninho, a fim de livrar-se das garras do mal!
+Habacuque 2:10  Vergonha maquinaste para a tua casa; destruindo tu a muitos povos, pecaste contra a tua alma.
+Habacuque 2:11  Porque a pedra clamará da parede, e a trave lhe responderá do madeiramento.
+Habacuque 2:12  Ai daquele que edifica a cidade com sangue e a fundamenta com iniquidade!
+Habacuque 2:13  Não vem do Senhor dos Exércitos que as nações labutem para o fogo e os povos se fatiguem em vão?
+Habacuque 2:14  Pois a terra se encherá do conhecimento da glória do Senhor, como as águas cobrem o mar.
+Habacuque 2:15  Ai daquele que dá de beber ao seu companheiro, misturando à bebida o seu furor, e que o embebeda para lhe contemplar as vergonhas!
+Habacuque 2:16  Serás farto de opróbrio em vez de honra; bebe tu também e exibe a tua incircuncisão; chegará a tua vez de tomares o cálice da mão direita do Senhor, e ignomínia cairá sobre a tua glória.
+Habacuque 2:17  Porque a violência contra o Líbano te cobrirá, e a destruição que fizeste dos animais ferozes te assombrará, por causa do sangue dos homens e da violência contra a terra, contra a cidade e contra todos os seus moradores.
+Habacuque 2:18  Que aproveita o ídolo, visto que o seu artífice o esculpiu? E a imagem de fundição, mestra de mentiras, para que o artífice confie na obra, fazendo ídolos mudos?
+Habacuque 2:19  Ai daquele que diz à madeira: Acorda! E à pedra muda: Desperta! Pode o ídolo ensinar? Eis que está coberto de ouro e de prata, mas, no seu interior, não há fôlego nenhum.
+Habacuque 2:20  O Senhor, porém, está no seu santo templo; cale-se diante dele toda a terra.
+Habacuque 3:1  Oração do profeta Habacuque sob a forma de canto.
+Habacuque 3:2  Tenho ouvido, ó Senhor, as tuas declarações, e me sinto alarmado; aviva a tua obra, ó Senhor, no decorrer dos anos, e, no decurso dos anos, faze-a conhecida; na tua ira, lembra-te da misericórdia.
+Habacuque 3:3  Deus vem de Temã, e do monte Parã vem o Santo. A sua glória cobre os céus, e a terra se enche do seu louvor.
+Habacuque 3:4  O seu resplendor é como a luz, raios brilham da sua mão; e ali está velado o seu poder.
+Habacuque 3:5  Adiante dele vai a peste, e a pestilência segue os seus passos.
+Habacuque 3:6  Ele para e faz tremer a terra; olha e sacode as nações. Esmigalham-se os montes primitivos; os outeiros eternos se abatem. Os caminhos de Deus são eternos.
+Habacuque 3:7  Vejo as tendas de Cusã em aflição; os acampamentos da terra de Midiã tremem.
+Habacuque 3:8  Acaso, é contra os rios, Senhor, que estás irado? É contra os ribeiros a tua ira ou contra o mar, o teu furor, já que andas montado nos teus cavalos, nos teus carros de vitória?
+Habacuque 3:9  Tiras a descoberto o teu arco, e farta está a tua aljava de flechas. Tu fendes a terra com rios.
+Habacuque 3:10  Os montes te veem e se contorcem; passam torrentes de água; as profundezas do mar fazem ouvir a sua voz e levantam bem alto as suas mãos.
+Habacuque 3:11  O sol e a lua param nas suas moradas, ao resplandecer a luz das tuas flechas sibilantes, ao fulgor do relâmpago da tua lança.
+Habacuque 3:12  Na tua indignação, marchas pela terra, na tua ira, calcas aos pés as nações.
+Habacuque 3:13  Tu sais para salvamento do teu povo, para salvar o teu ungido; feres o telhado da casa do perverso e lhe descobres de todo o fundamento.
+Habacuque 3:14  Traspassas a cabeça dos guerreiros do inimigo com as suas próprias lanças, os quais, como tempestade, avançam para me destruir; regozijam-se, como se estivessem para devorar o pobre às ocultas.
+Habacuque 3:15  Marchas com os teus cavalos pelo mar, pela massa de grandes águas.
+Habacuque 3:16  Ouvi-o, e o meu íntimo se comoveu, à sua voz, tremeram os meus lábios; entrou a podridão nos meus ossos, e os joelhos me vacilaram, pois, em silêncio, devo esperar o dia da angústia, que virá contra o povo que nos acomete.
+Habacuque 3:17  Ainda que a figueira não floresça, nem haja fruto na vide; o produto da oliveira minta, e os campos não produzam mantimento; as ovelhas sejam arrebatadas do aprisco, e nos currais não haja gado,
+Habacuque 3:18  todavia, eu me alegro no Senhor, exulto no Deus da minha salvação.
+Habacuque 3:19  O Senhor Deus é a minha fortaleza, e faz os meus pés como os da corça, e me faz andar altaneiramente. Ao mestre de canto. Para instrumentos de cordas.
+Sofonias 1:1  Palavra do Senhor que veio a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.
+Sofonias 1:2  De fato, consumirei todas as coisas sobre a face da terra, diz o Senhor.
+Sofonias 1:3  Consumirei os homens e os animais, consumirei as aves do céu, e os peixes do mar, e as ofensas com os perversos; e exterminarei os homens de sobre a face da terra, diz o Senhor.
+Sofonias 1:4  Estenderei a mão contra Judá e contra todos os habitantes de Jerusalém; exterminarei deste lugar o resto de Baal, o nome dos ministrantes dos ídolos e seus sacerdotes;
+Sofonias 1:5  os que sobre os eirados adoram o exército do céu e os que adoram ao Senhor e juram por ele e também por Milcom;
+Sofonias 1:6  os que deixam de seguir ao Senhor e os que não buscam o Senhor, nem perguntam por ele.
+Sofonias 1:7  Cala-te diante do Senhor Deus, porque o Dia do Senhor está perto, pois o Senhor preparou o sacrifício e santificou os seus convidados.
+Sofonias 1:8  No dia do sacrifício do Senhor, hei de castigar os oficiais, e os filhos do rei, e todos os que trajam vestiduras estrangeiras.
+Sofonias 1:9  Castigarei também, naquele dia, todos aqueles que sobem o pedestal dos ídolos e enchem de violência e engano a casa dos seus senhores.
+Sofonias 1:10  Naquele dia, diz o Senhor, far-se-á ouvir um grito desde a Porta do Peixe, e um uivo desde a Cidade Baixa, e grande lamento desde os outeiros.
+Sofonias 1:11  Uivai vós, moradores de Mactés, porque todo o povo de Canaã está arruinado, todos os que pesam prata são destruídos.
+Sofonias 1:12  Naquele tempo, esquadrinharei a Jerusalém com lanternas e castigarei os homens que estão apegados à borra do vinho e dizem no seu coração: O Senhor não faz bem, nem faz mal.
+Sofonias 1:13  Por isso, serão saqueados os seus bens e assoladas as suas casas; e edificarão casas, mas não habitarão nelas, plantarão vinhas, porém não lhes beberão o vinho.
+Sofonias 1:14  Está perto o grande Dia do Senhor; está perto e muito se apressa. Atenção! O Dia do Senhor é amargo, e nele clama até o homem poderoso.
+Sofonias 1:15  Aquele dia é dia de indignação, dia de angústia e dia de alvoroço e desolação, dia de escuridade e negrume, dia de nuvens e densas trevas,
+Sofonias 1:16  dia de trombeta e de rebate contra as cidades fortes e contra as torres altas.
+Sofonias 1:17  Trarei angústia sobre os homens, e eles andarão como cegos, porque pecaram contra o Senhor; e o sangue deles se derramará como pó, e a sua carne será atirada como esterco.
+Sofonias 1:18  Nem a sua prata nem o seu ouro os poderão livrar no dia da indignação do Senhor, mas, pelo fogo do seu zelo, a terra será consumida, porque, certamente, fará destruição total e repentina de todos os moradores da terra.
+Sofonias 2:1  Concentra-te e examina-te, ó nação que não tens pudor,
+Sofonias 2:2  antes que saia o decreto, pois o dia se vai como a palha; antes que venha sobre ti o furor da ira do Senhor, sim, antes que venha sobre ti o dia da ira do Senhor.
+Sofonias 2:3  Buscai o Senhor, vós todos os mansos da terra, que cumpris o seu juízo; buscai a justiça, buscai a mansidão; porventura, lograreis esconder-vos no dia da ira do Senhor.
+Sofonias 2:4  Porque Gaza será desamparada, e Asquelom ficará deserta; Asdode, ao meio-dia, será expulsa, e Ecrom, desarraigada.
+Sofonias 2:5  Ai dos que habitam no litoral, do povo dos quereítas! A palavra do Senhor será contra vós outros, ó Canaã, terra dos filisteus, e eu vos farei destruir, até que não haja um morador sequer.
+Sofonias 2:6  O litoral será de pastagens, com refúgios para os pastores e currais para os rebanhos.
+Sofonias 2:7  O litoral pertencerá aos restantes da casa de Judá; nele, apascentarão os seus rebanhos e, à tarde, se deitarão nas casas de Asquelom; porque o Senhor, seu Deus, atentará para eles e lhes mudará a sorte.
+Sofonias 2:8  Ouvi o escárnio de Moabe e as injuriosas palavras dos filhos de Amom, com que escarneceram do meu povo e se gabaram contra o seu território.
+Sofonias 2:9  Portanto, tão certo como eu vivo, diz o Senhor dos Exércitos, o Deus de Israel, Moabe será como Sodoma, e os filhos de Amom, como Gomorra, campo de urtigas, poços de sal e assolação perpétua; o restante do meu povo os saqueará, e os sobreviventes da minha nação os possuirão.
+Sofonias 2:10  Isso lhes sobrevirá por causa da sua soberba, porque escarneceram e se gabaram contra o povo do Senhor dos Exércitos.
+Sofonias 2:11  O Senhor será terrível contra eles, porque aniquilará todos os deuses da terra; todas as ilhas das nações, cada uma do seu lugar, o adorarão.
+Sofonias 2:12  Também vós, ó etíopes, sereis mortos pela espada do Senhor.
+Sofonias 2:13  Ele estenderá também a mão contra o Norte e destruirá a Assíria; e fará de Nínive uma desolação e terra seca como o deserto.
+Sofonias 2:14  No meio desta cidade, repousarão os rebanhos e todos os animais em bandos; alojar-se-ão nos seus capitéis tanto o pelicano como o ouriço; a voz das aves retinirá nas janelas, o monturo estará nos limiares, porque já lhe arrancaram o madeiramento de cedro.
+Sofonias 2:15  Esta é a cidade alegre e confiante, que dizia consigo mesma: Eu sou a única, e não há outra além de mim. Como se tornou em desolação, em pousada de animais! Qualquer que passar por ela assobiará com desprezo e agitará a mão.
+Sofonias 3:1  Ai da cidade opressora, da rebelde e manchada!
+Sofonias 3:2  Não atende a ninguém, não aceita disciplina, não confia no Senhor, nem se aproxima do seu Deus.
+Sofonias 3:3  Os seus príncipes são leões rugidores no meio dela, os seus juízes são lobos do cair da noite, que não deixam os ossos para serem roídos no dia seguinte.
+Sofonias 3:4  Os seus profetas são levianos, homens pérfidos; os seus sacerdotes profanam o santuário e violam a lei.
+Sofonias 3:5  O Senhor é justo, no meio dela; ele não comete iniquidade; manhã após manhã, traz ele o seu juízo à luz; não falha; mas o iníquo não conhece a vergonha.
+Sofonias 3:6  Exterminei as nações, as suas torres estão assoladas; fiz desertas as suas praças, a ponto de não haver quem passe por elas; as suas cidades foram destruídas, de maneira que não há ninguém, ninguém que as habite.
+Sofonias 3:7  Eu dizia: certamente, me temerás e aceitarás a disciplina, e, assim, a sua morada não seria destruída, segundo o que havia determinado; mas eles se levantaram de madrugada e corromperam todos os seus atos.
+Sofonias 3:8  Esperai-me, pois, a mim, diz o Senhor, no dia em que eu me levantar para o despojo; porque a minha resolução é ajuntar as nações e congregar os reinos, para sobre eles fazer cair a minha maldição e todo o furor da minha ira; pois toda esta terra será devorada pelo fogo do meu zelo.
+Sofonias 3:9  Então, darei lábios puros aos povos, para que todos invoquem o nome do Senhor e o sirvam de comum acordo.
+Sofonias 3:10  Dalém dos rios da Etiópia, os meus adoradores, que constituem a filha da minha dispersão, me trarão sacrifícios.
+Sofonias 3:11  Naquele dia, não te envergonharás de nenhuma das tuas obras, com que te rebelaste contra mim; então, tirarei do meio de ti os que exultam na sua soberba, e tu nunca mais te ensoberbecerás no meu santo monte.
+Sofonias 3:12  Mas deixarei, no meio de ti, um povo modesto e humilde, que confia em o nome do Senhor.
+Sofonias 3:13  Os restantes de Israel não cometerão iniquidade, nem proferirão mentira, e na sua boca não se achará língua enganosa, porque serão apascentados, deitar-se-ão, e não haverá quem os espante.
+Sofonias 3:14  Canta, ó filha de Sião; rejubila, ó Israel; regozija-te e, de todo o coração, exulta, ó filha de Jerusalém.
+Sofonias 3:15  O Senhor afastou as sentenças que eram contra ti e lançou fora o teu inimigo. O Rei de Israel, o Senhor, está no meio de ti; tu já não verás mal algum.
+Sofonias 3:16  Naquele dia, se dirá a Jerusalém: Não temas, ó Sião, não se afrouxem os teus braços.
+Sofonias 3:17  O Senhor, teu Deus, está no meio de ti, poderoso para salvar-te; ele se deleitará em ti com alegria; renovar-te-á no seu amor, regozijar-se-á em ti com júbilo.
+Sofonias 3:18  Os que estão entristecidos por se acharem afastados das festas solenes, eu os congregarei, estes que são de ti e sobre os quais pesam opróbrios.
+Sofonias 3:19  Eis que, naquele tempo, procederei contra todos os que te afligem; salvarei os que coxeiam, e recolherei os que foram expulsos, e farei deles um louvor e um nome em toda a terra em que sofrerem ignomínia.
+Sofonias 3:20  Naquele tempo, eu vos farei voltar e vos recolherei; certamente, farei de vós um nome e um louvor entre todos os povos da terra, quando eu vos mudar a sorte diante dos vossos olhos, diz o Senhor.
+Ageu 1:1  No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do Senhor, por intermédio do profeta Ageu, a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:
+Ageu 1:2  Assim fala o Senhor dos Exércitos: Este povo diz: Não veio ainda o tempo, o tempo em que a Casa do Senhor deve ser edificada.
+Ageu 1:3  Veio, pois, a palavra do Senhor, por intermédio do profeta Ageu, dizendo:
+Ageu 1:4  Acaso, é tempo de habitardes vós em casas apaineladas, enquanto esta casa permanece em ruínas?
+Ageu 1:5  Ora, pois, assim diz o Senhor dos Exércitos: Considerai o vosso passado.
+Ageu 1:6  Tendes semeado muito e recolhido pouco; comeis, mas não chega para fartar-vos; bebeis, mas não dá para saciar-vos; vestis-vos, mas ninguém se aquece; e o que recebe salário, recebe-o para pô-lo num saquitel furado.
+Ageu 1:7  Assim diz o Senhor dos Exércitos: Considerai o vosso passado.
+Ageu 1:8  Subi ao monte, trazei madeira e edificai a casa; dela me agradarei e serei glorificado, diz o Senhor.
+Ageu 1:9  Esperastes o muito, e eis que veio a ser pouco, e esse pouco, quando o trouxestes para casa, eu com um assopro o dissipei. Por quê? — diz o Senhor dos Exércitos; por causa da minha casa, que permanece em ruínas, ao passo que cada um de vós corre por causa de sua própria casa.
+Ageu 1:10  Por isso, os céus sobre vós retêm o seu orvalho, e a terra, os seus frutos.
+Ageu 1:11  Fiz vir a seca sobre a terra e sobre os montes; sobre o cereal, sobre o vinho, sobre o azeite e sobre o que a terra produz, como também sobre os homens, sobre os animais e sobre todo trabalho das mãos.
+Ageu 1:12  Então, Zorobabel, filho de Salatiel, e Josué, filho de Jozadaque, o sumo sacerdote, e todo o resto do povo atenderam à voz do Senhor, seu Deus, e às palavras do profeta Ageu, as quais o Senhor, seu Deus, o tinha mandado dizer; e o povo temeu diante do Senhor.
+Ageu 1:13  Então, Ageu, o enviado do Senhor, falou ao povo, segundo a mensagem do Senhor, dizendo: Eu sou convosco, diz o Senhor.
+Ageu 1:14  O Senhor despertou o espírito de Zorobabel, filho de Salatiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, o sumo sacerdote, e o espírito do resto de todo o povo; eles vieram e se puseram ao trabalho na Casa do Senhor dos Exércitos, seu Deus,
+Ageu 1:15  ao vigésimo quarto dia do sexto mês.
+Ageu 2:1  No segundo ano do rei Dario, no sétimo mês, ao vigésimo primeiro do mês, veio a palavra do Senhor por intermédio do profeta Ageu, dizendo:
+Ageu 2:2  Fala, agora, a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, e ao resto do povo, dizendo:
+Ageu 2:3  Quem dentre vós, que tenha sobrevivido, contemplou esta casa na sua primeira glória? E como a vedes agora? Não é ela como nada aos vossos olhos?
+Ageu 2:4  Ora, pois, sê forte, Zorobabel, diz o Senhor, e sê forte, Josué, filho de Jozadaque, o sumo sacerdote, e tu, todo o povo da terra, sê forte, diz o Senhor, e trabalhai, porque eu sou convosco, diz o Senhor dos Exércitos;
+Ageu 2:5  segundo a palavra da aliança que fiz convosco, quando saístes do Egito, o meu Espírito habita no meio de vós; não temais.
+Ageu 2:6  Pois assim diz o Senhor dos Exércitos: Ainda uma vez, dentro em pouco, farei abalar o céu, a terra, o mar e a terra seca;
+Ageu 2:7  farei abalar todas as nações, e as coisas preciosas de todas as nações virão, e encherei de glória esta casa, diz o Senhor dos Exércitos.
+Ageu 2:8  Minha é a prata, meu é o ouro, diz o Senhor dos Exércitos.
+Ageu 2:9  A glória desta última casa será maior do que a da primeira, diz o Senhor dos Exércitos; e, neste lugar, darei a paz, diz o Senhor dos Exércitos.
+Ageu 2:10  Ao vigésimo quarto dia do mês nono, no segundo ano de Dario, veio a palavra do Senhor por intermédio do profeta Ageu, dizendo:
+Ageu 2:11  Assim diz o Senhor dos Exércitos: Pergunta, agora, aos sacerdotes a respeito da lei:
+Ageu 2:12  Se alguém leva carne santa na orla de sua veste, e ela vier a tocar no pão, ou no cozinhado, ou no vinho, ou no azeite, ou em qualquer outro mantimento, ficará isto santificado? Responderam os sacerdotes: Não.
+Ageu 2:13  Então, perguntou Ageu: Se alguém que se tinha tornado impuro pelo contato com um corpo morto tocar nalguma destas coisas, ficará ela imunda? Responderam os sacerdotes: Ficará imunda.
+Ageu 2:14  Então, prosseguiu Ageu: Assim é este povo, e assim esta nação perante mim, diz o Senhor; assim é toda a obra das suas mãos, e o que ali oferecem: tudo é imundo.
+Ageu 2:15  Agora, pois, considerai tudo o que está acontecendo desde aquele dia. Antes de pordes pedra sobre pedra no templo do Senhor,
+Ageu 2:16  antes daquele tempo, alguém vinha a um monte de vinte medidas, e havia somente dez; vinha ao lagar para tirar cinquenta, e havia somente vinte.
+Ageu 2:17  Eu vos feri com queimaduras, e com ferrugem, e com saraiva, em toda a obra das vossas mãos; e não houve, entre vós, quem voltasse para mim, diz o Senhor.
+Ageu 2:18  Considerai, eu vos rogo, desde este dia em diante, desde o vigésimo quarto dia do mês nono, desde o dia em que se fundou o templo do Senhor, considerai nestas coisas.
+Ageu 2:19  Já não há semente no celeiro. Além disso, a videira, a figueira, a romeira e a oliveira não têm dado os seus frutos; mas, desde este dia, vos abençoarei.
+Ageu 2:20  Veio a palavra do Senhor segunda vez a Ageu, ao vigésimo quarto dia do mês, dizendo:
+Ageu 2:21  Fala a Zorobabel, governador de Judá: Farei abalar o céu e a terra;
+Ageu 2:22  derribarei o trono dos reinos e destruirei a força dos reinos das nações; destruirei o carro e os que andam nele; os cavalos e os seus cavaleiros cairão, um pela espada do outro.
+Ageu 2:23  Naquele dia, diz o Senhor dos Exércitos, tomar-te-ei, ó Zorobabel, filho de Salatiel, servo meu, diz o Senhor, e te farei como um anel de selar, porque te escolhi, diz o Senhor dos Exércitos.
+Zacarias 1:1  No oitavo mês do segundo ano de Dario, veio a palavra do Senhor ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:
+Zacarias 1:2  O Senhor se irou em extremo contra vossos pais.
+Zacarias 1:3  Portanto, dize-lhes: Assim diz o Senhor dos Exércitos: Tornai-vos para mim, diz o Senhor dos Exércitos, e eu me tornarei para vós outros, diz o Senhor dos Exércitos.
+Zacarias 1:4  Não sejais como vossos pais, a quem clamavam os primeiros profetas, dizendo: Assim diz o Senhor dos Exércitos: Convertei-vos, agora, dos vossos maus caminhos e das vossas más obras; mas não ouviram, nem me atenderam, diz o Senhor.
+Zacarias 1:5  Vossos pais, onde estão eles? E os profetas, acaso, vivem para sempre?
+Zacarias 1:6  Contudo, as minhas palavras e os meus estatutos, que eu prescrevi aos profetas, meus servos, não alcançaram a vossos pais? Sim, estes se arrependeram e disseram: Como o Senhor dos Exércitos fez tenção de nos tratar, segundo os nossos caminhos e segundo as nossas obras, assim ele nos fez.
+Zacarias 1:7  No vigésimo quarto dia do mês undécimo, que é o mês de sebate, no segundo ano de Dario, veio a palavra do Senhor ao profeta Zacarias, filho de Baraquias, filho de Ido.
+Zacarias 1:8  Tive de noite uma visão, e eis um homem montado num cavalo vermelho; estava parado entre as murteiras que havia num vale profundo; atrás dele se achavam cavalos vermelhos, baios e brancos.
+Zacarias 1:9  Então, perguntei: meu senhor, quem são estes? Respondeu-me o anjo que falava comigo: Eu te mostrarei quem são eles.
+Zacarias 1:10  Então, respondeu o homem que estava entre as murteiras e disse: São os que o Senhor tem enviado para percorrerem a terra.
+Zacarias 1:11  Eles responderam ao anjo do Senhor, que estava entre as murteiras, e disseram: Nós já percorremos a terra, e eis que toda a terra está, agora, repousada e tranquila.
+Zacarias 1:12  Então, o anjo do Senhor respondeu: Ó Senhor dos Exércitos, até quando não terás compaixão de Jerusalém e das cidades de Judá, contra as quais estás indignado faz já setenta anos?
+Zacarias 1:13  Respondeu o Senhor com palavras boas, palavras consoladoras, ao anjo que falava comigo.
+Zacarias 1:14  E este me disse: Clama: Assim diz o Senhor dos Exércitos: Com grande empenho, estou zelando por Jerusalém e por Sião.
+Zacarias 1:15  E, com grande indignação, estou irado contra as nações que vivem confiantes; porque eu estava um pouco indignado, e elas agravaram o mal.
+Zacarias 1:16  Portanto, assim diz o Senhor: Voltei-me para Jerusalém com misericórdia; a minha casa nela será edificada, diz o Senhor dos Exércitos, e o cordel será estendido sobre Jerusalém.
+Zacarias 1:17  Clama outra vez, dizendo: Assim diz o Senhor dos Exércitos: As minhas cidades ainda transbordarão de bens; o Senhor ainda consolará a Sião e ainda escolherá a Jerusalém.
+Zacarias 1:18  Levantei os olhos e vi, e eis quatro chifres.
+Zacarias 1:19  Perguntei ao anjo que falava comigo: que é isto? Ele me respondeu: São os chifres que dispersaram a Judá, a Israel e a Jerusalém.
+Zacarias 1:20  O Senhor me mostrou quatro ferreiros.
+Zacarias 1:21  Então, perguntei: que vêm fazer estes? Ele respondeu: Aqueles são os chifres que dispersaram a Judá, de maneira que ninguém pode levantar a cabeça; estes ferreiros, pois, vieram para os amedrontar, para derribar os chifres das nações que levantaram o seu poder contra a terra de Judá, para a espalhar.
+Zacarias 2:1  Tornei a levantar os olhos e vi, e eis um homem que tinha na mão um cordel de medir.
+Zacarias 2:2  Então, perguntei: para onde vais tu? Ele me respondeu: Medir Jerusalém, para ver qual é a sua largura e qual o seu comprimento.
+Zacarias 2:3  Eis que saiu o anjo que falava comigo, e outro anjo lhe saiu ao encontro.
+Zacarias 2:4  E lhe disse: Corre, fala a este jovem: Jerusalém será habitada como as aldeias sem muros, por causa da multidão de homens e animais que haverá nela.
+Zacarias 2:5  Pois eu lhe serei, diz o Senhor, um muro de fogo em redor e eu mesmo serei, no meio dela, a sua glória.
+Zacarias 2:6  Eh! Eh! Fugi, agora, da terra do Norte, diz o Senhor, porque vos espalhei como os quatro ventos do céu, diz o Senhor.
+Zacarias 2:7  Eh! Salva-te, ó Sião, tu que habitas com a filha da Babilônia.
+Zacarias 2:8  Pois assim diz o Senhor dos Exércitos: Para obter ele a glória, enviou-me às nações que vos despojaram; porque aquele que tocar em vós toca na menina do seu olho.
+Zacarias 2:9  Porque eis aí agitarei a mão contra eles, e eles virão a ser a presa daqueles que os serviram; assim, sabereis vós que o Senhor dos Exércitos é quem me enviou.
+Zacarias 2:10  Canta e exulta, ó filha de Sião, porque eis que venho e habitarei no meio de ti, diz o Senhor.
+Zacarias 2:11  Naquele dia, muitas nações se ajuntarão ao Senhor e serão o meu povo; habitarei no meio de ti, e saberás que o Senhor dos Exércitos é quem me enviou a ti.
+Zacarias 2:12  Então, o Senhor herdará a Judá como sua porção na terra santa e, de novo, escolherá a Jerusalém.
+Zacarias 2:13  Cale-se toda carne diante do Senhor, porque ele se levantou da sua santa morada.
+Zacarias 3:1  Deus me mostrou o sumo sacerdote Josué, o qual estava diante do Anjo do Senhor, e Satanás estava à mão direita dele, para se lhe opor.
+Zacarias 3:2  Mas o Senhor disse a Satanás: O Senhor te repreende, ó Satanás; sim, o Senhor, que escolheu a Jerusalém, te repreende; não é este um tição tirado do fogo?
+Zacarias 3:3  Ora, Josué, trajado de vestes sujas, estava diante do Anjo.
+Zacarias 3:4  Tomou este a palavra e disse aos que estavam diante dele: Tirai-lhe as vestes sujas. A Josué disse: Eis que tenho feito que passe de ti a tua iniquidade e te vestirei de finos trajes.
+Zacarias 3:5  E disse eu: ponham-lhe um turbante limpo sobre a cabeça. Puseram-lhe, pois, sobre a cabeça um turbante limpo e o vestiram com trajes próprios; e o Anjo do Senhor estava ali,
+Zacarias 3:6  protestou a Josué e disse:
+Zacarias 3:7  Assim diz o Senhor dos Exércitos: Se andares nos meus caminhos e observares os meus preceitos, também tu julgarás a minha casa e guardarás os meus átrios, e te darei livre acesso entre estes que aqui se encontram.
+Zacarias 3:8  Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti, porque são homens de presságio; eis que eu farei vir o meu servo, o Renovo.
+Zacarias 3:9  Porque eis aqui a pedra que pus diante de Josué; sobre esta pedra única estão sete olhos; eis que eu lavrarei a sua escultura, diz o Senhor dos Exércitos, e tirarei a iniquidade desta terra, num só dia.
+Zacarias 3:10  Naquele dia, diz o Senhor dos Exércitos, cada um de vós convidará ao seu próximo para debaixo da vide e para debaixo da figueira.
+Zacarias 4:1  Tornou o anjo que falava comigo e me despertou, como a um homem que é despertado do seu sono,
+Zacarias 4:2  e me perguntou: Que vês? Respondi: olho, e eis um candelabro todo de ouro e um vaso de azeite em cima com as suas sete lâmpadas e sete tubos, um para cada uma das lâmpadas que estão em cima do candelabro.
+Zacarias 4:3  Junto a este, duas oliveiras, uma à direita do vaso de azeite, e a outra à sua esquerda.
+Zacarias 4:4  Então, perguntei ao anjo que falava comigo: meu senhor, que é isto?
+Zacarias 4:5  Respondeu-me o anjo que falava comigo: Não sabes tu que é isto? Respondi: não, meu senhor.
+Zacarias 4:6  Prosseguiu ele e me disse: Esta é a palavra do Senhor a Zorobabel: Não por força nem por poder, mas pelo meu Espírito, diz o Senhor dos Exércitos.
+Zacarias 4:7  Quem és tu, ó grande monte? Diante de Zorobabel serás uma campina; porque ele colocará a pedra de remate, em meio a aclamações: Haja graça e graça para ela!
+Zacarias 4:8  Novamente, me veio a palavra do Senhor, dizendo:
+Zacarias 4:9  As mãos de Zorobabel lançaram os fundamentos desta casa, elas mesmas a acabarão, para que saibais que o Senhor dos Exércitos é quem me enviou a vós outros.
+Zacarias 4:10  Pois quem despreza o dia dos humildes começos, esse alegrar-se-á vendo o prumo na mão de Zorobabel. Aqueles sete olhos são os olhos do Senhor, que percorrem toda a terra.
+Zacarias 4:11  Prossegui e lhe perguntei: que são as duas oliveiras à direita e à esquerda do candelabro?
+Zacarias 4:12  Tornando a falar-lhe, perguntei: que são aqueles dois raminhos de oliveira que estão junto aos dois tubos de ouro, que vertem de si azeite dourado?
+Zacarias 4:13  Ele me respondeu: Não sabes que é isto? Eu disse: não, meu senhor.
+Zacarias 4:14  Então, ele disse: São os dois ungidos, que assistem junto ao Senhor de toda a terra.
+Zacarias 5:1  Tornei a levantar os olhos e vi, e eis um rolo voante.
+Zacarias 5:2  Perguntou-me o anjo: Que vês? Eu respondi: vejo um rolo voante, que tem vinte côvados de comprimento e dez de largura.
+Zacarias 5:3  Então, me disse: Esta é a maldição que sai pela face de toda a terra, porque qualquer que furtar será expulso segundo a maldição, e qualquer que jurar falsamente será expulso também segundo a mesma.
+Zacarias 5:4  Fá-la-ei sair, diz o Senhor dos Exércitos, e a farei entrar na casa do ladrão e na casa do que jurar falsamente pelo meu nome; nela, pernoitará e consumirá a sua madeira e as suas pedras.
+Zacarias 5:5  Saiu o anjo que falava comigo e me disse: Levanta, agora, os olhos e vê que é isto que sai.
+Zacarias 5:6  Eu perguntei: que é isto? Ele me respondeu: É um efa que sai. Disse ainda: Isto é a iniquidade em toda a terra.
+Zacarias 5:7  Eis que foi levantada a tampa de chumbo, e uma mulher estava sentada dentro do efa.
+Zacarias 5:8  Prosseguiu o anjo: Isto é a impiedade. E a lançou para o fundo do efa, sobre cuja boca pôs o peso de chumbo.
+Zacarias 5:9  Levantei os olhos e vi, e eis que saíram duas mulheres; havia vento em suas asas, que eram como de cegonha; e levantaram o efa entre a terra e o céu.
+Zacarias 5:10  Então, perguntei ao anjo que falava comigo: para onde levam elas o efa?
+Zacarias 5:11  Respondeu-me: Para edificarem àquela mulher uma casa na terra de Sinar, e, estando esta acabada, ela será posta ali em seu próprio lugar.
+Zacarias 6:1  Outra vez, levantei os olhos e vi, e eis que quatro carros saíam dentre dois montes, e estes montes eram de bronze.
+Zacarias 6:2  No primeiro carro, os cavalos eram vermelhos, no segundo, pretos,
+Zacarias 6:3  no terceiro, brancos e no quarto, baios; todos eram fortes.
+Zacarias 6:4  Então, perguntei ao anjo que falava comigo: que é isto, meu senhor?
+Zacarias 6:5  Respondeu-me o anjo: São os quatro ventos do céu, que saem donde estavam perante o Senhor de toda a terra.
+Zacarias 6:6  O carro em que estão os cavalos pretos sai para a terra do Norte; o dos brancos, após eles; o dos baios, para a terra do Sul.
+Zacarias 6:7  Saem, assim, os cavalos fortes, forcejando por andar avante, para percorrerem a terra. O Senhor lhes disse: Ide, percorrei a terra. E percorriam a terra.
+Zacarias 6:8  E me chamou e me disse: Eis que aqueles que saíram para a terra do Norte fazem repousar o meu Espírito na terra do Norte.
+Zacarias 6:9  A palavra do Senhor veio a mim, dizendo:
+Zacarias 6:10  Recebe dos que foram levados cativos, a saber, de Heldai, de Tobias e de Jedaías, e vem tu no mesmo dia e entra na casa de Josias, filho de Sofonias, para a qual vieram da Babilônia.
+Zacarias 6:11  Recebe, digo, prata e ouro, e faze coroas, e põe-nas na cabeça de Josué, filho de Jozadaque, o sumo sacerdote.
+Zacarias 6:12  E dize-lhe: Assim diz o Senhor dos Exércitos: Eis aqui o homem cujo nome é Renovo; ele brotará do seu lugar e edificará o templo do Senhor.
+Zacarias 6:13  Ele mesmo edificará o templo do Senhor e será revestido de glória; assentar-se-á no seu trono, e dominará, e será sacerdote no seu trono; e reinará perfeita união entre ambos os ofícios.
+Zacarias 6:14  As coroas serão para Helém, para Tobias, para Jedaías e para Hem, filho de Sofonias, como memorial no templo do Senhor.
+Zacarias 6:15  Aqueles que estão longe virão e ajudarão no edificar o templo do Senhor, e sabereis que o Senhor dos Exércitos me enviou a vós outros. Isto sucederá se diligentemente ouvirdes a voz do Senhor, vosso Deus.
+Zacarias 7:1  No quarto ano do rei Dario, veio a palavra do Senhor a Zacarias, no dia quarto do nono mês, que é quisleu.
+Zacarias 7:2  Quando de Betel foram enviados Sarezer, e Regém-Meleque, e seus homens, para suplicarem o favor do Senhor,
+Zacarias 7:3  perguntaram aos sacerdotes, que estavam na Casa do Senhor dos Exércitos, e aos profetas: Continuaremos nós a chorar, com jejum, no quinto mês, como temos feito por tantos anos?
+Zacarias 7:4  Então, a palavra do Senhor dos Exércitos me veio a mim, dizendo:
+Zacarias 7:5  Fala a todo o povo desta terra e aos sacerdotes: Quando jejuastes e pranteastes, no quinto e no sétimo mês, durante estes setenta anos, acaso, foi para mim que jejuastes, com efeito, para mim?
+Zacarias 7:6  Quando comeis e bebeis, não é para vós mesmos que comeis e bebeis?
+Zacarias 7:7  Não ouvistes vós as palavras que o Senhor pregou pelo ministério dos profetas que nos precederam, quando Jerusalém estava habitada e em paz com as suas cidades ao redor dela, e o Sul e a campina eram habitados?
+Zacarias 7:8  A palavra do Senhor veio a Zacarias, dizendo:
+Zacarias 7:9  Assim falara o Senhor dos Exércitos: Executai juízo verdadeiro, mostrai bondade e misericórdia, cada um a seu irmão;
+Zacarias 7:10  não oprimais a viúva, nem o órfão, nem o estrangeiro, nem o pobre, nem intente cada um, em seu coração, o mal contra o seu próximo.
+Zacarias 7:11  Eles, porém, não quiseram atender e, rebeldes, me deram as costas e ensurdeceram os ouvidos, para que não ouvissem.
+Zacarias 7:12  Sim, fizeram o seu coração duro como diamante, para que não ouvissem a lei, nem as palavras que o Senhor dos Exércitos enviara pelo seu Espírito, mediante os profetas que nos precederam; daí veio a grande ira do Senhor dos Exércitos.
+Zacarias 7:13  Visto que eu clamei, e eles não me ouviram, eles também clamaram, e eu não os ouvi, diz o Senhor dos Exércitos.
+Zacarias 7:14  Espalhei-os com um turbilhão por entre todas as nações que eles não conheceram; e a terra foi assolada atrás deles, de sorte que ninguém passava por ela, nem voltava; porque da terra desejável fizeram uma desolação.
+Zacarias 8:1  Veio a mim a palavra do Senhor dos Exércitos, dizendo:
+Zacarias 8:2  Assim diz o Senhor dos Exércitos: Tenho grandes zelos de Sião e com grande indignação tenho zelos dela.
+Zacarias 8:3  Assim diz o Senhor: Voltarei para Sião e habitarei no meio de Jerusalém; Jerusalém chamar-se-á a cidade fiel, e o monte do Senhor dos Exércitos, monte santo.
+Zacarias 8:4  Assim diz o Senhor dos Exércitos: Ainda nas praças de Jerusalém sentar-se-ão velhos e velhas, levando cada um na mão o seu arrimo, por causa da sua muita idade.
+Zacarias 8:5  As praças da cidade se encherão de meninos e meninas, que nelas brincarão.
+Zacarias 8:6  Assim diz o Senhor dos Exércitos: Se isto for maravilhoso aos olhos do restante deste povo naqueles dias, será também maravilhoso aos meus olhos? — diz o Senhor dos Exércitos.
+Zacarias 8:7  Assim diz o Senhor dos Exércitos: Eis que salvarei o meu povo, tirando-o da terra do Oriente e da terra do Ocidente;
+Zacarias 8:8  eu os trarei, e habitarão em Jerusalém; eles serão o meu povo, e eu serei o seu Deus, em verdade e em justiça.
+Zacarias 8:9  Assim diz o Senhor dos Exércitos: Sejam fortes as mãos de todos vós que nestes dias ouvis estas palavras da boca dos profetas, a saber, nos dias em que foram postos os fundamentos da Casa do Senhor dos Exércitos, para que o templo fosse edificado.
+Zacarias 8:10  Porque, antes daqueles dias, não havia salário para homens, nem os animais lhes davam ganho, não havia paz para o que entrava, nem para o que saía, por causa do inimigo, porque eu incitei todos os homens, cada um contra o seu próximo.
+Zacarias 8:11  Mas, agora, não serei para com o restante deste povo como nos primeiros dias, diz o Senhor dos Exércitos.
+Zacarias 8:12  Porque haverá sementeira de paz; a vide dará o seu fruto, a terra, a sua novidade, e os céus, o seu orvalho; e farei que o resto deste povo herde tudo isto.
+Zacarias 8:13  E há de acontecer, ó casa de Judá, ó casa de Israel, que, assim como fostes maldição entre as nações, assim vos salvarei, e sereis bênção; não temais, e sejam fortes as vossas mãos.
+Zacarias 8:14  Porque assim diz o Senhor dos Exércitos: Como pensei fazer-vos mal, quando vossos pais me provocaram à ira, diz o Senhor dos Exércitos, e não me arrependi,
+Zacarias 8:15  assim pensei de novo em fazer bem a Jerusalém e à casa de Judá nestes dias; não temais.
+Zacarias 8:16  Eis as coisas que deveis fazer: Falai a verdade cada um com o seu próximo, executai juízo nas vossas portas, segundo a verdade, em favor da paz;
+Zacarias 8:17  nenhum de vós pense mal no seu coração contra o seu próximo, nem ame o juramento falso, porque a todas estas coisas eu aborreço, diz o Senhor.
+Zacarias 8:18  A palavra do Senhor dos Exércitos veio a mim, dizendo:
+Zacarias 8:19  Assim diz o Senhor dos Exércitos: O jejum do quarto mês, e o do quinto, e o do sétimo, e o do décimo serão para a casa de Judá regozijo, alegria e festividades solenes; amai, pois, a verdade e a paz.
+Zacarias 8:20  Assim diz o Senhor dos Exércitos: Ainda sucederá que virão povos e habitantes de muitas cidades;
+Zacarias 8:21  e os habitantes de uma cidade irão à outra, dizendo: Vamos depressa suplicar o favor do Senhor e buscar ao Senhor dos Exércitos; eu também irei.
+Zacarias 8:22  Virão muitos povos e poderosas nações buscar em Jerusalém ao Senhor dos Exércitos e suplicar o favor do Senhor.
+Zacarias 8:23  Assim diz o Senhor dos Exércitos: Naquele dia, sucederá que pegarão dez homens, de todas as línguas das nações, pegarão, sim, na orla da veste de um judeu e lhe dirão: Iremos convosco, porque temos ouvido que Deus está convosco.
+Zacarias 9:1  A sentença pronunciada pelo Senhor é contra a terra de Hadraque e repousa sobre Damasco, porque o Senhor põe os olhos sobre os homens e sobre todas as tribos de Israel;
+Zacarias 9:2  também repousa sobre Hamate, que confina com ele, sobre Tiro e Sidom, cuja sabedoria é grande.
+Zacarias 9:3  Tiro edificou para si fortalezas e amontoou prata como o pó e ouro, como a lama das ruas.
+Zacarias 9:4  Eis que o Senhor a despojará e precipitará no mar a sua força; e ela será consumida pelo fogo.
+Zacarias 9:5  Asquelom o verá e temerá; também Gaza e terá grande dor; igualmente Ecrom, porque a sua esperança será iludida; o rei de Gaza perecerá, e Asquelom não será habitada.
+Zacarias 9:6  Povo bastardo habitará em Asdode, e exterminarei a soberba dos filisteus.
+Zacarias 9:7  Da boca destes tirarei o sangue dos sacrifícios idólatras e, dentre os seus dentes, tais abominações; então, ficarão eles como um restante para o nosso Deus; e serão como chefes em Judá, e Ecrom, como jebuseu.
+Zacarias 9:8  Acampar-me-ei ao redor da minha casa para defendê-la contra forças militantes, para que ninguém passe, nem volte; que não passe mais sobre eles o opressor; porque, agora, vejo isso com os meus olhos.
+Zacarias 9:9  Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém: eis aí te vem o teu Rei, justo e salvador, humilde, montado em jumento, num jumentinho, cria de jumenta.
+Zacarias 9:10  Destruirei os carros de Efraim e os cavalos de Jerusalém, e o arco de guerra será destruído. Ele anunciará paz às nações; o seu domínio se estenderá de mar a mar e desde o Eufrates até às extremidades da terra.
+Zacarias 9:11  Quanto a ti, Sião, por causa do sangue da tua aliança, tirei os teus cativos da cova em que não havia água.
+Zacarias 9:12  Voltai à fortaleza, ó presos de esperança; também, hoje, vos anuncio que tudo vos restituirei em dobro.
+Zacarias 9:13  Porque para mim curvei Judá como um arco e o enchi de Efraim; suscitarei a teus filhos, ó Sião, contra os teus filhos, ó Grécia! E te porei, ó Sião, como a espada de um valente.
+Zacarias 9:14  O Senhor será visto sobre os filhos de Sião, e as suas flechas sairão como o relâmpago; o Senhor Deus fará soar a trombeta e irá com os redemoinhos do Sul.
+Zacarias 9:15  O Senhor dos Exércitos os protegerá; eles devorarão os fundibulários e os pisarão; também beberão deles o sangue como vinho; encher-se-ão como bacias do sacrifício e ficarão ensopados como os cantos do altar.
+Zacarias 9:16  O Senhor, seu Deus, naquele dia, os salvará, como ao rebanho do seu povo; porque eles são pedras de uma coroa e resplandecem na terra dele.
+Zacarias 9:17  Pois quão grande é a sua bondade! E quão grande, a sua formosura! O cereal fará florescer os jovens, e o vinho, as donzelas.
+Zacarias 10:1  Pedi ao Senhor chuva no tempo das chuvas serôdias, ao Senhor, que faz as nuvens de chuva, dá aos homens aguaceiro e a cada um, erva no campo.
+Zacarias 10:2  Porque os ídolos do lar falam coisas vãs, e os adivinhos veem mentiras, contam sonhos enganadores e oferecem consolações vazias; por isso, anda o povo como ovelhas, aflito, porque não há pastor.
+Zacarias 10:3  Contra os pastores se acendeu a minha ira, e castigarei os bodes-guias; mas o Senhor dos Exércitos tomará a seu cuidado o rebanho, a casa de Judá, e fará desta o seu cavalo de glória na batalha.
+Zacarias 10:4  De Judá sairá a pedra angular; dele, a estaca da tenda; dele, o arco de guerra; dele sairão todos os chefes juntos.
+Zacarias 10:5  E serão como valentes que, na batalha, pisam aos pés os seus inimigos na lama das ruas; pelejarão, porque o Senhor está com eles, e envergonharão os que andam montados em cavalos.
+Zacarias 10:6  Fortalecerei a casa de Judá, e salvarei a casa de José, e fá-los-ei voltar, porque me compadeço deles; e serão como se eu não os tivera rejeitado, porque eu sou o Senhor, seu Deus, e os ouvirei.
+Zacarias 10:7  Os de Efraim serão como um valente, e o seu coração se alegrará como pelo vinho; seus filhos o verão e se alegrarão; o seu coração se regozijará no Senhor.
+Zacarias 10:8  Eu lhes assobiarei e os ajuntarei, porque os tenho remido; multiplicar-se-ão como antes se tinham multiplicado.
+Zacarias 10:9  Ainda que os espalhei por entre os povos, eles se lembram de mim em lugares remotos; viverão com seus filhos e voltarão.
+Zacarias 10:10  Porque eu os farei voltar da terra do Egito e os congregarei da Assíria; trá-los-ei à terra de Gileade e do Líbano, e não se achará lugar para eles.
+Zacarias 10:11  Passarão o mar de angústia, as ondas do mar serão feridas, e todas as profundezas do Nilo se secarão; então, será derribada a soberba da Assíria, e o cetro do Egito se retirará.
+Zacarias 10:12  Eu os fortalecerei no Senhor, e andarão no seu nome, diz o Senhor.
+Zacarias 11:1  Abre, ó Líbano, as tuas portas, para que o fogo consuma os teus cedros.
+Zacarias 11:2  Geme, ó cipreste, porque os cedros caíram, porque as mais excelentes árvores são destruídas; gemei, ó carvalhos de Basã, porque o denso bosque foi derribado.
+Zacarias 11:3  Eis o uivo dos pastores, porque a sua glória é destruída! Eis o bramido dos filhos de leões, porque foi destruída a soberba do Jordão!
+Zacarias 11:4  Assim diz o Senhor, meu Deus: Apascenta as ovelhas destinadas para a matança.
+Zacarias 11:5  Aqueles que as compram matam-nas e não são punidos; os que as vendem dizem: Louvado seja o Senhor, porque me tornei rico; e os seus pastores não se compadecem delas.
+Zacarias 11:6  Certamente, já não terei piedade dos moradores desta terra, diz o Senhor; eis, porém, que entregarei os homens, cada um nas mãos do seu próximo e nas mãos do seu rei; eles ferirão a terra, e eu não os livrarei das mãos deles.
+Zacarias 11:7  Apascentai, pois, as ovelhas destinadas para a matança, as pobres ovelhas do rebanho. Tomei para mim duas varas: a uma chamei Graça, e à outra, União; e apascentei as ovelhas.
+Zacarias 11:8  Dei cabo dos três pastores num mês. Então, perdi a paciência com as ovelhas, e também elas estavam cansadas de mim.
+Zacarias 11:9  Então, disse eu: não vos apascentarei; o que quer morrer, morra, o que quer ser destruído, seja, e os que restarem, coma cada um a carne do seu próximo.
+Zacarias 11:10  Tomei a vara chamada Graça e a quebrei, para anular a minha aliança, que eu fizera com todos os povos.
+Zacarias 11:11  Foi, pois, anulada naquele dia; e as pobres do rebanho, que fizeram caso de mim, reconheceram que isto era palavra do Senhor.
+Zacarias 11:12  Eu lhes disse: se vos parece bem, dai-me o meu salário; e, se não, deixai-o. Pesaram, pois, por meu salário trinta moedas de prata.
+Zacarias 11:13  Então, o Senhor me disse: Arroja isso ao oleiro, esse magnífico preço em que fui avaliado por eles. Tomei as trinta moedas de prata e as arrojei ao oleiro, na Casa do Senhor.
+Zacarias 11:14  Então, quebrei a segunda vara, chamada União, para romper a irmandade entre Judá e Israel.
+Zacarias 11:15  O Senhor me disse: Toma ainda os petrechos de um pastor insensato,
+Zacarias 11:16  porque eis que suscitarei um pastor na terra, o qual não cuidará das que estão perecendo, não buscará a desgarrada, não curará a que foi ferida, nem apascentará a sã; mas comerá a carne das gordas e lhes arrancará até as unhas.
+Zacarias 11:17  Ai do pastor inútil, que abandona o rebanho! A espada lhe cairá sobre o braço e sobre o olho direito; o braço, completamente, se lhe secará, e o olho direito, de todo, se escurecerá.
+Zacarias 12:1  Sentença pronunciada pelo Senhor contra Israel. Fala o Senhor, o que estendeu o céu, fundou a terra e formou o espírito do homem dentro dele.
+Zacarias 12:2  Eis que eu farei de Jerusalém um cálice de tontear para todos os povos em redor e também para Judá, durante o sítio contra Jerusalém.
+Zacarias 12:3  Naquele dia, farei de Jerusalém uma pedra pesada para todos os povos; todos os que a erguerem se ferirão gravemente; e, contra ela, se ajuntarão todas as nações da terra.
+Zacarias 12:4  Naquele dia, diz o Senhor, ferirei de espanto a todos os cavalos e de loucura os que os montam; sobre a casa de Judá abrirei os olhos e ferirei de cegueira a todos os cavalos dos povos.
+Zacarias 12:5  Então, os chefes de Judá pensarão assim: Os habitantes de Jerusalém têm a força do Senhor dos Exércitos, seu Deus.
+Zacarias 12:6  Naquele dia, porei os chefes de Judá como um braseiro ardente debaixo da lenha e como uma tocha entre a palha; eles devorarão, à direita e à esquerda, a todos os povos em redor, e Jerusalém será habitada outra vez no seu próprio lugar, em Jerusalém mesma.
+Zacarias 12:7  O Senhor salvará primeiramente as tendas de Judá, para que a glória da casa de Davi e a glória dos habitantes de Jerusalém não sejam exaltadas acima de Judá.
+Zacarias 12:8  Naquele dia, o Senhor protegerá os habitantes de Jerusalém; e o mais fraco dentre eles, naquele dia, será como Davi, e a casa de Davi será como Deus, como o Anjo do Senhor diante deles.
+Zacarias 12:9  Naquele dia, procurarei destruir todas as nações que vierem contra Jerusalém.
+Zacarias 12:10  E sobre a casa de Davi e sobre os habitantes de Jerusalém derramarei o espírito da graça e de súplicas; olharão para aquele a quem traspassaram; pranteá-lo-ão como quem pranteia por um unigênito e chorarão por ele como se chora amargamente pelo primogênito.
+Zacarias 12:11  Naquele dia, será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom, no vale de Megido.
+Zacarias 12:12  A terra pranteará, cada família à parte; a família da casa de Davi à parte, e suas mulheres à parte; a família da casa de Natã à parte, e suas mulheres à parte;
+Zacarias 12:13  a família da casa de Levi à parte, e suas mulheres à parte; a família dos simeítas à parte, e suas mulheres à parte.
+Zacarias 12:14  Todas as mais famílias, cada família à parte, e suas mulheres à parte.
+Zacarias 13:1  Naquele dia, haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para remover o pecado e a impureza.
+Zacarias 13:2  Acontecerá, naquele dia, diz o Senhor dos Exércitos, que eliminarei da terra os nomes dos ídolos, e deles não haverá mais memória; e também removerei da terra os profetas e o espírito imundo.
+Zacarias 13:3  Quando alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: Não viverás, porque tens falado mentiras em nome do Senhor; seu pai e sua mãe, que o geraram, o traspassarão quando profetizar.
+Zacarias 13:4  Naquele dia, se sentirão envergonhados os profetas, cada um da sua visão quando profetiza; nem mais se vestirão de manto de pelos, para enganarem.
+Zacarias 13:5  Cada um, porém, dirá: Não sou profeta, sou lavrador da terra, porque fui comprado desde a minha mocidade.
+Zacarias 13:6  Se alguém lhe disser: Que feridas são essas nas tuas mãos?, responderá ele: São as feridas com que fui ferido na casa dos meus amigos.
+Zacarias 13:7  Desperta, ó espada, contra o meu pastor e contra o homem que é o meu companheiro, diz o Senhor dos Exércitos; fere o pastor, e as ovelhas ficarão dispersas; mas volverei a mão para os pequeninos.
+Zacarias 13:8  Em toda a terra, diz o Senhor, dois terços dela serão eliminados e perecerão; mas a terceira parte restará nela.
+Zacarias 13:9  Farei passar a terceira parte pelo fogo, e a purificarei como se purifica a prata, e a provarei como se prova o ouro; ela invocará o meu nome, e eu a ouvirei; direi: é meu povo, e ela dirá: O Senhor é meu Deus.
+Zacarias 14:1  Eis que vem o Dia do Senhor, em que os teus despojos se repartirão no meio de ti.
+Zacarias 14:2  Porque eu ajuntarei todas as nações para a peleja contra Jerusalém; e a cidade será tomada, e as casas serão saqueadas, e as mulheres, forçadas; metade da cidade sairá para o cativeiro, mas o restante do povo não será expulso da cidade.
+Zacarias 14:3  Então, sairá o Senhor e pelejará contra essas nações, como pelejou no dia da batalha.
+Zacarias 14:4  Naquele dia, estarão os seus pés sobre o monte das Oliveiras, que está defronte de Jerusalém para o oriente; o monte das Oliveiras será fendido pelo meio, para o oriente e para o ocidente, e haverá um vale muito grande; metade do monte se apartará para o norte, e a outra metade, para o sul.
+Zacarias 14:5  Fugireis pelo vale dos meus montes, porque o vale dos montes chegará até Azal; sim, fugireis como fugistes do terremoto nos dias de Uzias, rei de Judá; então, virá o Senhor, meu Deus, e todos os santos, com ele.
+Zacarias 14:6  Acontecerá, naquele dia, que não haverá luz, mas frio e gelo.
+Zacarias 14:7  Mas será um dia singular conhecido do Senhor; não será nem dia nem noite, mas haverá luz à tarde.
+Zacarias 14:8  Naquele dia, também sucederá que correrão de Jerusalém águas vivas, metade delas para o mar oriental, e a outra metade, até ao mar ocidental; no verão e no inverno, sucederá isto.
+Zacarias 14:9  O Senhor será Rei sobre toda a terra; naquele dia, um só será o Senhor, e um só será o seu nome.
+Zacarias 14:10  Toda a terra se tornará como a planície de Geba a Rimom, ao sul de Jerusalém; esta será exaltada e habitada no seu lugar, desde a Porta de Benjamim até ao lugar da primeira porta, até à Porta da Esquina e desde a Torre de Hananel até aos lagares do rei.
+Zacarias 14:11  Habitarão nela, e já não haverá maldição, e Jerusalém habitará segura.
+Zacarias 14:12  Esta será a praga com que o Senhor ferirá a todos os povos que guerrearem contra Jerusalém: a sua carne se apodrecerá, estando eles de pé, apodrecer-se-lhes-ão os olhos nas suas órbitas, e lhes apodrecerá a língua na boca.
+Zacarias 14:13  Naquele dia, também haverá da parte do Senhor grande confusão entre eles; cada um agarrará a mão do seu próximo, cada um levantará a mão contra o seu próximo.
+Zacarias 14:14  Também Judá pelejará em Jerusalém; e se ajuntarão as riquezas de todas as nações circunvizinhas, ouro, prata e vestes em grande abundância.
+Zacarias 14:15  Como esta praga, assim será a praga dos cavalos, dos mulos, dos camelos, dos jumentos e de todos os animais que estiverem naqueles arraiais.
+Zacarias 14:16  Todos os que restarem de todas as nações que vieram contra Jerusalém subirão de ano em ano para adorar o Rei, o Senhor dos Exércitos, e para celebrar a Festa dos Tabernáculos.
+Zacarias 14:17  Se alguma das famílias da terra não subir a Jerusalém, para adorar o Rei, o Senhor dos Exércitos, não virá sobre ela a chuva.
+Zacarias 14:18  Se a família dos egípcios não subir, nem vier, não cairá sobre eles a chuva; virá a praga com que o Senhor ferirá as nações que não subirem a celebrar a Festa dos Tabernáculos.
+Zacarias 14:19  Este será o castigo dos egípcios e o castigo de todas as nações que não subirem a celebrar a Festa dos Tabernáculos.
+Zacarias 14:20  Naquele dia, será gravado nas campainhas dos cavalos: Santo ao Senhor; e as panelas da Casa do Senhor serão como as bacias diante do altar;
+Zacarias 14:21  sim, todas as panelas em Jerusalém e Judá serão santas ao Senhor dos Exércitos; todos os que oferecerem sacrifícios virão, lançarão mão delas e nelas cozerão a carne do sacrifício. Naquele dia, já não haverá mercador na Casa do Senhor dos Exércitos.
+Malaquias 1:1  Sentença pronunciada pelo Senhor contra Israel, por intermédio de Malaquias.
+Malaquias 1:2  Eu vos tenho amado, diz o Senhor; mas vós dizeis: Em que nos tens amado? Não foi Esaú irmão de Jacó? — disse o Senhor; todavia, amei a Jacó,
+Malaquias 1:3  porém aborreci a Esaú; e fiz dos seus montes uma assolação e dei a sua herança aos chacais do deserto.
+Malaquias 1:4  Se Edom diz: Fomos destruídos, porém tornaremos a edificar as ruínas, então, diz o Senhor dos Exércitos: Eles edificarão, mas eu destruirei; e Edom será chamado Terra-De-Perversidade e Povo-Contra-Quem-O-Senhor-Está-Irado-Para-Sempre.
+Malaquias 1:5  Os vossos olhos o verão, e vós direis: Grande é o Senhor também fora dos limites de Israel.
+Malaquias 1:6  O filho honra o pai, e o servo, ao seu senhor. Se eu sou pai, onde está a minha honra? E, se eu sou senhor, onde está o respeito para comigo? — diz o Senhor dos Exércitos a vós outros, ó sacerdotes que desprezais o meu nome. Vós dizeis: Em que desprezamos nós o teu nome?
+Malaquias 1:7  Ofereceis sobre o meu altar pão imundo e ainda perguntais: Em que te havemos profanado? Nisto, que pensais: A mesa do Senhor é desprezível.
+Malaquias 1:8  Quando trazeis animal cego para o sacrificardes, não é isso mal? E, quando trazeis o coxo ou o enfermo, não é isso mal? Ora, apresenta-o ao teu governador; acaso, terá ele agrado em ti e te será favorável? — diz o Senhor dos Exércitos.
+Malaquias 1:9  Agora, pois, suplicai o favor de Deus, que nos conceda a sua graça; mas, com tais ofertas nas vossas mãos, aceitará ele a vossa pessoa? — diz o Senhor dos Exércitos.
+Malaquias 1:10  Tomara houvesse entre vós quem feche as portas, para que não acendêsseis, debalde, o fogo do meu altar. Eu não tenho prazer em vós, diz o Senhor dos Exércitos, nem aceitarei da vossa mão a oferta.
+Malaquias 1:11  Mas, desde o nascente do sol até ao poente, é grande entre as nações o meu nome; e em todo lugar lhe é queimado incenso e trazidas ofertas puras, porque o meu nome é grande entre as nações, diz o Senhor dos Exércitos.
+Malaquias 1:12  Mas vós o profanais, quando dizeis: A mesa do Senhor é imunda, e o que nela se oferece, isto é, a sua comida, é desprezível.
+Malaquias 1:13  E dizeis ainda: Que canseira! E me desprezais, diz o Senhor dos Exércitos; vós ofereceis o dilacerado, e o coxo, e o enfermo; assim fazeis a oferta. Aceitaria eu isso da vossa mão? — diz o Senhor.
+Malaquias 1:14  Pois maldito seja o enganador, que, tendo um animal sadio no seu rebanho, promete e oferece ao Senhor um defeituoso; porque eu sou grande Rei, diz o Senhor dos Exércitos, o meu nome é terrível entre as nações.
+Malaquias 2:1  Agora, ó sacerdotes, para vós outros é este mandamento.
+Malaquias 2:2  Se o não ouvirdes e se não propuserdes no vosso coração dar honra ao meu nome, diz o Senhor dos Exércitos, enviarei sobre vós a maldição e amaldiçoarei as vossas bênçãos; já as tenho amaldiçoado, porque vós não propondes isso no coração.
+Malaquias 2:3  Eis que vos reprovarei a descendência, atirarei excremento ao vosso rosto, excremento dos vossos sacrifícios, e para junto deste sereis levados.
+Malaquias 2:4  Então, sabereis que eu vos enviei este mandamento, para que a minha aliança continue com Levi, diz o Senhor dos Exércitos.
+Malaquias 2:5  Minha aliança com ele foi de vida e de paz; ambas lhe dei eu para que me temesse; com efeito, ele me temeu e tremeu por causa do meu nome.
+Malaquias 2:6  A verdadeira instrução esteve na sua boca, e a injustiça não se achou nos seus lábios; andou comigo em paz e em retidão e da iniquidade apartou a muitos.
+Malaquias 2:7  Porque os lábios do sacerdote devem guardar o conhecimento, e da sua boca devem os homens procurar a instrução, porque ele é mensageiro do Senhor dos Exércitos.
+Malaquias 2:8  Mas vós vos tendes desviado do caminho e, por vossa instrução, tendes feito tropeçar a muitos; violastes a aliança de Levi, diz o Senhor dos Exércitos.
+Malaquias 2:9  Por isso, também eu vos fiz desprezíveis e indignos diante de todo o povo, visto que não guardastes os meus caminhos e vos mostrastes parciais no aplicardes a lei.
+Malaquias 2:10  Não temos nós todos o mesmo Pai? Não nos criou o mesmo Deus? Por que seremos desleais uns para com os outros, profanando a aliança de nossos pais?
+Malaquias 2:11  Judá tem sido desleal, e abominação se tem cometido em Israel e em Jerusalém; porque Judá profanou o santuário do Senhor, o qual ele ama, e se casou com adoradora de deus estranho.
+Malaquias 2:12  O Senhor eliminará das tendas de Jacó o homem que fizer tal, seja quem for, e o que apresenta ofertas ao Senhor dos Exércitos.
+Malaquias 2:13  Ainda fazeis isto: cobris o altar do Senhor de lágrimas, de choro e de gemidos, de sorte que ele já não olha para a oferta, nem a aceita com prazer da vossa mão.
+Malaquias 2:14  E perguntais: Por quê? Porque o Senhor foi testemunha da aliança entre ti e a mulher da tua mocidade, com a qual tu foste desleal, sendo ela a tua companheira e a mulher da tua aliança.
+Malaquias 2:15  Não fez o Senhor um, mesmo que havendo nele um pouco de espírito? E por que somente um? Ele buscava a descendência que prometera. Portanto, cuidai de vós mesmos, e ninguém seja infiel para com a mulher da sua mocidade.
+Malaquias 2:16  Porque o Senhor, Deus de Israel, diz que odeia o repúdio e também aquele que cobre de violência as suas vestes, diz o Senhor dos Exércitos; portanto, cuidai de vós mesmos e não sejais infiéis.
+Malaquias 2:17  Enfadais o Senhor com vossas palavras; e ainda dizeis: Em que o enfadamos? Nisto, que pensais: Qualquer que faz o mal passa por bom aos olhos do Senhor, e desses é que ele se agrada; ou: Onde está o Deus do juízo?
+Malaquias 3:1  Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; de repente, virá ao seu templo o Senhor, a quem vós buscais, o Anjo da Aliança, a quem vós desejais; eis que ele vem, diz o Senhor dos Exércitos.
+Malaquias 3:2  Mas quem poderá suportar o dia da sua vinda? E quem poderá subsistir quando ele aparecer? Porque ele é como o fogo do ourives e como a potassa dos lavandeiros.
+Malaquias 3:3  Assentar-se-á como derretedor e purificador de prata; purificará os filhos de Levi e os refinará como ouro e como prata; eles trarão ao Senhor justas ofertas.
+Malaquias 3:4  Então, a oferta de Judá e de Jerusalém será agradável ao Senhor, como nos dias antigos e como nos primeiros anos.
+Malaquias 3:5  Chegar-me-ei a vós outros para juízo; serei testemunha veloz contra os feiticeiros, e contra os adúlteros, e contra os que juram falsamente, e contra os que defraudam o salário do jornaleiro, e oprimem a viúva e o órfão, e torcem o direito do estrangeiro, e não me temem, diz o Senhor dos Exércitos.
+Malaquias 3:6  Porque eu, o Senhor, não mudo; por isso, vós, ó filhos de Jacó, não sois consumidos.
+Malaquias 3:7  Desde os dias de vossos pais, vos desviastes dos meus estatutos e não os guardastes; tornai-vos para mim, e eu me tornarei para vós outros, diz o Senhor dos Exércitos; mas vós dizeis: Em que havemos de tornar?
+Malaquias 3:8  Roubará o homem a Deus? Todavia, vós me roubais e dizeis: Em que te roubamos? Nos dízimos e nas ofertas.
+Malaquias 3:9  Com maldição sois amaldiçoados, porque a mim me roubais, vós, a nação toda.
+Malaquias 3:10  Trazei todos os dízimos à casa do Tesouro, para que haja mantimento na minha casa; e provai-me nisto, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós bênção sem medida.
+Malaquias 3:11  Por vossa causa, repreenderei o devorador, para que não vos consuma o fruto da terra; a vossa vide no campo não será estéril, diz o Senhor dos Exércitos.
+Malaquias 3:12  Todas as nações vos chamarão felizes, porque vós sereis uma terra deleitosa, diz o Senhor dos Exércitos.
+Malaquias 3:13  As vossas palavras foram duras para mim, diz o Senhor; mas vós dizeis: Que temos falado contra ti?
+Malaquias 3:14  Vós dizeis: Inútil é servir a Deus; que nos aproveitou termos cuidado em guardar os seus preceitos e em andar de luto diante do Senhor dos Exércitos?
+Malaquias 3:15  Ora, pois, nós reputamos por felizes os soberbos; também os que cometem impiedade prosperam, sim, eles tentam ao Senhor e escapam.
+Malaquias 3:16  Então, os que temiam ao Senhor falavam uns aos outros; o Senhor atentava e ouvia; havia um memorial escrito diante dele para os que temem ao Senhor e para os que se lembram do seu nome.
+Malaquias 3:17  Eles serão para mim particular tesouro, naquele dia que prepararei, diz o Senhor dos Exércitos; poupá-los-ei como um homem poupa a seu filho que o serve.
+Malaquias 3:18  Então, vereis outra vez a diferença entre o justo e o perverso, entre o que serve a Deus e o que não o serve.
+Malaquias 4:1  Pois eis que vem o dia e arde como fornalha; todos os soberbos e todos os que cometem perversidade serão como o restolho; o dia que vem os abrasará, diz o Senhor dos Exércitos, de sorte que não lhes deixará nem raiz nem ramo.
+Malaquias 4:2  Mas para vós outros que temeis o meu nome nascerá o sol da justiça, trazendo salvação nas suas asas; saireis e saltareis como bezerros soltos da estrebaria.
+Malaquias 4:3  Pisareis os perversos, porque se farão cinzas debaixo das plantas de vossos pés, naquele dia que prepararei, diz o Senhor dos Exércitos.
+Malaquias 4:4  Lembrai-vos da Lei de Moisés, meu servo, a qual lhe prescrevi em Horebe para todo o Israel, a saber, estatutos e juízos.
+Malaquias 4:5  Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível Dia do Senhor;
+Malaquias 4:6  ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais, para que eu não venha e fira a terra com maldição.
