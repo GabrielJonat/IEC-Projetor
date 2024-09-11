@@ -26,1162 +26,1017 @@ def parse_verses(text,book,chapter):
 
 
 text = """
-1 Visto que muitos houve que empreenderam uma narração coordenada dos fatos que entre nós se realizaram,
-2 conforme nos transmitiram os que desde o princípio foram deles testemunhas oculares e ministros da palavra,
-3 igualmente a mim me pareceu bem, depois de acurada investigação de tudo desde sua origem, dar-te por escrito, excelentíssimo Teófilo, uma exposição em ordem,
-4 para que tenhas plena certeza das verdades em que foste instruído.
-5 Nos dias de Herodes, rei da Judeia, houve um sacerdote chamado Zacarias, do turno de Abias. Sua mulher era das filhas de Arão e se chamava Isabel.
-6 Ambos eram justos diante de Deus, vivendo irrepreensivelmente em todos os preceitos e mandamentos do Senhor.
-7 E não tinham filhos, porque Isabel era estéril, sendo eles avançados em dias.
-8 Ora, aconteceu que, exercendo ele diante de Deus o sacerdócio na ordem do seu turno, coube-lhe por sorte,
-9 segundo o costume sacerdotal, entrar no santuário do Senhor para queimar o incenso;
-10 e, durante esse tempo, toda a multidão do povo permanecia da parte de fora, orando.
-11 E eis que lhe apareceu um anjo do Senhor, em pé, à direita do altar do incenso.
-12 Vendo-o, Zacarias turbou-se, e apoderou-se dele o temor.
-13 Disse-lhe, porém, o anjo: Zacarias, não temas, porque a tua oração foi ouvida; e Isabel, tua mulher, te dará à luz um filho, a quem darás o nome de João.
-14 Em ti haverá prazer e alegria, e muitos se regozijarão com o seu nascimento.
-15 Pois ele será grande diante do Senhor, não beberá vinho nem bebida forte e será cheio do Espírito Santo, já do ventre materno.
-16 E converterá muitos dos filhos de Israel ao Senhor, seu Deus.
-17 E irá adiante do Senhor no espírito e poder de Elias, para converter o coração dos pais aos filhos, converter os desobedientes à prudência dos justos e habilitar para o Senhor um povo preparado.
-18 Então, perguntou Zacarias ao anjo: Como saberei isto? Pois eu sou velho, e minha mulher, avançada em dias.
-19 Respondeu-lhe o anjo: Eu sou Gabriel, que assisto diante de Deus, e fui enviado para falar-te e trazer-te estas boas-novas.
-20 Todavia, ficarás mudo e não poderás falar até ao dia em que estas coisas venham a realizar-se; porquanto não acreditaste nas minhas palavras, as quais, a seu tempo, se cumprirão.
-21 O povo estava esperando a Zacarias e admirava-se de que tanto se demorasse no santuário.
-22 Mas, saindo ele, não lhes podia falar; então, entenderam que tivera uma visão no santuário. E expressava-se por acenos e permanecia mudo.
-23 Sucedeu que, terminados os dias de seu ministério, voltou para casa.
-24 Passados esses dias, Isabel, sua mulher, concebeu e ocultou-se por cinco meses, dizendo:
-25 Assim me fez o Senhor, contemplando-me, para anular o meu opróbrio perante os homens.
-26 No sexto mês, foi o anjo Gabriel enviado, da parte de Deus, para uma cidade da Galileia, chamada Nazaré,
-27 a uma virgem desposada com certo homem da casa de Davi, cujo nome era José; a virgem chamava-se Maria.
-28 E, entrando o anjo aonde ela estava, disse: Alegra-te, muito favorecida! O Senhor é contigo.
-29 Ela, porém, ao ouvir esta palavra, perturbou-se muito e pôs-se a pensar no que significaria esta saudação.
-30 Mas o anjo lhe disse: Maria, não temas; porque achaste graça diante de Deus.
-31 Eis que conceberás e darás à luz um filho, a quem chamarás pelo nome de Jesus.
-32 Este será grande e será chamado Filho do Altíssimo; Deus, o Senhor, lhe dará o trono de Davi, seu pai;
-33 ele reinará para sempre sobre a casa de Jacó, e o seu reinado não terá fim.
-34 Então, disse Maria ao anjo: Como será isto, pois não tenho relação com homem algum?
-35 Respondeu-lhe o anjo: Descerá sobre ti o Espírito Santo, e o poder do Altíssimo te envolverá com a sua sombra; por isso, também o ente santo que há de nascer será chamado Filho de Deus.
-36 E Isabel, tua parenta, igualmente concebeu um filho na sua velhice, sendo este já o sexto mês para aquela que diziam ser estéril.
-37 Porque para Deus não haverá impossíveis em todas as suas promessas.
-38 Então, disse Maria: Aqui está a serva do Senhor; que se cumpra em mim conforme a tua palavra. E o anjo se ausentou dela.
-39 Naqueles dias, dispondo-se Maria, foi apressadamente à região montanhosa, a uma cidade de Judá,
-40 entrou na casa de Zacarias e saudou Isabel.
-41 Ouvindo esta a saudação de Maria, a criança lhe estremeceu no ventre; então, Isabel ficou possuída do Espírito Santo.
-42 E exclamou em alta voz: Bendita és tu entre as mulheres, e bendito o fruto do teu ventre!
-43 E de onde me provém que me venha visitar a mãe do meu Senhor?
-44 Pois, logo que me chegou aos ouvidos a voz da tua saudação, a criança estremeceu de alegria dentro de mim.
-45 Bem-aventurada a que creu, porque serão cumpridas as palavras que lhe foram ditas da parte do Senhor.
-46 Então, disse Maria: A minha alma engrandece ao Senhor,
-47 e o meu espírito se alegrou em Deus, meu Salvador,
-48 porque contemplou na humildade da sua serva. Pois, desde agora, todas as gerações me considerarão bem-aventurada,
-49 porque o Poderoso me fez grandes coisas. Santo é o seu nome.
-50 A sua misericórdia vai de geração em geração sobre os que o temem.
-51 Agiu com o seu braço valorosamente; dispersou os que, no coração, alimentavam pensamentos soberbos.
-52 Derribou do seu trono os poderosos e exaltou os humildes.
-53 Encheu de bens os famintos e despediu vazios os ricos.
-54 Amparou a Israel, seu servo, a fim de lembrar-se da sua misericórdia
-55 a favor de Abraão e de sua descendência, para sempre, como prometera aos nossos pais.
-56 Maria permaneceu cerca de três meses com Isabel e voltou para casa.
-57 A Isabel cumpriu-se o tempo de dar à luz, e teve um filho.
-58 Ouviram os seus vizinhos e parentes que o Senhor usara de grande misericórdia para com ela e participaram do seu regozijo.
-59 Sucedeu que, no oitavo dia, foram circuncidar o menino e queriam dar-lhe o nome de seu pai, Zacarias.
-60 De modo nenhum! Respondeu sua mãe. Pelo contrário, ele deve ser chamado João.
-61 Disseram-lhe: Ninguém há na tua parentela que tenha este nome.
-62 E perguntaram, por acenos, ao pai do menino que nome queria que lhe dessem.
-63 Então, pedindo ele uma tabuinha, escreveu: João é o seu nome. E todos se admiraram.
-64 Imediatamente, a boca se lhe abriu, e, desimpedida a língua, falava louvando a Deus.
-65 Sucedeu que todos os seus vizinhos ficaram possuídos de temor, e por toda a região montanhosa da Judeia foram divulgadas estas coisas.
-66 Todos os que as ouviram guardavam-nas no coração, dizendo: Que virá a ser, pois, este menino? E a mão do Senhor estava com ele.
-67 Zacarias, seu pai, cheio do Espírito Santo, profetizou, dizendo:
-68 Bendito seja o Senhor, Deus de Israel, porque visitou e redimiu o seu povo,
-69 e nos suscitou plena e poderosa salvação na casa de Davi, seu servo,
-70 como prometera, desde a antiguidade, por boca dos seus santos profetas,
-71 para nos libertar dos nossos inimigos e das mãos de todos os que nos odeiam;
-72 para usar de misericórdia com os nossos pais e lembrar-se da sua santa aliança
-73 e do juramento que fez a Abraão, o nosso pai,
-74 de conceder-nos que, livres das mãos de inimigos, o adorássemos sem temor,
-75 em santidade e justiça perante ele, todos os nossos dias.
-76 Tu, menino, serás chamado profeta do Altíssimo, porque precederás o Senhor, preparando-lhe os caminhos,
-77 para dar ao seu povo conhecimento da salvação, no redimi-lo dos seus pecados,
-78 graças à entranhável misericórdia de nosso Deus, pela qual nos visitará o sol nascente das alturas,
-79 para alumiar os que jazem nas trevas e na sombra da morte, e dirigir os nossos pés pelo caminho da paz.
-80 O menino crescia e se fortalecia em espírito. E viveu nos desertos até ao dia em que havia de manifestar-se a Israel.*
-1 Naqueles dias, foi publicado um decreto de César Augusto, convocando toda a população do império para recensear-se.
-2 Este, o primeiro recenseamento, foi feito quando Quirino era governador da Síria.
-3 Todos iam alistar-se, cada um à sua própria cidade.
-4 José também subiu da Galileia, da cidade de Nazaré, para a Judeia, à cidade de Davi, chamada Belém, por ser ele da casa e família de Davi,
-5 a fim de alistar-se com Maria, sua esposa, que estava grávida.
-6 Estando eles ali, aconteceu completarem-se-lhe os dias,
-7 e ela deu à luz o seu filho primogênito, enfaixou-o e o deitou numa manjedoura, porque não havia lugar para eles na hospedaria.
-8 Havia, naquela mesma região, pastores que viviam nos campos e guardavam o seu rebanho durante as vigílias da noite.
-9 E um anjo do Senhor desceu aonde eles estavam, e a glória do Senhor brilhou ao redor deles; e ficaram tomados de grande temor.
-10 O anjo, porém, lhes disse: Não temais; eis aqui vos trago boa-nova de grande alegria, que o será para todo o povo:
-11 é que hoje vos nasceu, na cidade de Davi, o Salvador, que é Cristo, o Senhor.
-12 E isto vos servirá de sinal: encontrareis uma criança envolta em faixas e deitada em manjedoura.
-13 E, subitamente, apareceu com o anjo uma multidão da milícia celestial, louvando a Deus e dizendo:
-14 Glória a Deus nas maiores alturas, e paz na terra entre os homens, a quem ele quer bem.
-15 E, ausentando-se deles os anjos para o céu, diziam os pastores uns aos outros: Vamos até Belém e vejamos os acontecimentos que o Senhor nos deu a conhecer.
-16 Foram apressadamente e acharam Maria e José e a criança deitada na manjedoura.
-17 E, vendo-o, divulgaram o que lhes tinha sido dito a respeito deste menino.
-18 Todos os que ouviram se admiraram das coisas referidas pelos pastores.
-19 Maria, porém, guardava todas estas palavras, meditando-as no coração.
-20 Voltaram, então, os pastores glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes fora anunciado.
-21 Completados oito dias para ser circuncidado o menino, deram-lhe o nome de Jesus, como lhe chamara o anjo, antes de ser concebido.
-22 Passados os dias da purificação deles segundo a Lei de Moisés, levaram-no a Jerusalém para o apresentarem ao Senhor,
-23 conforme o que está escrito na Lei do Senhor: Todo primogênito ao Senhor será consagrado;
-24 e para oferecer um sacrifício, segundo o que está escrito na referida Lei: Um par de rolas ou dois pombinhos.
-25 Havia em Jerusalém um homem chamado Simeão; homem este justo e piedoso que esperava a consolação de Israel; e o Espírito Santo estava sobre ele.
-26 Revelara-lhe o Espírito Santo que não passaria pela morte antes de ver o Cristo do Senhor.
-27 Movido pelo Espírito, foi ao templo; e, quando os pais trouxeram o menino Jesus para fazerem com ele o que a Lei ordenava,
-28 Simeão o tomou nos braços e louvou a Deus, dizendo:
-29 Agora, Senhor, podes despedir em paz o teu servo, segundo a tua palavra;
-30 porque os meus olhos já viram a tua salvação,
-31 a qual preparaste diante de todos os povos:
-32 luz para revelação aos gentios, e para glória do teu povo de Israel.
-33 E estavam o pai e a mãe do menino admirados do que dele se dizia.
-34 Simeão os abençoou e disse a Maria, mãe do menino: Eis que este menino está destinado tanto para ruína como para levantamento de muitos em Israel e para ser alvo de contradição
-35 (também uma espada traspassará a tua própria alma), para que se manifestem os pensamentos de muitos corações.
-36 Havia uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser, avançada em dias, que vivera com seu marido sete anos desde que se casara
-37 e que era viúva de oitenta e quatro anos. Esta não deixava o templo, mas adorava noite e dia em jejuns e orações.
-38 E, chegando naquela hora, dava graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém.
-39 Cumpridas todas as ordenanças segundo a Lei do Senhor, voltaram para a Galileia, para a sua cidade de Nazaré.
-40 Crescia o menino e se fortalecia, enchendo-se de sabedoria; e a graça de Deus estava sobre ele.
-41 Ora, anualmente iam seus pais a Jerusalém, para a Festa da Páscoa.
-42 Quando ele atingiu os doze anos, subiram a Jerusalém, segundo o costume da festa.
-43 Terminados os dias da festa, ao regressarem, permaneceu o menino Jesus em Jerusalém, sem que seus pais o soubessem.
-44 Pensando, porém, estar ele entre os companheiros de viagem, foram caminho de um dia e, então, passaram a procurá-lo entre os parentes e os conhecidos;
-45 e, não o tendo encontrado, voltaram a Jerusalém à sua procura.
-46 Três dias depois, o acharam no templo, assentado no meio dos doutores, ouvindo-os e interrogando-os.
-47 E todos os que o ouviam muito se admiravam da sua inteligência e das suas respostas.
-48 Logo que seus pais o viram, ficaram maravilhados; e sua mãe lhe disse: Filho, por que fizeste assim conosco? Teu pai e eu, aflitos, estamos à tua procura.
-49 Ele lhes respondeu: Por que me procuráveis? Não sabíeis que me cumpria estar na casa de meu Pai?
-50 Não compreenderam, porém, as palavras que lhes dissera.
-51 E desceu com eles para Nazaré; e era-lhes submisso. Sua mãe, porém, guardava todas estas coisas no coração.
-52 E crescia Jesus em sabedoria, estatura e graça, diante de Deus e dos homens.*
-1 No décimo quinto ano do reinado de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes, tetrarca da Galileia, seu irmão Filipe, tetrarca da região da Itureia e Traconites, e Lisânias, tetrarca de Abilene,
-2 sendo sumos sacerdotes Anás e Caifás, veio a palavra de Deus a João, filho de Zacarias, no deserto.
-3 Ele percorreu toda a circunvizinhança do Jordão, pregando batismo de arrependimento para remissão de pecados,
-4 conforme está escrito no livro das palavras do profeta Isaías: Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.
-5 Todo vale será aterrado, e nivelados todos os montes e outeiros; os caminhos tortuosos serão retificados, e os escabrosos, aplanados;
-6 e toda carne verá a salvação de Deus.
-7 Dizia ele, pois, às multidões que saíam para serem batizadas: Raça de víboras, quem vos induziu a fugir da ira vindoura?
-8 Produzi, pois, frutos dignos de arrependimento e não comeceis a dizer entre vós mesmos: Temos por pai a Abraão; porque eu vos afirmo que destas pedras Deus pode suscitar filhos a Abraão.
-9 E também já está posto o machado à raiz das árvores; toda árvore, pois, que não produz bom fruto é cortada e lançada ao fogo.
-10 Então, as multidões o interrogavam, dizendo: Que havemos, pois, de fazer?
-11 Respondeu-lhes: Quem tiver duas túnicas, reparta com quem não tem; e quem tiver comida, faça o mesmo.
-12 Foram também publicanos para serem batizados e perguntaram-lhe: Mestre, que havemos de fazer?
-13 Respondeu-lhes: Não cobreis mais do que o estipulado.
-14 Também soldados lhe perguntaram: E nós, que faremos? E ele lhes disse: A ninguém maltrateis, não deis denúncia falsa e contentai-vos com o vosso soldo.
-15 Estando o povo na expectativa, e discorrendo todos no seu íntimo a respeito de João, se não seria ele, porventura, o próprio Cristo,
-16 disse João a todos: Eu, na verdade, vos batizo com água, mas vem o que é mais poderoso do que eu, do qual não sou digno de desatar-lhe as correias das sandálias; ele vos batizará com o Espírito Santo e com fogo.
-17 A sua pá, ele a tem na mão, para limpar completamente a sua eira e recolher o trigo no seu celeiro; porém queimará a palha em fogo inextinguível.
-18 Assim, pois, com muitas outras exortações anunciava o evangelho ao povo;
-19 mas Herodes, o tetrarca, sendo repreendido por ele, por causa de Herodias, mulher de seu irmão, e por todas as maldades que o mesmo Herodes havia feito,
-20 acrescentou ainda sobre todas a de lançar João no cárcere.
-21 E aconteceu que, ao ser todo o povo batizado, também o foi Jesus; e, estando ele a orar, o céu se abriu,
-22 e o Espírito Santo desceu sobre ele em forma corpórea como pomba; e ouviu-se uma voz do céu: Tu és o meu Filho amado, em ti me comprazo.
-23 Ora, tinha Jesus cerca de trinta anos ao começar o seu ministério. Era, como se cuidava, filho de José, filho de Eli;
-24 Eli, filho de Matate, Matate, filho de Levi, Levi, filho de Melqui, este, filho de Janai, filho de José;
-25 José, filho de Matatias, Matatias, filho de Amós, Amós, filho de Naum, este, filho de Esli, filho de Nagai;
-26 Nagai, filho de Maate, Maate, filho de Matatias, Matatias, filho de Semei, este, filho de José, filho de Jodá;
-27 Jodá, filho de Joanã, Joanã, filho de Resa, Resa, filho de Zorobabel, este, de Salatiel, filho de Neri;
-28 Neri, filho de Melqui, Melqui, filho de Adi, Adi, filho de Cosã, este, de Elmadã, filho de Er;
-29 Er, filho de Josué, Josué, filho de Eliézer, Eliézer, filho de Jorim, este, de Matate, filho de Levi;
-30 Levi, filho de Simeão, Simeão, filho de Judá, Judá, filho de José, este, filho de Jonã, filho de Eliaquim;
-31 Eliaquim, filho de Meleá, Meleá, filho de Mená, Mená, filho de Matatá, este, filho de Natã, filho de Davi;
-32 Davi, filho de Jessé, Jessé, filho de Obede, Obede, filho de Boaz, este, filho de Salá, filho de Naassom;
-33 Naassom, filho de Aminadabe, Aminadabe, filho de Admim, Admim, filho de Arni, Arni, filho de Esrom, este, filho de Perez, filho de Judá;
-34 Judá, filho de Jacó, Jacó, filho de Isaque, Isaque, filho de Abraão, este, filho de Tera, filho de Naor;
-35 Naor, filho de Serugue, Serugue, filho de Ragaú, Ragaú, filho de Faleque, este, filho de Éber, filho de Salá;
-36 Salá, filho de Cainã, Cainã, filho de Arfaxade, Arfaxade, filho de Sem, este, filho de Noé, filho de Lameque;
-37 Lameque, filho de Metusalém, Metusalém, filho de Enoque, Enoque, filho de Jarede, este, filho de Maalalel, filho de Cainã;
-38 Cainã, filho de Enos, Enos, filho de Sete, e este, filho de Adão, filho de Deus.*
-1 Jesus, cheio do Espírito Santo, voltou do Jordão e foi guiado pelo mesmo Espírito, no deserto,
-2 durante quarenta dias, sendo tentado pelo diabo. Nada comeu naqueles dias, ao fim dos quais teve fome.
-3 Disse-lhe, então, o diabo: Se és o Filho de Deus, manda que esta pedra se transforme em pão.
-4 Mas Jesus lhe respondeu: Está escrito: Não só de pão viverá o homem.
-5 E, elevando-o, mostrou-lhe, num momento, todos os reinos do mundo.
-6 Disse-lhe o diabo: Dar-te-ei toda esta autoridade e a glória destes reinos, porque ela me foi entregue, e a dou a quem eu quiser.
-7 Portanto, se prostrado me adorares, toda será tua.
-8 Mas Jesus lhe respondeu: Está escrito: Ao Senhor, teu Deus, adorarás e só a ele darás culto.
-9 Então, o levou a Jerusalém, e o colocou sobre o pináculo do templo, e disse: Se és o Filho de Deus, atira-te daqui abaixo;
-10 porque está escrito: Aos seus anjos ordenará a teu respeito que te guardem;
-11 e: Eles te susterão nas suas mãos, para não tropeçares nalguma pedra.
-12 Respondeu-lhe Jesus: Dito está: Não tentarás o Senhor, teu Deus.
-13 Passadas que foram as tentações de toda sorte, apartou-se dele o diabo, até momento oportuno.
-14 Então, Jesus, no poder do Espírito, regressou para a Galileia, e a sua fama correu por toda a circunvizinhança.
-15 E ensinava nas sinagogas, sendo glorificado por todos.
-16 Indo para Nazaré, onde fora criado, entrou, num sábado, na sinagoga, segundo o seu costume, e levantou-se para ler.
-17 Então, lhe deram o livro do profeta Isaías, e, abrindo o livro, achou o lugar onde estava escrito:
-18 O Espírito do Senhor está sobre mim, pelo que me ungiu para evangelizar os pobres; enviou-me para proclamar libertação aos cativos e restauração da vista aos cegos, para pôr em liberdade os oprimidos,
-19 e apregoar o ano aceitável do Senhor.
-20 Tendo fechado o livro, devolveu-o ao assistente e sentou-se; e todos na sinagoga tinham os olhos fitos nele.
-21 Então, passou Jesus a dizer-lhes: Hoje, se cumpriu a Escritura que acabais de ouvir.
-22 Todos lhe davam testemunho, e se maravilhavam das palavras de graça que lhe saíam dos lábios, e perguntavam: Não é este o filho de José?
-23 Disse-lhes Jesus: Sem dúvida, citar-me-eis este provérbio: Médico, cura-te a ti mesmo; tudo o que ouvimos ter-se dado em Cafarnaum, faze-o também aqui na tua terra.
-24 E prosseguiu: De fato, vos afirmo que nenhum profeta é bem-recebido na sua própria terra.
-25 Na verdade vos digo que muitas viúvas havia em Israel no tempo de Elias, quando o céu se fechou por três anos e seis meses, reinando grande fome em toda a terra;
-26 e a nenhuma delas foi Elias enviado, senão a uma viúva de Sarepta de Sidom.
-27 Havia também muitos leprosos em Israel nos dias do profeta Eliseu, e nenhum deles foi purificado, senão Naamã, o siro.
-28 Todos na sinagoga, ouvindo estas coisas, se encheram de ira.
-29 E, levantando-se, expulsaram-no da cidade e o levaram até ao cimo do monte sobre o qual estava edificada, para, de lá, o precipitarem abaixo.
-30 Jesus, porém, passando por entre eles, retirou-se.
-31 E desceu a Cafarnaum, cidade da Galileia, e os ensinava no sábado.
-32 E muito se maravilhavam da sua doutrina, porque a sua palavra era com autoridade.
-33 Achava-se na sinagoga um homem possesso de um espírito de demônio imundo, e bradou em alta voz:
-34 Ah! Que temos nós contigo, Jesus Nazareno? Vieste para perder-nos? Bem sei quem és: o Santo de Deus!
-35 Mas Jesus o repreendeu, dizendo: Cala-te e sai deste homem. O demônio, depois de o ter lançado por terra no meio de todos, saiu dele sem lhe fazer mal.
-36 Todos ficaram grandemente admirados e comentavam entre si, dizendo: Que palavra é esta, pois, com autoridade e poder, ordena aos espíritos imundos, e eles saem?
-37 E a sua fama corria por todos os lugares da circunvizinhança.
-38 Deixando ele a sinagoga, foi para a casa de Simão. Ora, a sogra de Simão achava-se enferma, com febre muito alta; e rogaram-lhe por ela.
-39 Inclinando-se ele para ela, repreendeu a febre, e esta a deixou; e logo se levantou, passando a servi-los.
-40 Ao pôr do sol, todos os que tinham enfermos de diferentes moléstias lhos traziam; e ele os curava, impondo as mãos sobre cada um.
-41 Também de muitos saíam demônios, gritando e dizendo: Tu és o Filho de Deus! Ele, porém, os repreendia para que não falassem, pois sabiam ser ele o Cristo.
-42 Sendo dia, saiu e foi para um lugar deserto; as multidões o procuravam, e foram até junto dele, e instavam para que não os deixasse.
-43 Ele, porém, lhes disse: É necessário que eu anuncie o evangelho do reino de Deus também às outras cidades, pois para isso é que fui enviado.
-44 E pregava nas sinagogas da Judeia.*
-1 Aconteceu que, ao apertá-lo a multidão para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;
-2 e viu dois barcos junto à praia do lago; mas os pescadores, havendo desembarcado, lavavam as redes.
-3 Entrando em um dos barcos, que era o de Simão, pediu-lhe que o afastasse um pouco da praia; e, assentando-se, ensinava do barco as multidões.
-4 Quando acabou de falar, disse a Simão: Faze-te ao largo, e lançai as vossas redes para pescar.
-5 Respondeu-lhe Simão: Mestre, havendo trabalhado toda a noite, nada apanhamos, mas sob a tua palavra lançarei as redes.
-6 Isto fazendo, apanharam grande quantidade de peixes; e rompiam-se-lhes as redes.
-7 Então, fizeram sinais aos companheiros do outro barco, para que fossem ajudá-los. E foram e encheram ambos os barcos, a ponto de quase irem a pique.
-8 Vendo isto, Simão Pedro prostrou-se aos pés de Jesus, dizendo: Senhor, retira-te de mim, porque sou pecador.
-9 Pois, à vista da pesca que fizeram, a admiração se apoderou dele e de todos os seus companheiros,
-10 bem como de Tiago e João, filhos de Zebedeu, que eram seus sócios. Disse Jesus a Simão: Não temas; doravante serás pescador de homens.
-11 E, arrastando eles os barcos sobre a praia, deixando tudo, o seguiram.
-12 Aconteceu que, estando ele numa das cidades, veio à sua presença um homem coberto de lepra; ao ver a Jesus, prostrando-se com o rosto em terra, suplicou-lhe: Senhor, se quiseres, podes purificar-me.
-13 E ele, estendendo a mão, tocou-lhe, dizendo: Quero, fica limpo! E, no mesmo instante, lhe desapareceu a lepra.
-14 Ordenou-lhe Jesus que a ninguém o dissesse, mas vai, disse, mostra-te ao sacerdote e oferece, pela tua purificação, o sacrifício que Moisés determinou, para servir de testemunho ao povo.
-15 Porém o que se dizia a seu respeito cada vez mais se divulgava, e grandes multidões afluíam para o ouvirem e serem curadas de suas enfermidades.
-16 Ele, porém, se retirava para lugares solitários e orava.
-17 Ora, aconteceu que, num daqueles dias, estava ele ensinando, e achavam-se ali assentados fariseus e mestres da Lei, vindos de todas as aldeias da Galileia, da Judeia e de Jerusalém. E o poder do Senhor estava com ele para curar.
-18 Vieram, então, uns homens trazendo em um leito um paralítico; e procuravam introduzi-lo e pô-lo diante de Jesus.
-19 E, não achando por onde introduzi-lo por causa da multidão, subindo ao eirado, o desceram no leito, por entre os ladrilhos, para o meio, diante de Jesus.
-20 Vendo-lhes a fé, Jesus disse ao paralítico: Homem, estão perdoados os teus pecados.
-21 E os escribas e fariseus arrazoavam, dizendo: Quem é este que diz blasfêmias? Quem pode perdoar pecados, senão Deus?
-22 Jesus, porém, conhecendo-lhes os pensamentos, disse-lhes: Que arrazoais em vosso coração?
-23 Qual é mais fácil, dizer: Estão perdoados os teus pecados ou: Levanta-te e anda?
-24 Mas, para que saibais que o Filho do Homem tem sobre a terra autoridade para perdoar pecados — disse ao paralítico: Eu te ordeno: Levanta-te, toma o teu leito e vai para casa.
-25 Imediatamente, se levantou diante deles e, tomando o leito em que permanecera deitado, voltou para casa, glorificando a Deus.
-26 Todos ficaram atônitos, davam glória a Deus e, possuídos de temor, diziam: Hoje, vimos prodígios.
-27 Passadas estas coisas, saindo, viu um publicano, chamado Levi, assentado na coletoria, e disse-lhe: Segue-me!
-28 Ele se levantou e, deixando tudo, o seguiu.
-29 Então, lhe ofereceu Levi um grande banquete em sua casa; e numerosos publicanos e outros estavam com eles à mesa.
-30 Os fariseus e seus escribas murmuravam contra os discípulos de Jesus, perguntando: Por que comeis e bebeis com os publicanos e pecadores?
-31 Respondeu-lhes Jesus: Os sãos não precisam de médico, e sim os doentes.
-32 Não vim chamar justos, e sim pecadores, ao arrependimento.
-33 Disseram-lhe eles: Os discípulos de João e bem assim os dos fariseus frequentemente jejuam e fazem orações; os teus, entretanto, comem e bebem.
-34 Jesus, porém, lhes disse: Podeis fazer jejuar os convidados para o casamento, enquanto está com eles o noivo?
-35 Dias virão, contudo, em que lhes será tirado o noivo; naqueles dias, sim, jejuarão.
-36 Também lhes disse uma parábola: Ninguém tira um pedaço de veste nova e o põe em veste velha; pois rasgará a nova, e o remendo da nova não se ajustará à velha.
-37 E ninguém põe vinho novo em odres velhos, pois o vinho novo romperá os odres; entornar-se-á o vinho, e os odres se estragarão.
-38 Pelo contrário, vinho novo deve ser posto em odres novos [e ambos se conservam].
-39 E ninguém, tendo bebido o vinho velho, prefere o novo; porque diz: O velho é excelente.*
-1 Aconteceu que, num sábado, passando Jesus pelas searas, os seus discípulos colhiam e comiam espigas, debulhando-as com as mãos.
-2 E alguns dos fariseus lhes disseram: Por que fazeis o que não é lícito aos sábados?
-3 Respondeu-lhes Jesus: Nem ao menos tendes lido o que fez Davi, quando teve fome, ele e seus companheiros?
-4 Como entrou na casa de Deus, tomou, e comeu os pães da proposição, e os deu aos que com ele estavam, pães que não lhes era lícito comer, mas exclusivamente aos sacerdotes?
-5 E acrescentou-lhes: O Filho do Homem é senhor do sábado.
-6 Sucedeu que, em outro sábado, entrou ele na sinagoga e ensinava. Ora, achava-se ali um homem cuja mão direita estava ressequida.
-7 Os escribas e os fariseus observavam-no, procurando ver se ele faria uma cura no sábado, a fim de acharem de que o acusar.
-8 Mas ele, conhecendo-lhes os pensamentos, disse ao homem da mão ressequida: Levanta-te e vem para o meio; e ele, levantando-se, permaneceu de pé.
-9 Então, disse Jesus a eles: Que vos parece? É lícito, no sábado, fazer o bem ou o mal? Salvar a vida ou deixá-la perecer?
-10 E, fitando todos ao redor, disse ao homem: Estende a mão. Ele assim o fez, e a mão lhe foi restaurada.
-11 Mas eles se encheram de furor e discutiam entre si quanto ao que fariam a Jesus.
-12 Naqueles dias, retirou-se para o monte, a fim de orar, e passou a noite orando a Deus.
-13 E, quando amanheceu, chamou a si os seus discípulos e escolheu doze dentre eles, aos quais deu também o nome de apóstolos:
-14 Simão, a quem acrescentou o nome de Pedro, e André, seu irmão; Tiago e João; Filipe e Bartolomeu;
-15 Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelote;
-16 Judas, filho de Tiago, e Judas Iscariotes, que se tornou traidor.
-17 E, descendo com eles, parou numa planura onde se encontravam muitos discípulos seus e grande multidão do povo, de toda a Judeia, de Jerusalém e do litoral de Tiro e de Sidom,
-18 que vieram para o ouvirem e serem curados de suas enfermidades; também os atormentados por espíritos imundos eram curados.
-19 E todos da multidão procuravam tocá-lo, porque dele saía poder; e curava todos.
-20 Então, olhando ele para os seus discípulos, disse-lhes: Bem-aventurados vós, os pobres, porque vosso é o reino de Deus.
-21 Bem-aventurados vós, os que agora tendes fome, porque sereis fartos. Bem-aventurados vós, os que agora chorais, porque haveis de rir.
-22 Bem-aventurados sois quando os homens vos odiarem e quando vos expulsarem da sua companhia, vos injuriarem e rejeitarem o vosso nome como indigno, por causa do Filho do Homem.
-23 Regozijai-vos naquele dia e exultai, porque grande é o vosso galardão no céu; pois dessa forma procederam seus pais com os profetas.
-24 Mas ai de vós, os ricos! Porque tendes a vossa consolação.
-25 Ai de vós, os que estais agora fartos! Porque vireis a ter fome. Ai de vós, os que agora rides! Porque haveis de lamentar e chorar.
-26 Ai de vós, quando todos vos louvarem! Porque assim procederam seus pais com os falsos profetas.
-27 Digo-vos, porém, a vós outros que me ouvis: amai os vossos inimigos, fazei o bem aos que vos odeiam;
-28 bendizei aos que vos maldizem, orai pelos que vos caluniam.
-29 Ao que te bate numa face, oferece-lhe também a outra; e, ao que tirar a tua capa, deixa-o levar também a túnica;
-30 dá a todo o que te pede; e, se alguém levar o que é teu, não entres em demanda.
-31 Como quereis que os homens vos façam, assim fazei-o vós também a eles.
-32 Se amais os que vos amam, qual é a vossa recompensa? Porque até os pecadores amam aos que os amam.
-33 Se fizerdes o bem aos que vos fazem o bem, qual é a vossa recompensa? Até os pecadores fazem isso.
-34 E, se emprestais àqueles de quem esperais receber, qual é a vossa recompensa? Também os pecadores emprestam aos pecadores, para receberem outro tanto.
-35 Amai, porém, os vossos inimigos, fazei o bem e emprestai, sem esperar nenhuma paga; será grande o vosso galardão, e sereis filhos do Altíssimo. Pois ele é benigno até para com os ingratos e maus.
-36 Sede misericordiosos, como também é misericordioso vosso Pai.
-37 Não julgueis e não sereis julgados; não condeneis e não sereis condenados; perdoai e sereis perdoados;
-38 dai, e dar-se-vos-á; boa medida, recalcada, sacudida, transbordante, generosamente vos darão; porque com a medida com que tiverdes medido vos medirão também.
-39 Propôs-lhes também uma parábola: Pode, porventura, um cego guiar a outro cego? Não cairão ambos no barranco?
-40 O discípulo não está acima do seu mestre; todo aquele, porém, que for bem-instruído será como o seu mestre.
-41 Por que vês tu o argueiro no olho de teu irmão, porém não reparas na trave que está no teu próprio?
-42 Como poderás dizer a teu irmão: Deixa, irmão, que eu tire o argueiro do teu olho, não vendo tu mesmo a trave que está no teu? Hipócrita, tira primeiro a trave do teu olho e, então, verás claramente para tirar o argueiro que está no olho de teu irmão.
-43 Não há árvore boa que dê mau fruto; nem tampouco árvore má que dê bom fruto.
-44 Porquanto cada árvore é conhecida pelo seu próprio fruto. Porque não se colhem figos de espinheiros, nem dos abrolhos se vindimam uvas.
-45 O homem bom do bom tesouro do coração tira o bem, e o mau do mau tesouro tira o mal; porque a boca fala do que está cheio o coração.
-46 Por que me chamais Senhor, Senhor, e não fazeis o que vos mando?
-47 Todo aquele que vem a mim, e ouve as minhas palavras, e as pratica, eu vos mostrarei a quem é semelhante.
-48 É semelhante a um homem que, edificando uma casa, cavou, abriu profunda vala e lançou o alicerce sobre a rocha; e, vindo a enchente, arrojou-se o rio contra aquela casa e não a pôde abalar, por ter sido bem-construída.
-49 Mas o que ouve e não pratica é semelhante a um homem que edificou uma casa sobre a terra sem alicerces, e, arrojando-se o rio contra ela, logo desabou; e aconteceu que foi grande a ruína daquela casa.*
-1 Tendo Jesus concluído todas as suas palavras dirigidas ao povo, entrou em Cafarnaum.
-2 E o servo de um centurião, a quem este muito estimava, estava doente, quase à morte.
-3 Tendo ouvido falar a respeito de Jesus, enviou-lhe alguns anciãos dos judeus, pedindo-lhe que viesse curar o seu servo.
-4 Estes, chegando-se a Jesus, com instância lhe suplicaram, dizendo: Ele é digno de que lhe faças isto;
-5 porque é amigo do nosso povo, e ele mesmo nos edificou a sinagoga.
-6 Então, Jesus foi com eles. E, já perto da casa, o centurião enviou-lhe amigos para lhe dizer: Senhor, não te incomodes, porque não sou digno de que entres em minha casa.
-7 Por isso, eu mesmo não me julguei digno de ir ter contigo; porém manda com uma palavra, e o meu rapaz será curado.
-8 Porque também eu sou homem sujeito à autoridade, e tenho soldados às minhas ordens, e digo a este: vai, e ele vai; e a outro: vem, e ele vem; e ao meu servo: faze isto, e ele o faz.
-9 Ouvidas estas palavras, admirou-se Jesus dele e, voltando-se para o povo que o acompanhava, disse: Afirmo-vos que nem mesmo em Israel achei fé como esta.
-10 E, voltando para casa os que foram enviados, encontraram curado o servo.
-11 Em dia subsequente, dirigia-se Jesus a uma cidade chamada Naim, e iam com ele os seus discípulos e numerosa multidão.
-12 Como se aproximasse da porta da cidade, eis que saía o enterro do filho único de uma viúva; e grande multidão da cidade ia com ela.
-13 Vendo-a, o Senhor se compadeceu dela e lhe disse: Não chores!
-14 Chegando-se, tocou o esquife e, parando os que o conduziam, disse: Jovem, eu te mando: levanta-te!
-15 Sentou-se o que estivera morto e passou a falar; e Jesus o restituiu a sua mãe.
-16 Todos ficaram possuídos de temor e glorificavam a Deus, dizendo: Grande profeta se levantou entre nós; e: Deus visitou o seu povo.
-17 Esta notícia a respeito dele divulgou-se por toda a Judeia e por toda a circunvizinhança.
-18 Todas estas coisas foram referidas a João pelos seus discípulos. E João, chamando dois deles,
-19 enviou-os ao Senhor para perguntar: És tu aquele que estava para vir ou havemos de esperar outro?
-20 Quando os homens chegaram junto dele, disseram: João Batista enviou-nos para te perguntar: És tu aquele que estava para vir ou esperaremos outro?
-21 Naquela mesma hora, curou Jesus muitos de moléstias, e de flagelos, e de espíritos malignos; e deu vista a muitos cegos.
-22 Então, Jesus lhes respondeu: Ide e anunciai a João o que vistes e ouvistes: os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos são ressuscitados, e aos pobres, anuncia-se-lhes o evangelho.
-23 E bem-aventurado é aquele que não achar em mim motivo de tropeço.
-24 Tendo-se retirado os mensageiros, passou Jesus a dizer ao povo a respeito de João: Que saístes a ver no deserto? Um caniço agitado pelo vento?
-25 Que saístes a ver? Um homem vestido de roupas finas? Os que se vestem bem e vivem no luxo assistem nos palácios dos reis.
-26 Sim, que saístes a ver? Um profeta? Sim, eu vos digo, e muito mais que profeta.
-27 Este é aquele de quem está escrito: Eis aí envio diante da tua face o meu mensageiro, o qual preparará o teu caminho diante de ti.
-28 E eu vos digo: entre os nascidos de mulher, ninguém é maior do que João; mas o menor no reino de Deus é maior do que ele.
-29 Todo o povo que o ouviu e até os publicanos reconheceram a justiça de Deus, tendo sido batizados com o batismo de João;
-30 mas os fariseus e os intérpretes da Lei rejeitaram, quanto a si mesmos, o desígnio de Deus, não tendo sido batizados por ele.
-31 A que, pois, compararei os homens da presente geração, e a que são eles semelhantes?
-32 São semelhantes a meninos que, sentados na praça, gritam uns para os outros: Nós vos tocamos flauta, e não dançastes; entoamos lamentações, e não chorastes.
-33 Pois veio João Batista, não comendo pão, nem bebendo vinho, e dizeis: Tem demônio!
-34 Veio o Filho do Homem, comendo e bebendo, e dizeis: Eis aí um glutão e bebedor de vinho, amigo de publicanos e pecadores!
-35 Mas a sabedoria é justificada por todos os seus filhos.
-36 Convidou-o um dos fariseus para que fosse jantar com ele. Jesus, entrando na casa do fariseu, tomou lugar à mesa.
-37 E eis que uma mulher da cidade, pecadora, sabendo que ele estava à mesa na casa do fariseu, levou um vaso de alabastro com unguento;
-38 e, estando por detrás, aos seus pés, chorando, regava-os com suas lágrimas e os enxugava com os próprios cabelos; e beijava-lhe os pés e os ungia com o unguento.
-39 Ao ver isto, o fariseu que o convidara disse consigo mesmo: Se este fora profeta, bem saberia quem e qual é a mulher que lhe tocou, porque é pecadora.
-40 Dirigiu-se Jesus ao fariseu e lhe disse: Simão, uma coisa tenho a dizer-te. Ele respondeu: Dize-a, Mestre.
-41 Certo credor tinha dois devedores: um lhe devia quinhentos denários, e o outro, cinquenta.
-42 Não tendo nenhum dos dois com que pagar, perdoou-lhes a ambos. Qual deles, portanto, o amará mais?
-43 Respondeu-lhe Simão: Suponho que aquele a quem mais perdoou. Replicou-lhe: Julgaste bem.
-44 E, voltando-se para a mulher, disse a Simão: Vês esta mulher? Entrei em tua casa, e não me deste água para os pés; esta, porém, regou os meus pés com lágrimas e os enxugou com os seus cabelos.
-45 Não me deste ósculo; ela, entretanto, desde que entrei não cessa de me beijar os pés.
-46 Não me ungiste a cabeça com óleo, mas esta, com bálsamo, ungiu os meus pés.
-47 Por isso, te digo: perdoados lhe são os seus muitos pecados, porque ela muito amou; mas aquele a quem pouco se perdoa, pouco ama.
-48 Então, disse à mulher: Perdoados são os teus pecados.
-49 Os que estavam com ele à mesa começaram a dizer entre si: Quem é este que até perdoa pecados?
-50 Mas Jesus disse à mulher: A tua fé te salvou; vai-te em paz.*
-1 Aconteceu, depois disto, que andava Jesus de cidade em cidade e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus, e os doze iam com ele,
-2 e também algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios;
-3 e Joana, mulher de Cuza, procurador de Herodes, Suzana e muitas outras, as quais lhe prestavam assistência com os seus bens.
-4 Afluindo uma grande multidão e vindo ter com ele gente de todas as cidades, disse Jesus por parábola:
-5 Eis que o semeador saiu a semear. E, ao semear, uma parte caiu à beira do caminho; foi pisada, e as aves do céu a comeram.
-6 Outra caiu sobre a pedra; e, tendo crescido, secou por falta de umidade.
-7 Outra caiu no meio dos espinhos; e estes, ao crescerem com ela, a sufocaram.
-8 Outra, afinal, caiu em boa terra; cresceu e produziu a cento por um. Dizendo isto, clamou: Quem tem ouvidos para ouvir, ouça.
-9 E os seus discípulos o interrogaram, dizendo: Que parábola é esta?
-10 Respondeu-lhes Jesus: A vós outros é dado conhecer os mistérios do reino de Deus; aos demais, fala-se por parábolas, para que, vendo, não vejam; e, ouvindo, não entendam.
-11 Este é o sentido da parábola: a semente é a palavra de Deus.
-12 A que caiu à beira do caminho são os que a ouviram; vem, a seguir, o diabo e arrebata-lhes do coração a palavra, para não suceder que, crendo, sejam salvos.
-13 A que caiu sobre a pedra são os que, ouvindo a palavra, a recebem com alegria; estes não têm raiz, creem apenas por algum tempo e, na hora da provação, se desviam.
-14 A que caiu entre espinhos são os que ouviram e, no decorrer dos dias, foram sufocados com os cuidados, riquezas e deleites da vida; os seus frutos não chegam a amadurecer.
-15 A que caiu na boa terra são os que, tendo ouvido de bom e reto coração, retêm a palavra; estes frutificam com perseverança.
-16 Ninguém, depois de acender uma candeia, a cobre com um vaso ou a põe debaixo de uma cama; pelo contrário, coloca-a sobre um velador, a fim de que os que entram vejam a luz.
-17 Nada há oculto, que não haja de manifestar-se, nem escondido, que não venha a ser conhecido e revelado.
-18 Vede, pois, como ouvis; porque ao que tiver, se lhe dará; e ao que não tiver, até aquilo que julga ter lhe será tirado.
-19 Vieram ter com ele sua mãe e seus irmãos e não podiam aproximar-se por causa da concorrência de povo.
-20 E lhe comunicaram: Tua mãe e teus irmãos estão lá fora e querem ver-te.
-21 Ele, porém, lhes respondeu: Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a praticam.
-22 Aconteceu que, num daqueles dias, entrou ele num barco em companhia dos seus discípulos e disse-lhes: Passemos para a outra margem do lago; e partiram.
-23 Enquanto navegavam, ele adormeceu. E sobreveio uma tempestade de vento no lago, correndo eles o perigo de soçobrar.
-24 Chegando-se a ele, despertaram-no dizendo: Mestre, Mestre, estamos perecendo! Despertando-se Jesus, repreendeu o vento e a fúria da água. Tudo cessou, e veio a bonança.
-25 Então, lhes disse: Onde está a vossa fé? Eles, possuídos de temor e admiração, diziam uns aos outros: Quem é este que até aos ventos e às ondas repreende, e lhe obedecem?
-26 Então, rumaram para a terra dos gerasenos, fronteira da Galileia.
-27 Logo ao desembarcar, veio da cidade ao seu encontro um homem possesso de demônios que, havia muito, não se vestia, nem habitava em casa alguma, porém vivia nos sepulcros.
-28 E, quando viu a Jesus, prostrou-se diante dele, exclamando e dizendo em alta voz: Que tenho eu contigo, Jesus, Filho do Deus Altíssimo? Rogo-te que não me atormentes.
-29 Porque Jesus ordenara ao espírito imundo que saísse do homem, pois muitas vezes se apoderara dele. E, embora procurassem conservá-lo preso com cadeias e grilhões, tudo despedaçava e era impelido pelo demônio para o deserto.
-30 Perguntou-lhe Jesus: Qual é o teu nome? Respondeu ele: Legião, porque tinham entrado nele muitos demônios.
-31 Rogavam-lhe que não os mandasse sair para o abismo.
-32 Ora, andava ali, pastando no monte, uma grande manada de porcos; rogaram-lhe que lhes permitisse entrar naqueles porcos. E Jesus o permitiu.
-33 Tendo os demônios saído do homem, entraram nos porcos, e a manada precipitou-se despenhadeiro abaixo, para dentro do lago, e se afogou.
-34 Os porqueiros, vendo o que acontecera, fugiram e foram anunciá-lo na cidade e pelos campos.
-35 Então, saiu o povo para ver o que se passara, e foram ter com Jesus. De fato, acharam o homem de quem saíram os demônios, vestido, em perfeito juízo, assentado aos pés de Jesus; e ficaram dominados de terror.
-36 E algumas pessoas que tinham presenciado os fatos contaram-lhes também como fora salvo o endemoninhado.
-37 Todo o povo da circunvizinhança dos gerasenos rogou-lhe que se retirasse deles, pois estavam possuídos de grande medo. E Jesus, tomando de novo o barco, voltou.
-38 O homem de quem tinham saído os demônios rogou-lhe que o deixasse estar com ele; Jesus, porém, o despediu, dizendo:
-39 Volta para casa e conta aos teus tudo o que Deus fez por ti. Então, foi ele anunciando por toda a cidade todas as coisas que Jesus lhe tinha feito.
-40 Ao regressar Jesus, a multidão o recebeu com alegria, porque todos o estavam esperando.
-41 Eis que veio um homem chamado Jairo, que era chefe da sinagoga, e, prostrando-se aos pés de Jesus, lhe suplicou que chegasse até a sua casa.
-42 Pois tinha uma filha única de uns doze anos, que estava à morte. Enquanto ele ia, as multidões o apertavam.
-43 Certa mulher que, havia doze anos, vinha sofrendo de uma hemorragia, e a quem ninguém tinha podido curar [e que gastara com os médicos todos os seus haveres],
-44 veio por trás dele e lhe tocou na orla da veste, e logo se lhe estancou a hemorragia.
-45 Mas Jesus disse: Quem me tocou? Como todos negassem, Pedro [com seus companheiros] disse: Mestre, as multidões te apertam e te oprimem [e dizes: Quem me tocou?].
-46 Contudo, Jesus insistiu: Alguém me tocou, porque senti que de mim saiu poder.
-47 Vendo a mulher que não podia ocultar-se, aproximou-se trêmula e, prostrando-se diante dele, declarou, à vista de todo o povo, a causa por que lhe havia tocado e como imediatamente fora curada.
-48 Então, lhe disse: Filha, a tua fé te salvou; vai-te em paz.
-49 Falava ele ainda, quando veio uma pessoa da casa do chefe da sinagoga, dizendo: Tua filha já está morta, não incomodes mais o Mestre.
-50 Mas Jesus, ouvindo isto, lhe disse: Não temas, crê somente, e ela será salva.
-51 Tendo chegado à casa, a ninguém permitiu que entrasse com ele, senão Pedro, João, Tiago e bem assim o pai e a mãe da menina.
-52 E todos choravam e a pranteavam. Mas ele disse: Não choreis; ela não está morta, mas dorme.
-53 E riam-se dele, porque sabiam que ela estava morta.
-54 Entretanto, ele, tomando-a pela mão, disse-lhe, em voz alta: Menina, levanta-te!
-55 Voltou-lhe o espírito, ela imediatamente se levantou, e ele mandou que lhe dessem de comer.
-56 Seus pais ficaram maravilhados, mas ele lhes advertiu que a ninguém contassem o que havia acontecido.*
-1 Tendo Jesus convocado os doze, deu-lhes poder e autoridade sobre todos os demônios, e para efetuarem curas.
-2 Também os enviou a pregar o reino de Deus e a curar os enfermos.
-3 E disse-lhes: Nada leveis para o caminho: nem bordão, nem alforje, nem pão, nem dinheiro; nem deveis ter duas túnicas.
-4 Na casa em que entrardes, ali permanecei e dali saireis.
-5 E onde quer que não vos receberem, ao sairdes daquela cidade, sacudi o pó dos vossos pés em testemunho contra eles.
-6 Então, saindo, percorriam todas as aldeias, anunciando o evangelho e efetuando curas por toda parte.
-7 Ora, o tetrarca Herodes soube de tudo o que se passava e ficou perplexo, porque alguns diziam: João ressuscitou dentre os mortos;
-8 outros: Elias apareceu; e outros: Ressurgiu um dos antigos profetas.
-9 Herodes, porém, disse: Eu mandei decapitar a João; quem é, pois, este a respeito do qual tenho ouvido tais coisas? E se esforçava por vê-lo.
-10 Ao regressarem, os apóstolos relataram a Jesus tudo o que tinham feito. E, levando-os consigo, retirou-se à parte para uma cidade chamada Betsaida.
-11 Mas as multidões, ao saberem, seguiram-no. Acolhendo-as, falava-lhes a respeito do reino de Deus e socorria os que tinham necessidade de cura.
-12 Mas o dia começava a declinar. Então, se aproximaram os doze e lhe disseram: Despede a multidão, para que, indo às aldeias e campos circunvizinhos, se hospedem e achem alimento; pois estamos aqui em lugar deserto.
-13 Ele, porém, lhes disse: Dai-lhes vós mesmos de comer. Responderam eles: Não temos mais que cinco pães e dois peixes, salvo se nós mesmos formos comprar comida para todo este povo.
-14 Porque estavam ali cerca de cinco mil homens. Então, disse aos seus discípulos: Fazei-os sentar-se em grupos de cinquenta.
-15 Eles atenderam, acomodando a todos.
-16 E, tomando os cinco pães e os dois peixes, erguendo os olhos para o céu, os abençoou, partiu e deu aos discípulos para que os distribuíssem entre o povo.
-17 Todos comeram e se fartaram; e dos pedaços que ainda sobejaram foram recolhidos doze cestos.
-18 Estando ele orando à parte, achavam-se presentes os discípulos, a quem perguntou: Quem dizem as multidões que sou eu?
-19 Responderam eles: João Batista, mas outros, Elias; e ainda outros dizem que ressurgiu um dos antigos profetas.
-20 Mas vós, perguntou ele, quem dizeis que eu sou? Então, falou Pedro e disse: És o Cristo de Deus.
-21 Ele, porém, advertindo-os, mandou que a ninguém declarassem tal coisa,
-22 dizendo: É necessário que o Filho do Homem sofra muitas coisas, seja rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas; seja morto e, no terceiro dia, ressuscite.
-23 Dizia a todos: Se alguém quer vir após mim, a si mesmo se negue, dia a dia tome a sua cruz e siga-me.
-24 Pois quem quiser salvar a sua vida perdê-la-á; quem perder a vida por minha causa, esse a salvará.
-25 Que aproveita ao homem ganhar o mundo inteiro, se vier a perder-se ou a causar dano a si mesmo?
-26 Porque qualquer que de mim e das minhas palavras se envergonhar, dele se envergonhará o Filho do Homem, quando vier na sua glória e na do Pai e dos santos anjos.
-27 Verdadeiramente, vos digo: alguns há dos que aqui se encontram que, de maneira nenhuma, passarão pela morte até que vejam o reino de Deus.
-28 Cerca de oito dias depois de proferidas estas palavras, tomando consigo a Pedro, João e Tiago, subiu ao monte com o propósito de orar.
-29 E aconteceu que, enquanto ele orava, a aparência do seu rosto se transfigurou e suas vestes resplandeceram de brancura.
-30 Eis que dois varões falavam com ele: Moisés e Elias,
-31 os quais apareceram em glória e falavam da sua partida, que ele estava para cumprir em Jerusalém.
-32 Pedro e seus companheiros achavam-se premidos de sono; mas, conservando-se acordados, viram a sua glória e os dois varões que com ele estavam.
-33 Ao se retirarem estes de Jesus, disse-lhe Pedro: Mestre, bom é estarmos aqui; então, façamos três tendas: uma será tua, outra, de Moisés, e outra, de Elias, não sabendo, porém, o que dizia.
-34 Enquanto assim falava, veio uma nuvem e os envolveu; e encheram-se de medo ao entrarem na nuvem.
-35 E dela veio uma voz, dizendo: Este é o meu Filho, o meu eleito; a ele ouvi.
-36 Depois daquela voz, achou-se Jesus sozinho. Eles calaram-se e, naqueles dias, a ninguém contaram coisa alguma do que tinham visto.
-37 No dia seguinte, ao descerem eles do monte, veio ao encontro de Jesus grande multidão.
-38 E eis que, dentre a multidão, surgiu um homem, dizendo em alta voz: Mestre, suplico-te que vejas meu filho, porque é o único;
-39 um espírito se apodera dele, e, de repente, o menino grita, e o espírito o atira por terra, convulsiona-o até espumar; e dificilmente o deixa, depois de o ter quebrantado.
-40 Roguei aos teus discípulos que o expelissem, mas eles não puderam.
-41 Respondeu Jesus: Ó geração incrédula e perversa! Até quando estarei convosco e vos sofrerei? Traze o teu filho.
-42 Quando se ia aproximando, o demônio o atirou no chão e o convulsionou; mas Jesus repreendeu o espírito imundo, curou o menino e o entregou a seu pai.
-43 E todos ficaram maravilhados ante a majestade de Deus. Como todos se maravilhassem de quanto Jesus fazia, disse aos seus discípulos:
-44 Fixai nos vossos ouvidos as seguintes palavras: o Filho do Homem está para ser entregue nas mãos dos homens.
-45 Eles, porém, não entendiam isto, e foi-lhes encoberto para que o não compreendessem; e temiam interrogá-lo a este respeito.
-46 Levantou-se entre eles uma discussão sobre qual deles seria o maior.
-47 Mas Jesus, sabendo o que se lhes passava no coração, tomou uma criança, colocou-a junto a si
-48 e lhes disse: Quem receber esta criança em meu nome a mim me recebe; e quem receber a mim recebe aquele que me enviou; porque aquele que entre vós for o menor de todos, esse é que é grande.
-49 Falou João e disse: Mestre, vimos certo homem que, em teu nome, expelia demônios e lho proibimos, porque não segue conosco.
-50 Mas Jesus lhe disse: Não proibais; pois quem não é contra vós outros é por vós.
-51 E aconteceu que, ao se completarem os dias em que devia ele ser assunto ao céu, manifestou, no semblante, a intrépida resolução de ir para Jerusalém
-52 e enviou mensageiros que o antecedessem. Indo eles, entraram numa aldeia de samaritanos para lhe preparar pousada.
-53 Mas não o receberam, porque o aspecto dele era de quem, decisivamente, ia para Jerusalém.
-54 Vendo isto, os discípulos Tiago e João perguntaram: Senhor, queres que mandemos descer fogo do céu para os consumir?
-55 Jesus, porém, voltando-se os repreendeu [e disse: Vós não sabeis de que espírito sois].
-56 [Pois o Filho do Homem não veio para destruir as almas dos homens, mas para salvá-las.] E seguiram para outra aldeia.
-57 Indo eles caminho fora, alguém lhe disse: Seguir-te-ei para onde quer que fores.
-58 Mas Jesus lhe respondeu: As raposas têm seus covis, e as aves do céu, ninhos; mas o Filho do Homem não tem onde reclinar a cabeça.
-59 A outro disse Jesus: Segue-me! Ele, porém, respondeu: Permite-me ir primeiro sepultar meu pai.
-60 Mas Jesus insistiu: Deixa aos mortos o sepultar os seus próprios mortos. Tu, porém, vai e prega o reino de Deus.
-61 Outro lhe disse: Seguir-te-ei, Senhor; mas deixa-me primeiro despedir-me dos de casa.
-62 Mas Jesus lhe replicou: Ninguém que, tendo posto a mão no arado, olha para trás é apto para o reino de Deus.*
-1 Depois disto, o Senhor designou outros setenta; e os enviou de dois em dois, para que o precedessem em cada cidade e lugar aonde ele estava para ir.
-2 E lhes fez a seguinte advertência: A seara é grande, mas os trabalhadores são poucos. Rogai, pois, ao Senhor da seara que mande trabalhadores para a sua seara.
-3 Ide! Eis que eu vos envio como cordeiros para o meio de lobos.
-4 Não leveis bolsa, nem alforje, nem sandálias; e a ninguém saudeis pelo caminho.
-5 Ao entrardes numa casa, dizei antes de tudo: Paz seja nesta casa!
-6 Se houver ali um filho da paz, repousará sobre ele a vossa paz; se não houver, ela voltará sobre vós.
-7 Permanecei na mesma casa, comendo e bebendo do que eles tiverem; porque digno é o trabalhador do seu salário. Não andeis a mudar de casa em casa.
-8 Quando entrardes numa cidade e ali vos receberem, comei do que vos for oferecido.
-9 Curai os enfermos que nela houver e anunciai-lhes: A vós outros está próximo o reino de Deus.
-10 Quando, porém, entrardes numa cidade e não vos receberem, saí pelas ruas e clamai:
-11 Até o pó da vossa cidade, que se nos pegou aos pés, sacudimos contra vós outros. Não obstante, sabei que está próximo o reino de Deus.
-12 Digo-vos que, naquele dia, haverá menos rigor para Sodoma do que para aquela cidade.
-13 Ai de ti, Corazim! Ai de ti, Betsaida! Porque, se em Tiro e em Sidom, se tivessem operado os milagres que em vós se fizeram, há muito que elas se teriam arrependido, assentadas em pano de saco e cinza.
-14 Contudo, no Juízo, haverá menos rigor para Tiro e Sidom do que para vós outras.
-15 Tu, Cafarnaum, elevar-te-ás, porventura, até ao céu? Descerás até ao inferno.
-16 Quem vos der ouvidos ouve-me a mim; e quem vos rejeitar a mim me rejeita; quem, porém, me rejeitar rejeita aquele que me enviou.
-17 Então, regressaram os setenta, possuídos de alegria, dizendo: Senhor, os próprios demônios se nos submetem pelo teu nome!
-18 Mas ele lhes disse: Eu via Satanás caindo do céu como um relâmpago.
-19 Eis aí vos dei autoridade para pisardes serpentes e escorpiões e sobre todo o poder do inimigo, e nada, absolutamente, vos causará dano.
-20 Não obstante, alegrai-vos, não porque os espíritos se vos submetem, e sim porque o vosso nome está arrolado nos céus.
-21 Naquela hora, exultou Jesus no Espírito Santo e exclamou: Graças te dou, ó Pai, Senhor do céu e da terra, porque ocultaste estas coisas aos sábios e instruídos e as revelaste aos pequeninos. Sim, ó Pai, porque assim foi do teu agrado.
-22 Tudo me foi entregue por meu Pai. Ninguém sabe quem é o Filho, senão o Pai; e também ninguém sabe quem é o Pai, senão o Filho, e aquele a quem o Filho o quiser revelar.
-23 E, voltando-se para os seus discípulos, disse-lhes particularmente: Bem-aventurados os olhos que veem as coisas que vós vedes.
-24 Pois eu vos afirmo que muitos profetas e reis quiseram ver o que vedes e não viram; e ouvir o que ouvis e não o ouviram.
-25 E eis que certo homem, intérprete da Lei, se levantou com o intuito de pôr Jesus à prova e disse-lhe: Mestre, que farei para herdar a vida eterna?
-26 Então, Jesus lhe perguntou: Que está escrito na Lei? Como interpretas?
-27 A isto ele respondeu: Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma, de todas as tuas forças e de todo o teu entendimento; e: Amarás o teu próximo como a ti mesmo.
-28 Então, Jesus lhe disse: Respondeste corretamente; faze isto e viverás.
-29 Ele, porém, querendo justificar-se, perguntou a Jesus: Quem é o meu próximo?
-30 Jesus prosseguiu, dizendo: Certo homem descia de Jerusalém para Jericó e veio a cair em mãos de salteadores, os quais, depois de tudo lhe roubarem e lhe causarem muitos ferimentos, retiraram-se, deixando-o semimorto.
-31 Casualmente, descia um sacerdote por aquele mesmo caminho e, vendo-o, passou de largo.
-32 Semelhantemente, um levita descia por aquele lugar e, vendo-o, também passou de largo.
-33 Certo samaritano, que seguia o seu caminho, passou-lhe perto e, vendo-o, compadeceu-se dele.
-34 E, chegando-se, pensou-lhe os ferimentos, aplicando-lhes óleo e vinho; e, colocando-o sobre o seu próprio animal, levou-o para uma hospedaria e tratou dele.
-35 No dia seguinte, tirou dois denários e os entregou ao hospedeiro, dizendo: Cuida deste homem, e, se alguma coisa gastares a mais, eu to indenizarei quando voltar.
-36 Qual destes três te parece ter sido o próximo do homem que caiu nas mãos dos salteadores?
-37 Respondeu-lhe o intérprete da Lei: O que usou de misericórdia para com ele. Então, lhe disse: Vai e procede tu de igual modo.
-38 Indo eles de caminho, entrou Jesus num povoado. E certa mulher, chamada Marta, hospedou-o na sua casa.
-39 Tinha ela uma irmã, chamada Maria, e esta quedava-se assentada aos pés do Senhor a ouvir-lhe os ensinamentos.
-40 Marta agitava-se de um lado para outro, ocupada em muitos serviços. Então, se aproximou de Jesus e disse: Senhor, não te importas de que minha irmã tenha deixado que eu fique a servir sozinha? Ordena-lhe, pois, que venha ajudar-me.
-41 Respondeu-lhe o Senhor: Marta! Marta! Andas inquieta e te preocupas com muitas coisas.
-42 Entretanto, pouco é necessário ou mesmo uma só coisa; Maria, pois, escolheu a boa parte, e esta não lhe será tirada.*
-1 De uma feita, estava Jesus orando em certo lugar; quando terminou, um dos seus discípulos lhe pediu: Senhor, ensina-nos a orar como também João ensinou aos seus discípulos.
-2 Então, ele os ensinou: Quando orardes, dizei: Pai, santificado seja o teu nome; venha o teu reino;
-3 o pão nosso cotidiano dá-nos de dia em dia;
-4 perdoa-nos os nossos pecados, pois também nós perdoamos a todo o que nos deve; e não nos deixes cair em tentação.
-5 Disse-lhes ainda Jesus: Qual dentre vós, tendo um amigo, e este for procurá-lo à meia-noite e lhe disser: Amigo, empresta-me três pães,
-6 pois um meu amigo, chegando de viagem, procurou-me, e eu nada tenho que lhe oferecer.
-7 E o outro lhe responda lá de dentro, dizendo: Não me importunes; a porta já está fechada, e os meus filhos comigo também já estão deitados. Não posso levantar-me para tos dar;
-8 digo-vos que, se não se levantar para dar-lhos por ser seu amigo, todavia, o fará por causa da importunação e lhe dará tudo o de que tiver necessidade.
-9 Por isso, vos digo: Pedi, e dar-se-vos-á; buscai, e achareis; batei, e abrir-se-vos-á.
-10 Pois todo o que pede recebe; o que busca encontra; e a quem bate, abrir-se-lhe-á.
-11 Qual dentre vós é o pai que, se o filho lhe pedir [pão, lhe dará uma pedra? Ou se pedir] um peixe, lhe dará em lugar de peixe uma cobra?
-12 Ou, se lhe pedir um ovo lhe dará um escorpião?
-13 Ora, se vós, que sois maus, sabeis dar boas dádivas aos vossos filhos, quanto mais o Pai celestial dará o Espírito Santo àqueles que lho pedirem?
-14 De outra feita, estava Jesus expelindo um demônio que era mudo. E aconteceu que, ao sair o demônio, o mudo passou a falar; e as multidões se admiravam.
-15 Mas alguns dentre eles diziam: Ora, ele expele os demônios pelo poder de Belzebu, o maioral dos demônios.
-16 E outros, tentando-o, pediam dele um sinal do céu.
-17 E, sabendo ele o que se lhes passava pelo espírito, disse-lhes: Todo reino dividido contra si mesmo ficará deserto, e casa sobre casa cairá.
-18 Se também Satanás estiver dividido contra si mesmo, como subsistirá o seu reino? Isto, porque dizeis que eu expulso os demônios por Belzebu.
-19 E, se eu expulso os demônios por Belzebu, por quem os expulsam vossos filhos? Por isso, eles mesmos serão os vossos juízes.
-20 Se, porém, eu expulso os demônios pelo dedo de Deus, certamente, é chegado o reino de Deus sobre vós.
-21 Quando o valente, bem-armado, guarda a sua própria casa, ficam em segurança todos os seus bens.
-22 Sobrevindo, porém, um mais valente do que ele, vence-o, tira-lhe a armadura em que confiava e lhe divide os despojos.
-23 Quem não é por mim é contra mim; e quem comigo não ajunta espalha.
-24 Quando o espírito imundo sai do homem, anda por lugares áridos, procurando repouso; e, não o achando, diz: Voltarei para minha casa, donde saí.
-25 E, tendo voltado, a encontra varrida e ornamentada.
-26 Então, vai e leva consigo outros sete espíritos, piores do que ele, e, entrando, habitam ali; e o último estado daquele homem se torna pior do que o primeiro.
-27 Ora, aconteceu que, ao dizer Jesus estas palavras, uma mulher, que estava entre a multidão, exclamou e disse-lhe: Bem-aventurada aquela que te concebeu, e os seios que te amamentaram!
-28 Ele, porém, respondeu: Antes, bem-aventurados são os que ouvem a palavra de Deus e a guardam!
-29 Como afluíssem as multidões, passou Jesus a dizer: Esta é geração perversa! Pede sinal; mas nenhum sinal lhe será dado, senão o de Jonas.
-30 Porque, assim como Jonas foi sinal para os ninivitas, o Filho do Homem o será para esta geração.
-31 A rainha do Sul se levantará, no Juízo, com os homens desta geração e os condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão. E eis aqui está quem é maior do que Salomão.
-32 Ninivitas se levantarão, no Juízo, com esta geração e a condenarão; porque se arrependeram com a pregação de Jonas. E eis aqui está quem é maior do que Jonas.
-33 Ninguém, depois de acender uma candeia, a põe em lugar escondido, nem debaixo do alqueire, mas no velador, a fim de que os que entram vejam a luz.
-34 São os teus olhos a lâmpada do teu corpo; se os teus olhos forem bons, todo o teu corpo será luminoso; mas, se forem maus, o teu corpo ficará em trevas.
-35 Repara, pois, que a luz que há em ti não sejam trevas.
-36 Se, portanto, todo o teu corpo for luminoso, sem ter qualquer parte em trevas, será todo resplandecente como a candeia quando te ilumina em plena luz.
-37 Ao falar Jesus estas palavras, um fariseu o convidou para ir comer com ele; então, entrando, tomou lugar à mesa.
-38 O fariseu, porém, admirou-se ao ver que Jesus não se lavara primeiro, antes de comer.
-39 O Senhor, porém, lhe disse: Vós, fariseus, limpais o exterior do copo e do prato; mas o vosso interior está cheio de rapina e perversidade.
-40 Insensatos! Quem fez o exterior não é o mesmo que fez o interior?
-41 Antes, dai esmola do que tiverdes, e tudo vos será limpo.
-42 Mas ai de vós, fariseus! Porque dais o dízimo da hortelã, da arruda e de todas as hortaliças e desprezais a justiça e o amor de Deus; devíeis, porém, fazer estas coisas, sem omitir aquelas.
-43 Ai de vós, fariseus! Porque gostais da primeira cadeira nas sinagogas e das saudações nas praças.
-44 Ai de vós que sois como as sepulturas invisíveis, sobre as quais os homens passam sem o saber!
-45 Então, respondendo um dos intérpretes da Lei, disse a Jesus: Mestre, dizendo estas coisas, também nos ofendes a nós outros!
-46 Mas ele respondeu: Ai de vós também, intérpretes da Lei! Porque sobrecarregais os homens com fardos superiores às suas forças, mas vós mesmos nem com um dedo os tocais.
-47 Ai de vós! Porque edificais os túmulos dos profetas que vossos pais assassinaram.
-48 Assim, sois testemunhas e aprovais com cumplicidade as obras dos vossos pais; porque eles mataram os profetas, e vós lhes edificais os túmulos.
-49 Por isso, também disse a sabedoria de Deus: Enviar-lhes-ei profetas e apóstolos, e a alguns deles matarão e a outros perseguirão,
-50 para que desta geração se peçam contas do sangue dos profetas, derramado desde a fundação do mundo;
-51 desde o sangue de Abel até ao de Zacarias, que foi assassinado entre o altar e a casa de Deus. Sim, eu vos afirmo, contas serão pedidas a esta geração.
-52 Ai de vós, intérpretes da Lei! Porque tomastes a chave da ciência; contudo, vós mesmos não entrastes e impedistes os que estavam entrando.
-53 Saindo Jesus dali, passaram os escribas e fariseus a argui-lo com veemência, procurando confundi-lo a respeito de muitos assuntos,
-54 com o intuito de tirar das suas próprias palavras motivos para o acusar.*
-1 Posto que miríades de pessoas se aglomeraram, a ponto de uns aos outros se atropelarem, passou Jesus a dizer, antes de tudo, aos seus discípulos: Acautelai-vos do fermento dos fariseus, que é a hipocrisia.
-2 Nada há encoberto que não venha a ser revelado; e oculto que não venha a ser conhecido.
-3 Porque tudo o que dissestes às escuras será ouvido em plena luz; e o que dissestes aos ouvidos no interior da casa será proclamado dos eirados.
-4 Digo-vos, pois, amigos meus: não temais os que matam o corpo e, depois disso, nada mais podem fazer.
-5 Eu, porém, vos mostrarei a quem deveis temer: temei aquele que, depois de matar, tem poder para lançar no inferno. Sim, digo-vos, a esse deveis temer.
-6 Não se vendem cinco pardais por dois asses? Entretanto, nenhum deles está em esquecimento diante de Deus.
-7 Até os cabelos da vossa cabeça estão todos contados. Não temais! Bem mais valeis do que muitos pardais.
-8 Digo-vos ainda: todo aquele que me confessar diante dos homens, também o Filho do Homem o confessará diante dos anjos de Deus;
-9 mas o que me negar diante dos homens será negado diante dos anjos de Deus.
-10 Todo aquele que proferir uma palavra contra o Filho do Homem, isso lhe será perdoado; mas, para o que blasfemar contra o Espírito Santo, não haverá perdão.
-11 Quando vos levarem às sinagogas e perante os governadores e as autoridades, não vos preocupeis quanto ao modo por que respondereis, nem quanto às coisas que tiverdes de falar.
-12 Porque o Espírito Santo vos ensinará, naquela mesma hora, as coisas que deveis dizer.
-13 Nesse ponto, um homem que estava no meio da multidão lhe falou: Mestre, ordena a meu irmão que reparta comigo a herança.
-14 Mas Jesus lhe respondeu: Homem, quem me constituiu juiz ou partidor entre vós?
-15 Então, lhes recomendou: Tende cuidado e guardai-vos de toda e qualquer avareza; porque a vida de um homem não consiste na abundância dos bens que ele possui.
-16 E lhes proferiu ainda uma parábola, dizendo: O campo de um homem rico produziu com abundância.
-17 E arrazoava consigo mesmo, dizendo: Que farei, pois não tenho onde recolher os meus frutos?
-18 E disse: Farei isto: destruirei os meus celeiros, reconstruí-los-ei maiores e aí recolherei todo o meu produto e todos os meus bens.
-19 Então, direi à minha alma: tens em depósito muitos bens para muitos anos; descansa, come, bebe e regala-te.
-20 Mas Deus lhe disse: Louco, esta noite te pedirão a tua alma; e o que tens preparado, para quem será?
-21 Assim é o que entesoura para si mesmo e não é rico para com Deus.
-22 A seguir, dirigiu-se Jesus a seus discípulos, dizendo: Por isso, eu vos advirto: não andeis ansiosos pela vossa vida, quanto ao que haveis de comer, nem pelo vosso corpo, quanto ao que haveis de vestir.
-23 Porque a vida é mais do que o alimento, e o corpo, mais do que as vestes.
-24 Observai os corvos, os quais não semeiam, nem ceifam, não têm despensa nem celeiros; todavia, Deus os sustenta. Quanto mais valeis do que as aves!
-25 Qual de vós, por ansioso que esteja, pode acrescentar um côvado ao curso da sua vida?
-26 Se, portanto, nada podeis fazer quanto às coisas mínimas, por que andais ansiosos pelas outras?
-27 Observai os lírios; eles não fiam, nem tecem. Eu, contudo, vos afirmo que nem Salomão, em toda a sua glória, se vestiu como qualquer deles.
-28 Ora, se Deus veste assim a erva que hoje está no campo e amanhã é lançada no forno, quanto mais tratando-se de vós, homens de pequena fé!
-29 Não andeis, pois, a indagar o que haveis de comer ou beber e não vos entregueis a inquietações.
-30 Porque os gentios de todo o mundo é que procuram estas coisas; mas vosso Pai sabe que necessitais delas.
-31 Buscai, antes de tudo, o seu reino, e estas coisas vos serão acrescentadas.
-32 Não temais, ó pequenino rebanho; porque vosso Pai se agradou em dar-vos o seu reino.
-33 Vendei os vossos bens e dai esmola; fazei para vós outros bolsas que não desgastem, tesouro inextinguível nos céus, onde não chega o ladrão, nem a traça consome,
-34 porque, onde está o vosso tesouro, aí estará também o vosso coração.
-35 Cingido esteja o vosso corpo, e acesas, as vossas candeias.
-36 Sede vós semelhantes a homens que esperam pelo seu senhor, ao voltar ele das festas de casamento; para que, quando vier e bater à porta, logo lha abram.
-37 Bem-aventurados aqueles servos a quem o senhor, quando vier, os encontre vigilantes; em verdade vos afirmo que ele há de cingir-se, dar-lhes lugar à mesa e, aproximando-se, os servirá.
-38 Quer ele venha na segunda vigília, quer na terceira, bem-aventurados serão eles, se assim os achar.
-39 Sabei, porém, isto: se o pai de família soubesse a que hora havia de vir o ladrão, [vigiaria e] não deixaria arrombar a sua casa.
-40 Ficai também vós apercebidos, porque, à hora em que não cuidais, o Filho do Homem virá.
-41 Então, Pedro perguntou: Senhor, proferes esta parábola para nós ou também para todos?
-42 Disse o Senhor: Quem é, pois, o mordomo fiel e prudente, a quem o senhor confiará os seus conservos para dar-lhes o sustento a seu tempo?
-43 Bem-aventurado aquele servo a quem seu senhor, quando vier, achar fazendo assim.
-44 Verdadeiramente, vos digo que lhe confiará todos os seus bens.
-45 Mas, se aquele servo disser consigo mesmo: Meu senhor tarda em vir, e passar a espancar os criados e as criadas, a comer, a beber e a embriagar-se,
-46 virá o senhor daquele servo, em dia em que não o espera e em hora que não sabe, e castigá-lo-á, lançando-lhe a sorte com os infiéis.
-47 Aquele servo, porém, que conheceu a vontade de seu senhor e não se aprontou, nem fez segundo a sua vontade será punido com muitos açoites.
-48 Aquele, porém, que não soube a vontade do seu senhor e fez coisas dignas de reprovação levará poucos açoites. Mas àquele a quem muito foi dado, muito lhe será exigido; e àquele a quem muito se confia, muito mais lhe pedirão.
-49 Eu vim para lançar fogo sobre a terra e bem quisera que já estivesse a arder.
-50 Tenho, porém, um batismo com o qual hei de ser batizado; e quanto me angustio até que o mesmo se realize!
-51 Supondes que vim para dar paz à terra? Não, eu vo-lo afirmo; antes, divisão.
-52 Porque, daqui em diante, estarão cinco divididos numa casa: três contra dois, e dois contra três.
-53 Estarão divididos: pai contra filho, filho contra pai; mãe contra filha, filha contra mãe; sogra contra nora, e nora contra sogra.
-54 Disse também às multidões: Quando vedes aparecer uma nuvem no poente, logo dizeis que vem chuva, e assim acontece;
-55 e, quando vedes soprar o vento sul, dizeis que haverá calor, e assim acontece.
-56 Hipócritas, sabeis interpretar o aspecto da terra e do céu e, entretanto, não sabeis discernir esta época?
-57 E por que não julgais também por vós mesmos o que é justo?
-58 Quando fores com o teu adversário ao magistrado, esforça-te para te livrares desse adversário no caminho; para que não suceda que ele te arraste ao juiz, o juiz te entregue ao meirinho e o meirinho te recolha à prisão.
-59 Digo-te que não sairás dali enquanto não pagares o último centavo.*
-1 Naquela mesma ocasião, chegando alguns, falavam a Jesus a respeito dos galileus cujo sangue Pilatos misturara com os sacrifícios que os mesmos realizavam.
-2 Ele, porém, lhes disse: Pensais que esses galileus eram mais pecadores do que todos os outros galileus, por terem padecido estas coisas?
-3 Não eram, eu vo-lo afirmo; se, porém, não vos arrependerdes, todos igualmente perecereis.
-4 Ou cuidais que aqueles dezoito sobre os quais desabou a torre de Siloé e os matou eram mais culpados que todos os outros habitantes de Jerusalém?
-5 Não eram, eu vo-lo afirmo; mas, se não vos arrependerdes, todos igualmente perecereis.
-6 Então, Jesus proferiu a seguinte parábola: Certo homem tinha uma figueira plantada na sua vinha e, vindo procurar fruto nela, não achou.
-7 Pelo que disse ao viticultor: Há três anos venho procurar fruto nesta figueira e não acho; podes cortá-la; para que está ela ainda ocupando inutilmente a terra?
-8 Ele, porém, respondeu: Senhor, deixa-a ainda este ano, até que eu escave ao redor dela e lhe ponha estrume.
-9 Se vier a dar fruto, bem está; se não, mandarás cortá-la.
-10 Ora, ensinava Jesus no sábado numa das sinagogas.
-11 E veio ali uma mulher possessa de um espírito de enfermidade, havia já dezoito anos; andava ela encurvada, sem de modo algum poder endireitar-se.
-12 Vendo-a Jesus, chamou-a e disse-lhe: Mulher, estás livre da tua enfermidade;
-13 e, impondo-lhe as mãos, ela imediatamente se endireitou e dava glória a Deus.
-14 O chefe da sinagoga, indignado de ver que Jesus curava no sábado, disse à multidão: Seis dias há em que se deve trabalhar; vinde, pois, nesses dias para serdes curados e não no sábado.
-15 Disse-lhe, porém, o Senhor: Hipócritas, cada um de vós não desprende da manjedoura, no sábado, o seu boi ou o seu jumento, para levá-lo a beber?
-16 Por que motivo não se devia livrar deste cativeiro, em dia de sábado, esta filha de Abraão, a quem Satanás trazia presa há dezoito anos?
-17 Tendo ele dito estas palavras, todos os seus adversários se envergonharam. Entretanto, o povo se alegrava por todos os gloriosos feitos que Jesus realizava.
-18 E dizia: A que é semelhante o reino de Deus, e a que o compararei?
-19 É semelhante a um grão de mostarda que um homem plantou na sua horta; e cresceu e fez-se árvore; e as aves do céu aninharam-se nos seus ramos.
-20 Disse mais: A que compararei o reino de Deus?
-21 É semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até ficar tudo levedado.
-22 Passava Jesus por cidades e aldeias, ensinando e caminhando para Jerusalém.
-23 E alguém lhe perguntou: Senhor, são poucos os que são salvos?
-24 Respondeu-lhes: Esforçai-vos por entrar pela porta estreita, pois eu vos digo que muitos procurarão entrar e não poderão.
-25 Quando o dono da casa se tiver levantado e fechado a porta, e vós, do lado de fora, começardes a bater, dizendo: Senhor, abre-nos a porta, ele vos responderá: Não sei donde sois.
-26 Então, direis: Comíamos e bebíamos na tua presença, e ensinavas em nossas ruas.
-27 Mas ele vos dirá: Não sei donde vós sois; apartai-vos de mim, vós todos os que praticais iniquidades.
-28 Ali haverá choro e ranger de dentes, quando virdes, no reino de Deus, Abraão, Isaque, Jacó e todos os profetas, mas vós, lançados fora.
-29 Muitos virão do Oriente e do Ocidente, do Norte e do Sul e tomarão lugares à mesa no reino de Deus.
-30 Contudo, há últimos que virão a ser primeiros, e primeiros que serão últimos.
-31 Naquela mesma hora, alguns fariseus vieram para dizer-lhe: Retira-te e vai-te daqui, porque Herodes quer matar-te.
-32 Ele, porém, lhes respondeu: Ide dizer a essa raposa que, hoje e amanhã, expulso demônios e curo enfermos e, no terceiro dia, terminarei.
-33 Importa, contudo, caminhar hoje, amanhã e depois, porque não se espera que um profeta morra fora de Jerusalém.
-34 Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te foram enviados! Quantas vezes quis eu reunir teus filhos como a galinha ajunta os do seu próprio ninho debaixo das asas, e vós não o quisestes!
-35 Eis que a vossa casa vos ficará deserta. E em verdade vos digo que não mais me vereis até que venhais a dizer: Bendito o que vem em nome do Senhor!*
-1 Aconteceu que, ao entrar ele num sábado na casa de um dos principais fariseus para comer pão, eis que o estavam observando.
-2 Ora, diante dele se achava um homem hidrópico.
-3 Então, Jesus, dirigindo-se aos intérpretes da Lei e aos fariseus, perguntou-lhes: É ou não é lícito curar no sábado?
-4 Eles, porém, nada disseram. E, tomando-o, o curou e o despediu.
-5 A seguir, lhes perguntou: Qual de vós, se o filho ou o boi cair num poço, não o tirará logo, mesmo em dia de sábado?
-6 A isto nada puderam responder.
-7 Reparando como os convidados escolhiam os primeiros lugares, propôs-lhes uma parábola:
-8 Quando por alguém fores convidado para um casamento, não procures o primeiro lugar; para não suceder que, havendo um convidado mais digno do que tu,
-9 vindo aquele que te convidou e também a ele, te diga: Dá o lugar a este. Então, irás, envergonhado, ocupar o último lugar.
-10 Pelo contrário, quando fores convidado, vai tomar o último lugar; para que, quando vier o que te convidou, te diga: Amigo, senta-te mais para cima. Ser-te-á isto uma honra diante de todos os mais convivas.
-11 Pois todo o que se exalta será humilhado; e o que se humilha será exaltado.
-12 Disse também ao que o havia convidado: Quando deres um jantar ou uma ceia, não convides os teus amigos, nem teus irmãos, nem teus parentes, nem vizinhos ricos; para não suceder que eles, por sua vez, te convidem e sejas recompensado.
-13 Antes, ao dares um banquete, convida os pobres, os aleijados, os coxos e os cegos;
-14 e serás bem-aventurado, pelo fato de não terem eles com que recompensar-te; a tua recompensa, porém, tu a receberás na ressurreição dos justos.
-15 Ora, ouvindo tais palavras, um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado aquele que comer pão no reino de Deus.
-16 Ele, porém, respondeu: Certo homem deu uma grande ceia e convidou muitos.
-17 À hora da ceia, enviou o seu servo para avisar aos convidados: Vinde, porque tudo já está preparado.
-18 Não obstante, todos, à uma, começaram a escusar-se. Disse o primeiro: Comprei um campo e preciso ir vê-lo; rogo-te que me tenhas por escusado.
-19 Outro disse: Comprei cinco juntas de bois e vou experimentá-las; rogo-te que me tenhas por escusado.
-20 E outro disse: Casei-me e, por isso, não posso ir.
-21 Voltando o servo, tudo contou ao seu senhor. Então, irado, o dono da casa disse ao seu servo: Sai depressa para as ruas e becos da cidade e traze para aqui os pobres, os aleijados, os cegos e os coxos.
-22 Depois, lhe disse o servo: Senhor, feito está como mandaste, e ainda há lugar.
-23 Respondeu-lhe o senhor: Sai pelos caminhos e atalhos e obriga a todos a entrar, para que fique cheia a minha casa.
-24 Porque vos declaro que nenhum daqueles homens que foram convidados provará a minha ceia.
-25 Grandes multidões o acompanhavam, e ele, voltando-se, lhes disse:
-26 Se alguém vem a mim e não aborrece a seu pai, e mãe, e mulher, e filhos, e irmãos, e irmãs e ainda a sua própria vida, não pode ser meu discípulo.
-27 E qualquer que não tomar a sua cruz e vier após mim não pode ser meu discípulo.
-28 Pois qual de vós, pretendendo construir uma torre, não se assenta primeiro para calcular a despesa e verificar se tem os meios para a concluir?
-29 Para não suceder que, tendo lançado os alicerces e não a podendo acabar, todos os que a virem zombem dele,
-30 dizendo: Este homem começou a construir e não pôde acabar.
-31 Ou qual é o rei que, indo para combater outro rei, não se assenta primeiro para calcular se com dez mil homens poderá enfrentar o que vem contra ele com vinte mil?
-32 Caso contrário, estando o outro ainda longe, envia-lhe uma embaixada, pedindo condições de paz.
-33 Assim, pois, todo aquele que dentre vós não renuncia a tudo quanto tem não pode ser meu discípulo.
-34 O sal é certamente bom; caso, porém, se torne insípido, como restaurar-lhe o sabor?
-35 Nem presta para a terra, nem mesmo para o monturo; lançam-no fora. Quem tem ouvidos para ouvir, ouça.*
-1 Aproximavam-se de Jesus todos os publicanos e pecadores para o ouvir.
-2 E murmuravam os fariseus e os escribas, dizendo: Este recebe pecadores e come com eles.
-3 Então, lhes propôs Jesus esta parábola:
-4 Qual, dentre vós, é o homem que, possuindo cem ovelhas e perdendo uma delas, não deixa no deserto as noventa e nove e vai em busca da que se perdeu, até encontrá-la?
-5 Achando-a, põe-na sobre os ombros, cheio de júbilo.
-6 E, indo para casa, reúne os amigos e vizinhos, dizendo-lhes: Alegrai-vos comigo, porque já achei a minha ovelha perdida.
-7 Digo-vos que, assim, haverá maior júbilo no céu por um pecador que se arrepende do que por noventa e nove justos que não necessitam de arrependimento.
-8 Ou qual é a mulher que, tendo dez dracmas, se perder uma, não acende a candeia, varre a casa e a procura diligentemente até encontrá-la?
-9 E, tendo-a achado, reúne as amigas e vizinhas, dizendo: Alegrai-vos comigo, porque achei a dracma que eu tinha perdido.
-10 Eu vos afirmo que, de igual modo, há júbilo diante dos anjos de Deus por um pecador que se arrepende.
-11 Continuou: Certo homem tinha dois filhos;
-12 o mais moço deles disse ao pai: Pai, dá-me a parte dos bens que me cabe. E ele lhes repartiu os haveres.
-13 Passados não muitos dias, o filho mais moço, ajuntando tudo o que era seu, partiu para uma terra distante e lá dissipou todos os seus bens, vivendo dissolutamente.
-14 Depois de ter consumido tudo, sobreveio àquele país uma grande fome, e ele começou a passar necessidade.
-15 Então, ele foi e se agregou a um dos cidadãos daquela terra, e este o mandou para os seus campos a guardar porcos.
-16 Ali, desejava ele fartar-se das alfarrobas que os porcos comiam; mas ninguém lhe dava nada.
-17 Então, caindo em si, disse: Quantos trabalhadores de meu pai têm pão com fartura, e eu aqui morro de fome!
-18 Levantar-me-ei, e irei ter com o meu pai, e lhe direi: Pai, pequei contra o céu e diante de ti;
-19 já não sou digno de ser chamado teu filho; trata-me como um dos teus trabalhadores.
-20 E, levantando-se, foi para seu pai. Vinha ele ainda longe, quando seu pai o avistou, e, compadecido dele, correndo, o abraçou, e beijou.
-21 E o filho lhe disse: Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado teu filho.
-22 O pai, porém, disse aos seus servos: Trazei depressa a melhor roupa, vesti-o, ponde-lhe um anel no dedo e sandálias nos pés;
-23 trazei também e matai o novilho cevado. Comamos e regozijemo-nos,
-24 porque este meu filho estava morto e reviveu, estava perdido e foi achado. E começaram a regozijar-se.
-25 Ora, o filho mais velho estivera no campo; e, quando voltava, ao aproximar-se da casa, ouviu a música e as danças.
-26 Chamou um dos criados e perguntou-lhe que era aquilo.
-27 E ele informou: Veio teu irmão, e teu pai mandou matar o novilho cevado, porque o recuperou com saúde.
-28 Ele se indignou e não queria entrar; saindo, porém, o pai, procurava conciliá-lo.
-29 Mas ele respondeu a seu pai: Há tantos anos que te sirvo sem jamais transgredir uma ordem tua, e nunca me deste um cabrito sequer para alegrar-me com os meus amigos;
-30 vindo, porém, esse teu filho, que desperdiçou os teus bens com meretrizes, tu mandaste matar para ele o novilho cevado.
-31 Então, lhe respondeu o pai: Meu filho, tu sempre estás comigo; tudo o que é meu é teu.
-32 Entretanto, era preciso que nos regozijássemos e nos alegrássemos, porque esse teu irmão estava morto e reviveu, estava perdido e foi achado.*
-1 Disse Jesus também aos discípulos: Havia um homem rico que tinha um administrador; e este lhe foi denunciado como quem estava a defraudar os seus bens.
-2 Então, mandando-o chamar, lhe disse: Que é isto que ouço a teu respeito? Presta contas da tua administração, porque já não podes mais continuar nela.
-3 Disse o administrador consigo mesmo: Que farei, pois o meu senhor me tira a administração? Trabalhar na terra não posso; também de mendigar tenho vergonha.
-4 Eu sei o que farei, para que, quando for demitido da administração, me recebam em suas casas.
-5 Tendo chamado cada um dos devedores do seu senhor, disse ao primeiro: Quanto deves ao meu patrão?
-6 Respondeu ele: Cem cados de azeite. Então, disse: Toma a tua conta, assenta-te depressa e escreve cinquenta.
-7 Depois, perguntou a outro: Tu, quanto deves? Respondeu ele: Cem coros de trigo. Disse-lhe: Toma a tua conta e escreve oitenta.
-8 E elogiou o senhor o administrador infiel porque se houvera atiladamente, porque os filhos do mundo são mais hábeis na sua própria geração do que os filhos da luz.
-9 E eu vos recomendo: das riquezas de origem iníqua fazei amigos; para que, quando aquelas vos faltarem, esses amigos vos recebam nos tabernáculos eternos.
-10 Quem é fiel no pouco também é fiel no muito; e quem é injusto no pouco também é injusto no muito.
-11 Se, pois, não vos tornastes fiéis na aplicação das riquezas de origem injusta, quem vos confiará a verdadeira riqueza?
-12 Se não vos tornastes fiéis na aplicação do alheio, quem vos dará o que é vosso?
-13 Ninguém pode servir a dois senhores; porque ou há de aborrecer-se de um e amar ao outro ou se devotará a um e desprezará ao outro. Não podeis servir a Deus e às riquezas.
-14 Os fariseus, que eram avarentos, ouviam tudo isto e o ridiculizavam.
-15 Mas Jesus lhes disse: Vós sois os que vos justificais a vós mesmos diante dos homens, mas Deus conhece o vosso coração; pois aquilo que é elevado entre homens é abominação diante de Deus.
-16 A Lei e os Profetas vigoraram até João; desde esse tempo, vem sendo anunciado o evangelho do reino de Deus, e todo homem se esforça por entrar nele.
-17 E é mais fácil passar o céu e a terra do que cair um til sequer da Lei.
-18 Quem repudiar sua mulher e casar com outra comete adultério; e aquele que casa com a mulher repudiada pelo marido também comete adultério.
-19 Ora, havia certo homem rico que se vestia de púrpura e de linho finíssimo e que, todos os dias, se regalava esplendidamente.
-20 Havia também certo mendigo, chamado Lázaro, coberto de chagas, que jazia à porta daquele;
-21 e desejava alimentar-se das migalhas que caíam da mesa do rico; e até os cães vinham lamber-lhe as úlceras.
-22 Aconteceu morrer o mendigo e ser levado pelos anjos para o seio de Abraão; morreu também o rico e foi sepultado.
-23 No inferno, estando em tormentos, levantou os olhos e viu ao longe a Abraão e Lázaro no seu seio.
-24 Então, clamando, disse: Pai Abraão, tem misericórdia de mim! E manda a Lázaro que molhe em água a ponta do dedo e me refresque a língua, porque estou atormentado nesta chama.
-25 Disse, porém, Abraão: Filho, lembra-te de que recebeste os teus bens em tua vida, e Lázaro igualmente, os males; agora, porém, aqui, ele está consolado; tu, em tormentos.
-26 E, além de tudo, está posto um grande abismo entre nós e vós, de sorte que os que querem passar daqui para vós outros não podem, nem os de lá passar para nós.
-27 Então, replicou: Pai, eu te imploro que o mandes à minha casa paterna,
-28 porque tenho cinco irmãos; para que lhes dê testemunho, a fim de não virem também para este lugar de tormento.
-29 Respondeu Abraão: Eles têm Moisés e os Profetas; ouçam-nos.
-30 Mas ele insistiu: Não, pai Abraão; se alguém dentre os mortos for ter com eles, arrepender-se-ão.
-31 Abraão, porém, lhe respondeu: Se não ouvem a Moisés e aos Profetas, tampouco se deixarão persuadir, ainda que ressuscite alguém dentre os mortos.*
-1 Disse Jesus a seus discípulos: É inevitável que venham escândalos, mas ai do homem pelo qual eles vêm!
-2 Melhor fora que se lhe pendurasse ao pescoço uma pedra de moinho, e fosse atirado no mar, do que fazer tropeçar a um destes pequeninos.
-3 Acautelai-vos. Se teu irmão pecar contra ti, repreende-o; se ele se arrepender, perdoa-lhe.
-4 Se, por sete vezes no dia, pecar contra ti e, sete vezes, vier ter contigo, dizendo: Estou arrependido, perdoa-lhe.
-5 Então, disseram os apóstolos ao Senhor: Aumenta-nos a fé.
-6 Respondeu-lhes o Senhor: Se tiverdes fé como um grão de mostarda, direis a esta amoreira: Arranca-te e transplanta-te no mar; e ela vos obedecerá.
-7 Qual de vós, tendo um servo ocupado na lavoura ou em guardar o gado, lhe dirá quando ele voltar do campo: Vem já e põe-te à mesa?
-8 E que, antes, não lhe diga: Prepara-me a ceia, cinge-te e serve-me, enquanto eu como e bebo; depois, comerás tu e beberás?
-9 Porventura, terá de agradecer ao servo porque este fez o que lhe havia ordenado?
-10 Assim também vós, depois de haverdes feito quanto vos foi ordenado, dizei: Somos servos inúteis, porque fizemos apenas o que devíamos fazer.
-11 De caminho para Jerusalém, passava Jesus pelo meio de Samaria e da Galileia.
-12 Ao entrar numa aldeia, saíram-lhe ao encontro dez leprosos,
-13 que ficaram de longe e lhe gritaram, dizendo: Jesus, Mestre, compadece-te de nós!
-14 Ao vê-los, disse-lhes Jesus: Ide e mostrai-vos aos sacerdotes. Aconteceu que, indo eles, foram purificados.
-15 Um dos dez, vendo que fora curado, voltou, dando glória a Deus em alta voz,
-16 e prostrou-se com o rosto em terra aos pés de Jesus, agradecendo-lhe; e este era samaritano.
-17 Então, Jesus lhe perguntou: Não eram dez os que foram curados? Onde estão os nove?
-18 Não houve, porventura, quem voltasse para dar glória a Deus, senão este estrangeiro?
-19 E disse-lhe: Levanta-te e vai; a tua fé te salvou.
-20 Interrogado pelos fariseus sobre quando viria o reino de Deus, Jesus lhes respondeu: Não vem o reino de Deus com visível aparência.
-21 Nem dirão: Ei-lo aqui! Ou: Lá está! Porque o reino de Deus está dentro de vós.
-22 A seguir, dirigiu-se aos discípulos: Virá o tempo em que desejareis ver um dos dias do Filho do Homem e não o vereis.
-23 E vos dirão: Ei-lo aqui! Ou: Lá está! Não vades nem os sigais;
-24 porque assim como o relâmpago, fuzilando, brilha de uma à outra extremidade do céu, assim será, no seu dia, o Filho do Homem.
-25 Mas importa que primeiro ele padeça muitas coisas e seja rejeitado por esta geração.
-26 Assim como foi nos dias de Noé, será também nos dias do Filho do Homem:
-27 comiam, bebiam, casavam e davam-se em casamento, até ao dia em que Noé entrou na arca, e veio o dilúvio e destruiu a todos.
-28 O mesmo aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam e edificavam;
-29 mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre e destruiu a todos.
-30 Assim será no dia em que o Filho do Homem se manifestar.
-31 Naquele dia, quem estiver no eirado e tiver os seus bens em casa não desça para tirá-los; e de igual modo quem estiver no campo não volte para trás.
-32 Lembrai-vos da mulher de Ló.
-33 Quem quiser preservar a sua vida perdê-la-á; e quem a perder de fato a salvará.
-34 Digo-vos que, naquela noite, dois estarão numa cama; um será tomado, e deixado o outro;
-35 duas mulheres estarão juntas moendo; uma será tomada, e deixada a outra.
-36 [Dois estarão no campo; um será tomado, e o outro, deixado.]
-37 Então, lhe perguntaram: Onde será isso, Senhor? Respondeu-lhes: Onde estiver o corpo, aí se ajuntarão também os abutres.*
-1 Disse-lhes Jesus uma parábola sobre o dever de orar sempre e nunca esmorecer:
-2 Havia em certa cidade um juiz que não temia a Deus, nem respeitava homem algum.
-3 Havia também, naquela mesma cidade, uma viúva que vinha ter com ele, dizendo: Julga a minha causa contra o meu adversário.
-4 Ele, por algum tempo, não a quis atender; mas, depois, disse consigo: Bem que eu não temo a Deus, nem respeito a homem algum;
-5 todavia, como esta viúva me importuna, julgarei a sua causa, para não suceder que, por fim, venha a molestar-me.
-6 Então, disse o Senhor: Considerai no que diz este juiz iníquo.
-7 Não fará Deus justiça aos seus escolhidos, que a ele clamam dia e noite, embora pareça demorado em defendê-los?
-8 Digo-vos que, depressa, lhes fará justiça. Contudo, quando vier o Filho do Homem, achará, porventura, fé na terra?
-9 Propôs também esta parábola a alguns que confiavam em si mesmos, por se considerarem justos, e desprezavam os outros:
-10 Dois homens subiram ao templo com o propósito de orar: um, fariseu, e o outro, publicano.
-11 O fariseu, posto em pé, orava de si para si mesmo, desta forma: Ó Deus, graças te dou porque não sou como os demais homens, roubadores, injustos e adúlteros, nem ainda como este publicano;
-12 jejuo duas vezes por semana e dou o dízimo de tudo quanto ganho.
-13 O publicano, estando em pé, longe, não ousava nem ainda levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, sê propício a mim, pecador!
-14 Digo-vos que este desceu justificado para sua casa, e não aquele; porque todo o que se exalta será humilhado; mas o que se humilha será exaltado.
-15 Traziam-lhe também as crianças, para que as tocasse; e os discípulos, vendo, os repreendiam.
-16 Jesus, porém, chamando-as para junto de si, ordenou: Deixai vir a mim os pequeninos e não os embaraceis, porque dos tais é o reino de Deus.
-17 Em verdade vos digo: Quem não receber o reino de Deus como uma criança de maneira alguma entrará nele.
-18 Certo homem de posição perguntou-lhe: Bom Mestre, que farei para herdar a vida eterna?
-19 Respondeu-lhe Jesus: Por que me chamas bom? Ninguém é bom, senão um, que é Deus.
-20 Sabes os mandamentos: Não adulterarás , não matarás , não furtarás , não dirás falso testemunho , honra a teu pai e a tua mãe.
-21 Replicou ele: Tudo isso tenho observado desde a minha juventude.
-22 Ouvindo-o Jesus, disse-lhe: Uma coisa ainda te falta: vende tudo o que tens, dá-o aos pobres e terás um tesouro nos céus; depois, vem e segue-me.
-23 Mas, ouvindo ele estas palavras, ficou muito triste, porque era riquíssimo.
-24 E Jesus, vendo-o assim triste, disse: Quão dificilmente entrarão no reino de Deus os que têm riquezas!
-25 Porque é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no reino de Deus.
-26 E os que ouviram disseram: Sendo assim, quem pode ser salvo?
-27 Mas ele respondeu: Os impossíveis dos homens são possíveis para Deus.
-28 E disse Pedro: Eis que nós deixamos nossa casa e te seguimos.
-29 Respondeu-lhes Jesus: Em verdade vos digo que ninguém há que tenha deixado casa, ou mulher, ou irmãos, ou pais, ou filhos, por causa do reino de Deus,
-30 que não receba, no presente, muitas vezes mais e, no mundo por vir, a vida eterna.
-31 Tomando consigo os doze, disse-lhes Jesus: Eis que subimos para Jerusalém, e vai cumprir-se ali tudo quanto está escrito por intermédio dos profetas, no tocante ao Filho do Homem;
-32 pois será ele entregue aos gentios, escarnecido, ultrajado e cuspido;
-33 e, depois de o açoitarem, tirar-lhe-ão a vida; mas, ao terceiro dia, ressuscitará.
-34 Eles, porém, nada compreenderam acerca destas coisas; e o sentido destas palavras era-lhes encoberto, de sorte que não percebiam o que ele dizia.
-35 Aconteceu que, ao aproximar-se ele de Jericó, estava um cego assentado à beira do caminho, pedindo esmolas.
-36 E, ouvindo o tropel da multidão que passava, perguntou o que era aquilo.
-37 Anunciaram-lhe que passava Jesus, o Nazareno.
-38 Então, ele clamou: Jesus, Filho de Davi, tem compaixão de mim!
-39 E os que iam na frente o repreendiam para que se calasse; ele, porém, cada vez gritava mais: Filho de Davi, tem misericórdia de mim!
-40 Então, parou Jesus e mandou que lho trouxessem. E, tendo ele chegado, perguntou-lhe:
-41 Que queres que eu te faça? Respondeu ele: Senhor, que eu torne a ver.
-42 Então, Jesus lhe disse: Recupera a tua vista; a tua fé te salvou.
-43 Imediatamente, tornou a ver e seguia-o glorificando a Deus. Também todo o povo, vendo isto, dava louvores a Deus.*
-1 Entrando em Jericó, atravessava Jesus a cidade.
-2 Eis que um homem, chamado Zaqueu, maioral dos publicanos e rico,
-3 procurava ver quem era Jesus, mas não podia, por causa da multidão, por ser ele de pequena estatura.
-4 Então, correndo adiante, subiu a um sicômoro a fim de vê-lo, porque por ali havia de passar.
-5 Quando Jesus chegou àquele lugar, olhando para cima, disse-lhe: Zaqueu, desce depressa, pois me convém ficar hoje em tua casa.
-6 Ele desceu a toda a pressa e o recebeu com alegria.
-7 Todos os que viram isto murmuravam, dizendo que ele se hospedara com homem pecador.
-8 Entrementes, Zaqueu se levantou e disse ao Senhor: Senhor, resolvo dar aos pobres a metade dos meus bens; e, se nalguma coisa tenho defraudado alguém, restituo quatro vezes mais.
-9 Então, Jesus lhe disse: Hoje, houve salvação nesta casa, pois que também este é filho de Abraão.
-10 Porque o Filho do Homem veio buscar e salvar o perdido.
-11 Ouvindo eles estas coisas, Jesus propôs uma parábola, visto estar perto de Jerusalém e lhes parecer que o reino de Deus havia de manifestar-se imediatamente.
-12 Então, disse: Certo homem nobre partiu para uma terra distante, com o fim de tomar posse de um reino e voltar.
-13 Chamou dez servos seus, confiou-lhes dez minas e disse-lhes: Negociai até que eu volte.
-14 Mas os seus concidadãos o odiavam e enviaram após ele uma embaixada, dizendo: Não queremos que este reine sobre nós.
-15 Quando ele voltou, depois de haver tomado posse do reino, mandou chamar os servos a quem dera o dinheiro, a fim de saber que negócio cada um teria conseguido.
-16 Compareceu o primeiro e disse: Senhor, a tua mina rendeu dez.
-17 Respondeu-lhe o senhor: Muito bem, servo bom; porque foste fiel no pouco, terás autoridade sobre dez cidades.
-18 Veio o segundo, dizendo: Senhor, a tua mina rendeu cinco.
-19 A este disse: Terás autoridade sobre cinco cidades.
-20 Veio, então, outro, dizendo: Eis aqui, senhor, a tua mina, que eu guardei embrulhada num lenço.
-21 Pois tive medo de ti, que és homem rigoroso; tiras o que não puseste e ceifas o que não semeaste.
-22 Respondeu-lhe: Servo mau, por tua própria boca te condenarei. Sabias que eu sou homem rigoroso, que tiro o que não pus e ceifo o que não semeei;
-23 por que não puseste o meu dinheiro no banco? E, então, na minha vinda, o receberia com juros.
-24 E disse aos que o assistiam: Tirai-lhe a mina e dai-a ao que tem as dez.
-25 Eles ponderaram: Senhor, ele já tem dez.
-26 Pois eu vos declaro: a todo o que tem dar-se-lhe-á; mas ao que não tem, o que tem lhe será tirado.
-27 Quanto, porém, a esses meus inimigos, que não quiseram que eu reinasse sobre eles, trazei-os aqui e executai-os na minha presença.
-28 E, dito isto, prosseguia Jesus subindo para Jerusalém.
-29 Ora, aconteceu que, ao aproximar-se de Betfagé e de Betânia, junto ao monte das Oliveiras, enviou dois de seus discípulos,
-30 dizendo-lhes: Ide à aldeia fronteira e ali, ao entrardes, achareis preso um jumentinho que jamais homem algum montou; soltai-o e trazei-o.
-31 Se alguém vos perguntar: Por que o soltais? Respondereis assim: Porque o Senhor precisa dele.
-32 E, indo os que foram mandados, acharam segundo lhes dissera Jesus.
-33 Quando eles estavam soltando o jumentinho, seus donos lhes disseram: Por que o soltais?
-34 Responderam: Porque o Senhor precisa dele.
-35 Então, o trouxeram e, pondo as suas vestes sobre ele, ajudaram Jesus a montar.
-36 Indo ele, estendiam no caminho as suas vestes.
-37 E, quando se aproximava da descida do monte das Oliveiras, toda a multidão dos discípulos passou, jubilosa, a louvar a Deus em alta voz, por todos os milagres que tinham visto,
-38 dizendo: Bendito é o Rei que vem em nome do Senhor! Paz no céu e glória nas maiores alturas!
-39 Ora, alguns dos fariseus lhe disseram em meio à multidão: Mestre, repreende os teus discípulos!
-40 Mas ele lhes respondeu: Asseguro-vos que, se eles se calarem, as próprias pedras clamarão.
-41 Quando ia chegando, vendo a cidade, chorou
-42 e dizia: Ah! Se conheceras por ti mesma, ainda hoje, o que é devido à paz! Mas isto está agora oculto aos teus olhos.
-43 Pois sobre ti virão dias em que os teus inimigos te cercarão de trincheiras e, por todos os lados, te apertarão o cerco;
-44 e te arrasarão e aos teus filhos dentro de ti; não deixarão em ti pedra sobre pedra, porque não reconheceste a oportunidade da tua visitação.
-45 Depois, entrando no templo, expulsou os que ali vendiam,
-46 dizendo-lhes: Está escrito: A minha casa será casa de oração. Mas vós a transformastes em covil de salteadores.
-47 Diariamente, Jesus ensinava no templo; mas os principais sacerdotes, os escribas e os maiorais do povo procuravam eliminá-lo;
-48 contudo, não atinavam em como fazê-lo, porque todo o povo, ao ouvi-lo, ficava dominado por ele.*
-1 Aconteceu que, num daqueles dias, estando Jesus a ensinar o povo no templo e a evangelizar, sobrevieram os principais sacerdotes e os escribas, juntamente com os anciãos,
-2 e o arguiram nestes termos: Dize-nos: com que autoridade fazes estas coisas? Ou quem te deu esta autoridade?
-3 Respondeu-lhes: Também eu vos farei uma pergunta; dizei-me:
-4 o batismo de João era dos céus ou dos homens?
-5 Então, eles arrazoavam entre si: Se dissermos: do céu, ele dirá: Por que não acreditastes nele?
-6 Mas, se dissermos: dos homens, o povo todo nos apedrejará; porque está convicto de ser João um profeta.
-7 Por fim, responderam que não sabiam.
-8 Então, Jesus lhes replicou: Pois nem eu vos digo com que autoridade faço estas coisas.
-9 A seguir, passou Jesus a proferir ao povo esta parábola: Certo homem plantou uma vinha, arrendou-a a lavradores e ausentou-se do país por prazo considerável.
-10 No devido tempo, mandou um servo aos lavradores para que lhe dessem do fruto da vinha; os lavradores, porém, depois de o espancarem, o despacharam vazio.
-11 Em vista disso, enviou-lhes outro servo; mas eles também a este espancaram e, depois de o ultrajarem, o despacharam vazio.
-12 Mandou ainda um terceiro; também a este, depois de o ferirem, expulsaram.
-13 Então, disse o dono da vinha: Que farei? Enviarei o meu filho amado; talvez o respeitem.
-14 Vendo-o, porém, os lavradores, arrazoavam entre si, dizendo: Este é o herdeiro; matemo-lo, para que a herança venha a ser nossa.
-15 E, lançando-o fora da vinha, o mataram. Que lhes fará, pois, o dono da vinha?
-16 Virá, exterminará aqueles lavradores e passará a vinha a outros. Ao ouvirem isto, disseram: Tal não aconteça!
-17 Mas Jesus, fitando-os, disse: Que quer dizer, pois, o que está escrito: A pedra que os construtores rejeitaram, esta veio a ser a principal pedra, angular?
-18 Todo o que cair sobre esta pedra ficará em pedaços; e aquele sobre quem ela cair ficará reduzido a pó.
-19 Naquela mesma hora, os escribas e os principais sacerdotes procuravam lançar-lhe as mãos, pois perceberam que, em referência a eles, dissera esta parábola; mas temiam o povo.
-20 Observando-o, subornaram emissários que se fingiam de justos para verem se o apanhavam em alguma palavra, a fim de entregá-lo à jurisdição e à autoridade do governador.
-21 Então, o consultaram, dizendo: Mestre, sabemos que falas e ensinas retamente e não te deixas levar de respeitos humanos, porém ensinas o caminho de Deus segundo a verdade;
-22 é lícito pagar tributo a César ou não?
-23 Mas Jesus, percebendo-lhes o ardil, respondeu:
-24 Mostrai-me um denário. De quem é a efígie e a inscrição? Prontamente disseram: De César. Então, lhes recomendou Jesus:
-25 Dai, pois, a César o que é de César e a Deus o que é de Deus.
-26 Não puderam apanhá-lo em palavra alguma diante do povo; e, admirados da sua resposta, calaram-se.
-27 Chegando alguns dos saduceus, homens que dizem não haver ressurreição,
-28 perguntaram-lhe: Mestre, Moisés nos deixou escrito que, se morrer o irmão de alguém, sendo aquele casado e não deixando filhos, seu irmão deve casar com a viúva e suscitar descendência ao falecido.
-29 Ora, havia sete irmãos: o primeiro casou e morreu sem filhos;
-30 o segundo e o terceiro também desposaram a viúva;
-31 igualmente os sete não tiveram filhos e morreram.
-32 Por fim, morreu também a mulher.
-33 Esta mulher, pois, no dia da ressurreição, de qual deles será esposa? Porque os sete a desposaram.
-34 Então, lhes acrescentou Jesus: Os filhos deste mundo casam-se e dão-se em casamento;
-35 mas os que são havidos por dignos de alcançar a era vindoura e a ressurreição dentre os mortos não casam, nem se dão em casamento.
-36 Pois não podem mais morrer, porque são iguais aos anjos e são filhos de Deus, sendo filhos da ressurreição.
-37 E que os mortos hão de ressuscitar, Moisés o indicou no trecho referente à sarça, quando chama ao Senhor o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.
-38 Ora, Deus não é Deus de mortos, e sim de vivos; porque para ele todos vivem.
-39 Então, disseram alguns dos escribas: Mestre, respondeste bem!
-40 Dali por diante, não ousaram mais interrogá-lo.
-41 Mas Jesus lhes perguntou: Como podem dizer que o Cristo é filho de Davi?
-42 Visto como o próprio Davi afirma no livro dos Salmos: Disse o Senhor ao meu Senhor: Assenta-te à minha direita,
-43 até que eu ponha os teus inimigos por estrado dos teus pés.
-44 Assim, pois, Davi lhe chama Senhor, e como pode ser ele seu filho?
-45 Ouvindo-o todo o povo, recomendou Jesus a seus discípulos:
-46 Guardai-vos dos escribas, que gostam de andar com vestes talares e muito apreciam as saudações nas praças, as primeiras cadeiras nas sinagogas e os primeiros lugares nos banquetes;
-47 os quais devoram as casas das viúvas e, para o justificar, fazem longas orações; estes sofrerão juízo muito mais severo.*
-1 Estando Jesus a observar, viu os ricos lançarem suas ofertas no gazofilácio.
-2 Viu também certa viúva pobre lançar ali duas pequenas moedas;
-3 e disse: Verdadeiramente, vos digo que esta viúva pobre deu mais do que todos.
-4 Porque todos estes deram como oferta daquilo que lhes sobrava; esta, porém, da sua pobreza deu tudo o que possuía, todo o seu sustento.
-5 Falavam alguns a respeito do templo, como estava ornado de belas pedras e de dádivas;
-6 então, disse Jesus: Vedes estas coisas? Dias virão em que não ficará pedra sobre pedra que não seja derribada.
-7 Perguntaram-lhe: Mestre, quando sucederá isto? E que sinal haverá de quando estas coisas estiverem para se cumprir?
-8 Respondeu ele: Vede que não sejais enganados; porque muitos virão em meu nome, dizendo: Sou eu! E também: Chegou a hora! Não os sigais.
-9 Quando ouvirdes falar de guerras e revoluções, não vos assusteis; pois é necessário que primeiro aconteçam estas coisas, mas o fim não será logo.
-10 Então, lhes disse: Levantar-se-á nação contra nação, e reino, contra reino;
-11 haverá grandes terremotos, epidemias e fome em vários lugares, coisas espantosas e também grandes sinais do céu.
-12 Antes, porém, de todas estas coisas, lançarão mão de vós e vos perseguirão, entregando-vos às sinagogas e aos cárceres, levando-vos à presença de reis e governadores, por causa do meu nome;
-13 e isto vos acontecerá para que deis testemunho.
-14 Assentai, pois, em vosso coração de não vos preocupardes com o que haveis de responder;
-15 porque eu vos darei boca e sabedoria a que não poderão resistir, nem contradizer todos quantos se vos opuserem.
-16 E sereis entregues até por vossos pais, irmãos, parentes e amigos; e matarão alguns dentre vós.
-17 De todos sereis odiados por causa do meu nome.
-18 Contudo, não se perderá um só fio de cabelo da vossa cabeça.
-19 É na vossa perseverança que ganhareis a vossa alma.
-20 Quando, porém, virdes Jerusalém sitiada de exércitos, sabei que está próxima a sua devastação.
-21 Então, os que estiverem na Judeia, fujam para os montes; os que se encontrarem dentro da cidade, retirem-se; e os que estiverem nos campos, não entrem nela.
-22 Porque estes dias são de vingança, para se cumprir tudo o que está escrito.
-23 Ai das que estiverem grávidas e das que amamentarem naqueles dias! Porque haverá grande aflição na terra e ira contra este povo.
-24 Cairão a fio de espada e serão levados cativos para todas as nações; e, até que os tempos dos gentios se completem, Jerusalém será pisada por eles.
-25 Haverá sinais no sol, na lua e nas estrelas; sobre a terra, angústia entre as nações em perplexidade por causa do bramido do mar e das ondas;
-26 haverá homens que desmaiarão de terror e pela expectativa das coisas que sobrevirão ao mundo; pois os poderes dos céus serão abalados.
-27 Então, se verá o Filho do Homem vindo numa nuvem, com poder e grande glória.
-28 Ora, ao começarem estas coisas a suceder, exultai e erguei a vossa cabeça; porque a vossa redenção se aproxima.
-29 Ainda lhes propôs uma parábola, dizendo: Vede a figueira e todas as árvores.
-30 Quando começam a brotar, vendo-o, sabeis, por vós mesmos, que o verão está próximo.
-31 Assim também, quando virdes acontecerem estas coisas, sabei que está próximo o reino de Deus.
-32 Em verdade vos digo que não passará esta geração, sem que tudo isto aconteça.
-33 Passará o céu e a terra, porém as minhas palavras não passarão.
-34 Acautelai-vos por vós mesmos, para que nunca vos suceda que o vosso coração fique sobrecarregado com as consequências da orgia, da embriaguez e das preocupações deste mundo, e para que aquele dia não venha sobre vós repentinamente, como um laço.
-35 Pois há de sobrevir a todos os que vivem sobre a face de toda a terra.
-36 Vigiai, pois, a todo tempo, orando, para que possais escapar de todas estas coisas que têm de suceder e estar em pé na presença do Filho do Homem.
-37 Jesus ensinava todos os dias no templo, mas à noite, saindo, ia pousar no monte chamado das Oliveiras.
-38 E todo o povo madrugava para ir ter com ele no templo, a fim de ouvi-lo.*
-1 Estava próxima a Festa dos Pães Asmos, chamada Páscoa.
-2 Preocupavam-se os principais sacerdotes e os escribas em como tirar a vida a Jesus; porque temiam o povo.
-3 Ora, Satanás entrou em Judas, chamado Iscariotes, que era um dos doze.
-4 Este foi entender-se com os principais sacerdotes e os capitães sobre como lhes entregaria a Jesus;
-5 então, eles se alegraram e combinaram em lhe dar dinheiro.
-6 Judas concordou e buscava uma boa ocasião de lho entregar sem tumulto.
-7 Chegou o dia da Festa dos Pães Asmos, em que importava comemorar a Páscoa.
-8 Jesus, pois, enviou Pedro e João, dizendo: Ide preparar-nos a Páscoa para que a comamos.
-9 Eles lhe perguntaram: Onde queres que a preparemos?
-10 Então, lhes explicou Jesus: Ao entrardes na cidade, encontrareis um homem com um cântaro de água; segui-o até à casa em que ele entrar
-11 e dizei ao dono da casa: O Mestre manda perguntar-te: Onde é o aposento no qual hei de comer a Páscoa com os meus discípulos?
-12 Ele vos mostrará um espaçoso cenáculo mobilado; ali fazei os preparativos.
-13 E, indo, tudo encontraram como Jesus lhes dissera e prepararam a Páscoa.
-14 Chegada a hora, pôs-se Jesus à mesa, e com ele os apóstolos.
-15 E disse-lhes: Tenho desejado ansiosamente comer convosco esta Páscoa, antes do meu sofrimento.
-16 Pois vos digo que nunca mais a comerei, até que ela se cumpra no reino de Deus.
-17 E, tomando um cálice, havendo dado graças, disse: Recebei e reparti entre vós;
-18 pois vos digo que, de agora em diante, não mais beberei do fruto da videira, até que venha o reino de Deus.
-19 E, tomando um pão, tendo dado graças, o partiu e lhes deu, dizendo: Isto é o meu corpo oferecido por vós; fazei isto em memória de mim.
-20 Semelhantemente, depois de cear, tomou o cálice, dizendo: Este é o cálice da nova aliança no meu sangue derramado em favor de vós.
-21 Todavia, a mão do traidor está comigo à mesa.
-22 Porque o Filho do Homem, na verdade, vai segundo o que está determinado, mas ai daquele por intermédio de quem ele está sendo traído!
-23 Então, começaram a indagar entre si quem seria, dentre eles, o que estava para fazer isto.
-24 Suscitaram também entre si uma discussão sobre qual deles parecia ser o maior.
-25 Mas Jesus lhes disse: Os reis dos povos dominam sobre eles, e os que exercem autoridade são chamados benfeitores.
-26 Mas vós não sois assim; pelo contrário, o maior entre vós seja como o menor; e aquele que dirige seja como o que serve.
-27 Pois qual é maior: quem está à mesa ou quem serve? Porventura, não é quem está à mesa? Pois, no meio de vós, eu sou como quem serve.
-28 Vós sois os que tendes permanecido comigo nas minhas tentações.
-29 Assim como meu Pai me confiou um reino, eu vo-lo confio,
-30 para que comais e bebais à minha mesa no meu reino; e vos assentareis em tronos para julgar as doze tribos de Israel.
-31 Simão, Simão, eis que Satanás vos reclamou para vos peneirar como trigo!
-32 Eu, porém, roguei por ti, para que a tua fé não desfaleça; tu, pois, quando te converteres, fortalece os teus irmãos.
-33 Ele, porém, respondeu: Senhor, estou pronto a ir contigo, tanto para a prisão como para a morte.
-34 Mas Jesus lhe disse: Afirmo-te, Pedro, que, hoje, três vezes negarás que me conheces, antes que o galo cante.
-35 A seguir, Jesus lhes perguntou: Quando vos mandei sem bolsa, sem alforje e sem sandálias, faltou-vos, porventura, alguma coisa? Nada, disseram eles.
-36 Então, lhes disse: Agora, porém, quem tem bolsa, tome-a, como também o alforje; e o que não tem espada, venda a sua capa e compre uma.
-37 Pois vos digo que importa que se cumpra em mim o que está escrito: Ele foi contado com os malfeitores. Porque o que a mim se refere está sendo cumprido.
-38 Então, lhe disseram: Senhor, eis aqui duas espadas! Respondeu-lhes: Basta!
-39 E, saindo, foi, como de costume, para o monte das Oliveiras; e os discípulos o acompanharam.
-40 Chegando ao lugar escolhido, Jesus lhes disse: Orai, para que não entreis em tentação.
-41 Ele, por sua vez, se afastou, cerca de um tiro de pedra, e, de joelhos, orava,
-42 dizendo: Pai, se queres, passa de mim este cálice; contudo, não se faça a minha vontade, e sim a tua.
-43 [Então, lhe apareceu um anjo do céu que o confortava.
-44 E, estando em agonia, orava mais intensamente. E aconteceu que o seu suor se tornou como gotas de sangue caindo sobre a terra.]
-45 Levantando-se da oração, foi ter com os discípulos, e os achou dormindo de tristeza,
-46 e disse-lhes: Por que estais dormindo? Levantai-vos e orai, para que não entreis em tentação.
-47 Falava ele ainda, quando chegou uma multidão; e um dos doze, o chamado Judas, que vinha à frente deles, aproximou-se de Jesus para o beijar.
-48 Jesus, porém, lhe disse: Judas, com um beijo trais o Filho do Homem?
-49 Os que estavam ao redor dele, vendo o que ia suceder, perguntaram: Senhor, feriremos à espada?
-50 Um deles feriu o servo do sumo sacerdote e cortou-lhe a orelha direita.
-51 Mas Jesus acudiu, dizendo: Deixai, basta. E, tocando-lhe a orelha, o curou.
-52 Então, dirigindo-se Jesus aos principais sacerdotes, capitães do templo e anciãos que vieram prendê-lo, disse: Saístes com espadas e porretes como para deter um salteador?
-53 Diariamente, estando eu convosco no templo, não pusestes as mãos sobre mim. Esta, porém, é a vossa hora e o poder das trevas.
-54 Então, prendendo-o, o levaram e o introduziram na casa do sumo sacerdote. Pedro seguia de longe.
-55 E, quando acenderam fogo no meio do pátio e juntos se assentaram, Pedro tomou lugar entre eles.
-56 Entrementes, uma criada, vendo-o assentado perto do fogo, fitando-o, disse: Este também estava com ele.
-57 Mas Pedro negava, dizendo: Mulher, não o conheço.
-58 Pouco depois, vendo-o outro, disse: Também tu és dos tais. Pedro, porém, protestava: Homem, não sou.
-59 E, tendo passado cerca de uma hora, outro afirmava, dizendo: Também este, verdadeiramente, estava com ele, porque também é galileu.
-60 Mas Pedro insistia: Homem, não compreendo o que dizes. E logo, estando ele ainda a falar, cantou o galo.
-61 Então, voltando-se o Senhor, fixou os olhos em Pedro, e Pedro se lembrou da palavra do Senhor, como lhe dissera: Hoje, três vezes me negarás, antes de cantar o galo.
-62 Então, Pedro, saindo dali, chorou amargamente.
-63 Os que detinham Jesus zombavam dele, davam-lhe pancadas e,
-64 vendando-lhe os olhos, diziam: Profetiza-nos: quem é que te bateu?
-65 E muitas outras coisas diziam contra ele, blasfemando.
-66 Logo que amanheceu, reuniu-se a assembleia dos anciãos do povo, tanto os principais sacerdotes como os escribas, e o conduziram ao Sinédrio, onde lhe disseram:
-67 Se tu és o Cristo, dize-nos. Então, Jesus lhes respondeu: Se vo-lo disser, não o acreditareis;
-68 também, se vos perguntar, de nenhum modo me respondereis.
-69 Desde agora, estará sentado o Filho do Homem à direita do Todo-Poderoso Deus.
-70 Então, disseram todos: Logo, tu és o Filho de Deus? E ele lhes respondeu: Vós dizeis que eu sou.
-71 Clamaram, pois: Que necessidade mais temos de testemunho? Porque nós mesmos o ouvimos da sua própria boca.*
-1 Levantando-se toda a assembleia, levaram Jesus a Pilatos.
-2 E ali passaram a acusá-lo, dizendo: Encontramos este homem pervertendo a nossa nação, vedando pagar tributo a César e afirmando ser ele o Cristo, o Rei.
-3 Então, lhe perguntou Pilatos: És tu o rei dos judeus? Respondeu Jesus: Tu o dizes.
-4 Disse Pilatos aos principais sacerdotes e às multidões: Não vejo neste homem crime algum.
-5 Insistiam, porém, cada vez mais, dizendo: Ele alvoroça o povo, ensinando por toda a Judeia, desde a Galileia, onde começou, até aqui.
-6 Tendo Pilatos ouvido isto, perguntou se aquele homem era galileu.
-7 Ao saber que era da jurisdição de Herodes, estando este, naqueles dias, em Jerusalém, lho remeteu.
-8 Herodes, vendo a Jesus, sobremaneira se alegrou, pois havia muito queria vê-lo, por ter ouvido falar a seu respeito; esperava também vê-lo fazer algum sinal.
-9 E de muitos modos o interrogava; Jesus, porém, nada lhe respondia.
-10 Os principais sacerdotes e os escribas ali presentes o acusavam com grande veemência.
-11 Mas Herodes, juntamente com os da sua guarda, tratou-o com desprezo, e, escarnecendo dele, fê-lo vestir-se de um manto aparatoso, e o devolveu a Pilatos.
-12 Naquele mesmo dia, Herodes e Pilatos se reconciliaram, pois, antes, viviam inimizados um com o outro.
-13 Então, reunindo Pilatos os principais sacerdotes, as autoridades e o povo,
-14 disse-lhes: Apresentastes-me este homem como agitador do povo; mas, tendo-o interrogado na vossa presença, nada verifiquei contra ele dos crimes de que o acusais.
-15 Nem tampouco Herodes, pois no-lo tornou a enviar. É, pois, claro que nada contra ele se verificou digno de morte.
-16 Portanto, após castigá-lo, soltá-lo-ei.
-17 [E era-lhe forçoso soltar-lhes um detento por ocasião da festa.]
-18 Toda a multidão, porém, gritava: Fora com este! Solta-nos Barrabás!
-19 Barrabás estava no cárcere por causa de uma sedição na cidade e também por homicídio.
-20 Desejando Pilatos soltar a Jesus, insistiu ainda.
-21 Eles, porém, mais gritavam: Crucifica-o! Crucifica-o!
-22 Então, pela terceira vez, lhes perguntou: Que mal fez este? De fato, nada achei contra ele para condená-lo à morte; portanto, depois de o castigar, soltá-lo-ei.
-23 Mas eles instavam com grandes gritos, pedindo que fosse crucificado. E o seu clamor prevaleceu.
-24 Então, Pilatos decidiu atender-lhes o pedido.
-25 Soltou aquele que estava encarcerado por causa da sedição e do homicídio, a quem eles pediam; e, quanto a Jesus, entregou-o à vontade deles.
-26 E, como o conduzissem, constrangendo um cireneu, chamado Simão, que vinha do campo, puseram-lhe a cruz sobre os ombros, para que a levasse após Jesus.
-27 Seguia-o numerosa multidão de povo, e também mulheres que batiam no peito e o lamentavam.
-28 Porém Jesus, voltando-se para elas, disse: Filhas de Jerusalém, não choreis por mim; chorai, antes, por vós mesmas e por vossos filhos!
-29 Porque dias virão em que se dirá: Bem-aventuradas as estéreis, que não geraram, nem amamentaram.
-30 Nesses dias, dirão aos montes: Caí sobre nós! E aos outeiros: Cobri-nos!
-31 Porque, se em lenho verde fazem isto, que será no lenho seco?
-32 E também eram levados outros dois, que eram malfeitores, para serem executados com ele.
-33 Quando chegaram ao lugar chamado Calvário, ali o crucificaram, bem como aos malfeitores, um à direita, outro à esquerda.
-34 Contudo, Jesus dizia: Pai, perdoa-lhes, porque não sabem o que fazem. Então, repartindo as vestes dele, lançaram sortes.
-35 O povo estava ali e a tudo observava. Também as autoridades zombavam e diziam: Salvou os outros; a si mesmo se salve, se é, de fato, o Cristo de Deus, o escolhido.
-36 Igualmente os soldados o escarneciam e, aproximando-se, trouxeram-lhe vinagre, dizendo:
-37 Se tu és o rei dos judeus, salva-te a ti mesmo.
-38 Também sobre ele estava esta epígrafe [em letras gregas, romanas e hebraicas]: Este é o Rei dos Judeus.
-39 Um dos malfeitores crucificados blasfemava contra ele, dizendo: Não és tu o Cristo? Salva-te a ti mesmo e a nós também.
-40 Respondendo-lhe, porém, o outro, repreendeu-o, dizendo: Nem ao menos temes a Deus, estando sob igual sentença?
-41 Nós, na verdade, com justiça, porque recebemos o castigo que os nossos atos merecem; mas este nenhum mal fez.
-42 E acrescentou: Jesus, lembra-te de mim quando vieres no teu reino.
-43 Jesus lhe respondeu: Em verdade te digo que hoje estarás comigo no paraíso.
-44 Já era quase a hora sexta, e, escurecendo-se o sol, houve trevas sobre toda a terra até à hora nona.
-45 E rasgou-se pelo meio o véu do santuário.
-46 Então, Jesus clamou em alta voz: Pai, nas tuas mãos entrego o meu espírito! E, dito isto, expirou.
-47 Vendo o centurião o que tinha acontecido, deu glória a Deus, dizendo: Verdadeiramente, este homem era justo.
-48 E todas as multidões reunidas para este espetáculo, vendo o que havia acontecido, retiraram-se a lamentar, batendo nos peitos.
-49 Entretanto, todos os conhecidos de Jesus e as mulheres que o tinham seguido desde a Galileia permaneceram a contemplar de longe estas coisas.
-50 E eis que certo homem, chamado José, membro do Sinédrio, homem bom e justo
-51 (que não tinha concordado com o desígnio e ação dos outros), natural de Arimateia, cidade dos judeus, e que esperava o reino de Deus,
-52 tendo procurado a Pilatos, pediu-lhe o corpo de Jesus,
-53 e, tirando-o do madeiro, envolveu-o num lençol de linho, e o depositou num túmulo aberto em rocha, onde ainda ninguém havia sido sepultado.
-54 Era o dia da preparação, e começava o sábado.
-55 As mulheres que tinham vindo da Galileia com Jesus, seguindo, viram o túmulo e como o corpo fora ali depositado.
-56 Então, se retiraram para preparar aromas e bálsamos. E, no sábado, descansaram, segundo o mandamento.*
-1 Mas, no primeiro dia da semana, alta madrugada, foram elas ao túmulo, levando os aromas que haviam preparado.
-2 E encontraram a pedra removida do sepulcro;
-3 mas, ao entrarem, não acharam o corpo do Senhor Jesus.
-4 Aconteceu que, perplexas a esse respeito, apareceram-lhes dois varões com vestes resplandecentes.
-5 Estando elas possuídas de temor, baixando os olhos para o chão, eles lhes falaram: Por que buscais entre os mortos ao que vive?
-6 Ele não está aqui, mas ressuscitou. Lembrai-vos de como vos preveniu, estando ainda na Galileia,
-7 quando disse: Importa que o Filho do Homem seja entregue nas mãos de pecadores, e seja crucificado, e ressuscite no terceiro dia.
-8 Então, se lembraram das suas palavras.
-9 E, voltando do túmulo, anunciaram todas estas coisas aos onze e a todos os mais que com eles estavam.
-10 Eram Maria Madalena, Joana e Maria, mãe de Tiago; também as demais que estavam com elas confirmaram estas coisas aos apóstolos.
-11 Tais palavras lhes pareciam um como delírio, e não acreditaram nelas.
-12 Pedro, porém, levantando-se, correu ao sepulcro. E, abaixando-se, nada mais viu, senão os lençóis de linho; e retirou-se para casa, maravilhado do que havia acontecido.
-13 Naquele mesmo dia, dois deles estavam de caminho para uma aldeia chamada Emaús, distante de Jerusalém sessenta estádios.
-14 E iam conversando a respeito de todas as coisas sucedidas.
-15 Aconteceu que, enquanto conversavam e discutiam, o próprio Jesus se aproximou e ia com eles.
-16 Os seus olhos, porém, estavam como que impedidos de o reconhecer.
-17 Então, lhes perguntou Jesus: Que é isso que vos preocupa e de que ides tratando à medida que caminhais? E eles pararam entristecidos.
-18 Um, porém, chamado Cleopas, respondeu, dizendo: És o único, porventura, que, tendo estado em Jerusalém, ignoras as ocorrências destes últimos dias?
-19 Ele lhes perguntou: Quais? E explicaram: O que aconteceu a Jesus, o Nazareno, que era varão profeta, poderoso em obras e palavras, diante de Deus e de todo o povo,
-20 e como os principais sacerdotes e as nossas autoridades o entregaram para ser condenado à morte e o crucificaram.
-21 Ora, nós esperávamos que fosse ele quem havia de redimir a Israel; mas, depois de tudo isto, é já este o terceiro dia desde que tais coisas sucederam.
-22 É verdade também que algumas mulheres, das que conosco estavam, nos surpreenderam, tendo ido de madrugada ao túmulo;
-23 e, não achando o corpo de Jesus, voltaram dizendo terem tido uma visão de anjos, os quais afirmam que ele vive.
-24 De fato, alguns dos nossos foram ao sepulcro e verificaram a exatidão do que disseram as mulheres; mas não o viram.
-25 Então, lhes disse Jesus: Ó néscios e tardos de coração para crer tudo o que os profetas disseram!
-26 Porventura, não convinha que o Cristo padecesse e entrasse na sua glória?
-27 E, começando por Moisés, discorrendo por todos os Profetas, expunha-lhes o que a seu respeito constava em todas as Escrituras.
-28 Quando se aproximavam da aldeia para onde iam, fez ele menção de passar adiante.
-29 Mas eles o constrangeram, dizendo: Fica conosco, porque é tarde, e o dia já declina. E entrou para ficar com eles.
-30 E aconteceu que, quando estavam à mesa, tomando ele o pão, abençoou-o e, tendo-o partido, lhes deu;
-31 então, se lhes abriram os olhos, e o reconheceram; mas ele desapareceu da presença deles.
-32 E disseram um ao outro: Porventura, não nos ardia o coração, quando ele, pelo caminho, nos falava, quando nos expunha as Escrituras?
-33 E, na mesma hora, levantando-se, voltaram para Jerusalém, onde acharam reunidos os onze e outros com eles,
-34 os quais diziam: O Senhor ressuscitou e já apareceu a Simão!
-35 Então, os dois contaram o que lhes acontecera no caminho e como fora por eles reconhecido no partir do pão.
-36 Falavam ainda estas coisas quando Jesus apareceu no meio deles e lhes disse: Paz seja convosco!
-37 Eles, porém, surpresos e atemorizados, acreditavam estarem vendo um espírito.
-38 Mas ele lhes disse: Por que estais perturbados? E por que sobem dúvidas ao vosso coração?
-39 Vede as minhas mãos e os meus pés, que sou eu mesmo; apalpai-me e verificai, porque um espírito não tem carne nem ossos, como vedes que eu tenho.
-40 Dizendo isto, mostrou-lhes as mãos e os pés.
-41 E, por não acreditarem eles ainda, por causa da alegria, e estando admirados, Jesus lhes disse: Tendes aqui alguma coisa que comer?
-42 Então, lhe apresentaram um pedaço de peixe assado [e um favo de mel].
-43 E ele comeu na presença deles.
-44 A seguir, Jesus lhes disse: São estas as palavras que eu vos falei, estando ainda convosco: importava se cumprisse tudo o que de mim está escrito na Lei de Moisés, nos Profetas e nos Salmos.
-45 Então, lhes abriu o entendimento para compreenderem as Escrituras;
-46 e lhes disse: Assim está escrito que o Cristo havia de padecer e ressuscitar dentre os mortos no terceiro dia
-47 e que em seu nome se pregasse arrependimento para remissão de pecados a todas as nações, começando de Jerusalém.
-48 Vós sois testemunhas destas coisas.
-49 Eis que envio sobre vós a promessa de meu Pai; permanecei, pois, na cidade, até que do alto sejais revestidos de poder.
-50 Então, os levou para Betânia e, erguendo as mãos, os abençoou.
-51 Aconteceu que, enquanto os abençoava, ia-se retirando deles, sendo elevado para o céu.
-52 Então, eles, adorando-o, voltaram para Jerusalém, tomados de grande júbilo;
-53 e estavam sempre no templo, louvando a Deus.
+1 Escrevi o primeiro livro, ó Teófilo, relatando todas as coisas que Jesus começou a fazer e a ensinar
+2 até ao dia em que, depois de haver dado mandamentos por intermédio do Espírito Santo aos apóstolos que escolhera, foi elevado às alturas.
+3 A estes também, depois de ter padecido, se apresentou vivo, com muitas provas incontestáveis, aparecendo-lhes durante quarenta dias e falando das coisas concernentes ao reino de Deus.
+4 E, comendo com eles, determinou-lhes que não se ausentassem de Jerusalém, mas que esperassem a promessa do Pai, a qual, disse ele, de mim ouvistes.
+5 Porque João, na verdade, batizou com água, mas vós sereis batizados com o Espírito Santo, não muito depois destes dias.
+6 Então, os que estavam reunidos lhe perguntaram: Senhor, será este o tempo em que restaures o reino a Israel?
+7 Respondeu-lhes: Não vos compete conhecer tempos ou épocas que o Pai reservou pela sua exclusiva autoridade;
+8 mas recebereis poder, ao descer sobre vós o Espírito Santo, e sereis minhas testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até aos confins da terra.
+9 Ditas estas palavras, foi Jesus elevado às alturas, à vista deles, e uma nuvem o encobriu dos seus olhos.
+10 E, estando eles com os olhos fitos no céu, enquanto Jesus subia, eis que dois varões vestidos de branco se puseram ao lado deles
+11 e lhes disseram: Varões galileus, por que estais olhando para as alturas? Esse Jesus que dentre vós foi assunto ao céu virá do modo como o vistes subir.
+12 Então, voltaram para Jerusalém, do monte chamado Olival, que dista daquela cidade tanto como a jornada de um sábado.
+13 Quando ali entraram, subiram para o cenáculo onde se reuniam Pedro, João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago.
+14 Todos estes perseveravam unânimes em oração, com as mulheres, com Maria, mãe de Jesus, e com os irmãos dele.
+15 Naqueles dias, levantou-se Pedro no meio dos irmãos (ora, compunha-se a assembleia de umas cento e vinte pessoas) e disse:
+16 Irmãos, convinha que se cumprisse a Escritura que o Espírito Santo proferiu anteriormente por boca de Davi, acerca de Judas, que foi o guia daqueles que prenderam Jesus,
+17 porque ele era contado entre nós e teve parte neste ministério.
+18 (Ora, este homem adquiriu um campo com o preço da iniquidade; e, precipitando-se, rompeu-se pelo meio, e todas as suas entranhas se derramaram;
+19 e isto chegou ao conhecimento de todos os habitantes de Jerusalém, de maneira que em sua própria língua esse campo era chamado Aceldama, isto é, Campo de Sangue. )
+20 Porque está escrito no Livro dos Salmos: Fique deserta a sua morada; e não haja quem nela habite; e: Tome outro o seu encargo.
+21 É necessário, pois, que, dos homens que nos acompanharam todo o tempo que o Senhor Jesus andou entre nós,
+22 começando no batismo de João, até ao dia em que dentre nós foi levado às alturas, um destes se torne testemunha conosco da sua ressurreição.
+23 Então, propuseram dois: José, chamado Barsabás, cognominado Justo, e Matias.
+24 E, orando, disseram: Tu, Senhor, que conheces o coração de todos, revela-nos qual destes dois tens escolhido
+25 para preencher a vaga neste ministério e apostolado, do qual Judas se transviou, indo para o seu próprio lugar.
+26 E os lançaram em sortes, vindo a sorte recair sobre Matias, sendo-lhe, então, votado lugar com os onze apóstolos.*
+1 Ao cumprir-se o dia de Pentecostes, estavam todos reunidos no mesmo lugar;
+2 de repente, veio do céu um som, como de um vento impetuoso, e encheu toda a casa onde estavam assentados.
+3 E apareceram, distribuídas entre eles, línguas, como de fogo, e pousou uma sobre cada um deles.
+4 Todos ficaram cheios do Espírito Santo e passaram a falar em outras línguas, segundo o Espírito lhes concedia que falassem.
+5 Ora, estavam habitando em Jerusalém judeus, homens piedosos, vindos de todas as nações debaixo do céu.
+6 Quando, pois, se fez ouvir aquela voz, afluiu a multidão, que se possuiu de perplexidade, porquanto cada um os ouvia falar na sua própria língua.
+7 Estavam, pois, atônitos e se admiravam, dizendo: Vede! Não são, porventura, galileus todos esses que aí estão falando?
+8 E como os ouvimos falar, cada um em nossa própria língua materna?
+9 Somos partos, medos, elamitas e os naturais da Mesopotâmia, Judeia, Capadócia, Ponto e Ásia,
+10 da Frígia, da Panfília, do Egito e das regiões da Líbia, nas imediações de Cirene, e romanos que aqui residem,
+11 tanto judeus como prosélitos, cretenses e arábios. Como os ouvimos falar em nossas próprias línguas as grandezas de Deus?
+12 Todos, atônitos e perplexos, interpelavam uns aos outros: Que quer isto dizer?
+13 Outros, porém, zombando, diziam: Estão embriagados!
+14 Então, se levantou Pedro, com os onze; e, erguendo a voz, advertiu-os nestes termos: Varões judeus e todos os habitantes de Jerusalém, tomai conhecimento disto e atentai nas minhas palavras.
+15 Estes homens não estão embriagados, como vindes pensando, sendo esta a terceira hora do dia.
+16 Mas o que ocorre é o que foi dito por intermédio do profeta Joel:
+17 E acontecerá nos últimos dias, diz o Senhor, que derramarei do meu Espírito sobre toda a carne; vossos filhos e vossas filhas profetizarão, vossos jovens terão visões, e sonharão vossos velhos;
+18 até sobre os meus servos e sobre as minhas servas derramarei do meu Espírito naqueles dias, e profetizarão.
+19 Mostrarei prodígios em cima no céu e sinais embaixo na terra: sangue, fogo e vapor de fumaça.
+20 O sol se converterá em trevas, e a lua, em sangue, antes que venha o grande e glorioso Dia do Senhor.
+21 E acontecerá que todo aquele que invocar o nome do Senhor será salvo.
+22 Varões israelitas, atendei a estas palavras: Jesus, o Nazareno, varão aprovado por Deus diante de vós com milagres, prodígios e sinais, os quais o próprio Deus realizou por intermédio dele entre vós, como vós mesmos sabeis;
+23 sendo este entregue pelo determinado desígnio e presciência de Deus, vós o matastes, crucificando-o por mãos de iníquos;
+24 ao qual, porém, Deus ressuscitou, rompendo os grilhões da morte; porquanto não era possível fosse ele retido por ela.
+25 Porque a respeito dele diz Davi: Diante de mim via sempre o Senhor, porque está à minha direita, para que eu não seja abalado.
+26 Por isso, se alegrou o meu coração, e a minha língua exultou; além disto, também a minha própria carne repousará em esperança,
+27 porque não deixarás a minha alma na morte, nem permitirás que o teu Santo veja corrupção.
+28 Fizeste-me conhecer os caminhos da vida, encher-me-ás de alegria na tua presença.
+29 Irmãos, seja-me permitido dizer-vos claramente a respeito do patriarca Davi que ele morreu e foi sepultado, e o seu túmulo permanece entre nós até hoje.
+30 Sendo, pois, profeta e sabendo que Deus lhe havia jurado que um dos seus descendentes se assentaria no seu trono,
+31 prevendo isto, referiu-se à ressurreição de Cristo, que nem foi deixado na morte, nem o seu corpo experimentou corrupção.
+32 A este Jesus Deus ressuscitou, do que todos nós somos testemunhas.
+33 Exaltado, pois, à destra de Deus, tendo recebido do Pai a promessa do Espírito Santo, derramou isto que vedes e ouvis.
+34 Porque Davi não subiu aos céus, mas ele mesmo declara: Disse o Senhor ao meu Senhor: Assenta-te à minha direita,
+35 até que eu ponha os teus inimigos por estrado dos teus pés.
+36 Esteja absolutamente certa, pois, toda a casa de Israel de que a este Jesus, que vós crucificastes, Deus o fez Senhor e Cristo.
+37 Ouvindo eles estas coisas, compungiu-se-lhes o coração e perguntaram a Pedro e aos demais apóstolos: Que faremos, irmãos?
+38 Respondeu-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para remissão dos vossos pecados, e recebereis o dom do Espírito Santo.
+39 Pois para vós outros é a promessa, para vossos filhos e para todos os que ainda estão longe, isto é, para quantos o Senhor, nosso Deus, chamar.
+40 Com muitas outras palavras deu testemunho e exortava-os, dizendo: Salvai-vos desta geração perversa.
+41 Então, os que lhe aceitaram a palavra foram batizados, havendo um acréscimo naquele dia de quase três mil pessoas.
+42 E perseveravam na doutrina dos apóstolos e na comunhão, no partir do pão e nas orações.
+43 Em cada alma havia temor; e muitos prodígios e sinais eram feitos por intermédio dos apóstolos.
+44 Todos os que creram estavam juntos e tinham tudo em comum.
+45 Vendiam as suas propriedades e bens, distribuindo o produto entre todos, à medida que alguém tinha necessidade.
+46 Diariamente perseveravam unânimes no templo, partiam pão de casa em casa e tomavam as suas refeições com alegria e singeleza de coração,
+47 louvando a Deus e contando com a simpatia de todo o povo. Enquanto isso, acrescentava-lhes o Senhor, dia a dia, os que iam sendo salvos.*
+1 Pedro e João subiam ao templo para a oração da hora nona.
+2 Era levado um homem, coxo de nascença, o qual punham diariamente à porta do templo chamada Formosa, para pedir esmola aos que entravam.
+3 Vendo ele a Pedro e João, que iam entrar no templo, implorava que lhe dessem uma esmola.
+4 Pedro, fitando-o, juntamente com João, disse: Olha para nós.
+5 Ele os olhava atentamente, esperando receber alguma coisa.
+6 Pedro, porém, lhe disse: Não possuo nem prata nem ouro, mas o que tenho, isso te dou: em nome de Jesus Cristo, o Nazareno, anda!
+7 E, tomando-o pela mão direita, o levantou; imediatamente, os seus pés e tornozelos se firmaram;
+8 de um salto se pôs em pé, passou a andar e entrou com eles no templo, saltando e louvando a Deus.
+9 Viu-o todo o povo a andar e a louvar a Deus,
+10 e reconheceram ser ele o mesmo que esmolava, assentado à Porta Formosa do templo; e se encheram de admiração e assombro por isso que lhe acontecera.
+11 Apegando-se ele a Pedro e a João, todo o povo correu atônito para junto deles no pórtico chamado de Salomão.
+12 À vista disto, Pedro se dirigiu ao povo, dizendo: Israelitas, por que vos maravilhais disto ou por que fitais os olhos em nós como se pelo nosso próprio poder ou piedade o tivéssemos feito andar?
+13 O Deus de Abraão, de Isaque e de Jacó, o Deus de nossos pais, glorificou a seu Servo Jesus, a quem vós traístes e negastes perante Pilatos, quando este havia decidido soltá-lo.
+14 Vós, porém, negastes o Santo e o Justo e pedistes que vos concedessem um homicida.
+15 Dessarte, matastes o Autor da vida, a quem Deus ressuscitou dentre os mortos, do que nós somos testemunhas.
+16 Pela fé em o nome de Jesus, é que esse mesmo nome fortaleceu a este homem que agora vedes e reconheceis; sim, a fé que vem por meio de Jesus deu a este saúde perfeita na presença de todos vós.
+17 E agora, irmãos, eu sei que o fizestes por ignorância, como também as vossas autoridades;
+18 mas Deus, assim, cumpriu o que dantes anunciara por boca de todos os profetas: que o seu Cristo havia de padecer.
+19 Arrependei-vos, pois, e convertei-vos para serem cancelados os vossos pecados,
+20 a fim de que, da presença do Senhor, venham tempos de refrigério, e que envie ele o Cristo, que já vos foi designado, Jesus,
+21 ao qual é necessário que o céu receba até aos tempos da restauração de todas as coisas, de que Deus falou por boca dos seus santos profetas desde a antiguidade.
+22 Disse, na verdade, Moisés: O Senhor Deus vos suscitará dentre vossos irmãos um profeta semelhante a mim; a ele ouvireis em tudo quanto vos disser.
+23 Acontecerá que toda alma que não ouvir a esse profeta será exterminada do meio do povo.
+24 E todos os profetas, a começar com Samuel, assim como todos quantos depois falaram, também anunciaram estes dias.
+25 Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com vossos pais, dizendo a Abraão: Na tua descendência, serão abençoadas todas as nações da terra.
+26 Tendo Deus ressuscitado o seu Servo, enviou-o primeiramente a vós outros para vos abençoar, no sentido de que cada um se aparte das suas perversidades.*
+1 Falavam eles ainda ao povo quando sobrevieram os sacerdotes, o capitão do templo e os saduceus,
+2 ressentidos por ensinarem eles o povo e anunciarem, em Jesus, a ressurreição dentre os mortos;
+3 e os prenderam, recolhendo-os ao cárcere até ao dia seguinte, pois já era tarde.
+4 Muitos, porém, dos que ouviram a palavra a aceitaram, subindo o número de homens a quase cinco mil.
+5 No dia seguinte, reuniram-se em Jerusalém as autoridades, os anciãos e os escribas
+6 com o sumo sacerdote Anás, Caifás, João, Alexandre e todos os que eram da linhagem do sumo sacerdote;
+7 e, pondo-os perante eles, os arguiram: Com que poder ou em nome de quem fizestes isto?
+8 Então, Pedro, cheio do Espírito Santo, lhes disse: Autoridades do povo e anciãos,
+9 visto que hoje somos interrogados a propósito do benefício feito a um homem enfermo e do modo por que foi curado,
+10 tomai conhecimento, vós todos e todo o povo de Israel, de que, em nome de Jesus Cristo, o Nazareno, a quem vós crucificastes, e a quem Deus ressuscitou dentre os mortos, sim, em seu nome é que este está curado perante vós.
+11 Este Jesus é pedra rejeitada por vós, os construtores, a qual se tornou a pedra angular.
+12 E não há salvação em nenhum outro; porque abaixo do céu não existe nenhum outro nome, dado entre os homens, pelo qual importa que sejamos salvos.
+13 Ao verem a intrepidez de Pedro e João, sabendo que eram homens iletrados e incultos, admiraram-se; e reconheceram que haviam eles estado com Jesus.
+14 Vendo com eles o homem que fora curado, nada tinham que dizer em contrário.
+15 E, mandando-os sair do Sinédrio, consultavam entre si,
+16 dizendo: Que faremos com estes homens? Pois, na verdade, é manifesto a todos os habitantes de Jerusalém que um sinal notório foi feito por eles, e não o podemos negar;
+17 mas, para que não haja maior divulgação entre o povo, ameacemo-los para não mais falarem neste nome a quem quer que seja.
+18 Chamando-os, ordenaram-lhes que absolutamente não falassem, nem ensinassem em o nome de Jesus.
+19 Mas Pedro e João lhes responderam: Julgai se é justo diante de Deus ouvir-vos antes a vós outros do que a Deus;
+20 pois nós não podemos deixar de falar das coisas que vimos e ouvimos.
+21 Depois, ameaçando-os mais ainda, os soltaram, não tendo achado como os castigar, por causa do povo, porque todos glorificavam a Deus pelo que acontecera.
+22 Ora, tinha mais de quarenta anos aquele em quem se operara essa cura milagrosa.
+23 Uma vez soltos, procuraram os irmãos e lhes contaram quantas coisas lhes haviam dito os principais sacerdotes e os anciãos.
+24 Ouvindo isto, unânimes, levantaram a voz a Deus e disseram: Tu, Soberano Senhor, que fizeste o céu, a terra, o mar e tudo o que neles há;
+25 que disseste por intermédio do Espírito Santo, por boca de Davi, nosso pai, teu servo: Por que se enfureceram os gentios, e os povos imaginaram coisas vãs?
+26 Levantaram-se os reis da terra, e as autoridades ajuntaram-se à uma contra o Senhor e contra o seu Ungido;
+27 porque verdadeiramente se ajuntaram nesta cidade contra o teu santo Servo Jesus, ao qual ungiste, Herodes e Pôncio Pilatos, com gentios e gente de Israel,
+28 para fazerem tudo o que a tua mão e o teu propósito predeterminaram;
+29 agora, Senhor, olha para as suas ameaças e concede aos teus servos que anunciem com toda a intrepidez a tua palavra,
+30 enquanto estendes a mão para fazer curas, sinais e prodígios por intermédio do nome do teu santo Servo Jesus.
+31 Tendo eles orado, tremeu o lugar onde estavam reunidos; todos ficaram cheios do Espírito Santo e, com intrepidez, anunciavam a palavra de Deus.
+32 Da multidão dos que creram era um o coração e a alma. Ninguém considerava exclusivamente sua nem uma das coisas que possuía; tudo, porém, lhes era comum.
+33 Com grande poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus, e em todos eles havia abundante graça.
+34 Pois nenhum necessitado havia entre eles, porquanto os que possuíam terras ou casas, vendendo-as, traziam os valores correspondentes
+35 e depositavam aos pés dos apóstolos; então, se distribuía a qualquer um à medida que alguém tinha necessidade.
+36 José, a quem os apóstolos deram o sobrenome de Barnabé, que quer dizer filho de exortação, levita, natural de Chipre,
+37 como tivesse um campo, vendendo-o, trouxe o preço e o depositou aos pés dos apóstolos.*
+1 Entretanto, certo homem, chamado Ananias, com sua mulher Safira, vendeu uma propriedade,
+2 mas, em acordo com sua mulher, reteve parte do preço e, levando o restante, depositou-o aos pés dos apóstolos.
+3 Então, disse Pedro: Ananias, por que encheu Satanás teu coração, para que mentisses ao Espírito Santo, reservando parte do valor do campo?
+4 Conservando-o, porventura, não seria teu? E, vendido, não estaria em teu poder? Como, pois, assentaste no coração este desígnio? Não mentiste aos homens, mas a Deus.
+5 Ouvindo estas palavras, Ananias caiu e expirou, sobrevindo grande temor a todos os ouvintes.
+6 Levantando-se os moços, cobriram-lhe o corpo e, levando-o, o sepultaram.
+7 Quase três horas depois, entrou a mulher de Ananias, não sabendo o que ocorrera.
+8 Então, Pedro, dirigindo-se a ela, perguntou-lhe: Dize-me, vendestes por tanto aquela terra? Ela respondeu: Sim, por tanto.
+9 Tornou-lhe Pedro: Por que entrastes em acordo para tentar o Espírito do Senhor? Eis aí à porta os pés dos que sepultaram o teu marido, e eles também te levarão.
+10 No mesmo instante, caiu ela aos pés de Pedro e expirou. Entrando os moços, acharam-na morta e, levando-a, sepultaram-na junto do marido.
+11 E sobreveio grande temor a toda a igreja e a todos quantos ouviram a notícia destes acontecimentos.
+12 Muitos sinais e prodígios eram feitos entre o povo pelas mãos dos apóstolos. E costumavam todos reunir-se, de comum acordo, no Pórtico de Salomão.
+13 Mas, dos restantes, ninguém ousava ajuntar-se a eles; porém o povo lhes tributava grande admiração.
+14 E crescia mais e mais a multidão de crentes, tanto homens como mulheres, agregados ao Senhor,
+15 a ponto de levarem os enfermos até pelas ruas e os colocarem sobre leitos e macas, para que, ao passar Pedro, ao menos a sua sombra se projetasse nalguns deles.
+16 Afluía também muita gente das cidades vizinhas a Jerusalém, levando doentes e atormentados de espíritos imundos, e todos eram curados.
+17 Levantando-se, porém, o sumo sacerdote e todos os que estavam com ele, isto é, a seita dos saduceus, tomaram-se de inveja,
+18 prenderam os apóstolos e os recolheram à prisão pública.
+19 Mas, de noite, um anjo do Senhor abriu as portas do cárcere e, conduzindo-os para fora, lhes disse:
+20 Ide e, apresentando-vos no templo, dizei ao povo todas as palavras desta Vida.
+21 Tendo ouvido isto, logo ao romper do dia, entraram no templo e ensinavam. Chegando, porém, o sumo sacerdote e os que com ele estavam, convocaram o Sinédrio e todo o senado dos filhos de Israel e mandaram buscá-los no cárcere.
+22 Mas os guardas, indo, não os acharam no cárcere; e, tendo voltado, relataram,
+23 dizendo: Achamos o cárcere fechado com toda a segurança e as sentinelas nos seus postos junto às portas; mas, abrindo-as, a ninguém encontramos dentro.
+24 Quando o capitão do templo e os principais sacerdotes ouviram estas informações, ficaram perplexos a respeito deles e do que viria a ser isto.
+25 Nesse ínterim, alguém chegou e lhes comunicou: Eis que os homens que recolhestes no cárcere, estão no templo ensinando o povo.
+26 Nisto, indo o capitão e os guardas, os trouxeram sem violência, porque temiam ser apedrejados pelo povo.
+27 Trouxeram-nos, apresentando-os ao Sinédrio. E o sumo sacerdote interrogou-os,
+28 dizendo: Expressamente vos ordenamos que não ensinásseis nesse nome; contudo, enchestes Jerusalém de vossa doutrina; e quereis lançar sobre nós o sangue desse homem.
+29 Então, Pedro e os demais apóstolos afirmaram: Antes, importa obedecer a Deus do que aos homens.
+30 O Deus de nossos pais ressuscitou a Jesus, a quem vós matastes, pendurando-o num madeiro.
+31 Deus, porém, com a sua destra, o exaltou a Príncipe e Salvador, a fim de conceder a Israel o arrependimento e a remissão de pecados.
+32 Ora, nós somos testemunhas destes fatos, e bem assim o Espírito Santo, que Deus outorgou aos que lhe obedecem.
+33 Eles, porém, ouvindo, se enfureceram e queriam matá-los.
+34 Mas, levantando-se no Sinédrio um fariseu, chamado Gamaliel, mestre da lei, acatado por todo o povo, mandou retirar os homens, por um pouco,
+35 e lhes disse: Israelitas, atentai bem no que ides fazer a estes homens.
+36 Porque, antes destes dias, se levantou Teudas, insinuando ser ele alguma coisa, ao qual se agregaram cerca de quatrocentos homens; mas ele foi morto, e todos quantos lhe prestavam obediência se dispersaram e deram em nada.
+37 Depois desse, levantou-se Judas, o galileu, nos dias do recenseamento, e levou muitos consigo; também este pereceu, e todos quantos lhe obedeciam foram dispersos.
+38 Agora, vos digo: dai de mão a estes homens, deixai-os; porque, se este conselho ou esta obra vem de homens, perecerá;
+39 mas, se é de Deus, não podereis destruí-los, para que não sejais, porventura, achados lutando contra Deus. E concordaram com ele.
+40 Chamando os apóstolos, açoitaram-nos e, ordenando-lhes que não falassem em o nome de Jesus, os soltaram.
+41 E eles se retiraram do Sinédrio regozijando-se por terem sido considerados dignos de sofrer afrontas por esse Nome.
+42 E todos os dias, no templo e de casa em casa, não cessavam de ensinar e de pregar Jesus, o Cristo.*
+1 Ora, naqueles dias, multiplicando-se o número dos discípulos, houve murmuração dos helenistas contra os hebreus, porque as viúvas deles estavam sendo esquecidas na distribuição diária.
+2 Então, os doze convocaram a comunidade dos discípulos e disseram: Não é razoável que nós abandonemos a palavra de Deus para servir às mesas.
+3 Mas, irmãos, escolhei dentre vós sete homens de boa reputação, cheios do Espírito e de sabedoria, aos quais encarregaremos deste serviço;
+4 e, quanto a nós, nos consagraremos à oração e ao ministério da palavra.
+5 O parecer agradou a toda a comunidade; e elegeram Estêvão, homem cheio de fé e do Espírito Santo, Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau, prosélito de Antioquia.
+6 Apresentaram-nos perante os apóstolos, e estes, orando, lhes impuseram as mãos.
+7 Crescia a palavra de Deus, e, em Jerusalém, se multiplicava o número dos discípulos; também muitíssimos sacerdotes obedeciam à fé.
+8 Estêvão, cheio de graça e poder, fazia prodígios e grandes sinais entre o povo.
+9 Levantaram-se, porém, alguns dos que eram da sinagoga chamada dos Libertos, dos cireneus, dos alexandrinos e dos da Cilícia e Ásia, e discutiam com Estêvão;
+10 e não podiam resistir à sabedoria e ao Espírito, pelo qual ele falava.
+11 Então, subornaram homens que dissessem: Temos ouvido este homem proferir blasfêmias contra Moisés e contra Deus.
+12 Sublevaram o povo, os anciãos e os escribas e, investindo, o arrebataram, levando-o ao Sinédrio.
+13 Apresentaram testemunhas falsas, que depuseram: Este homem não cessa de falar contra o lugar santo e contra a lei;
+14 porque o temos ouvido dizer que esse Jesus, o Nazareno, destruirá este lugar e mudará os costumes que Moisés nos deu.
+15 Todos os que estavam assentados no Sinédrio, fitando os olhos em Estêvão, viram o seu rosto como se fosse rosto de anjo.*
+1 Então, lhe perguntou o sumo sacerdote: Porventura, é isto assim?
+2 Estêvão respondeu: Varões irmãos e pais, ouvi. O Deus da glória apareceu a Abraão, nosso pai, quando estava na Mesopotâmia, antes de habitar em Harã,
+3 e lhe disse: Sai da tua terra e da tua parentela e vem para a terra que eu te mostrarei.
+4 Então, saiu da terra dos caldeus e foi habitar em Harã. E dali, com a morte de seu pai, Deus o trouxe para esta terra em que vós agora habitais.
+5 Nela, não lhe deu herança, nem sequer o espaço de um pé; mas prometeu dar-lhe a posse dela e, depois dele, à sua descendência, não tendo ele filho.
+6 E falou Deus que a sua descendência seria peregrina em terra estrangeira, onde seriam escravizados e maltratados por quatrocentos anos;
+7 eu, disse Deus, julgarei a nação da qual forem escravos; e, depois disto, sairão daí e me servirão neste lugar.
+8 Então, lhe deu a aliança da circuncisão; assim, nasceu Isaque, e Abraão o circuncidou ao oitavo dia; de Isaque procedeu Jacó, e deste, os doze patriarcas.
+9 Os patriarcas, invejosos de José, venderam-no para o Egito; mas Deus estava com ele
+10 e livrou-o de todas as suas aflições, concedendo-lhe também graça e sabedoria perante Faraó, rei do Egito, que o constituiu governador daquela nação e de toda a casa real.
+11 Sobreveio, porém, fome em todo o Egito; e, em Canaã, houve grande tribulação, e nossos pais não achavam mantimentos.
+12 Mas, tendo ouvido Jacó que no Egito havia trigo, enviou, pela primeira vez, os nossos pais.
+13 Na segunda vez, José se fez reconhecer por seus irmãos, e se tornou conhecida de Faraó a família de José.
+14 Então, José mandou chamar a Jacó, seu pai, e toda a sua parentela, isto é, setenta e cinco pessoas.
+15 Jacó desceu ao Egito, e ali morreu ele e também nossos pais;
+16 e foram transportados para Siquém e postos no sepulcro que Abraão ali comprara a dinheiro aos filhos de Hamor.
+17 Como, porém, se aproximasse o tempo da promessa que Deus jurou a Abraão, o povo cresceu e se multiplicou no Egito,
+18 até que se levantou ali outro rei, que não conhecia a José.
+19 Este outro rei tratou com astúcia a nossa raça e torturou os nossos pais, a ponto de forçá-los a enjeitar seus filhos, para que não sobrevivessem.
+20 Por esse tempo, nasceu Moisés, que era formoso aos olhos de Deus. Por três meses, foi ele mantido na casa de seu pai;
+21 quando foi exposto, a filha de Faraó o recolheu e criou como seu próprio filho.
+22 E Moisés foi educado em toda a ciência dos egípcios e era poderoso em palavras e obras.
+23 Quando completou quarenta anos, veio-lhe a ideia de visitar seus irmãos, os filhos de Israel.
+24 Vendo um homem tratado injustamente, tomou-lhe a defesa e vingou o oprimido, matando o egípcio.
+25 Ora, Moisés cuidava que seus irmãos entenderiam que Deus os queria salvar por intermédio dele; eles, porém, não compreenderam.
+26 No dia seguinte, aproximou-se de uns que brigavam e procurou reconduzi-los à paz, dizendo: Homens, vós sois irmãos; por que vos ofendeis uns aos outros?
+27 Mas o que agredia o próximo o repeliu, dizendo: Quem te constituiu autoridade e juiz sobre nós?
+28 Acaso, queres matar-me, como fizeste ontem ao egípcio?
+29 A estas palavras Moisés fugiu e tornou-se peregrino na terra de Midiã, onde lhe nasceram dois filhos.
+30 Decorridos quarenta anos, apareceu-lhe, no deserto do monte Sinai, um anjo, por entre as chamas de uma sarça que ardia.
+31 Moisés, porém, diante daquela visão, ficou maravilhado e, aproximando-se para observar, ouviu-se a voz do Senhor:
+32 Eu sou o Deus dos teus pais, o Deus de Abraão, de Isaque e de Jacó. Moisés, tremendo de medo, não ousava contemplá-la.
+33 Disse-lhe o Senhor: Tira a sandália dos pés, porque o lugar em que estás é terra santa.
+34 Vi, com efeito, o sofrimento do meu povo no Egito, ouvi o seu gemido e desci para libertá-lo. Vem agora, e eu te enviarei ao Egito.
+35 A este Moisés, a quem negaram reconhecer, dizendo: Quem te constituiu autoridade e juiz? A este enviou Deus como chefe e libertador, com a assistência do anjo que lhe apareceu na sarça.
+36 Este os tirou, fazendo prodígios e sinais na terra do Egito, assim como no mar Vermelho e no deserto, durante quarenta anos.
+37 Foi Moisés quem disse aos filhos de Israel: Deus vos suscitará dentre vossos irmãos um profeta semelhante a mim.
+38 É este Moisés quem esteve na congregação no deserto, com o anjo que lhe falava no monte Sinai e com os nossos pais; o qual recebeu palavras vivas para no-las transmitir.
+39 A quem nossos pais não quiseram obedecer; antes, o repeliram e, no seu coração, voltaram para o Egito,
+40 dizendo a Arão: Faze-nos deuses que vão adiante de nós; porque, quanto a este Moisés, que nos tirou da terra do Egito, não sabemos o que lhe aconteceu.
+41 Naqueles dias, fizeram um bezerro e ofereceram sacrifício ao ídolo, alegrando-se com as obras das suas mãos.
+42 Mas Deus se afastou e os entregou ao culto da milícia celestial, como está escrito no Livro dos Profetas: Ó casa de Israel, porventura, me oferecestes vítimas e sacrifícios no deserto, pelo espaço de quarenta anos,
+43 e, acaso, não levantastes o tabernáculo de Moloque e a estrela do deus Renfã, figuras que fizestes para as adorar? Por isso, vos desterrarei para além da Babilônia.
+44 O tabernáculo do Testemunho estava entre nossos pais no deserto, como determinara aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto.
+45 O qual também nossos pais, com Josué, tendo-o recebido, o levaram, quando tomaram posse das nações que Deus expulsou da presença deles, até aos dias de Davi.
+46 Este achou graça diante de Deus e lhe suplicou a faculdade de prover morada para o Deus de Jacó.
+47 Mas foi Salomão quem lhe edificou a casa.
+48 Entretanto, não habita o Altíssimo em casas feitas por mãos humanas; como diz o profeta:
+49 O céu é o meu trono, e a terra, o estrado dos meus pés; que casa me edificareis, diz o Senhor, ou qual é o lugar do meu repouso?
+50 Não foi, porventura, a minha mão que fez todas estas coisas?
+51 Homens de dura cerviz e incircuncisos de coração e de ouvidos, vós sempre resistis ao Espírito Santo; assim como fizeram vossos pais, também vós o fazeis.
+52 Qual dos profetas vossos pais não perseguiram? Eles mataram os que anteriormente anunciavam a vinda do Justo, do qual vós agora vos tornastes traidores e assassinos,
+53 vós que recebestes a lei por ministério de anjos e não a guardastes.
+54 Ouvindo eles isto, enfureciam-se no seu coração e rilhavam os dentes contra ele.
+55 Mas Estêvão, cheio do Espírito Santo, fitou os olhos no céu e viu a glória de Deus e Jesus, que estava à sua direita,
+56 e disse: Eis que vejo os céus abertos e o Filho do Homem, em pé à destra de Deus.
+57 Eles, porém, clamando em alta voz, taparam os ouvidos e, unânimes, arremeteram contra ele.
+58 E, lançando-o fora da cidade, o apedrejaram. As testemunhas deixaram suas vestes aos pés de um jovem chamado Saulo.
+59 E apedrejavam Estêvão, que invocava e dizia: Senhor Jesus, recebe o meu espírito!
+60 Então, ajoelhando-se, clamou em alta voz: Senhor, não lhes imputes este pecado! Com estas palavras, adormeceu.*
+1 E Saulo consentia na sua morte. Naquele dia, levantou-se grande perseguição contra a igreja em Jerusalém; e todos, exceto os apóstolos, foram dispersos pelas regiões da Judeia e Samaria.
+2 Alguns homens piedosos sepultaram Estêvão e fizeram grande pranto sobre ele.
+3 Saulo, porém, assolava a igreja, entrando pelas casas; e, arrastando homens e mulheres, encerrava-os no cárcere.
+4 Entrementes, os que foram dispersos iam por toda parte pregando a palavra.
+5 Filipe, descendo à cidade de Samaria, anunciava-lhes a Cristo.
+6 As multidões atendiam, unânimes, às coisas que Filipe dizia, ouvindo-as e vendo os sinais que ele operava.
+7 Pois os espíritos imundos de muitos possessos saíam gritando em alta voz; e muitos paralíticos e coxos foram curados.
+8 E houve grande alegria naquela cidade.
+9 Ora, havia certo homem, chamado Simão, que ali praticava a mágica, iludindo o povo de Samaria, insinuando ser ele grande vulto;
+10 ao qual todos davam ouvidos, do menor ao maior, dizendo: Este homem é o poder de Deus, chamado o Grande Poder.
+11 Aderiam a ele porque havia muito os iludira com mágicas.
+12 Quando, porém, deram crédito a Filipe, que os evangelizava a respeito do reino de Deus e do nome de Jesus Cristo, iam sendo batizados, assim homens como mulheres.
+13 O próprio Simão abraçou a fé; e, tendo sido batizado, acompanhava a Filipe de perto, observando extasiado os sinais e grandes milagres praticados.
+14 Ouvindo os apóstolos, que estavam em Jerusalém, que Samaria recebera a palavra de Deus, enviaram-lhe Pedro e João;
+15 os quais, descendo para lá, oraram por eles para que recebessem o Espírito Santo;
+16 porquanto não havia ainda descido sobre nenhum deles, mas somente haviam sido batizados em o nome do Senhor Jesus.
+17 Então, lhes impunham as mãos, e recebiam estes o Espírito Santo.
+18 Vendo, porém, Simão que, pelo fato de imporem os apóstolos as mãos, era concedido o Espírito [Santo], ofereceu-lhes dinheiro,
+19 propondo: Concedei-me também a mim este poder, para que aquele sobre quem eu impuser as mãos receba o Espírito Santo.
+20 Pedro, porém, lhe respondeu: O teu dinheiro seja contigo para perdição, pois julgaste adquirir, por meio dele, o dom de Deus.
+21 Não tens parte nem sorte neste ministério, porque o teu coração não é reto diante de Deus.
+22 Arrepende-te, pois, da tua maldade e roga ao Senhor; talvez te seja perdoado o intento do coração;
+23 pois vejo que estás em fel de amargura e laço de iniquidade.
+24 Respondendo, porém, Simão lhes pediu: Rogai vós por mim ao Senhor, para que nada do que dissestes sobrevenha a mim.
+25 Eles, porém, havendo testificado e falado a palavra do Senhor, voltaram para Jerusalém e evangelizavam muitas aldeias dos samaritanos.
+26 Um anjo do Senhor falou a Filipe, dizendo: Dispõe-te e vai para o lado do Sul, no caminho que desce de Jerusalém a Gaza; este se acha deserto. Ele se levantou e foi.
+27 Eis que um etíope, eunuco, alto oficial de Candace, rainha dos etíopes, o qual era superintendente de todo o seu tesouro, que viera adorar em Jerusalém,
+28 estava de volta e, assentado no seu carro, vinha lendo o profeta Isaías.
+29 Então, disse o Espírito a Filipe: Aproxima-te desse carro e acompanha-o.
+30 Correndo Filipe, ouviu-o ler o profeta Isaías e perguntou: Compreendes o que vens lendo?
+31 Ele respondeu: Como poderei entender, se alguém não me explicar? E convidou Filipe a subir e a sentar-se junto a ele.
+32 Ora, a passagem da Escritura que estava lendo era esta: Foi levado como ovelha ao matadouro; e, como um cordeiro mudo perante o seu tosquiador, assim ele não abriu a boca.
+33 Na sua humilhação, lhe negaram justiça; quem lhe poderá descrever a geração? Porque da terra a sua vida é tirada.
+34 Então, o eunuco disse a Filipe: Peço-te que me expliques a quem se refere o profeta. Fala de si mesmo ou de algum outro?
+35 Então, Filipe explicou; e, começando por esta passagem da Escritura, anunciou-lhe a Jesus.
+36 Seguindo eles caminho fora, chegando a certo lugar onde havia água, disse o eunuco: Eis aqui água; que impede que seja eu batizado?
+37 [Filipe respondeu: É lícito, se crês de todo o coração. E, respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.]
+38 Então, mandou parar o carro, ambos desceram à água, e Filipe batizou o eunuco.
+39 Quando saíram da água, o Espírito do Senhor arrebatou a Filipe, não o vendo mais o eunuco; e este foi seguindo o seu caminho, cheio de júbilo.
+40 Mas Filipe veio a achar-se em Azoto; e, passando além, evangelizava todas as cidades até chegar a Cesareia.*
+1 Saulo, respirando ainda ameaças e morte contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote
+2 e lhe pediu cartas para as sinagogas de Damasco, a fim de que, caso achasse alguns que eram do Caminho, assim homens como mulheres, os levasse presos para Jerusalém.
+3 Seguindo ele estrada fora, ao aproximar-se de Damasco, subitamente uma luz do céu brilhou ao seu redor,
+4 e, caindo por terra, ouviu uma voz que lhe dizia: Saulo, Saulo, por que me persegues?
+5 Ele perguntou: Quem és tu, Senhor? E a resposta foi: Eu sou Jesus, a quem tu persegues;
+6 mas levanta-te e entra na cidade, onde te dirão o que te convém fazer.
+7 Os seus companheiros de viagem pararam emudecidos, ouvindo a voz, não vendo, contudo, ninguém.
+8 Então, se levantou Saulo da terra e, abrindo os olhos, nada podia ver. E, guiando-o pela mão, levaram-no para Damasco.
+9 Esteve três dias sem ver, durante os quais nada comeu, nem bebeu.
+10 Ora, havia em Damasco um discípulo chamado Ananias. Disse-lhe o Senhor numa visão: Ananias! Ao que respondeu: Eis-me aqui, Senhor!
+11 Então, o Senhor lhe ordenou: Dispõe-te, e vai à rua que se chama Direita, e, na casa de Judas, procura por Saulo, apelidado de Tarso; pois ele está orando
+12 e viu entrar um homem, chamado Ananias, e impor-lhe as mãos, para que recuperasse a vista.
+13 Ananias, porém, respondeu: Senhor, de muitos tenho ouvido a respeito desse homem, quantos males tem feito aos teus santos em Jerusalém;
+14 e para aqui trouxe autorização dos principais sacerdotes para prender a todos os que invocam o teu nome.
+15 Mas o Senhor lhe disse: Vai, porque este é para mim um instrumento escolhido para levar o meu nome perante os gentios e reis, bem como perante os filhos de Israel;
+16 pois eu lhe mostrarei quanto lhe importa sofrer pelo meu nome.
+17 Então, Ananias foi e, entrando na casa, impôs sobre ele as mãos, dizendo: Saulo, irmão, o Senhor me enviou, a saber, o próprio Jesus que te apareceu no caminho por onde vinhas, para que recuperes a vista e fiques cheio do Espírito Santo.
+18 Imediatamente, lhe caíram dos olhos como que umas escamas, e tornou a ver. A seguir, levantou-se e foi batizado.
+19 E, depois de ter-se alimentado, sentiu-se fortalecido. Então, permaneceu em Damasco alguns dias com os discípulos.
+20 E logo pregava, nas sinagogas, a Jesus, afirmando que este é o Filho de Deus.
+21 Ora, todos os que o ouviam estavam atônitos e diziam: Não é este o que exterminava em Jerusalém os que invocavam o nome de Jesus e para aqui veio precisamente com o fim de os levar amarrados aos principais sacerdotes?
+22 Saulo, porém, mais e mais se fortalecia e confundia os judeus que moravam em Damasco, demonstrando que Jesus é o Cristo.
+23 Decorridos muitos dias, os judeus deliberaram entre si tirar-lhe a vida;
+24 porém o plano deles chegou ao conhecimento de Saulo. Dia e noite guardavam também as portas, para o matarem.
+25 Mas os seus discípulos tomaram-no de noite e, colocando-o num cesto, desceram-no pela muralha.
+26 Tendo chegado a Jerusalém, procurou juntar-se com os discípulos; todos, porém, o temiam, não acreditando que ele fosse discípulo.
+27 Mas Barnabé, tomando-o consigo, levou-o aos apóstolos; e contou-lhes como ele vira o Senhor no caminho, e que este lhe falara, e como em Damasco pregara ousadamente em nome de Jesus.
+28 Estava com eles em Jerusalém, entrando e saindo, pregando ousadamente em nome do Senhor.
+29 Falava e discutia com os helenistas; mas eles procuravam tirar-lhe a vida.
+30 Tendo, porém, isto chegado ao conhecimento dos irmãos, levaram-no até Cesareia e dali o enviaram para Tarso.
+31 A igreja, na verdade, tinha paz por toda a Judeia, Galileia e Samaria, edificando-se e caminhando no temor do Senhor, e, no conforto do Espírito Santo, crescia em número.
+32 Passando Pedro por toda parte, desceu também aos santos que habitavam em Lida.
+33 Encontrou ali certo homem, chamado Eneias, que havia oito anos jazia de cama, pois era paralítico.
+34 Disse-lhe Pedro: Eneias, Jesus Cristo te cura! Levanta-te e arruma o teu leito. Ele, imediatamente, se levantou.
+35 Viram-no todos os habitantes de Lida e Sarona, os quais se converteram ao Senhor.
+36 Havia em Jope uma discípula por nome Tabita, nome este que, traduzido, quer dizer Dorcas; era ela notável pelas boas obras e esmolas que fazia.
+37 Ora, aconteceu, naqueles dias, que ela adoeceu e veio a morrer; e, depois de a lavarem, puseram-na no cenáculo.
+38 Como Lida era perto de Jope, ouvindo os discípulos que Pedro estava ali, enviaram-lhe dois homens que lhe pedissem: Não demores em vir ter conosco.
+39 Pedro atendeu e foi com eles. Tendo chegado, conduziram-no para o cenáculo; e todas as viúvas o cercaram, chorando e mostrando-lhe túnicas e vestidos que Dorcas fizera enquanto estava com elas.
+40 Mas Pedro, tendo feito sair a todos, pondo-se de joelhos, orou; e, voltando-se para o corpo, disse: Tabita, levanta-te! Ela abriu os olhos e, vendo a Pedro, sentou-se.
+41 Ele, dando-lhe a mão, levantou-a; e, chamando os santos, especialmente as viúvas, apresentou-a viva.
+42 Isto se tornou conhecido por toda Jope, e muitos creram no Senhor.
+43 Pedro ficou em Jope muitos dias, em casa de um curtidor chamado Simão.*
+1 Morava em Cesareia um homem de nome Cornélio, centurião da coorte chamada Italiana,
+2 piedoso e temente a Deus com toda a sua casa e que fazia muitas esmolas ao povo e, de contínuo, orava a Deus.
+3 Esse homem observou claramente durante uma visão, cerca da hora nona do dia, um anjo de Deus que se aproximou dele e lhe disse:
+4 Cornélio! Este, fixando nele os olhos e possuído de temor, perguntou: Que é, Senhor? E o anjo lhe disse: As tuas orações e as tuas esmolas subiram para memória diante de Deus.
+5 Agora, envia mensageiros a Jope e manda chamar Simão, que tem por sobrenome Pedro.
+6 Ele está hospedado com Simão, curtidor, cuja residência está situada à beira-mar.
+7 Logo que se retirou o anjo que lhe falava, chamou dois dos seus domésticos e um soldado piedoso dos que estavam a seu serviço
+8 e, havendo-lhes contado tudo, enviou-os a Jope.
+9 No dia seguinte, indo eles de caminho e estando já perto da cidade, subiu Pedro ao eirado, por volta da hora sexta, a fim de orar.
+10 Estando com fome, quis comer; mas, enquanto lhe preparavam a comida, sobreveio-lhe um êxtase;
+11 então, viu o céu aberto e descendo um objeto como se fosse um grande lençol, o qual era baixado à terra pelas quatro pontas,
+12 contendo toda sorte de quadrúpedes, répteis da terra e aves do céu.
+13 E ouviu-se uma voz que se dirigia a ele: Levanta-te, Pedro! Mata e come.
+14 Mas Pedro replicou: De modo nenhum, Senhor! Porque jamais comi coisa alguma comum e imunda.
+15 Segunda vez, a voz lhe falou: Ao que Deus purificou não consideres comum.
+16 Sucedeu isto por três vezes, e, logo, aquele objeto foi recolhido ao céu.
+17 Enquanto Pedro estava perplexo sobre qual seria o significado da visão, eis que os homens enviados da parte de Cornélio, tendo perguntado pela casa de Simão, pararam junto à porta;
+18 e, chamando, indagavam se estava ali hospedado Simão, por sobrenome Pedro.
+19 Enquanto meditava Pedro acerca da visão, disse-lhe o Espírito: Estão aí dois homens que te procuram;
+20 levanta-te, pois, desce e vai com eles, nada duvidando; porque eu os enviei.
+21 E, descendo Pedro para junto dos homens, disse: Aqui me tendes; sou eu a quem buscais? A que viestes?
+22 Então, disseram: O centurião Cornélio, homem reto e temente a Deus e tendo bom testemunho de toda a nação judaica, foi instruído por um santo anjo para chamar-te a sua casa e ouvir as tuas palavras.
+23 Pedro, pois, convidando-os a entrar, hospedou-os. No dia seguinte, levantou-se e partiu com eles; também alguns irmãos dos que habitavam em Jope foram em sua companhia.
+24 No dia imediato, entrou em Cesareia. Cornélio estava esperando por eles, tendo reunido seus parentes e amigos íntimos.
+25 Aconteceu que, indo Pedro a entrar, lhe saiu Cornélio ao encontro e, prostrando-se-lhe aos pés, o adorou.
+26 Mas Pedro o levantou, dizendo: Ergue-te, que eu também sou homem.
+27 Falando com ele, entrou, encontrando muitos reunidos ali,
+28 a quem se dirigiu, dizendo: Vós bem sabeis que é proibido a um judeu ajuntar-se ou mesmo aproximar-se a alguém de outra raça; mas Deus me demonstrou que a nenhum homem considerasse comum ou imundo;
+29 por isso, uma vez chamado, vim sem vacilar. Pergunto, pois: por que razão me mandastes chamar?
+30 Respondeu-lhe Cornélio: Faz, hoje, quatro dias que, por volta desta hora, estava eu observando em minha casa a hora nona de oração, e eis que se apresentou diante de mim um varão de vestes resplandecentes
+31 e disse: Cornélio, a tua oração foi ouvida, e as tuas esmolas, lembradas na presença de Deus.
+32 Manda, pois, alguém a Jope a chamar Simão, por sobrenome Pedro; acha-se este hospedado em casa de Simão, curtidor, à beira-mar.
+33 Portanto, sem demora, mandei chamar-te, e fizeste bem em vir. Agora, pois, estamos todos aqui, na presença de Deus, prontos para ouvir tudo o que te foi ordenado da parte do Senhor.
+34 Então, falou Pedro, dizendo: Reconheço, por verdade, que Deus não faz acepção de pessoas;
+35 pelo contrário, em qualquer nação, aquele que o teme e faz o que é justo lhe é aceitável.
+36 Esta é a palavra que Deus enviou aos filhos de Israel, anunciando-lhes o evangelho da paz, por meio de Jesus Cristo. Este é o Senhor de todos.
+37 Vós conheceis a palavra que se divulgou por toda a Judeia, tendo começado desde a Galileia, depois do batismo que João pregou,
+38 como Deus ungiu a Jesus de Nazaré com o Espírito Santo e com poder, o qual andou por toda parte, fazendo o bem e curando a todos os oprimidos do diabo, porque Deus era com ele;
+39 e nós somos testemunhas de tudo o que ele fez na terra dos judeus e em Jerusalém; ao qual também tiraram a vida, pendurando-o no madeiro.
+40 A este ressuscitou Deus no terceiro dia e concedeu que fosse manifesto,
+41 não a todo o povo, mas às testemunhas que foram anteriormente escolhidas por Deus, isto é, a nós que comemos e bebemos com ele, depois que ressurgiu dentre os mortos;
+42 e nos mandou pregar ao povo e testificar que ele é quem foi constituído por Deus Juiz de vivos e de mortos.
+43 Dele todos os profetas dão testemunho de que, por meio de seu nome, todo aquele que nele crê recebe remissão de pecados.
+44 Ainda Pedro falava estas coisas quando caiu o Espírito Santo sobre todos os que ouviam a palavra.
+45 E os fiéis que eram da circuncisão, que vieram com Pedro, admiraram-se, porque também sobre os gentios foi derramado o dom do Espírito Santo;
+46 pois os ouviam falando em línguas e engrandecendo a Deus. Então, perguntou Pedro:
+47 Porventura, pode alguém recusar a água, para que não sejam batizados estes que, assim como nós, receberam o Espírito Santo?
+48 E ordenou que fossem batizados em nome de Jesus Cristo. Então, lhe pediram que permanecesse com eles por alguns dias.*
+1 Chegou ao conhecimento dos apóstolos e dos irmãos que estavam na Judeia que também os gentios haviam recebido a palavra de Deus.
+2 Quando Pedro subiu a Jerusalém, os que eram da circuncisão o arguiram, dizendo:
+3 Entraste em casa de homens incircuncisos e comeste com eles.
+4 Então, Pedro passou a fazer-lhes uma exposição por ordem, dizendo:
+5 Eu estava na cidade de Jope orando e, num êxtase, tive uma visão em que observei descer um objeto como se fosse um grande lençol baixado do céu pelas quatro pontas e vindo até perto de mim.
+6 E, fitando para dentro dele os olhos, vi quadrúpedes da terra, feras, répteis e aves do céu.
+7 Ouvi também uma voz que me dizia: Levanta-te, Pedro! Mata e come.
+8 Ao que eu respondi: de modo nenhum, Senhor; porque jamais entrou em minha boca qualquer coisa comum ou imunda.
+9 Segunda vez, falou a voz do céu: Ao que Deus purificou não consideres comum.
+10 Isto sucedeu por três vezes, e, de novo, tudo se recolheu para o céu.
+11 E eis que, na mesma hora, pararam junto da casa em que estávamos três homens enviados de Cesareia para se encontrarem comigo.
+12 Então, o Espírito me disse que eu fosse com eles, sem hesitar. Foram comigo também estes seis irmãos; e entramos na casa daquele homem.
+13 E ele nos contou como vira o anjo em pé em sua casa e que lhe dissera: Envia a Jope e manda chamar Simão, por sobrenome Pedro,
+14 o qual te dirá palavras mediante as quais serás salvo, tu e toda a tua casa.
+15 Quando, porém, comecei a falar, caiu o Espírito Santo sobre eles, como também sobre nós, no princípio.
+16 Então, me lembrei da palavra do Senhor, quando disse: João, na verdade, batizou com água, mas vós sereis batizados com o Espírito Santo.
+17 Pois, se Deus lhes concedeu o mesmo dom que a nós nos outorgou quando cremos no Senhor Jesus, quem era eu para que pudesse resistir a Deus?
+18 E, ouvindo eles estas coisas, apaziguaram-se e glorificaram a Deus, dizendo: Logo, também aos gentios foi por Deus concedido o arrependimento para vida.
+19 Então, os que foram dispersos por causa da tribulação que sobreveio a Estêvão se espalharam até à Fenícia, Chipre e Antioquia, não anunciando a ninguém a palavra, senão somente aos judeus.
+20 Alguns deles, porém, que eram de Chipre e de Cirene e que foram até Antioquia, falavam também aos gregos, anunciando-lhes o evangelho do Senhor Jesus.
+21 A mão do Senhor estava com eles, e muitos, crendo, se converteram ao Senhor.
+22 A notícia a respeito deles chegou aos ouvidos da igreja que estava em Jerusalém; e enviaram Barnabé até Antioquia.
+23 Tendo ele chegado e, vendo a graça de Deus, alegrou-se e exortava a todos a que, com firmeza de coração, permanecessem no Senhor.
+24 Porque era homem bom, cheio do Espírito Santo e de fé. E muita gente se uniu ao Senhor.
+25 E partiu Barnabé para Tarso à procura de Saulo;
+26 tendo-o encontrado, levou-o para Antioquia. E, por todo um ano, se reuniram naquela igreja e ensinaram numerosa multidão. Em Antioquia, foram os discípulos, pela primeira vez, chamados cristãos.
+27 Naqueles dias, desceram alguns profetas de Jerusalém para Antioquia,
+28 e, apresentando-se um deles, chamado Ágabo, dava a entender, pelo Espírito, que estava para vir grande fome por todo o mundo, a qual sobreveio nos dias de Cláudio.
+29 Os discípulos, cada um conforme as suas posses, resolveram enviar socorro aos irmãos que moravam na Judeia;
+30 o que eles, com efeito, fizeram, enviando-o aos presbíteros por intermédio de Barnabé e de Saulo.*
+1 Por aquele tempo, mandou o rei Herodes prender alguns da igreja para os maltratar,
+2 fazendo passar a fio de espada a Tiago, irmão de João.
+3 Vendo ser isto agradável aos judeus, prosseguiu, prendendo também a Pedro. E eram os dias dos pães asmos.
+4 Tendo-o feito prender, lançou-o no cárcere, entregando-o a quatro escoltas de quatro soldados cada uma, para o guardarem, tencionando apresentá-lo ao povo depois da Páscoa.
+5 Pedro, pois, estava guardado no cárcere; mas havia oração incessante a Deus por parte da igreja a favor dele.
+6 Quando Herodes estava para apresentá-lo, naquela mesma noite, Pedro dormia entre dois soldados, acorrentado com duas cadeias, e sentinelas à porta guardavam o cárcere.
+7 Eis, porém, que sobreveio um anjo do Senhor, e uma luz iluminou a prisão; e, tocando ele o lado de Pedro, o despertou, dizendo: Levanta-te depressa! Então, as cadeias caíram-lhe das mãos.
+8 Disse-lhe o anjo: Cinge-te e calça as sandálias. E ele assim o fez. Disse-lhe mais: Põe a capa e segue-me.
+9 Então, saindo, o seguia, não sabendo que era real o que se fazia por meio do anjo; parecia-lhe, antes, uma visão.
+10 Depois de terem passado a primeira e a segunda sentinela, chegaram ao portão de ferro que dava para a cidade, o qual se lhes abriu automaticamente; e, saindo, enveredaram por uma rua, e logo adiante o anjo se apartou dele.
+11 Então, Pedro, caindo em si, disse: Agora, sei, verdadeiramente, que o Senhor enviou o seu anjo e me livrou da mão de Herodes e de toda a expectativa do povo judaico.
+12 Considerando ele a sua situação, resolveu ir à casa de Maria, mãe de João, cognominado Marcos, onde muitas pessoas estavam congregadas e oravam.
+13 Quando ele bateu ao postigo do portão, veio uma criada, chamada Rode, ver quem era;
+14 reconhecendo a voz de Pedro, tão alegre ficou, que nem o fez entrar, mas voltou correndo para anunciar que Pedro estava junto do portão.
+15 Eles lhe disseram: Estás louca. Ela, porém, persistia em afirmar que assim era. Então, disseram: É o seu anjo.
+16 Entretanto, Pedro continuava batendo; então, eles abriram, viram-no e ficaram atônitos.
+17 Ele, porém, fazendo-lhes sinal com a mão para que se calassem, contou-lhes como o Senhor o tirara da prisão e acrescentou: Anunciai isto a Tiago e aos irmãos. E, saindo, retirou-se para outro lugar.
+18 Sendo já dia, houve não pouco alvoroço entre os soldados sobre o que teria acontecido a Pedro.
+19 Herodes, tendo-o procurado e não o achando, submetendo as sentinelas a inquérito, ordenou que fossem justiçadas. E, descendo da Judeia para Cesareia, Herodes passou ali algum tempo.
+20 Ora, havia séria divergência entre Herodes e os habitantes de Tiro e de Sidom; porém estes, de comum acordo, se apresentaram a ele e, depois de alcançar o favor de Blasto, camarista do rei, pediram reconciliação, porque a sua terra se abastecia do país do rei.
+21 Em dia designado, Herodes, vestido de trajo real, assentado no trono, dirigiu-lhes a palavra;
+22 e o povo clamava: É voz de um deus, e não de homem!
+23 No mesmo instante, um anjo do Senhor o feriu, por ele não haver dado glória a Deus; e, comido de vermes, expirou.
+24 Entretanto, a palavra do Senhor crescia e se multiplicava.
+25 Barnabé e Saulo, cumprida a sua missão, voltaram de Jerusalém, levando também consigo a João, apelidado Marcos.*
+1 Havia na igreja de Antioquia profetas e mestres: Barnabé, Simeão, por sobrenome Níger, Lúcio de Cirene, Manaém, colaço de Herodes, o tetrarca, e Saulo.
+2 E, servindo eles ao Senhor e jejuando, disse o Espírito Santo: Separai-me, agora, Barnabé e Saulo para a obra a que os tenho chamado.
+3 Então, jejuando, e orando, e impondo sobre eles as mãos, os despediram.
+4 Enviados, pois, pelo Espírito Santo, desceram a Selêucia e dali navegaram para Chipre.
+5 Chegados a Salamina, anunciavam a palavra de Deus nas sinagogas judaicas; tinham também João como auxiliar.
+6 Havendo atravessado toda a ilha até Pafos, encontraram certo judeu, mágico, falso profeta, de nome Barjesus,
+7 o qual estava com o procônsul Sérgio Paulo, que era homem inteligente. Este, tendo chamado Barnabé e Saulo, diligenciava para ouvir a palavra de Deus.
+8 Mas opunha-se-lhes Elimas, o mágico (porque assim se interpreta o seu nome), procurando afastar da fé o procônsul.
+9 Todavia, Saulo, também chamado Paulo, cheio do Espírito Santo, fixando nele os olhos, disse:
+10 Ó filho do diabo, cheio de todo o engano e de toda a malícia, inimigo de toda a justiça, não cessarás de perverter os retos caminhos do Senhor?
+11 Pois, agora, eis aí está sobre ti a mão do Senhor, e ficarás cego, não vendo o sol por algum tempo. No mesmo instante, caiu sobre ele névoa e escuridade, e, andando à roda, procurava quem o guiasse pela mão.
+12 Então, o procônsul, vendo o que sucedera, creu, maravilhado com a doutrina do Senhor.
+13 E, navegando de Pafos, Paulo e seus companheiros dirigiram-se a Perge da Panfília. João, porém, apartando-se deles, voltou para Jerusalém.
+14 Mas eles, atravessando de Perge para a Antioquia da Pisídia, indo num sábado à sinagoga, assentaram-se.
+15 Depois da leitura da lei e dos profetas, os chefes da sinagoga mandaram dizer-lhes: Irmãos, se tendes alguma palavra de exortação para o povo, dizei-a.
+16 Paulo, levantando-se e fazendo com a mão sinal de silêncio, disse: Varões israelitas e vós outros que também temeis a Deus, ouvi.
+17 O Deus deste povo de Israel escolheu nossos pais e exaltou o povo durante sua peregrinação na terra do Egito, donde os tirou com braço poderoso;
+18 e suportou-lhes os maus costumes por cerca de quarenta anos no deserto;
+19 e, havendo destruído sete nações na terra de Canaã, deu-lhes essa terra por herança,
+20 vencidos cerca de quatrocentos e cinquenta anos. Depois disto, lhes deu juízes, até o profeta Samuel.
+21 Então, eles pediram um rei, e Deus lhes deparou Saul, filho de Quis, da tribo de Benjamim, e isto pelo espaço de quarenta anos.
+22 E, tendo tirado a este, levantou-lhes o rei Davi, do qual também, dando testemunho, disse: Achei Davi, filho de Jessé, homem segundo o meu coração, que fará toda a minha vontade.
+23 Da descendência deste, conforme a promessa, trouxe Deus a Israel o Salvador, que é Jesus,
+24 havendo João, primeiro, pregado a todo o povo de Israel, antes da manifestação dele, batismo de arrependimento.
+25 Mas, ao completar João a sua carreira, dizia: Não sou quem supondes; mas após mim vem aquele de cujos pés não sou digno de desatar as sandálias.
+26 Irmãos, descendência de Abraão e vós outros os que temeis a Deus, a nós nos foi enviada a palavra desta salvação.
+27 Pois os que habitavam em Jerusalém e as suas autoridades, não conhecendo Jesus nem os ensinos dos profetas que se leem todos os sábados, quando o condenaram, cumpriram as profecias;
+28 e, embora não achassem nenhuma causa de morte, pediram a Pilatos que ele fosse morto.
+29 Depois de cumprirem tudo o que a respeito dele estava escrito, tirando-o do madeiro, puseram-no em um túmulo.
+30 Mas Deus o ressuscitou dentre os mortos;
+31 e foi visto muitos dias pelos que, com ele, subiram da Galileia para Jerusalém, os quais são agora as suas testemunhas perante o povo.
+32 Nós vos anunciamos o evangelho da promessa feita a nossos pais,
+33 como Deus a cumpriu plenamente a nós, seus filhos, ressuscitando a Jesus, como também está escrito no Salmo segundo: Tu és meu Filho, eu, hoje, te gerei.
+34 E, que Deus o ressuscitou dentre os mortos para que jamais voltasse à corrupção, desta maneira o disse: E cumprirei a vosso favor as santas e fiéis promessas feitas a Davi.
+35 Por isso, também diz em outro Salmo: Não permitirás que o teu Santo veja corrupção.
+36 Porque, na verdade, tendo Davi servido à sua própria geração, conforme o desígnio de Deus, adormeceu, foi para junto de seus pais e viu corrupção.
+37 Porém aquele a quem Deus ressuscitou não viu corrupção.
+38 Tomai, pois, irmãos, conhecimento de que se vos anuncia remissão de pecados por intermédio deste;
+39 e, por meio dele, todo o que crê é justificado de todas as coisas das quais vós não pudestes ser justificados pela lei de Moisés.
+40 Notai, pois, que não vos sobrevenha o que está dito nos profetas:
+41 Vede, ó desprezadores, maravilhai-vos e desvanecei, porque eu realizo, em vossos dias, obra tal que não crereis se alguém vo-la contar.
+42 Ao saírem eles, rogaram-lhes que, no sábado seguinte, lhes falassem estas mesmas palavras.
+43 Despedida a sinagoga, muitos dos judeus e dos prosélitos piedosos seguiram Paulo e Barnabé, e estes, falando-lhes, os persuadiam a perseverar na graça de Deus.
+44 No sábado seguinte, afluiu quase toda a cidade para ouvir a palavra de Deus.
+45 Mas os judeus, vendo as multidões, tomaram-se de inveja e, blasfemando, contradiziam o que Paulo falava.
+46 Então, Paulo e Barnabé, falando ousadamente, disseram: Cumpria que a vós outros, em primeiro lugar, fosse pregada a palavra de Deus; mas, posto que a rejeitais e a vós mesmos vos julgais indignos da vida eterna, eis aí que nos volvemos para os gentios.
+47 Porque o Senhor assim no-lo determinou: Eu te constituí para luz dos gentios, a fim de que sejas para salvação até aos confins da terra.
+48 Os gentios, ouvindo isto, regozijavam-se e glorificavam a palavra do Senhor, e creram todos os que haviam sido destinados para a vida eterna.
+49 E divulgava-se a palavra do Senhor por toda aquela região.
+50 Mas os judeus instigaram as mulheres piedosas de alta posição e os principais da cidade e levantaram perseguição contra Paulo e Barnabé, expulsando-os do seu território.
+51 E estes, sacudindo contra aqueles o pó dos pés, partiram para Icônio.
+52 Os discípulos, porém, transbordavam de alegria e do Espírito Santo.*
+1 Em Icônio, Paulo e Barnabé entraram juntos na sinagoga judaica e falaram de tal modo, que veio a crer grande multidão, tanto de judeus como de gregos.
+2 Mas os judeus incrédulos incitaram e irritaram os ânimos dos gentios contra os irmãos.
+3 Entretanto, demoraram-se ali muito tempo, falando ousadamente no Senhor, o qual confirmava a palavra da sua graça, concedendo que, por mão deles, se fizessem sinais e prodígios.
+4 Mas dividiu-se o povo da cidade: uns eram pelos judeus; outros, pelos apóstolos.
+5 E, como surgisse um tumulto dos gentios e judeus, associados com as suas autoridades, para os ultrajar e apedrejar,
+6 sabendo-o eles, fugiram para Listra e Derbe, cidades da Licaônia e circunvizinhança,
+7 onde anunciaram o evangelho.
+8 Em Listra, costumava estar assentado certo homem aleijado, paralítico desde o seu nascimento, o qual jamais pudera andar.
+9 Esse homem ouviu falar Paulo, que, fixando nele os olhos e vendo que possuía fé para ser curado,
+10 disse-lhe em alta voz: Apruma-te direito sobre os pés! Ele saltou e andava.
+11 Quando as multidões viram o que Paulo fizera, gritaram em língua licaônica, dizendo: Os deuses, em forma de homens, baixaram até nós.
+12 A Barnabé chamavam Júpiter, e a Paulo, Mercúrio, porque era este o principal portador da palavra.
+13 O sacerdote de Júpiter, cujo templo estava em frente da cidade, trazendo para junto das portas touros e grinaldas, queria sacrificar juntamente com as multidões.
+14 Porém, ouvindo isto, os apóstolos Barnabé e Paulo, rasgando as suas vestes, saltaram para o meio da multidão, clamando:
+15 Senhores, por que fazeis isto? Nós também somos homens como vós, sujeitos aos mesmos sentimentos, e vos anunciamos o evangelho para que destas coisas vãs vos convertais ao Deus vivo, que fez o céu, a terra, o mar e tudo o que há neles;
+16 o qual, nas gerações passadas, permitiu que todos os povos andassem nos seus próprios caminhos;
+17 contudo, não se deixou ficar sem testemunho de si mesmo, fazendo o bem, dando-vos do céu chuvas e estações frutíferas, enchendo o vosso coração de fartura e de alegria.
+18 Dizendo isto, foi ainda com dificuldade que impediram as multidões de lhes oferecerem sacrifícios.
+19 Sobrevieram, porém, judeus de Antioquia e Icônio e, instigando as multidões e apedrejando a Paulo, arrastaram-no para fora da cidade, dando-o por morto.
+20 Rodeando-o, porém, os discípulos, levantou-se e entrou na cidade. No dia seguinte, partiu, com Barnabé, para Derbe.
+21 E, tendo anunciado o evangelho naquela cidade e feito muitos discípulos, voltaram para Listra, e Icônio, e Antioquia,
+22 fortalecendo a alma dos discípulos, exortando-os a permanecer firmes na fé; e mostrando que, através de muitas tribulações, nos importa entrar no reino de Deus.
+23 E, promovendo-lhes, em cada igreja, a eleição de presbíteros, depois de orar com jejuns, os encomendaram ao Senhor em quem haviam crido.
+24 Atravessando a Pisídia, dirigiram-se a Panfília.
+25 E, tendo anunciado a palavra em Perge, desceram a Atália
+26 e dali navegaram para Antioquia, onde tinham sido recomendados à graça de Deus para a obra que haviam já cumprido.
+27 Ali chegados, reunida a igreja, relataram quantas coisas fizera Deus com eles e como abrira aos gentios a porta da fé.
+28 E permaneceram não pouco tempo com os discípulos.*
+1 Alguns indivíduos que desceram da Judeia ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos.
+2 Tendo havido, da parte de Paulo e Barnabé, contenda e não pequena discussão com eles, resolveram que esses dois e alguns outros dentre eles subissem a Jerusalém, aos apóstolos e presbíteros, com respeito a esta questão.
+3 Enviados, pois, e até certo ponto acompanhados pela igreja, atravessaram as províncias da Fenícia e Samaria e, narrando a conversão dos gentios, causaram grande alegria a todos os irmãos.
+4 Tendo eles chegado a Jerusalém, foram bem-recebidos pela igreja, pelos apóstolos e pelos presbíteros e relataram tudo o que Deus fizera com eles.
+5 Insurgiram-se, entretanto, alguns da seita dos fariseus que haviam crido, dizendo: É necessário circuncidá-los e determinar-lhes que observem a lei de Moisés.
+6 Então, se reuniram os apóstolos e os presbíteros para examinar a questão.
+7 Havendo grande debate, Pedro tomou a palavra e lhes disse: Irmãos, vós sabeis que, desde há muito, Deus me escolheu dentre vós para que, por meu intermédio, ouvissem os gentios a palavra do evangelho e cressem.
+8 Ora, Deus, que conhece os corações, lhes deu testemunho, concedendo o Espírito Santo a eles, como também a nós nos concedera.
+9 E não estabeleceu distinção alguma entre nós e eles, purificando-lhes pela fé o coração.
+10 Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais puderam suportar, nem nós?
+11 Mas cremos que fomos salvos pela graça do Senhor Jesus, como também aqueles o foram.
+12 E toda a multidão silenciou, passando a ouvir a Barnabé e a Paulo, que contavam quantos sinais e prodígios Deus fizera por meio deles entre os gentios.
+13 Depois que eles terminaram, falou Tiago, dizendo: Irmãos, atentai nas minhas palavras:
+14 expôs Simão como Deus, primeiramente, visitou os gentios, a fim de constituir dentre eles um povo para o seu nome.
+15 Conferem com isto as palavras dos profetas, como está escrito:
+16 Cumpridas estas coisas, voltarei e reedificarei o tabernáculo caído de Davi; e, levantando-o de suas ruínas, restaurá-lo-ei.
+17 Para que os demais homens busquem o Senhor, e também todos os gentios sobre os quais tem sido invocado o meu nome,
+18 diz o Senhor, que faz estas coisas conhecidas desde séculos.
+19 Pelo que, julgo eu, não devemos perturbar aqueles que, dentre os gentios, se convertem a Deus,
+20 mas escrever-lhes que se abstenham das contaminações dos ídolos, bem como das relações sexuais ilícitas, da carne de animais sufocados e do sangue.
+21 Porque Moisés tem, em cada cidade, desde tempos antigos, os que o pregam nas sinagogas, onde é lido todos os sábados.
+22 Então, pareceu bem aos apóstolos e aos presbíteros, com toda a igreja, tendo elegido homens dentre eles, enviá-los, juntamente com Paulo e Barnabé, a Antioquia: foram Judas, chamado Barsabás, e Silas, homens notáveis entre os irmãos,
+23 escrevendo, por mão deles: Os irmãos, tanto os apóstolos como os presbíteros, aos irmãos de entre os gentios em Antioquia, Síria e Cilícia, saudações.
+24 Visto sabermos que alguns [que saíram] de entre nós, sem nenhuma autorização, vos têm perturbado com palavras, transtornando a vossa alma,
+25 pareceu-nos bem, chegados a pleno acordo, eleger alguns homens e enviá-los a vós outros com os nossos amados Barnabé e Paulo,
+26 homens que têm exposto a vida pelo nome de nosso Senhor Jesus Cristo.
+27 Enviamos, portanto, Judas e Silas, os quais pessoalmente vos dirão também estas coisas.
+28 Pois pareceu bem ao Espírito Santo e a nós não vos impor maior encargo além destas coisas essenciais:
+29 que vos abstenhais das coisas sacrificadas a ídolos, bem como do sangue, da carne de animais sufocados e das relações sexuais ilícitas; destas coisas fareis bem se vos guardardes. Saúde.
+30 Os que foram enviados desceram logo para Antioquia e, tendo reunido a comunidade, entregaram a epístola.
+31 Quando a leram, sobremaneira se alegraram pelo conforto recebido.
+32 Judas e Silas, que eram também profetas, consolaram os irmãos com muitos conselhos e os fortaleceram.
+33 Tendo-se demorado ali por algum tempo, os irmãos os deixaram voltar em paz aos que os enviaram.
+34 [Mas pareceu bem a Silas permanecer ali.]
+35 Paulo e Barnabé demoraram-se em Antioquia, ensinando e pregando, com muitos outros, a palavra do Senhor.
+36 Alguns dias depois, disse Paulo a Barnabé: Voltemos, agora, para visitar os irmãos por todas as cidades nas quais anunciamos a palavra do Senhor, para ver como passam.
+37 E Barnabé queria levar também a João, chamado Marcos.
+38 Mas Paulo não achava justo levarem aquele que se afastara desde a Panfília, não os acompanhando no trabalho.
+39 Houve entre eles tal desavença, que vieram a separar-se. Então, Barnabé, levando consigo a Marcos, navegou para Chipre.
+40 Mas Paulo, tendo escolhido a Silas, partiu encomendado pelos irmãos à graça do Senhor.
+41 E passou pela Síria e Cilícia, confirmando as igrejas.*
+1 Chegou também a Derbe e a Listra. Havia ali um discípulo chamado Timóteo, filho de uma judia crente, mas de pai grego;
+2 dele davam bom testemunho os irmãos em Listra e Icônio.
+3 Quis Paulo que ele fosse em sua companhia e, por isso, circuncidou-o por causa dos judeus daqueles lugares; pois todos sabiam que seu pai era grego.
+4 Ao passar pelas cidades, entregavam aos irmãos, para que as observassem, as decisões tomadas pelos apóstolos e presbíteros de Jerusalém.
+5 Assim, as igrejas eram fortalecidas na fé e, dia a dia, aumentavam em número.
+6 E, percorrendo a região frígio-gálata, tendo sido impedidos pelo Espírito Santo de pregar a palavra na Ásia,
+7 defrontando Mísia, tentavam ir para Bitínia, mas o Espírito de Jesus não o permitiu.
+8 E, tendo contornado Mísia, desceram a Trôade.
+9 À noite, sobreveio a Paulo uma visão na qual um varão macedônio estava em pé e lhe rogava, dizendo: Passa à Macedônia e ajuda-nos.
+10 Assim que teve a visão, imediatamente, procuramos partir para aquele destino, concluindo que Deus nos havia chamado para lhes anunciar o evangelho.
+11 Tendo, pois, navegado de Trôade, seguimos em direitura a Samotrácia, no dia seguinte, a Neápolis
+12 e dali, a Filipos, cidade da Macedônia, primeira do distrito e colônia. Nesta cidade, permanecemos alguns dias.
+13 No sábado, saímos da cidade para junto do rio, onde nos pareceu haver um lugar de oração; e, assentando-nos, falamos às mulheres que para ali tinham concorrido.
+14 Certa mulher, chamada Lídia, da cidade de Tiatira, vendedora de púrpura, temente a Deus, nos escutava; o Senhor lhe abriu o coração para atender às coisas que Paulo dizia.
+15 Depois de ser batizada, ela e toda a sua casa, nos rogou, dizendo: Se julgais que eu sou fiel ao Senhor, entrai em minha casa e aí ficai. E nos constrangeu a isso.
+16 Aconteceu que, indo nós para o lugar de oração, nos saiu ao encontro uma jovem possessa de espírito adivinhador, a qual, adivinhando, dava grande lucro aos seus senhores.
+17 Seguindo a Paulo e a nós, clamava, dizendo: Estes homens são servos do Deus Altíssimo e vos anunciam o caminho da salvação.
+18 Isto se repetia por muitos dias. Então, Paulo, já indignado, voltando-se, disse ao espírito: Em nome de Jesus Cristo, eu te mando: retira-te dela. E ele, na mesma hora, saiu.
+19 Vendo os seus senhores que se lhes desfizera a esperança do lucro, agarrando em Paulo e Silas, os arrastaram para a praça, à presença das autoridades;
+20 e, levando-os aos pretores, disseram: Estes homens, sendo judeus, perturbam a nossa cidade,
+21 propagando costumes que não podemos receber, nem praticar, porque somos romanos.
+22 Levantou-se a multidão, unida contra eles, e os pretores, rasgando-lhes as vestes, mandaram açoitá-los com varas.
+23 E, depois de lhes darem muitos açoites, os lançaram no cárcere, ordenando ao carcereiro que os guardasse com toda a segurança.
+24 Este, recebendo tal ordem, levou-os para o cárcere interior e lhes prendeu os pés no tronco.
+25 Por volta da meia-noite, Paulo e Silas oravam e cantavam louvores a Deus, e os demais companheiros de prisão escutavam.
+26 De repente, sobreveio tamanho terremoto, que sacudiu os alicerces da prisão; abriram-se todas as portas, e soltaram-se as cadeias de todos.
+27 O carcereiro despertou do sono e, vendo abertas as portas do cárcere, puxando da espada, ia suicidar-se, supondo que os presos tivessem fugido.
+28 Mas Paulo bradou em alta voz: Não te faças nenhum mal, que todos aqui estamos!
+29 Então, o carcereiro, tendo pedido uma luz, entrou precipitadamente e, trêmulo, prostrou-se diante de Paulo e Silas.
+30 Depois, trazendo-os para fora, disse: Senhores, que devo fazer para que seja salvo?
+31 Responderam-lhe: Crê no Senhor Jesus e serás salvo, tu e tua casa.
+32 E lhe pregaram a palavra de Deus e a todos os de sua casa.
+33 Naquela mesma hora da noite, cuidando deles, lavou-lhes os vergões dos açoites. A seguir, foi ele batizado, e todos os seus.
+34 Então, levando-os para a sua própria casa, lhes pôs a mesa; e, com todos os seus, manifestava grande alegria, por terem crido em Deus.
+35 Quando amanheceu, os pretores enviaram oficiais de justiça, com a seguinte ordem: Põe aqueles homens em liberdade.
+36 Então, o carcereiro comunicou a Paulo estas palavras: Os pretores ordenaram que fôsseis postos em liberdade. Agora, pois, saí e ide em paz.
+37 Paulo, porém, lhes replicou: Sem ter havido processo formal contra nós, nos açoitaram publicamente e nos recolheram ao cárcere, sendo nós cidadãos romanos; querem agora, às ocultas, lançar-nos fora? Não será assim; pelo contrário, venham eles e, pessoalmente, nos ponham em liberdade.
+38 Os oficiais de justiça comunicaram isso aos pretores; e estes ficaram possuídos de temor, quando souberam que se tratava de cidadãos romanos.
+39 Então, foram ter com eles e lhes pediram desculpas; e, relaxando-lhes a prisão, rogaram que se retirassem da cidade.
+40 Tendo-se retirado do cárcere, dirigiram-se para a casa de Lídia e, vendo os irmãos, os confortaram. Então, partiram.*
+1 Tendo passado por Anfípolis e Apolônia, chegaram a Tessalônica, onde havia uma sinagoga de judeus.
+2 Paulo, segundo o seu costume, foi procurá-los e, por três sábados, arrazoou com eles acerca das Escrituras,
+3 expondo e demonstrando ter sido necessário que o Cristo padecesse e ressurgisse dentre os mortos; e este, dizia ele, é o Cristo, Jesus, que eu vos anuncio.
+4 Alguns deles foram persuadidos e unidos a Paulo e Silas, bem como numerosa multidão de gregos piedosos e muitas distintas mulheres.
+5 Os judeus, porém, movidos de inveja, trazendo consigo alguns homens maus dentre a malandragem, ajuntando a turba, alvoroçaram a cidade e, assaltando a casa de Jasom, procuravam trazê-los para o meio do povo.
+6 Porém, não os encontrando, arrastaram Jasom e alguns irmãos perante as autoridades, clamando: Estes que têm transtornado o mundo chegaram também aqui,
+7 os quais Jasom hospedou. Todos estes procedem contra os decretos de César, afirmando ser Jesus outro rei.
+8 Tanto a multidão como as autoridades ficaram agitadas ao ouvirem estas palavras;
+9 contudo, soltaram Jasom e os mais, após terem recebido deles a fiança estipulada.
+10 E logo, durante a noite, os irmãos enviaram Paulo e Silas para Bereia; ali chegados, dirigiram-se à sinagoga dos judeus.
+11 Ora, estes de Bereia eram mais nobres que os de Tessalônica; pois receberam a palavra com toda a avidez, examinando as Escrituras todos os dias para ver se as coisas eram, de fato, assim.
+12 Com isso, muitos deles creram, mulheres gregas de alta posição e não poucos homens.
+13 Mas, logo que os judeus de Tessalônica souberam que a palavra de Deus era anunciada por Paulo também em Bereia, foram lá excitar e perturbar o povo.
+14 Então, os irmãos promoveram, sem detença, a partida de Paulo para os lados do mar. Porém Silas e Timóteo continuaram ali.
+15 Os responsáveis por Paulo levaram-no até Atenas e regressaram trazendo ordem a Silas e Timóteo para que, o mais depressa possível, fossem ter com ele.
+16 Enquanto Paulo os esperava em Atenas, o seu espírito se revoltava em face da idolatria dominante na cidade.
+17 Por isso, dissertava na sinagoga entre os judeus e os gentios piedosos; também na praça, todos os dias, entre os que se encontravam ali.
+18 E alguns dos filósofos epicureus e estoicos contendiam com ele, havendo quem perguntasse: Que quer dizer esse tagarela? E outros: Parece pregador de estranhos deuses; pois pregava a Jesus e a ressurreição.
+19 Então, tomando-o consigo, o levaram ao Areópago, dizendo: Poderemos saber que nova doutrina é essa que ensinas?
+20 Posto que nos trazes aos ouvidos coisas estranhas, queremos saber o que vem a ser isso.
+21 Pois todos os de Atenas e os estrangeiros residentes de outra coisa não cuidavam senão dizer ou ouvir as últimas novidades.
+22 Então, Paulo, levantando-se no meio do Areópago, disse: Senhores atenienses! Em tudo vos vejo acentuadamente religiosos;
+23 porque, passando e observando os objetos de vosso culto, encontrei também um altar no qual está inscrito: Ao Deus Desconhecido. Pois esse que adorais sem conhecer é precisamente aquele que eu vos anuncio.
+24 O Deus que fez o mundo e tudo o que nele existe, sendo ele Senhor do céu e da terra, não habita em santuários feitos por mãos humanas.
+25 Nem é servido por mãos humanas, como se de alguma coisa precisasse; pois ele mesmo é quem a todos dá vida, respiração e tudo mais;
+26 de um só fez toda a raça humana para habitar sobre toda a face da terra, havendo fixado os tempos previamente estabelecidos e os limites da sua habitação;
+27 para buscarem a Deus se, porventura, tateando, o possam achar, bem que não está longe de cada um de nós;
+28 pois nele vivemos, e nos movemos, e existimos, como alguns dos vossos poetas têm dito: Porque dele também somos geração.
+29 Sendo, pois, geração de Deus, não devemos pensar que a divindade é semelhante ao ouro, à prata ou à pedra, trabalhados pela arte e imaginação do homem.
+30 Ora, não levou Deus em conta os tempos da ignorância; agora, porém, notifica aos homens que todos, em toda parte, se arrependam;
+31 porquanto estabeleceu um dia em que há de julgar o mundo com justiça, por meio de um varão que destinou e acreditou diante de todos, ressuscitando-o dentre os mortos.
+32 Quando ouviram falar de ressurreição de mortos, uns escarneceram, e outros disseram: A respeito disso te ouviremos noutra ocasião.
+33 A essa altura, Paulo se retirou do meio deles.
+34 Houve, porém, alguns homens que se agregaram a ele e creram; entre eles estava Dionísio, o areopagita, uma mulher chamada Dâmaris e, com eles, outros mais.*
+1 Depois disto, deixando Paulo Atenas, partiu para Corinto.
+2 Lá, encontrou certo judeu chamado Áquila, natural do Ponto, recentemente chegado da Itália, com Priscila, sua mulher, em vista de ter Cláudio decretado que todos os judeus se retirassem de Roma. Paulo aproximou-se deles.
+3 E, posto que eram do mesmo ofício, passou a morar com eles e ali trabalhava, pois a profissão deles era fazer tendas.
+4 E todos os sábados discorria na sinagoga, persuadindo tanto judeus como gregos.
+5 Quando Silas e Timóteo desceram da Macedônia, Paulo se entregou totalmente à palavra, testemunhando aos judeus que o Cristo é Jesus.
+6 Opondo-se eles e blasfemando, sacudiu Paulo as vestes e disse-lhes: Sobre a vossa cabeça, o vosso sangue! Eu dele estou limpo e, desde agora, vou para os gentios.
+7 Saindo dali, entrou na casa de um homem chamado Tício Justo, que era temente a Deus; a casa era contígua à sinagoga.
+8 Mas Crispo, o principal da sinagoga, creu no Senhor, com toda a sua casa; também muitos dos coríntios, ouvindo, criam e eram batizados.
+9 Teve Paulo durante a noite uma visão em que o Senhor lhe disse: Não temas; pelo contrário, fala e não te cales;
+10 porquanto eu estou contigo, e ninguém ousará fazer-te mal, pois tenho muito povo nesta cidade.
+11 E ali permaneceu um ano e seis meses, ensinando entre eles a palavra de Deus.
+12 Quando, porém, Gálio era procônsul da Acaia, levantaram-se os judeus, concordemente, contra Paulo e o levaram ao tribunal,
+13 dizendo: Este persuade os homens a adorar a Deus por modo contrário à lei.
+14 Ia Paulo falar, quando Gálio declarou aos judeus: Se fosse, com efeito, alguma injustiça ou crime da maior gravidade, ó judeus, de razão seria atender-vos;
+15 mas, se é questão de palavra, de nomes e da vossa lei, tratai disso vós mesmos; eu não quero ser juiz dessas coisas!
+16 E os expulsou do tribunal.
+17 Então, todos agarraram Sóstenes, o principal da sinagoga, e o espancavam diante do tribunal; Gálio, todavia, não se incomodava com estas coisas.
+18 Mas Paulo, havendo permanecido ali ainda muitos dias, por fim, despedindo-se dos irmãos, navegou para a Síria, levando em sua companhia Priscila e Áquila, depois de ter raspado a cabeça em Cencreia, porque tomara voto.
+19 Chegados a Éfeso, deixou-os ali; ele, porém, entrando na sinagoga, pregava aos judeus.
+20 Rogando-lhe eles que permanecesse ali mais algum tempo, não acedeu.
+21 Mas, despedindo-se, disse: Se Deus quiser, voltarei para vós outros. E, embarcando, partiu de Éfeso.
+22 Chegando a Cesareia, desembarcou, subindo a Jerusalém; e, tendo saudado a igreja, desceu para Antioquia.
+23 Havendo passado ali algum tempo, saiu, atravessando sucessivamente a região da Galácia e Frígia, confirmando todos os discípulos.
+24 Nesse meio tempo, chegou a Éfeso um judeu, natural de Alexandria, chamado Apolo, homem eloquente e poderoso nas Escrituras.
+25 Era ele instruído no caminho do Senhor; e, sendo fervoroso de espírito, falava e ensinava com precisão a respeito de Jesus, conhecendo apenas o batismo de João.
+26 Ele, pois, começou a falar ousadamente na sinagoga. Ouvindo-o, porém, Priscila e Áquila, tomaram-no consigo e, com mais exatidão, lhe expuseram o caminho de Deus.
+27 Querendo ele percorrer a Acaia, animaram-no os irmãos e escreveram aos discípulos para o receberem. Tendo chegado, auxiliou muito aqueles que, mediante a graça, haviam crido;
+28 porque, com grande poder, convencia publicamente os judeus, provando, por meio das Escrituras, que o Cristo é Jesus.*
+1 Aconteceu que, estando Apolo em Corinto, Paulo, tendo passado pelas regiões mais altas, chegou a Éfeso e, achando ali alguns discípulos,
+2 perguntou-lhes: Recebestes, porventura, o Espírito Santo quando crestes? Ao que lhe responderam: Pelo contrário, nem mesmo ouvimos que existe o Espírito Santo.
+3 Então, Paulo perguntou: Em que, pois, fostes batizados? Responderam: No batismo de João.
+4 Disse-lhes Paulo: João realizou batismo de arrependimento, dizendo ao povo que cresse naquele que vinha depois dele, a saber, em Jesus.
+5 Eles, tendo ouvido isto, foram batizados em o nome do Senhor Jesus.
+6 E, impondo-lhes Paulo as mãos, veio sobre eles o Espírito Santo; e tanto falavam em línguas como profetizavam.
+7 Eram, ao todo, uns doze homens.
+8 Durante três meses, Paulo frequentou a sinagoga, onde falava ousadamente, dissertando e persuadindo com respeito ao reino de Deus.
+9 Visto que alguns deles se mostravam empedernidos e descrentes, falando mal do Caminho diante da multidão, Paulo, apartando-se deles, separou os discípulos, passando a discorrer diariamente na escola de Tirano.
+10 Durou isto por espaço de dois anos, dando ensejo a que todos os habitantes da Ásia ouvissem a palavra do Senhor, tanto judeus como gregos.
+11 E Deus, pelas mãos de Paulo, fazia milagres extraordinários,
+12 a ponto de levarem aos enfermos lenços e aventais do seu uso pessoal, diante dos quais as enfermidades fugiam das suas vítimas, e os espíritos malignos se retiravam.
+13 E alguns judeus, exorcistas ambulantes, tentaram invocar o nome do Senhor Jesus sobre possessos de espíritos malignos, dizendo: Esconjuro-vos por Jesus, a quem Paulo prega.
+14 Os que faziam isto eram sete filhos de um judeu chamado Ceva, sumo sacerdote.
+15 Mas o espírito maligno lhes respondeu: Conheço a Jesus e sei quem é Paulo; mas vós, quem sois?
+16 E o possesso do espírito maligno saltou sobre eles, subjugando a todos, e, de tal modo prevaleceu contra eles, que, desnudos e feridos, fugiram daquela casa.
+17 Chegou este fato ao conhecimento de todos, assim judeus como gregos habitantes de Éfeso; veio temor sobre todos eles, e o nome do Senhor Jesus era engrandecido.
+18 Muitos dos que creram vieram confessando e denunciando publicamente as suas próprias obras.
+19 Também muitos dos que haviam praticado artes mágicas, reunindo os seus livros, os queimaram diante de todos. Calculados os seus preços, achou-se que montavam a cinquenta mil denários.
+20 Assim, a palavra do Senhor crescia e prevalecia poderosamente.
+23 Por esse tempo, houve grande alvoroço acerca do Caminho.
+24 Pois um ourives, chamado Demétrio, que fazia, de prata, nichos de Diana e que dava muito lucro aos artífices,
+25 convocando-os juntamente com outros da mesma profissão, disse-lhes: Senhores, sabeis que deste ofício vem a nossa prosperidade
+26 e estais vendo e ouvindo que não só em Éfeso, mas em quase toda a Ásia, este Paulo tem persuadido e desencaminhado muita gente, afirmando não serem deuses os que são feitos por mãos humanas.
+27 Não somente há o perigo de a nossa profissão cair em descrédito, como também o de o próprio templo da grande deusa, Diana, ser estimado em nada, e ser mesmo destruída a majestade daquela que toda a Ásia e o mundo adoram.
+28 Ouvindo isto, encheram-se de furor e clamavam: Grande é a Diana dos efésios!
+29 Foi a cidade tomada de confusão, e todos, à uma, arremeteram para o teatro, arrebatando os macedônios Gaio e Aristarco, companheiros de Paulo.
+30 Querendo este apresentar-se ao povo, não lhe permitiram os discípulos.
+31 Também asiarcas, que eram amigos de Paulo, mandaram rogar-lhe que não se arriscasse indo ao teatro.
+32 Uns, pois, gritavam de uma forma; outros, de outra; porque a assembleia caíra em confusão. E, na sua maior parte, nem sabiam por que motivo estavam reunidos.
+33 Então, tiraram Alexandre dentre a multidão, impelindo-o os judeus para a frente. Este, acenando com a mão, queria falar ao povo.
+34 Quando, porém, reconheceram que ele era judeu, todos, a uma voz, gritaram por espaço de quase duas horas: Grande é a Diana dos efésios!
+35 O escrivão da cidade, tendo apaziguado o povo, disse: Senhores, efésios: quem, porventura, não sabe que a cidade de Éfeso é a guardiã do templo da grande Diana e da imagem que caiu de Júpiter?
+36 Ora, não podendo isto ser contraditado, convém que vos mantenhais calmos e nada façais precipitadamente;
+37 porque estes homens que aqui trouxestes não são sacrílegos, nem blasfemam contra a nossa deusa.
+38 Portanto, se Demétrio e os artífices que o acompanham têm alguma queixa contra alguém, há audiências e procônsules; que se acusem uns aos outros.
+39 Mas, se alguma outra coisa pleiteais, será decidida em assembleia regular.
+40 Porque também corremos perigo de que, por hoje, sejamos acusados de sedição, não havendo motivo algum que possamos alegar para justificar este ajuntamento.
+41 E, havendo dito isto, dissolveu a assembleia.*
+1 Cessado o tumulto, Paulo mandou chamar os discípulos, e, tendo-os confortado, despediu-se, e partiu para a Macedônia.
+2 Havendo atravessado aquelas terras, fortalecendo os discípulos com muitas exortações, dirigiu-se para a Grécia,
+3 onde se demorou três meses. Tendo havido uma conspiração por parte dos judeus contra ele, quando estava para embarcar rumo à Síria, determinou voltar pela Macedônia.
+4 Acompanharam-no [até à Ásia] Sópatro, de Bereia, filho de Pirro, Aristarco e Secundo, de Tessalônica, Gaio, de Derbe, e Timóteo, bem como Tíquico e Trófimo, da Ásia;
+5 estes nos precederam, esperando-nos em Trôade.
+6 Depois dos dias dos pães asmos, navegamos de Filipos e, em cinco dias, fomos ter com eles naquele porto, onde passamos uma semana.
+7 No primeiro dia da semana, estando nós reunidos com o fim de partir o pão, Paulo, que devia seguir viagem no dia imediato, exortava-os e prolongou o discurso até à meia-noite.
+8 Havia muitas lâmpadas no cenáculo onde estávamos reunidos.
+9 Um jovem, chamado Êutico, que estava sentado numa janela, adormecendo profundamente durante o prolongado discurso de Paulo, vencido pelo sono, caiu do terceiro andar abaixo e foi levantado morto.
+10 Descendo, porém, Paulo inclinou-se sobre ele e, abraçando-o, disse: Não vos perturbeis, que a vida nele está.
+11 Subindo de novo, partiu o pão, e comeu, e ainda lhes falou largamente até ao romper da alva. E, assim, partiu.
+12 Então, conduziram vivo o rapaz e sentiram-se grandemente confortados.
+13 Nós, porém, prosseguindo, embarcamos e navegamos para Assôs, onde devíamos receber Paulo, porque assim nos fora determinado, devendo ele ir por terra.
+14 Quando se reuniu conosco em Assôs, recebemo-lo a bordo e fomos a Mitilene;
+15 dali, navegando, no dia seguinte, passamos defronte de Quios, no dia imediato, tocamos em Samos e, um dia depois, chegamos a Mileto.
+16 Porque Paulo já havia determinado não aportar em Éfeso, não querendo demorar-se na Ásia, porquanto se apressava com o intuito de passar o dia de Pentecostes em Jerusalém, caso lhe fosse possível.
+17 De Mileto, mandou a Éfeso chamar os presbíteros da igreja.
+18 E, quando se encontraram com ele, disse-lhes: Vós bem sabeis como foi que me conduzi entre vós em todo o tempo, desde o primeiro dia em que entrei na Ásia,
+19 servindo ao Senhor com toda a humildade, lágrimas e provações que, pelas ciladas dos judeus, me sobrevieram,
+20 jamais deixando de vos anunciar coisa alguma proveitosa e de vo-la ensinar publicamente e também de casa em casa,
+21 testificando tanto a judeus como a gregos o arrependimento para com Deus e a fé em nosso Senhor Jesus [Cristo].
+22 E, agora, constrangido em meu espírito, vou para Jerusalém, não sabendo o que ali me acontecerá,
+23 senão que o Espírito Santo, de cidade em cidade, me assegura que me esperam cadeias e tribulações.
+24 Porém em nada considero a vida preciosa para mim mesmo, contanto que complete a minha carreira e o ministério que recebi do Senhor Jesus para testemunhar o evangelho da graça de Deus.
+25 Agora, eu sei que todos vós, em cujo meio passei pregando o reino, não vereis mais o meu rosto.
+26 Portanto, eu vos protesto, no dia de hoje, que estou limpo do sangue de todos;
+27 porque jamais deixei de vos anunciar todo o desígnio de Deus.
+28 Atendei por vós e por todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos, para pastoreardes a igreja de Deus, a qual ele comprou com o seu próprio sangue.
+29 Eu sei que, depois da minha partida, entre vós penetrarão lobos vorazes, que não pouparão o rebanho.
+30 E que, dentre vós mesmos, se levantarão homens falando coisas pervertidas para arrastar os discípulos atrás deles.
+31 Portanto, vigiai, lembrando-vos de que, por três anos, noite e dia, não cessei de admoestar, com lágrimas, a cada um.
+32 Agora, pois, encomendo-vos ao Senhor e à palavra da sua graça, que tem poder para vos edificar e dar herança entre todos os que são santificados.
+33 De ninguém cobicei prata, nem ouro, nem vestes;
+34 vós mesmos sabeis que estas mãos serviram para o que me era necessário a mim e aos que estavam comigo.
+35 Tenho-vos mostrado em tudo que, trabalhando assim, é mister socorrer os necessitados e recordar as palavras do próprio Senhor Jesus: Mais bem-aventurado é dar que receber.
+36 Tendo dito estas coisas, ajoelhando-se, orou com todos eles.
+37 Então, houve grande pranto entre todos, e, abraçando afetuosamente a Paulo, o beijavam,
+38 entristecidos especialmente pela palavra que ele dissera: que não mais veriam o seu rosto. E acompanharam-no até ao navio.*
+1 Depois de nos apartarmos, fizemo-nos à vela e, correndo em direitura, chegamos a Cós; no dia seguinte, a Rodes, e dali, a Pátara.
+2 Achando um navio que ia para a Fenícia, embarcamos nele, seguindo viagem.
+3 Quando Chipre já estava à vista, deixando-a à esquerda, navegamos para a Síria e chegamos a Tiro; pois o navio devia ser descarregado ali.
+4 Encontrando os discípulos, permanecemos lá durante sete dias; e eles, movidos pelo Espírito, recomendavam a Paulo que não fosse a Jerusalém.
+5 Passados aqueles dias, tendo-nos retirado, prosseguimos viagem, acompanhados por todos, cada um com sua mulher e filhos, até fora da cidade; ajoelhados na praia, oramos.
+6 E, despedindo-nos uns dos outros, então, embarcamos; e eles voltaram para casa.
+7 Quanto a nós, concluindo a viagem de Tiro, chegamos a Ptolemaida, onde saudamos os irmãos, passando um dia com eles.
+8 No dia seguinte, partimos e fomos para Cesareia; e, entrando na casa de Filipe, o evangelista, que era um dos sete, ficamos com ele.
+9 Tinha este quatro filhas donzelas, que profetizavam.
+10 Demorando-nos ali alguns dias, desceu da Judeia um profeta chamado Ágabo;
+11 e, vindo ter conosco, tomando o cinto de Paulo, ligando com ele os próprios pés e mãos, declarou: Isto diz o Espírito Santo: Assim os judeus, em Jerusalém, farão ao dono deste cinto e o entregarão nas mãos dos gentios.
+12 Quando ouvimos estas palavras, tanto nós como os daquele lugar, rogamos a Paulo que não subisse a Jerusalém.
+13 Então, ele respondeu: Que fazeis chorando e quebrantando-me o coração? Pois estou pronto não só para ser preso, mas até para morrer em Jerusalém pelo nome do Senhor Jesus.
+14 Como, porém, não o persuadimos, conformados, dissemos: Faça-se a vontade do Senhor!
+15 Passados aqueles dias, tendo feito os preparativos, subimos para Jerusalém;
+16 e alguns dos discípulos também vieram de Cesareia conosco, trazendo consigo Mnasom, natural de Chipre, velho discípulo, com quem nos deveríamos hospedar.
+17 Tendo nós chegado a Jerusalém, os irmãos nos receberam com alegria.
+18 No dia seguinte, Paulo foi conosco encontrar-se com Tiago, e todos os presbíteros se reuniram.
+19 E, tendo-os saudado, contou minuciosamente o que Deus fizera entre os gentios por seu ministério.
+20 Ouvindo-o, deram eles glória a Deus e lhe disseram: Bem vês, irmão, quantas dezenas de milhares há entre os judeus que creram, e todos são zelosos da lei;
+21 e foram informados a teu respeito que ensinas todos os judeus entre os gentios a apostatarem de Moisés, dizendo-lhes que não devem circuncidar os filhos, nem andar segundo os costumes da lei.
+22 Que se há de fazer, pois? Certamente saberão da tua chegada.
+23 Faze, portanto, o que te vamos dizer: estão entre nós quatro homens que, voluntariamente, aceitaram voto;
+24 toma-os, purifica-te com eles e faze a despesa necessária para que raspem a cabeça; e saberão todos que não é verdade o que se diz a teu respeito; e que, pelo contrário, andas também, tu mesmo, guardando a lei.
+25 Quanto aos gentios que creram, já lhes transmitimos decisões para que se abstenham das coisas sacrificadas a ídolos, do sangue, da carne de animais sufocados e das relações sexuais ilícitas.
+26 Então, Paulo, tomando aqueles homens, no dia seguinte, tendo-se purificado com eles, entrou no templo, acertando o cumprimento dos dias da purificação, até que se fizesse a oferta em favor de cada um deles.
+27 Quando já estavam por findar os sete dias, os judeus vindos da Ásia, tendo visto Paulo no templo, alvoroçaram todo o povo e o agarraram,
+28 gritando: Israelitas, socorro! Este é o homem que por toda parte ensina todos a serem contra o povo, contra a lei e contra este lugar; ainda mais, introduziu até gregos no templo e profanou este recinto sagrado.
+29 Pois, antes, tinham visto Trófimo, o efésio, em sua companhia na cidade e julgavam que Paulo o introduzira no templo.
+30 Agitou-se toda a cidade, havendo concorrência do povo; e, agarrando a Paulo, arrastaram-no para fora do templo, e imediatamente foram fechadas as portas.
+31 Procurando eles matá-lo, chegou ao conhecimento do comandante da força que toda a Jerusalém estava amotinada.
+32 Então, este, levando logo soldados e centuriões, correu para o meio do povo. Ao verem chegar o comandante e os soldados, cessaram de espancar Paulo.
+33 Aproximando-se o comandante, apoderou-se de Paulo e ordenou que fosse acorrentado com duas cadeias, perguntando quem era e o que havia feito.
+34 Na multidão, uns gritavam de um modo; outros, de outro; não podendo ele, porém, saber a verdade por causa do tumulto, ordenou que Paulo fosse recolhido à fortaleza.
+35 Ao chegar às escadas, foi preciso que os soldados o carregassem, por causa da violência da multidão,
+36 pois a massa de povo o seguia gritando: Mata-o!
+37 E, quando Paulo ia sendo recolhido à fortaleza, disse ao comandante: É-me permitido dizer-te alguma coisa? Respondeu ele: Sabes o grego?
+38 Não és tu, porventura, o egípcio que, há tempos, sublevou e conduziu ao deserto quatro mil sicários?
+39 Respondeu-lhe Paulo: Eu sou judeu, natural de Tarso, cidade não insignificante da Cilícia; e rogo-te que me permitas falar ao povo.
+40 Obtida a permissão, Paulo, em pé na escada, fez com a mão sinal ao povo. Fez-se grande silêncio, e ele falou em língua hebraica, dizendo:*
+1 Irmãos e pais, ouvi, agora, a minha defesa perante vós.
+2 Quando ouviram que lhes falava em língua hebraica, guardaram ainda maior silêncio. E continuou:
+3 Eu sou judeu, nasci em Tarso da Cilícia, mas criei-me nesta cidade e aqui fui instruído aos pés de Gamaliel, segundo a exatidão da lei de nossos antepassados, sendo zeloso para com Deus, assim como todos vós o sois no dia de hoje.
+4 Persegui este Caminho até à morte, prendendo e metendo em cárceres homens e mulheres,
+5 de que são testemunhas o sumo sacerdote e todos os anciãos. Destes, recebi cartas para os irmãos; e ia para Damasco, no propósito de trazer manietados para Jerusalém os que também lá estivessem, para serem punidos.
+6 Ora, aconteceu que, indo de caminho e já perto de Damasco, quase ao meio-dia, repentinamente, grande luz do céu brilhou ao redor de mim.
+7 Então, caí por terra, ouvindo uma voz que me dizia: Saulo, Saulo, por que me persegues?
+8 Perguntei: quem és tu, Senhor? Ao que me respondeu: Eu sou Jesus, o Nazareno, a quem tu persegues.
+9 Os que estavam comigo viram a luz, sem, contudo, perceberem o sentido da voz de quem falava comigo.
+10 Então, perguntei: que farei, Senhor? E o Senhor me disse: Levanta-te, entra em Damasco, pois ali te dirão acerca de tudo o que te é ordenado fazer.
+11 Tendo ficado cego por causa do fulgor daquela luz, guiado pela mão dos que estavam comigo, cheguei a Damasco.
+12 Um homem, chamado Ananias, piedoso conforme a lei, tendo bom testemunho de todos os judeus que ali moravam,
+13 veio procurar-me e, pondo-se junto a mim, disse: Saulo, irmão, recebe novamente a vista. Nessa mesma hora, recobrei a vista e olhei para ele.
+14 Então, ele disse: O Deus de nossos pais, de antemão, te escolheu para conheceres a sua vontade, veres o Justo e ouvires uma voz da sua própria boca,
+15 porque terás de ser sua testemunha diante de todos os homens, das coisas que tens visto e ouvido.
+16 E agora, por que te demoras? Levanta-te, recebe o batismo e lava os teus pecados, invocando o nome dele.
+17 Tendo eu voltado para Jerusalém, enquanto orava no templo, sobreveio-me um êxtase,
+18 e vi aquele que falava comigo: Apressa-te e sai logo de Jerusalém, porque não receberão o teu testemunho a meu respeito.
+19 Eu disse: Senhor, eles bem sabem que eu encerrava em prisão e, nas sinagogas, açoitava os que criam em ti.
+20 Quando se derramava o sangue de Estêvão, tua testemunha, eu também estava presente, consentia nisso e até guardei as vestes dos que o matavam.
+21 Mas ele me disse: Vai, porque eu te enviarei para longe, aos gentios.
+22 Ouviram-no até essa palavra e, então, gritaram, dizendo: Tira tal homem da terra, porque não convém que ele viva!
+23 Ora, estando eles gritando, arrojando de si as suas capas, atirando poeira para os ares,
+24 ordenou o comandante que Paulo fosse recolhido à fortaleza e que, sob açoite, fosse interrogado para saber por que motivo assim clamavam contra ele.
+25 Quando o estavam amarrando com correias, disse Paulo ao centurião presente: Ser-vos-á, porventura, lícito açoitar um cidadão romano, sem estar condenado?
+26 Ouvindo isto, o centurião procurou o comandante e lhe disse: Que estás para fazer? Porque este homem é cidadão romano.
+27 Vindo o comandante, perguntou a Paulo: Dize-me: és tu romano? Ele disse: Sou.
+28 Respondeu-lhe o comandante: A mim me custou grande soma de dinheiro este título de cidadão. Disse Paulo: Pois eu o tenho por direito de nascimento.
+29 Imediatamente, se afastaram os que estavam para o inquirir com açoites. O próprio comandante sentiu-se receoso quando soube que Paulo era romano, porque o mandara amarrar.
+30 No dia seguinte, querendo certificar-se dos motivos por que vinha ele sendo acusado pelos judeus, soltou-o, e ordenou que se reunissem os principais sacerdotes e todo o Sinédrio, e, mandando trazer Paulo, apresentou-o perante eles.*
+1 Fitando Paulo os olhos no Sinédrio, disse: Varões, irmãos, tenho andado diante de Deus com toda a boa consciência até ao dia de hoje.
+2 Mas o sumo sacerdote, Ananias, mandou aos que estavam perto dele que lhe batessem na boca.
+3 Então, lhe disse Paulo: Deus há de ferir-te, parede branqueada! Tu estás aí sentado para julgar-me segundo a lei e, contra a lei, mandas agredir-me?
+4 Os que estavam a seu lado disseram: Estás injuriando o sumo sacerdote de Deus?
+5 Respondeu Paulo: Não sabia, irmãos, que ele é sumo sacerdote; porque está escrito: Não falarás mal de uma autoridade do teu povo.
+6 Sabendo Paulo que uma parte do Sinédrio se compunha de saduceus e outra, de fariseus, exclamou: Varões, irmãos, eu sou fariseu, filho de fariseus! No tocante à esperança e à ressurreição dos mortos sou julgado!
+7 Ditas estas palavras, levantou-se grande dissensão entre fariseus e saduceus, e a multidão se dividiu.
+8 Pois os saduceus declaram não haver ressurreição, nem anjo, nem espírito; ao passo que os fariseus admitem todas essas coisas.
+9 Houve, pois, grande vozearia. E, levantando-se alguns escribas da parte dos fariseus, contendiam, dizendo: Não achamos neste homem mal algum; e será que algum espírito ou anjo lhe tenha falado?
+10 Tomando vulto a celeuma, temendo o comandante que fosse Paulo espedaçado por eles, mandou descer a guarda para que o retirassem dali e o levassem para a fortaleza.
+11 Na noite seguinte, o Senhor, pondo-se ao lado dele, disse: Coragem! Pois do modo por que deste testemunho a meu respeito em Jerusalém, assim importa que também o faças em Roma.
+12 Quando amanheceu, os judeus se reuniram e, sob anátema, juraram que não haviam de comer, nem beber, enquanto não matassem Paulo.
+13 Eram mais de quarenta os que entraram nesta conspirata.
+14 Estes, indo ter com os principais sacerdotes e os anciãos, disseram: Juramos, sob pena de anátema, não comer coisa alguma, enquanto não matarmos Paulo.
+15 Agora, pois, notificai ao comandante, juntamente com o Sinédrio, que vo-lo apresente como se estivésseis para investigar mais acuradamente a sua causa; e nós, antes que ele chegue, estaremos prontos para assassiná-lo.
+16 Mas o filho da irmã de Paulo, tendo ouvido a trama, foi, entrou na fortaleza e de tudo avisou a Paulo.
+17 Então, este, chamando um dos centuriões, disse: Leva este rapaz ao comandante, porque tem alguma coisa a comunicar-lhe.
+18 Tomando-o, pois, levou-o ao comandante, dizendo: O preso Paulo, chamando-me, pediu-me que trouxesse à tua presença este rapaz, pois tem algo que dizer-te.
+19 Tomou-o pela mão o comandante e, pondo-se à parte, perguntou-lhe: Que tens a comunicar-me?
+20 Respondeu ele: Os judeus decidiram rogar-te que, amanhã, apresentes Paulo ao Sinédrio, como se houvesse de inquirir mais acuradamente a seu respeito.
+21 Tu, pois, não te deixes persuadir, porque mais de quarenta entre eles estão pactuados entre si, sob anátema, de não comer, nem beber, enquanto não o matarem; e, agora, estão prontos, esperando a tua promessa.
+22 Então, o comandante despediu o rapaz, recomendando-lhe que a ninguém dissesse ter-lhe trazido estas informações.
+23 Chamando dois centuriões, ordenou: Tende de prontidão, desde a hora terceira da noite, duzentos soldados, setenta de cavalaria e duzentos lanceiros para irem até Cesareia;
+24 preparai também animais para fazer Paulo montar e ir com segurança ao governador Félix.
+25 E o comandante escreveu uma carta nestes termos:
+26 Cláudio Lísias ao excelentíssimo governador Félix, saúde.
+27 Este homem foi preso pelos judeus e estava prestes a ser morto por eles, quando eu, sobrevindo com a guarda, o livrei, por saber que ele era romano.
+28 Querendo certificar-me do motivo por que o acusavam, fi-lo descer ao Sinédrio deles;
+29 verifiquei ser ele acusado de coisas referentes à lei que os rege, nada, porém, que justificasse morte ou mesmo prisão.
+30 Sendo eu informado de que ia haver uma cilada contra o homem, tratei de enviá-lo a ti, sem demora, intimando também os acusadores a irem dizer, na tua presença, o que há contra ele. [Saúde.]
+31 Os soldados, pois, conforme lhes foi ordenado, tomaram Paulo e, durante a noite, o conduziram até Antipátride;
+32 no dia seguinte, voltaram para a fortaleza, tendo deixado aos de cavalaria o irem com ele;
+33 os quais, chegando a Cesareia, entregaram a carta ao governador e também lhe apresentaram Paulo.
+34 Lida a carta, perguntou o governador de que província ele era; e, quando soube que era da Cilícia,
+35 disse: Ouvir-te-ei quando chegarem os teus acusadores. E mandou que ele fosse detido no pretório de Herodes.*
+1 Cinco dias depois, desceu o sumo sacerdote, Ananias, com alguns anciãos e com certo orador, chamado Tértulo, os quais apresentaram ao governador libelo contra Paulo.
+2 Sendo este chamado, passou Tértulo a acusá-lo, dizendo: Excelentíssimo Félix, tendo nós, por teu intermédio, gozado de paz perene, e, também por teu providente cuidado, se terem feito notáveis reformas em benefício deste povo,
+3 sempre e por toda parte, isto reconhecemos com toda a gratidão.
+4 Entretanto, para não te deter por longo tempo, rogo-te que, de conformidade com a tua clemência, nos atendas por um pouco.
+5 Porque, tendo nós verificado que este homem é uma peste e promove sedições entre os judeus esparsos por todo o mundo, sendo também o principal agitador da seita dos nazarenos,
+6 o qual também tentou profanar o templo, nós o prendemos [com o intuito de julgá-lo segundo a nossa lei.
+7 Mas, sobrevindo o comandante Lísias, o arrebatou das nossas mãos com grande violência,
+8 ordenando que os seus acusadores viessem à tua presença]. Tu mesmo, examinando-o, poderás tomar conhecimento de todas as coisas de que nós o acusamos.
+9 Os judeus também concordaram na acusação, afirmando que estas coisas eram assim.
+10 Paulo, tendo-lhe o governador feito sinal que falasse, respondeu: Sabendo que há muitos anos és juiz desta nação, sinto-me à vontade para me defender,
+11 visto poderes verificar que não há mais de doze dias desde que subi a Jerusalém para adorar;
+12 e que não me acharam no templo discutindo com alguém, nem tampouco amotinando o povo, fosse nas sinagogas ou na cidade;
+13 nem te podem provar as acusações que, agora, fazem contra mim.
+14 Porém confesso-te que, segundo o Caminho, a que chamam seita, assim eu sirvo ao Deus de nossos pais, acreditando em todas as coisas que estejam de acordo com a lei e nos escritos dos profetas,
+15 tendo esperança em Deus, como também estes a têm, de que haverá ressurreição, tanto de justos como de injustos.
+16 Por isso, também me esforço por ter sempre consciência pura diante de Deus e dos homens.
+17 Depois de anos, vim trazer esmolas à minha nação e também fazer oferendas,
+18 e foi nesta prática que alguns judeus da Ásia me encontraram já purificado no templo, sem ajuntamento e sem tumulto,
+19 os quais deviam comparecer diante de ti e acusar, se tivessem alguma coisa contra mim.
+20 Ou estes mesmos digam que iniquidade acharam em mim, por ocasião do meu comparecimento perante o Sinédrio,
+21 salvo estas palavras que clamei, estando entre eles: hoje, sou eu julgado por vós acerca da ressurreição dos mortos.
+22 Então, Félix, conhecendo mais acuradamente as coisas com respeito ao Caminho, adiou a causa, dizendo: Quando descer o comandante Lísias, tomarei inteiro conhecimento do vosso caso.
+23 E mandou ao centurião que conservasse a Paulo detido, tratando-o com indulgência e não impedindo que os seus próprios o servissem.
+24 Passados alguns dias, vindo Félix com Drusila, sua mulher, que era judia, mandou chamar Paulo e passou a ouvi-lo a respeito da fé em Cristo Jesus.
+25 Dissertando ele acerca da justiça, do domínio próprio e do Juízo vindouro, ficou Félix amedrontado e disse: Por agora, podes retirar-te, e, quando eu tiver vagar, chamar-te-ei;
+26 esperando também, ao mesmo tempo, que Paulo lhe desse dinheiro; pelo que, chamando-o mais frequentemente, conversava com ele.
+27 Dois anos mais tarde, Félix teve por sucessor Pórcio Festo; e, querendo Félix assegurar o apoio dos judeus, manteve Paulo encarcerado.*
+1 Tendo, pois, Festo assumido o governo da província, três dias depois, subiu de Cesareia para Jerusalém;
+2 e, logo, os principais sacerdotes e os maiorais dos judeus lhe apresentaram queixa contra Paulo e lhe solicitavam,
+3 pedindo como favor, em detrimento de Paulo, que o mandasse vir a Jerusalém, armando eles cilada para o matarem na estrada.
+4 Festo, porém, respondeu achar-se Paulo detido em Cesareia; e que ele mesmo, muito em breve, partiria para lá.
+5 Portanto, disse ele, os que dentre vós estiverem habilitados que desçam comigo; e, havendo contra este homem qualquer crime, acusem-no.
+6 E, não se demorando entre eles mais de oito ou dez dias, desceu para Cesareia; e, no dia seguinte, assentando-se no tribunal, ordenou que Paulo fosse trazido.
+7 Comparecendo este, rodearam-no os judeus que haviam descido de Jerusalém, trazendo muitas e graves acusações contra ele, as quais, entretanto, não podiam provar.
+8 Paulo, porém, defendendo-se, proferiu as seguintes palavras: Nenhum pecado cometi contra a lei dos judeus, nem contra o templo, nem contra César.
+9 Então, Festo, querendo assegurar o apoio dos judeus, respondeu a Paulo: Queres tu subir a Jerusalém e ser ali julgado por mim a respeito destas coisas?
+10 Disse-lhe Paulo: Estou perante o tribunal de César, onde convém seja eu julgado; nenhum agravo pratiquei contra os judeus, como tu muito bem sabes.
+11 Caso, pois, tenha eu praticado algum mal ou crime digno de morte, estou pronto para morrer; se, pelo contrário, não são verdadeiras as coisas de que me acusam, ninguém, para lhes ser agradável, pode entregar-me a eles. Apelo para César.
+12 Então, Festo, tendo falado com o conselho, respondeu: Para César apelaste, para César irás.
+13 Passados alguns dias, o rei Agripa e Berenice chegaram a Cesareia a fim de saudar a Festo.
+14 Como se demorassem ali alguns dias, Festo expôs ao rei o caso de Paulo, dizendo: Félix deixou aqui preso certo homem,
+15 a respeito de quem os principais sacerdotes e os anciãos dos judeus apresentaram queixa, estando eu em Jerusalém, pedindo que o condenasse.
+16 A eles respondi que não é costume dos romanos condenar quem quer que seja, sem que o acusado tenha presentes os seus acusadores e possa defender-se da acusação.
+17 De sorte que, chegando eles aqui juntos, sem nenhuma demora, no dia seguinte, assentando-me no tribunal, determinei fosse trazido o homem;
+18 e, levantando-se os acusadores, nenhum delito referiram dos crimes de que eu suspeitava.
+19 Traziam contra ele algumas questões referentes à sua própria religião e particularmente a certo morto, chamado Jesus, que Paulo afirmava estar vivo.
+20 Estando eu perplexo quanto ao modo de investigar estas coisas, perguntei-lhe se queria ir a Jerusalém para ser ali julgado a respeito disso.
+21 Mas, havendo Paulo apelado para que ficasse em custódia para o julgamento de César, ordenei que o acusado continuasse detido até que eu o enviasse a César.
+22 Então, Agripa disse a Festo: Eu também gostaria de ouvir este homem. Amanhã, respondeu ele, o ouvirás.
+23 De fato, no dia seguinte, vindo Agripa e Berenice, com grande pompa, tendo eles entrado na audiência juntamente com oficiais superiores e homens eminentes da cidade, Paulo foi trazido por ordem de Festo.
+24 Então, disse Festo: Rei Agripa e todos vós que estais presentes conosco, vedes este homem, por causa de quem toda a multidão dos judeus recorreu a mim tanto em Jerusalém como aqui, clamando que não convinha que ele vivesse mais.
+25 Porém eu achei que ele nada praticara passível de morte; entretanto, tendo ele apelado para o imperador, resolvi mandá-lo ao imperador.
+26 Contudo, a respeito dele, nada tenho de positivo que escreva ao soberano; por isso, eu o trouxe à vossa presença e, mormente, à tua, ó rei Agripa, para que, feita a arguição, tenha eu alguma coisa que escrever;
+27 porque não me parece razoável remeter um preso sem mencionar, ao mesmo tempo, as acusações que militam contra ele.*
+1 A seguir, Agripa, dirigindo-se a Paulo, disse: É permitido que uses da palavra em tua defesa. Então, Paulo, estendendo a mão, passou a defender-se nestes termos:
+2 Tenho-me por feliz, ó rei Agripa, pelo privilégio de, hoje, na tua presença, poder produzir a minha defesa de todas as acusações feitas contra mim pelos judeus;
+3 mormente porque és versado em todos os costumes e questões que há entre os judeus; por isso, eu te peço que me ouças com paciência.
+4 Quanto à minha vida, desde a mocidade, como decorreu desde o princípio entre o meu povo e em Jerusalém, todos os judeus a conhecem;
+5 pois, na verdade, eu era conhecido deles desde o princípio, se assim o quiserem testemunhar, porque vivi fariseu conforme a seita mais severa da nossa religião.
+6 E, agora, estou sendo julgado por causa da esperança da promessa que por Deus foi feita a nossos pais,
+7 a qual as nossas doze tribos, servindo a Deus fervorosamente de noite e de dia, almejam alcançar; é no tocante a esta esperança, ó rei, que eu sou acusado pelos judeus.
+8 Por que se julga incrível entre vós que Deus ressuscite os mortos?
+9 Na verdade, a mim me parecia que muitas coisas devia eu praticar contra o nome de Jesus, o Nazareno;
+10 e assim procedi em Jerusalém. Havendo eu recebido autorização dos principais sacerdotes, encerrei muitos dos santos nas prisões; e contra estes dava o meu voto, quando os matavam.
+11 Muitas vezes, os castiguei por todas as sinagogas, obrigando-os até a blasfemar. E, demasiadamente enfurecido contra eles, mesmo por cidades estranhas os perseguia.
+12 Com estes intuitos, parti para Damasco, levando autorização dos principais sacerdotes e por eles comissionado.
+13 Ao meio-dia, ó rei, indo eu caminho fora, vi uma luz no céu, mais resplandecente que o sol, que brilhou ao redor de mim e dos que iam comigo.
+14 E, caindo todos nós por terra, ouvi uma voz que me falava em língua hebraica: Saulo, Saulo, por que me persegues? Dura coisa é recalcitrares contra os aguilhões.
+15 Então, eu perguntei: Quem és tu, Senhor? Ao que o Senhor respondeu: Eu sou Jesus, a quem tu persegues.
+16 Mas levanta-te e firma-te sobre teus pés, porque por isto te apareci, para te constituir ministro e testemunha, tanto das coisas em que me viste como daquelas pelas quais te aparecerei ainda,
+17 livrando-te do povo e dos gentios, para os quais eu te envio,
+18 para lhes abrires os olhos e os converteres das trevas para a luz e da potestade de Satanás para Deus, a fim de que recebam eles remissão de pecados e herança entre os que são santificados pela fé em mim.
+19 Pelo que, ó rei Agripa, não fui desobediente à visão celestial,
+20 mas anunciei primeiramente aos de Damasco e em Jerusalém, por toda a região da Judeia, e aos gentios, que se arrependessem e se convertessem a Deus, praticando obras dignas de arrependimento.
+21 Por causa disto, alguns judeus me prenderam, estando eu no templo, e tentaram matar-me.
+22 Mas, alcançando socorro de Deus, permaneço até ao dia de hoje, dando testemunho, tanto a pequenos como a grandes, nada dizendo, senão o que os profetas e Moisés disseram haver de acontecer,
+23 isto é, que o Cristo devia padecer e, sendo o primeiro da ressurreição dos mortos, anunciaria a luz ao povo e aos gentios.
+24 Dizendo ele estas coisas em sua defesa, Festo o interrompeu em alta voz: Estás louco, Paulo! As muitas letras te fazem delirar!
+25 Paulo, porém, respondeu: Não estou louco, ó excelentíssimo Festo! Pelo contrário, digo palavras de verdade e de bom senso.
+26 Porque tudo isto é do conhecimento do rei, a quem me dirijo com franqueza, pois estou persuadido de que nenhuma destas coisas lhe é oculta; porquanto nada se passou em algum lugar escondido.
+27 Acreditas, ó rei Agripa, nos profetas? Bem sei que acreditas.
+28 Então, Agripa se dirigiu a Paulo e disse: Por pouco me persuades a me fazer cristão.
+29 Paulo respondeu: Assim Deus permitisse que, por pouco ou por muito, não apenas tu, ó rei, porém todos os que hoje me ouvem se tornassem tais qual eu sou, exceto estas cadeias.
+30 A essa altura, levantou-se o rei, e também o governador, e Berenice, bem como os que estavam assentados com eles;
+31 e, havendo-se retirado, falavam uns com os outros, dizendo: Este homem nada tem feito passível de morte ou de prisão.
+32 Então, Agripa se dirigiu a Festo e disse: Este homem bem podia ser solto, se não tivesse apelado para César.*
+1 Quando foi decidido que navegássemos para a Itália, entregaram Paulo e alguns outros presos a um centurião chamado Júlio, da Coorte Imperial.
+2 Embarcando num navio adramitino, que estava de partida para costear a Ásia, fizemo-nos ao mar, indo conosco Aristarco, macedônio de Tessalônica.
+3 No dia seguinte, chegamos a Sidom, e Júlio, tratando Paulo com humanidade, permitiu-lhe ir ver os amigos e obter assistência.
+4 Partindo dali, navegamos sob a proteção de Chipre, por serem contrários os ventos;
+5 e, tendo atravessado o mar ao longo da Cilícia e Panfília, chegamos a Mirra, na Lícia.
+6 Achando ali o centurião um navio de Alexandria, que estava de partida para a Itália, nele nos fez embarcar.
+7 Navegando vagarosamente muitos dias e tendo chegado com dificuldade defronte de Cnido, não nos sendo permitido prosseguir, por causa do vento contrário, navegamos sob a proteção de Creta, na altura de Salmona.
+8 Costeando-a, penosamente, chegamos a um lugar chamado Bons Portos, perto do qual estava a cidade de Laseia.
+9 Depois de muito tempo, tendo-se tornado a navegação perigosa, e já passado o tempo do Dia do Jejum, admoestava-os Paulo,
+10 dizendo-lhes: Senhores, vejo que a viagem vai ser trabalhosa, com dano e muito prejuízo, não só da carga e do navio, mas também da nossa vida.
+11 Mas o centurião dava mais crédito ao piloto e ao mestre do navio do que ao que Paulo dizia.
+12 Não sendo o porto próprio para invernar, a maioria deles era de opinião que partissem dali, para ver se podiam chegar a Fenice e aí passar o inverno, visto ser um porto de Creta, o qual olhava para o nordeste e para o sudeste.
+13 Soprando brandamente o vento sul, e pensando eles ter alcançado o que desejavam, levantaram âncora e foram costeando mais de perto a ilha de Creta.
+14 Entretanto, não muito depois, desencadeou-se, do lado da ilha, um tufão de vento, chamado Euroaquilão;
+15 e, sendo o navio arrastado com violência, sem poder resistir ao vento, cessamos a manobra e nos fomos deixando levar.
+16 Passando sob a proteção de uma ilhota chamada Cauda, a custo conseguimos recolher o bote;
+17 e, levantando este, usaram de todos os meios para cingir o navio, e, temendo que dessem na Sirte, arriaram os aparelhos, e foram ao léu.
+18 Açoitados severamente pela tormenta, no dia seguinte, já aliviavam o navio.
+19 E, ao terceiro dia, nós mesmos, com as próprias mãos, lançamos ao mar a armação do navio.
+20 E, não aparecendo, havia já alguns dias, nem sol nem estrelas, caindo sobre nós grande tempestade, dissipou-se, afinal, toda a esperança de salvamento.
+21 Havendo todos estado muito tempo sem comer, Paulo, pondo-se em pé no meio deles, disse: Senhores, na verdade, era preciso terem-me atendido e não partir de Creta, para evitar este dano e perda.
+22 Mas, já agora, vos aconselho bom ânimo, porque nenhuma vida se perderá de entre vós, mas somente o navio.
+23 Porque, esta mesma noite, um anjo de Deus, de quem eu sou e a quem sirvo, esteve comigo,
+24 dizendo: Paulo, não temas! É preciso que compareças perante César, e eis que Deus, por sua graça, te deu todos quantos navegam contigo.
+25 Portanto, senhores, tende bom ânimo! Pois eu confio em Deus que sucederá do modo por que me foi dito.
+26 Porém é necessário que vamos dar a uma ilha.
+
+27 Quando chegou a décima quarta noite, sendo nós batidos de um lado para outro no mar Adriático, por volta da meia-noite, pressentiram os marinheiros que se aproximavam de alguma terra.
+28 E, lançando o prumo, acharam vinte braças; passando um pouco mais adiante, tornando a lançar o prumo, acharam quinze braças.
+29 E, receosos de que fôssemos atirados contra lugares rochosos, lançaram da popa quatro âncoras e oravam para que rompesse o dia.
+30 Procurando os marinheiros fugir do navio, e, tendo arriado o bote no mar, a pretexto de que estavam para largar âncoras da proa,
+31 disse Paulo ao centurião e aos soldados: Se estes não permanecerem a bordo, vós não podereis salvar-vos.
+32 Então, os soldados cortaram os cabos do bote e o deixaram afastar-se.
+33 Enquanto amanhecia, Paulo rogava a todos que se alimentassem, dizendo: Hoje, é o décimo quarto dia em que, esperando, estais sem comer, nada tendo provado.
+34 Eu vos rogo que comais alguma coisa; porque disto depende a vossa segurança; pois nenhum de vós perderá nem mesmo um fio de cabelo.
+35 Tendo dito isto, tomando um pão, deu graças a Deus na presença de todos e, depois de o partir, começou a comer.
+36 Todos cobraram ânimo e se puseram também a comer.
+37 Estávamos no navio duzentas e setenta e seis pessoas ao todo.
+38 Refeitos com a comida, aliviaram o navio, lançando o trigo ao mar.
+39 Quando amanheceu, não reconheceram a terra, mas avistaram uma enseada, onde havia praia; então, consultaram entre si se não podiam encalhar ali o navio.
+40 Levantando as âncoras, deixaram-no ir ao mar, largando também as amarras do leme; e, alçando a vela de proa ao vento, dirigiram-se para a praia.
+41 Dando, porém, num lugar onde duas correntes se encontravam, encalharam ali o navio; a proa encravou-se e ficou imóvel, mas a popa se abria pela violência do mar.
+42 O parecer dos soldados era que matassem os presos, para que nenhum deles, nadando, fugisse;
+43 mas o centurião, querendo salvar a Paulo, impediu-os de o fazer; e ordenou que os que soubessem nadar fossem os primeiros a lançar-se ao mar e alcançar a terra.
+44 Quanto aos demais, que se salvassem, uns, em tábuas, e outros, em destroços do navio. E foi assim que todos se salvaram em terra.*
+1 Uma vez em terra, verificamos que a ilha se chamava Malta.
+2 Os bárbaros trataram-nos com singular humanidade, porque, acendendo uma fogueira, acolheram-nos a todos por causa da chuva que caía e por causa do frio.
+3 Tendo Paulo ajuntado e atirado à fogueira um feixe de gravetos, uma víbora, fugindo do calor, prendeu-se-lhe à mão.
+4 Quando os bárbaros viram a víbora pendente da mão dele, disseram uns aos outros: Certamente, este homem é assassino, porque, salvo do mar, a Justiça não o deixa viver.
+5 Porém ele, sacudindo o réptil no fogo, não sofreu mal nenhum;
+6 mas eles esperavam que ele viesse a inchar ou a cair morto de repente. Mas, depois de muito esperar, vendo que nenhum mal lhe sucedia, mudando de parecer, diziam ser ele um deus.
+7 Perto daquele lugar, havia um sítio pertencente ao homem principal da ilha, chamado Públio, o qual nos recebeu e hospedou benignamente por três dias.
+8 Aconteceu achar-se enfermo de disenteria, ardendo em febre, o pai de Públio. Paulo foi visitá-lo, e, orando, impôs-lhe as mãos, e o curou.
+9 À vista deste acontecimento, os demais enfermos da ilha vieram e foram curados,
+10 os quais nos distinguiram com muitas honrarias; e, tendo nós de prosseguir viagem, nos puseram a bordo tudo o que era necessário.
+11 Ao cabo de três meses, embarcamos num navio alexandrino, que invernara na ilha e tinha por emblema Dióscuros.
+12 Tocando em Siracusa, ficamos ali três dias,
+13 donde, bordejando, chegamos a Régio. No dia seguinte, tendo soprado vento sul, em dois dias, chegamos a Putéoli,
+14 onde achamos alguns irmãos que nos rogaram ficássemos com eles sete dias; e foi assim que nos dirigimos a Roma.
+15 Tendo ali os irmãos ouvido notícias nossas, vieram ao nosso encontro até à Praça de Ápio e às Três Vendas. Vendo-os Paulo e dando, por isso, graças a Deus, sentiu-se mais animado.
+16 Uma vez em Roma, foi permitido a Paulo morar por sua conta, tendo em sua companhia o soldado que o guardava.
+17 Três dias depois, ele convocou os principais dos judeus e, quando se reuniram, lhes disse: Varões irmãos, nada havendo feito contra o povo ou contra os costumes paternos, contudo, vim preso desde Jerusalém, entregue nas mãos dos romanos;
+18 os quais, havendo-me interrogado, quiseram soltar-me sob a preliminar de não haver em mim nenhum crime passível de morte.
+19 Diante da oposição dos judeus, senti-me compelido a apelar para César, não tendo eu, porém, nada de que acusar minha nação.
+20 Foi por isto que vos chamei para vos ver e falar; porque é pela esperança de Israel que estou preso com esta cadeia.
+21 Então, eles lhe disseram: Nós não recebemos da Judeia nenhuma carta que te dissesse respeito; também não veio qualquer dos irmãos que nos anunciasse ou dissesse de ti mal algum.
+22 Contudo, gostaríamos de ouvir o que pensas; porque, na verdade, é corrente a respeito desta seita que, por toda parte, é ela impugnada.
+23 Havendo-lhe eles marcado um dia, vieram em grande número ao encontro de Paulo na sua própria residência. Então, desde a manhã até à tarde, lhes fez uma exposição em testemunho do reino de Deus, procurando persuadi-los a respeito de Jesus, tanto pela lei de Moisés como pelos profetas.
+24 Houve alguns que ficaram persuadidos pelo que ele dizia; outros, porém, continuaram incrédulos.
+25 E, havendo discordância entre eles, despediram-se, dizendo Paulo estas palavras: Bem falou o Espírito Santo a vossos pais, por intermédio do profeta Isaías, quando disse:
+26 Vai a este povo e dize-lhe: De ouvido, ouvireis e não entendereis; vendo, vereis e não percebereis.
+27 Porquanto o coração deste povo se tornou endurecido; com os ouvidos ouviram tardiamente e fecharam os olhos, para que jamais vejam com os olhos, nem ouçam com os ouvidos, para que não entendam com o coração, e se convertam, e por mim sejam curados.
+28 Tomai, pois, conhecimento de que esta salvação de Deus foi enviada aos gentios. E eles a ouvirão.
+29 [Ditas estas palavras, partiram os judeus, tendo entre si grande contenda.]
+30 Por dois anos, permaneceu Paulo na sua própria casa, que alugara, onde recebia todos que o procuravam,
+31 pregando o reino de Deus, e, com toda a intrepidez, sem impedimento algum, ensinava as coisas referentes ao Senhor Jesus Cristo.
 """
 # Example input text
 
 # Parse the verses
-parsed_verses = parse_verses(text,'Lucas','1')
+parsed_verses = parse_verses(text,'Atos','1')
 #print(parsed_verses)
 with open('textzin', 'w', encoding='utf-8') as f:
     f.write(parsed_verses)
