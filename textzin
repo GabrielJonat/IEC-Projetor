@@ -400,3 +400,341 @@ Apocalipse 22:18  Eu, a todo aquele que ouve as palavras da profecia deste livro
 Apocalipse 22:19  e, se alguém tirar qualquer coisa das palavras do livro desta profecia, Deus tirará a sua parte da árvore da vida, da cidade santa e das coisas que se acham escritas neste livro.
 Apocalipse 22:20  Aquele que dá testemunho destas coisas diz: Certamente, venho sem demora. Amém! Vem, Senhor Jesus!
 Apocalipse 22:21  A graça do Senhor Jesus seja com todos.
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IEC Projetor</title>
+    <link rel="shortcut icon" href="./img/cruz.png" type="image/x-icon">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            text-align: center;
+            background-image: url('./img/bg.jpg');
+            background-size: cover;
+            background-position: center;
+            overflow: hidden; /* Initially hide scrollbars */
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 20px;
+            
+        }
+        #modalContainer {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-top: 20px;
+            font-size: 33px;
+            text-align: left;
+            
+        }
+        form {
+            border-radius: 8px;
+            box-shadow: 0 0 2.3px #fff;
+            padding: 20px;
+            margin-right: 2%;
+            margin-left: 24%;
+            margin-bottom: 7em;
+            width: 300px;
+            background: rgba(255, 255, 255, 0.8);
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            font-weight: bold;
+            color: #e8e8f0;
+            margin-bottom: 0.5em;
+        }
+        select, input[type="text"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            border: 1px solid #2f2c79;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #2980b9;
+            color: rgba(238, 255, 0, 0.911);
+            border: #675cb0 0.1em solid;
+            padding: 10px 20px;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-top: 1em;
+        }
+        button:hover {
+            background-color: darkblue;
+        }
+        .history-card {
+            background-color: gray;
+            color: #e8e8f0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-right: 0;
+            width: 300px;
+            max-height: 600px;
+            overflow-y: auto;
+            position: relative;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .history-card h2 {
+            margin-top: 0;
+        }
+        .delete-btn {
+            background-color: rgb(176, 39, 39);
+            width: 80px;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 5px 10px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-left: 10px;
+        }
+        .delete-btn:hover {
+            background-color: darkred;
+        }
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url(./img/bg.jpgs);
+            padding-bottom: 100px;
+            overflow: hidden;
+        }
+        .modal-content {
+            background: linear-gradient(180deg, #171a4a, #2f2c79, #675cb0, #9f90ea);
+            margin: 5% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%; /* Could be more or less, depending on screen size */
+            max-height: 80vh; /* Limit height */
+            overflow-y: auto; /* Add scroll if content exceeds max-height */
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .gradient-text {
+            font-weight: bold;
+            background: linear-gradient(180deg, #ffff00, yellow, rgba(238, 255, 0, 0.911));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 3em;
+            margin-top: 1em;
+        }
+        .gradient-bg {
+            background: linear-gradient(180deg, #171a4a, #2f2c79, #675cb0, #9f90ea);
+        }
+        footer {
+            position: relative;
+            bottom: 0;
+            font-size: large;
+            width: 100%;
+            text-align: center;
+            font-weight: bold;
+            padding: 20px;
+            background-color: gray;
+            margin-top: 2em;
+            height: 300px;
+        }
+        body.modal-open {
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="gradient-text">Bíblia ARA</h1>
+    <div class="container">
+        <form id="verseForm" class="gradient-bg">
+            <label for="book">Livro:</label>
+            <select id="book" name="book" required>
+                <!-- Options will be populated by JavaScript -->
+            </select>
+            <br>
+            <label for="chapter">Capítulo:</label>
+            <input type="text" id="chapter" name="chapter" placeholder="Digite o número do capítulo" required>
+            <br>
+            <label for="startVerse">Verso Inicial:</label>
+            <input type="text" id="startVerse" name="startVerse" placeholder="Verso Inicial" required>
+            <br>
+            <label for="endVerse">Verso Final:</label>
+            <input type="text" id="endVerse" name="endVerse" placeholder="Verso Final" required>
+            <br>
+            <button type="submit">Pesquisar</button>
+            <button type="button" id="saveQuery">Salvar Consulta</button>
+        </form>
+        <div class="history-card">
+            <h2>Histórico de Consultas</h2>
+            <ul id="historyList"></ul>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2023 Igreja do Evangelho da Cruz. Todos os direitos reservados</p>
+    </footer>
+    <script>
+        const books = [
+            'Gênesis', 'Êxodo', 'Levítico', 'Números', 'Deuteronômio',
+            'Josué', 'Juízes', 'Rute', '1_Samuel', '2_Samuel',
+            '1_Reis', '2_Reis', '1_Crônicas', '2_Crônicas', 'Esdras',
+            'Neemias', 'Ester', 'Jó', 'Salmos', 'Provérbios',
+            'Eclesiastes', 'Cântico', 'Isaías', 'Jeremias', 'Lamentações',
+            'Ezequiel', 'Daniel', 'Oséias', 'Joel', 'Amós',
+            'Obadias', 'Jonas', 'Miquéias', 'Naum', 'Habacuque',
+            'Sofonias', 'Ageu', 'Zacarias', 'Malaquias',
+            'Mateus', 'Marcos', 'Lucas', 'João', 'Atos',
+            'Romanos', '1_Coríntios', '2_Coríntios', 'Gálatas', 'Efésios',
+            'Filipenses', 'Colossenses', '1_Tessalonicences', '2_Tessalonicences', '1_Timóteo',
+            '2_Timóteo', 'Tito', 'Filemon', 'Hebreus', 'Tiago',
+            '1_Pedro', '2_Pedro', '1_João', '2_João', '3_João',
+            'Judas', 'Apocalipse', 'Rute', '1_Samuel', '2_Samuel',
+            // Outros livros
+        ];
+
+        // Preencher o dropdown de livros
+        const bookSelect = document.getElementById('book');
+        books.forEach(book => {
+            const option = document.createElement('option');
+            option.value = book;
+            option.textContent = book;
+            bookSelect.appendChild(option);
+        });
+
+        // Buscar e exibir texto
+        document.getElementById('verseForm').addEventListener('submit', async function(event) {
+            event.preventDefault(); // Evita o envio padrão do formulário
+
+            const book = document.getElementById('book').value.trim();
+            const chapter = document.getElementById('chapter').value.trim();
+            const startVerse = parseInt(document.getElementById('startVerse').value.trim(), 10);
+            const endVerse = parseInt(document.getElementById('endVerse').value.trim(), 10);
+
+            try {
+                const response = await fetch('./bible_ara.json');
+                const bibleData = await response.json();
+
+                const normalizedBook = normalizeBookName(book);
+                let versesHtml = `<h2>${normalizedBook} ${chapter}</h2>`;
+
+                if (bibleData.books[normalizedBook] && bibleData.books[normalizedBook][chapter]) {
+                    for (let i = startVerse; i <= endVerse; i++) {
+                        const verseText = bibleData.books[normalizedBook][chapter][i];
+                        if (verseText) {
+                            versesHtml += `<p><strong>${chapter}:${i}</strong><br>${verseText}</p>`;
+                        } else {
+                            versesHtml += `<p><strong>${chapter}:${i}</strong><br>Verso não encontrado.</p>`;
+                        }
+                    }
+                } else {
+                    versesHtml = 'Capítulo não encontrado.';
+                }
+
+                // Armazenar o texto dos versos no localStorage para exibir em outra página
+                localStorage.setItem('bibleVerses', versesHtml);
+                window.location.href = 'textViewer.html'; // Redireciona para a página que exibirá o texto
+            } catch (error) {
+                console.error('Erro ao carregar os versos:', error);
+            }
+        });
+
+        function normalizeBookName(book) {
+            const bookNames = {
+                'Genesis': 'Gênesis',
+                'Exodus': 'Êxodo',
+                'Leviticus': 'Levítico',
+                // Outros nomes normalizados
+            };
+            return bookNames[book] || book;
+        }
+
+         // Adicionar a funcionalidade de salvar a consulta
+         document.getElementById('saveQuery').addEventListener('click', function() {
+            const book = document.getElementById('book').value.trim();
+            const chapter = document.getElementById('chapter').value.trim();
+            const startVerse = document.getElementById('startVerse').value.trim();
+            const endVerse = document.getElementById('endVerse').value.trim();
+
+            if (!book || !chapter || !startVerse || !endVerse) {
+                alert('Todos os campos devem ser preenchidos antes de salvar a consulta.');
+                return;
+            }
+
+            // Cria um objeto para armazenar a consulta
+            const query = { book, chapter, startVerse, endVerse };
+
+            // Obtém o histórico atual do localStorage
+            let history = JSON.parse(localStorage.getItem('searchHistory')) || [];
+
+            // Adiciona a nova consulta ao histórico
+            history.push(query);
+
+            // Salva o histórico atualizado no localStorage
+            localStorage.setItem('searchHistory', JSON.stringify(history));
+
+            // Atualiza a lista de histórico
+            loadHistory();
+        });
+
+        // Função para carregar o histórico de consultas
+        function loadHistory() {
+            const historyList = document.getElementById('historyList');
+            historyList.innerHTML = '';
+
+            let history = JSON.parse(localStorage.getItem('searchHistory')) || [];
+
+            history.forEach((query, index) => {
+                const li = document.createElement('li');
+                li.innerHTML = `<span style="color: greenyellow">${query.book} ${query.chapter}:${query.startVerse}-${query.endVerse}</span>
+                    <button class="delete-btn" onclick="deleteQuery(${index})"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
+  <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5M8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5m3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0"/>
+</svg></button>`;
+                historyList.appendChild(li);
+                li.addEventListener('click', () => {
+                    document.getElementById('book').value = query.book;
+                    document.getElementById('chapter').value = query.chapter;
+                    document.getElementById('startVerse').value = query.startVerse;
+                    document.getElementById('endVerse').value = query.endVerse;
+                });
+            });
+        }
+
+        // Função para excluir uma consulta do histórico
+        function deleteQuery(index) {
+            let history = JSON.parse(localStorage.getItem('searchHistory')) || [];
+            history.splice(index, 1); // Remove a consulta do histórico
+            localStorage.setItem('searchHistory', JSON.stringify(history)); // Atualiza o localStorage
+            loadHistory(); // Atualiza a lista de histórico
+        }
+
+        // Carregar o histórico quando a página é carregada
+        loadHistory();
+    </script>
+</body>
+</html>

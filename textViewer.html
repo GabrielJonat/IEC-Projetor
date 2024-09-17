@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IEC Projetor</title>
+    <link rel="shortcut icon" href="/img/cruz.png" type="image/x-icon">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        .verse-container {
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 40px;
+            text-align: left;
+        }
+
+        h2{
+            font-weight: bold;
+            text-align: center;
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="verse-container" id="verses"></div>
+
+    <script>
+        // Recuperar o conteúdo armazenado e exibir no novo documento
+        const verses = localStorage.getItem('bibleVerses');
+        if (verses) {
+            document.getElementById('verses').innerHTML = verses;
+        } else {
+            document.getElementById('verses').innerHTML = 'Nenhum conteúdo para exibir.';
+        }
+    </script>
+</body>
+</html>
